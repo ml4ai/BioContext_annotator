@@ -1,0 +1,584 @@
+0 6-7-Caenorhabditis_elegans-taxonomy:6239
+1 
+1 
+2 0-1-Caenorhabditis_elegans-taxonomy:6239 11-11-Drosophila-taxonomy:7215
+3 24-25-C._elegans-taxonomy:6239
+4 10-11-vulval_precursor-uaz:UA-ORG-1083 14-14-VPC-uaz:UA-CLine-100113
+5 12-13-C._elegans-taxonomy:6239
+6 5-6-C._elegans-taxonomy:6239
+7 
+8 13-14-C._elegans-taxonomy:6239
+9 3-4-C._elegans-taxonomy:6239
+10 
+10 
+11 
+11 
+12 6-7-Caenorhabditis_elegans-taxonomy:6239
+13 
+14 3-4-C._elegans-taxonomy:6239 43-44-C._elegans-taxonomy:6239
+15 
+16 
+17 14-15-C._elegans-taxonomy:6239
+18 
+18 1-2-C._elegans-taxonomy:6239
+19 
+19 
+20 
+20 
+21 28-29-C._elegans-taxonomy:6239
+22 2-2-nucleus-go:GO:0005634 30-30-Drosophila-taxonomy:7215 39-40-C._elegans-taxonomy:6239
+23 
+24 
+25 
+25 1-2-C._elegans-taxonomy:6239
+26 
+27 
+28 
+29 28-29-vulval_precursor-uaz:UA-ORG-1083 32-32-VPCs-uaz:UA-CLine-100114
+30 16-16-VPCs-uaz:UA-CLine-100114
+31 6-6-VPCs-uaz:UA-CLine-100114 24-24-VPCs-uaz:UA-CLine-100114 44-44-vulva-tissuelist:TS-1168
+32 
+32 
+33 
+34 
+35 
+36 0-1-C._elegans-taxonomy:6239
+37 
+37 16-16-Drosophila-taxonomy:7215 18-19-C._elegans-taxonomy:6239
+38 0-1-C._elegans-taxonomy:6239 3-3-pharynx-tissuelist:TS-0785
+39 35-36-C._elegans-taxonomy:6239
+40 
+41 
+42 2-2-mice-taxonomy:10090
+43 10-10-sheep-taxonomy:9940 12-12-muscle-tissuelist:TS-0642
+44 
+45 11-11-membrane-go:GO:0016020
+46 
+47 
+48 
+49 
+49 6-7-C._elegans-taxonomy:6239
+50 33-33-nematodes-taxonomy:6239
+51 6-7-C._elegans-taxonomy:6239
+52 
+53 
+54 11-12-C._elegans-taxonomy:6239
+55 
+55 
+56 
+56 
+57 
+57 
+58 9-9-vulva-tissuelist:TS-1168 12-12-vulva-tissuelist:TS-1168
+59 13-13-vulva-tissuelist:TS-1168
+60 
+61 
+62 
+63 
+64 
+64 
+65 
+65 
+66 
+66 15-15-vulva-tissuelist:TS-1168
+67 23-23-vulva-tissuelist:TS-1168
+68 19-19-vulva-tissuelist:TS-1168
+69 11-11-head-tissuelist:TS-0436
+70 17-17-anus-uaz:UA-ORG-48
+71 
+72 
+72 
+73 
+73 4-5-C._elegans-taxonomy:6239
+74 
+75 5-6-C._elegans-taxonomy:6239
+76 
+77 
+77 
+78 
+78 
+79 
+79 
+80 
+81 
+82 
+83 8-9-C._elegans-taxonomy:6239
+84 3-3-mouse-taxonomy:10090 7-7-Drosophila-taxonomy:7215
+85 
+86 16-17-C._elegans-taxonomy:6239
+87 
+88 
+89 
+90 
+90 13-14-C._elegans-taxonomy:6239
+91 
+92 
+93 
+93 
+94 
+95 
+96 41-42-C._elegans-taxonomy:6239
+97 
+98 
+98 
+99 6-7-C._elegans-taxonomy:6239 106-106-zebrafish-taxonomy:7955 108-108-mouse-taxonomy:10090 111-111-humans-taxonomy:9606
+100 21-22-C._elegans-taxonomy:6239
+101 2-3-C._elegans-taxonomy:6239
+102 
+103 
+103 5-5-Drosophila-taxonomy:7215
+104 
+105 68-68-human-taxonomy:9606
+106 
+107 
+107 
+108 
+109 4-4-Drosophila-taxonomy:7215
+110 
+111 
+112 2-2-membrane-go:GO:0016020
+113 
+114 
+115 29-30-C._elegans-taxonomy:6239
+116 
+116 
+117 
+117 
+118 
+119 
+120 
+121 
+122 
+122 3-3-VPC-uaz:UA-CLine-100113
+123 29-29-VPCs-uaz:UA-CLine-100114
+124 18-18-VPCs-uaz:UA-CLine-100114
+125 16-16-VPCs-uaz:UA-CLine-100114
+126 20-20-VPCs-uaz:UA-CLine-100114
+127 10-10-VPCs-uaz:UA-CLine-100114 27-27-VPCs-uaz:UA-CLine-100114
+128 1-1-VPC-uaz:UA-CLine-100113
+129 
+129 
+130 
+130 
+131 
+131 
+132 
+133 
+134 
+135 15-15-larvae-tissuelist:TS-0516 32-32-larvae-tissuelist:TS-0516
+136 
+137 
+138 
+138 
+139 
+140 
+140 
+141 
+141 
+142 
+142 
+143 
+144 
+145 
+145 
+146 
+146 
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+153 
+154 23-23-larvae-tissuelist:TS-0516
+155 15-15-vulva-tissuelist:TS-1168
+156 
+157 
+157 
+158 
+159 
+160 
+161 
+162 
+162 4-4-VPCs-uaz:UA-CLine-100114
+163 
+163 
+164 25-25-VPC-uaz:UA-CLine-100113
+165 
+166 
+167 6-6-VPCs-uaz:UA-CLine-100114
+168 19-19-VPCs-uaz:UA-CLine-100114 22-22-larvae-tissuelist:TS-0516
+169 11-11-larvae-tissuelist:TS-0516
+170 
+171 
+172 8-8-uterus-tissuelist:TS-1102 11-11-larvae-tissuelist:TS-0516 44-44-VPCs-uaz:UA-CLine-100114
+173 
+173 
+174 
+174 4-4-VPCs-uaz:UA-CLine-100114
+175 
+175 10-10-larvae-tissuelist:TS-0516
+176 
+177 
+178 
+178 8-8-uterus-tissuelist:TS-1102 11-11-larvae-tissuelist:TS-0516
+179 
+180 
+180 6-7-vulval_precursor-uaz:UA-ORG-1083 10-10-VPCs-uaz:UA-CLine-100114 16-16-larvae-tissuelist:TS-0516
+181 8-8-VPCs-uaz:UA-CLine-100114
+182 22-22-VPCs-uaz:UA-CLine-100114
+183 
+183 
+184 
+185 5-5-neurons-uaz:UA-ORG-623 7-7-larvae-tissuelist:TS-0516
+186 
+186 6-6-scale-tissuelist:TS-0895
+187 
+187 13-13-VPCs-uaz:UA-CLine-100114
+188 
+189 5-5-VPC-uaz:UA-CLine-100113
+190 2-3-C._elegans-taxonomy:6239 16-16-VPCs-uaz:UA-CLine-100114
+191 
+192 
+193 
+193 14-14-VPCs-uaz:UA-CLine-100114 16-17-B,-uaz:UA-CLine-100007
+194 0-0-VPCs-uaz:UA-CLine-100114
+195 14-14-VPCs-uaz:UA-CLine-100114
+196 14-14-VPCs-uaz:UA-CLine-100114
+197 6-6-VPCs-uaz:UA-CLine-100114 22-22-VPCs-uaz:UA-CLine-100114
+198 
+198 
+199 
+199 
+200 3-4-C._elegans-taxonomy:6239
+201 
+202 
+203 26-26-VPC-uaz:UA-CLine-100113
+204 11-11-VPC-uaz:UA-CLine-100113
+205 
+206 
+206 
+207 
+208 39-39-VPCs-uaz:UA-CLine-100114
+209 
+210 
+211 20-20-VPCs-uaz:UA-CLine-100114
+212 
+213 
+214 
+214 
+215 
+215 
+216 
+217 22-22-VPC-uaz:UA-CLine-100113
+218 17-17-neurons-uaz:UA-ORG-623
+219 9-10-sensory_neurons-uaz:UA-ORG-861 15-15-head-tissuelist:TS-0436 17-17-tail-tissuelist:TS-1006
+220 10-10-neurons-uaz:UA-ORG-623 15-15-neurons-uaz:UA-ORG-623 20-20-head-tissuelist:TS-0436 22-22-tail-tissuelist:TS-1006
+221 4-4-neurons-uaz:UA-ORG-623 9-11-ventral_nerve_cord-tissuelist:TS-1113 14-14-VPCs-uaz:UA-CLine-100114
+222 
+223 
+224 
+225 4-4-VPCs-uaz:UA-CLine-100114 28-29-C._elegans-taxonomy:6239
+226 
+226 
+227 
+227 
+228 
+228 
+229 
+230 
+231 
+232 
+232 
+233 
+234 75-76-sensory_neurons-uaz:UA-ORG-861 85-85-neurons-uaz:UA-ORG-623
+235 
+236 
+237 
+237 
+238 
+238 
+239 16-16-VPC-uaz:UA-CLine-100113
+240 
+241 
+242 
+242 
+243 
+244 
+245 
+246 
+247 
+248 
+249 
+249 
+250 
+250 
+251 
+251 
+252 17-17-vulva-tissuelist:TS-1168 31-31-vulva-tissuelist:TS-1168
+253 
+254 
+254 
+255 
+256 
+257 
+257 
+258 
+259 
+260 
+261 
+261 
+262 13-13-vulva-tissuelist:TS-1168 26-26-vulva-tissuelist:TS-1168
+263 
+264 
+265 
+265 
+266 
+266 1-2-C._elegans-taxonomy:6239
+267 27-28-C._elegans-taxonomy:6239
+268 
+269 
+269 
+270 
+271 
+272 
+273 
+273 
+274 
+274 
+275 
+275 
+276 
+277 22-22-vulvas-uaz:UA-ORG-1083
+278 
+279 
+280 
+280 
+281 
+282 
+283 
+284 
+284 3-4-Vulval_precursor-uaz:UA-ORG-1083 7-7-VPC-uaz:UA-CLine-100113
+285 
+286 
+287 
+288 
+289 
+289 
+290 
+290 1-2-C._elegans-taxonomy:6239 9-9-VPCs-uaz:UA-CLine-100114
+291 9-9-VPC-uaz:UA-CLine-100113
+292 
+293 
+294 
+295 
+296 
+297 
+298 31-31-VPC-uaz:UA-CLine-100113
+299 20-20-VPCs-uaz:UA-CLine-100114
+300 
+301 
+301 9-9-Yeast-taxonomy:4932
+302 
+302 34-34-VPC-uaz:UA-CLine-100113
+303 
+304 4-4-Drosophila-taxonomy:7215
+305 
+306 6-6-yeast-taxonomy:4932
+307 5-5-yeast-taxonomy:4932
+308 
+309 
+309 3-3-yeast-taxonomy:4932
+310 15-16-C._elegans-taxonomy:6239
+311 18-19-C._elegans-taxonomy:6239
+312 18-19-C._elegans-taxonomy:6239
+313 
+314 
+314 
+315 
+315 2-3-C._elegans-taxonomy:6239
+316 
+316 
+317 6-6-yeast-taxonomy:4932
+318 
+319 
+320 
+321 
+321 
+322 
+323 30-30-VPCs-uaz:UA-CLine-100114
+324 
+325 
+325 
+326 
+326 16-17-C._elegans-taxonomy:6239
+327 
+328 
+329 25-26-C._elegans-taxonomy:6239
+330 
+331 7-8-C._elegans-taxonomy:6239
+332 
+332 
+333 
+333 14-15-C._elegans-taxonomy:6239
+334 
+335 
+336 
+337 9-9-VPCs-uaz:UA-CLine-100114
+338 
+339 6-6-VPC-uaz:UA-CLine-100113
+340 16-17-C._elegans-taxonomy:6239
+341 
+341 8-9-C._elegans-taxonomy:6239 22-23-C._elegans-taxonomy:6239
+342 2-3-C._elegans-taxonomy:6239 14-15-C._elegans-taxonomy:6239
+343 3-4-C._elegans-taxonomy:6239
+344 
+345 
+345 
+346 
+346 2-3-C._elegans-taxonomy:6239
+347 
+347 
+348 6-7-C._elegans-taxonomy:6239
+349 1-2-C._elegans-taxonomy:6239
+350 
+351 
+352 
+353 
+354 
+355 
+355 
+356 13-14-immune_system-uaz:UA-ORG-406
+357 
+358 14-15-immune_system-uaz:UA-ORG-406 48-48-p19-uaz:UA-CLine-7972
+359 
+360 
+360 
+361 
+362 11-12-C._elegans-taxonomy:6239
+363 
+364 47-48-nervous_system-tissuelist:TS-1313
+365 12-13-C._elegans-taxonomy:6239
+366 
+367 
+368 
+369 
+370 
+370 0-1-C._elegans-taxonomy:6239
+371 
+372 
+373 
+374 10-10-VPC-uaz:UA-CLine-100113
+375 
+376 
+376 
+377 0-1-C._elegans-taxonomy:6239
+378 
+379 
+380 
+381 
+381 
+382 0-1-C._elegans-taxonomy:6239
+383 
+384 
+385 14-14-zebrafish-taxonomy:7955 16-16-humans-taxonomy:9606 19-19-mice-taxonomy:10090 33-34-C._elegans-taxonomy:6239
+386 
+387 
+388 
+389 
+389 
+390 
+390 
+391 
+391 
+392 8-9-C._elegans-taxonomy:6239
+393 
+394 25-26-C._elegans-taxonomy:6239
+395 
+396 
+397 
+398 
+399 5-5-vulva-tissuelist:TS-1168
+400 9-9-anus-uaz:UA-ORG-48
+401 
+402 0-0-Gonad-tissuelist:TS-0419
+403 
+404 
+405 
+405 
+406 
+406 
+407 
+408 
+409 
+410 7-7-larvae-tissuelist:TS-0516
+411 22-22-vulva-tissuelist:TS-1168
+412 
+412 16-17-C._elegans-taxonomy:6239
+413 
+414 
+415 
+416 
+417 
+418 
+418 2-2-VPC-uaz:UA-CLine-100113
+419 
+419 
+420 5-5-VPC-uaz:UA-CLine-100113
+421 
+422 
+423 
+424 
+425 
+425 
+426 
+426 8-8-rabbits-taxonomy:9986
+427 
+428 9-9-germ-tissuelist:TS-0410
+429 9-9-vulva-tissuelist:TS-1168 11-11-uterus-tissuelist:TS-1102 14-14-larvae-tissuelist:TS-0516
+430 12-12-VPCs-uaz:UA-CLine-100114 17-17-larvae-tissuelist:TS-0516
+431 
+431 
+432 
+432 
+433 
+434 
+435 
+436 
+437 
+438 
+439 
+440 9-9-membrane-go:GO:0016020
+441 2-2-membrane-go:GO:0016020
+442 15-16-C._elegans-taxonomy:6239
+443 
+443 
+444 
+444 0-1-C._elegans-taxonomy:6239
+445 
+446 
+447 2-2-Drosophila-taxonomy:7215 9-10-C._elegans-taxonomy:6239
+448 
+449 9-9-mouse-taxonomy:10090 16-16-human-taxonomy:9606
+450 
+451 
+452 
+453 
+454 
+454 13-14-C._elegans-taxonomy:6239
+455 5-6-C._elegans-taxonomy:6239
+456 5-6-C._elegans-taxonomy:6239
+457 
+458 
+459 2-3-D._melanogaster-taxonomy:7227 11-12-Homo_sapiens-taxonomy:9606 14-15-Danio_rerio-taxonomy:7955 18-19-Mus_musculus-taxonomy:10090
+460 
+460 
+461 
+462 
+463 
+464 
+465 
+466 
+467 6-7-Caenorhabditis_elegans-taxonomy:6239 11-12-Danio_rerio-taxonomy:7955 21-22-Homo_sapiens-taxonomy:9606 26-27-Mus_musculus-taxonomy:10090
+468 

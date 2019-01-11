@@ -1,0 +1,448 @@
+0 
+1 
+1 
+2 
+3 6-6-intestine-tissuelist:TS-0490 9-9-circulation-uaz:UA-ORG-92 16-17-lipid_droplets-uniprot:SL-0154
+4 14-14-plasma-tissuelist:TS-0800
+5 
+6 
+7 
+8 
+8 
+9 
+9 
+10 
+11 
+12 
+12 
+13 
+13 
+14 
+14 
+15 
+16 16-16-liver-tissuelist:TS-0564
+17 
+18 
+19 
+20 
+20 
+21 13-13-liver-tissuelist:TS-0564 20-21-adipose_tissue-tissuelist:TS-0013
+22 
+23 10-10-intestine-tissuelist:TS-0490
+24 3-3-enterocytes-uaz:UA-CT-30005
+25 2-2-circulation-uaz:UA-ORG-92
+26 1-1-liver-tissuelist:TS-0564 11-11-hepatocytes-tissuelist:TS-0454
+27 11-11-circulation-uaz:UA-ORG-92 19-20-lipid_droplets-uniprot:SL-0154
+28 14-14-liver-tissuelist:TS-0564 23-23-HSCs-uaz:UA-CT-30000
+29 
+30 
+31 
+31 
+32 
+32 
+33 
+33 
+34 
+34 
+35 
+35 
+36 16-16-intestine-tissuelist:TS-0490
+37 
+38 27-27-bile-tissuelist:TS-1172
+39 9-9-pancreas-tissuelist:TS-0736
+40 3-3-mice-taxonomy:10090
+41 35-35-enterocytes-uaz:UA-CT-30005
+42 7-7-pancreas-tissuelist:TS-0736 13-13-mice-taxonomy:10090
+43 
+44 18-18-intestine-tissuelist:TS-0490
+45 
+45 17-17-mouse-taxonomy:10090
+46 20-20-bile-tissuelist:TS-1172
+47 
+48 30-30-mice-taxonomy:10090
+49 14-14-mice-taxonomy:10090
+50 1-1-mice-taxonomy:10090
+51 9-9-circulation-uaz:UA-ORG-92
+52 1-1-mice-taxonomy:10090
+53 9-9-mice-taxonomy:10090
+54 20-20-mice-taxonomy:10090
+55 
+56 23-23-mice-taxonomy:10090
+57 
+58 
+59 
+59 10-10-mice-taxonomy:10090 21-21-mice-taxonomy:10090
+60 
+61 
+62 
+63 
+64 
+65 
+66 5-5-mice-taxonomy:10090
+67 
+68 
+69 
+69 14-14-rats-taxonomy:10116 17-17-humans-taxonomy:9606
+70 
+71 13-13-intestine-tissuelist:TS-0490 20-20-pancreas-tissuelist:TS-0736
+72 
+72 
+73 
+73 5-5-circulation-uaz:UA-ORG-92
+74 
+74 4-4-enterocytes-uaz:UA-CT-30005 27-27-circulation-uaz:UA-ORG-92
+75 10-10-liver-tissuelist:TS-0564 21-21-HSCs-uaz:UA-CT-30000
+76 15-16-adipose_tissue-tissuelist:TS-0013 18-19-skeletal_muscle-tissuelist:TS-0933 21-22-cardiac_muscle-tissuelist:TS-0440 25-25-kidney-tissuelist:TS-0510
+77 24-24-serum-tissuelist:TS-0923
+78 
+78 1-1-liver-tissuelist:TS-0564
+79 32-32-hepatocyte-tissuelist:TS-0454
+80 
+81 
+82 
+83 
+84 19-19-CII-uaz:UA-CLine-3693
+85 
+86 5-5-liver-tissuelist:TS-0564
+87 6-6-hepatocytes-tissuelist:TS-0454
+88 35-36-cell_surface-go:GO:0009986
+89 
+90 
+90 1-1-adipocytes-tissuelist:TS-0012
+91 
+92 
+93 3-3-adipocytes-tissuelist:TS-0012
+94 
+95 7-8-adipose_tissue-tissuelist:TS-0013
+96 
+97 26-26-adipocytes-tissuelist:TS-0012 33-34-adipose_tissue-tissuelist:TS-0013
+98 
+98 7-8-adipose_tissue-tissuelist:TS-0013 13-14-skeletal_muscle-tissuelist:TS-0933 16-16-heart-tissuelist:TS-0445
+99 
+100 19-20-cardiac_muscle-tissuelist:TS-0440
+101 
+102 
+103 1-2-skeletal_muscle-tissuelist:TS-0933
+104 21-22-skeletal_muscle-tissuelist:TS-0933 25-26-adipose_tissue-tissuelist:TS-0013 28-28-heart-tissuelist:TS-0445
+105 10-11-skeletal_muscle-tissuelist:TS-0933 15-16-adipose_tissue-tissuelist:TS-0013 21-21-heart-tissuelist:TS-0445
+106 16-17-skeletal_muscle-tissuelist:TS-0933 20-21-adipose_tissue-tissuelist:TS-0013 23-23-heart-tissuelist:TS-0445
+107 5-6-skeletal_muscle-tissuelist:TS-0933 27-28-skeletal_muscle-tissuelist:TS-0933
+108 8-9-skeletal_muscle-tissuelist:TS-0933 14-14-liver-tissuelist:TS-0564
+109 1-2-cardiac_muscle-tissuelist:TS-0440
+110 7-7-heart-tissuelist:TS-0445 13-14-skeletal_muscle-tissuelist:TS-0933 20-21-adipose_tissue-tissuelist:TS-0013
+111 15-15-heart-tissuelist:TS-0445
+112 6-6-mice-taxonomy:10090
+113 11-11-heart-tissuelist:TS-0445
+114 
+115 
+116 12-13-cardiac_muscle-tissuelist:TS-0440
+117 
+117 25-25-milk-tissuelist:TS-0636
+118 0-0-Milk-tissuelist:TS-0636 2-2-serum-tissuelist:TS-0923 8-8-mice-taxonomy:10090
+119 24-24-milk-tissuelist:TS-0636
+120 
+121 
+121 1-1-kidney-tissuelist:TS-0510 3-3-lung-tissuelist:TS-0568 6-6-spleen-tissuelist:TS-0956
+122 
+123 
+123 
+124 
+125 
+126 35-35-liver-tissuelist:TS-0564
+127 
+127 20-20-intestine-tissuelist:TS-0490 24-24-circulation-uaz:UA-ORG-92
+128 12-13-extracellular_space-go:GO:0005615
+129 
+130 
+130 
+131 
+131 
+132 
+132 
+133 
+133 4-4-hepatocytes-tissuelist:TS-0454
+134 
+134 1-1-liver-tissuelist:TS-0564
+135 
+136 
+137 
+138 8-8-HSCs-uaz:UA-CT-30000
+139 23-23-hepatocytes-tissuelist:TS-0454 28-28-HSCs-uaz:UA-CT-30000
+140 1-1-mice-taxonomy:10090 20-20-hepatocytes-tissuelist:TS-0454 22-22-HSCs-uaz:UA-CT-30000 30-30-circulation-uaz:UA-ORG-92
+141 4-4-hepatocytes-tissuelist:TS-0454 25-25-circulation-uaz:UA-ORG-92 29-29-HSCs-uaz:UA-CT-30000
+142 
+142 
+143 19-20-early_endosomes-go:GO:0005769
+144 7-8-endoplasmic_reticulum-go:GO:0005783 16-16-lysosomes-go:GO:0005764
+145 17-17-lysosomes-go:GO:0005764
+146 23-23-endosomes-go:GO:0005768
+147 
+148 6-7-early_endosomes-go:GO:0005769 9-10-plasma_membranes-go:GO:0005886
+149 11-11-endosomes-go:GO:0005768
+150 8-8-endosomes-go:GO:0005768
+151 
+152 
+152 42-42-liver-tissuelist:TS-0564
+153 
+154 
+155 
+156 16-16-hepatocytes-tissuelist:TS-0454
+157 9-9-mouse-taxonomy:10090 14-14-humans-taxonomy:9606
+158 
+158 4-5-early_endosomes-go:GO:0005769
+159 0-0-Rat-taxonomy:10116 7-7-liver-tissuelist:TS-0564
+160 10-10-hepatocytes-tissuelist:TS-0454 13-13-serum-tissuelist:TS-0923 36-37-Golgi_apparatus-go:GO:0005794
+161 17-17-microsomes-uniprot:SL-0166
+162 
+163 14-15-early_endosomes-go:GO:0005769
+164 
+164 4-4-endosomes-go:GO:0005768
+165 5-5-microsomes-uniprot:SL-0166
+166 
+167 31-32-Golgi_apparatus-go:GO:0005794
+168 11-11-liver-tissuelist:TS-0564 13-13-lung-tissuelist:TS-0568 16-16-testis-tissuelist:TS-1030
+169 11-11-endosomes-go:GO:0005768
+170 
+170 
+171 15-15-liver-tissuelist:TS-0564 19-19-hepatocytes-tissuelist:TS-0454 23-23-HSCs-uaz:UA-CT-30000
+172 
+173 
+174 6-6-Cos-7-uaz:UA-CLine-100020
+175 
+176 
+177 
+178 
+179 
+179 7-7-human-taxonomy:9606
+180 
+181 
+182 
+182 
+183 15-15-liver-tissuelist:TS-0564 18-18-hepatocytes-tissuelist:TS-0454
+184 
+185 
+186 
+186 25-26-adipose_tissue-tissuelist:TS-0013
+187 12-12-liver-tissuelist:TS-0564
+188 13-13-hepatocytes-tissuelist:TS-0454
+189 8-8-hepatocytes-tissuelist:TS-0454 16-16-mice-taxonomy:10090
+190 7-7-liver-tissuelist:TS-0564 14-14-hepatocytes-tissuelist:TS-0454
+191 
+191 
+192 
+192 
+193 
+193 0-0-HSCs-uaz:UA-CT-30000
+194 0-0-HSCs-uaz:UA-CT-30000 31-31-liver-tissuelist:TS-0564
+195 6-6-liver-tissuelist:TS-0564 20-20-pancreas-tissuelist:TS-0736 22-22-brain-tissuelist:TS-0095 24-24-kidney-tissuelist:TS-0510
+196 
+197 
+197 0-0-HSCs-uaz:UA-CT-30000
+198 4-4-organelles-go:GO:0043226
+199 
+200 6-6-HSCs-uaz:UA-CT-30000 34-34-liver-tissuelist:TS-0564
+201 
+201 
+202 2-2-liver-tissuelist:TS-0564 12-12-HSCs-uaz:UA-CT-30000 23-23-liver-tissuelist:TS-0564
+203 3-3-HSCs-uaz:UA-CT-30000
+204 11-11-HSCs-uaz:UA-CT-30000
+205 
+206 2-2-mice-taxonomy:10090 18-18-liver-tissuelist:TS-0564
+207 8-8-HSCs-uaz:UA-CT-30000 17-17-liver-tissuelist:TS-0564
+208 12-12-HSCs-uaz:UA-CT-30000
+209 
+209 16-16-livers-uaz:UA-ORG-520
+210 18-18-hepatocytes-tissuelist:TS-0454
+211 
+212 7-7-intestine-tissuelist:TS-0490 18-18-liver-tissuelist:TS-0564
+213 15-15-HSCs-uaz:UA-CT-30000
+214 7-7-mice-taxonomy:10090
+215 
+215 26-26-hepatocytes-tissuelist:TS-0454
+216 
+217 
+218 12-13-primary_lysosomes-go:GO:0005766 15-15-HSCs-uaz:UA-CT-30000
+219 
+220 
+220 5-5-HSCs-uaz:UA-CT-30000
+221 12-12-HSCs-uaz:UA-CT-30000 15-15-hepatocytes-tissuelist:TS-0454 17-18-fibrotic_liver-tissuelist:TS-0365
+222 
+223 20-20-HSCs-uaz:UA-CT-30000 27-27-hepatocytes-tissuelist:TS-0454
+224 
+224 4-4-lipases-uaz:UA-ORG-519 17-17-HSCs-uaz:UA-CT-30000
+225 15-15-HSCs-uaz:UA-CT-30000
+226 
+227 
+227 15-15-HSCs-uaz:UA-CT-30000 22-23-extracellular_space-go:GO:0005615 30-30-hepatocytes-tissuelist:TS-0454 33-33-HSCs-uaz:UA-CT-30000 55-55-HSCs-uaz:UA-CT-30000
+228 13-13-HSCs-uaz:UA-CT-30000
+229 19-19-HSCs-uaz:UA-CT-30000
+230 
+230 
+231 
+231 4-5-adipose_tissue-tissuelist:TS-0013
+232 
+232 
+233 
+234 15-15-adipocytes-tissuelist:TS-0012
+235 24-24-liver-tissuelist:TS-0564
+236 2-3-adipose_tissue-tissuelist:TS-0013
+237 3-3-adipocytes-tissuelist:TS-0012 30-30-adipocytes-tissuelist:TS-0012
+238 2-2-adipose-tissuelist:TS-0013
+239 7-7-adipose-tissuelist:TS-0013 30-30-plasma-tissuelist:TS-0800
+240 
+240 17-17-adipose-tissuelist:TS-0013
+241 3-3-lipases-uaz:UA-ORG-519 12-12-adipocytes-tissuelist:TS-0012
+242 11-13-brown_adipose_tissue-tissuelist:TS-0099 19-19-mice-taxonomy:10090
+243 4-4-mice-taxonomy:10090
+244 
+245 6-6-mice-taxonomy:10090
+246 18-18-mice-taxonomy:10090
+247 1-1-mice-taxonomy:10090
+248 
+249 13-13-mice-taxonomy:10090
+250 
+251 3-3-rats-taxonomy:10116
+252 14-14-mice-taxonomy:10090
+253 
+253 
+254 1-1-mice-taxonomy:10090 6-6-plasma-tissuelist:TS-0800
+255 21-21-plasma-tissuelist:TS-0800
+256 
+257 
+257 
+258 
+258 4-4-skin-tissuelist:TS-0934
+259 
+259 1-1-skin-tissuelist:TS-0934
+260 
+261 17-17-skin-tissuelist:TS-0934
+262 4-4-skin-tissuelist:TS-0934
+263 18-18-skin-tissuelist:TS-0934
+264 
+264 2-2-human-taxonomy:9606 30-31-epidermal_keratinocyte-tissuelist:TS-0500
+265 
+266 34-34-keratinocyte-tissuelist:TS-0500
+267 7-7-keratinocyte-tissuelist:TS-0500 15-15-human-taxonomy:9606 34-34-keratinocyte-tissuelist:TS-0500
+268 
+269 1-1-humans-taxonomy:9606 8-9-adipose_tissue-tissuelist:TS-0013 11-11-liver-tissuelist:TS-0564 13-13-kidney-tissuelist:TS-0510 15-15-muscle-tissuelist:TS-0642 17-17-lung-tissuelist:TS-0568 19-19-placenta-tissuelist:TS-0799 22-22-brain-tissuelist:TS-0095
+270 5-5-mouse-taxonomy:10090
+271 2-2-human-taxonomy:9606
+272 28-28-keratinocytes-tissuelist:TS-0500 41-41-human-taxonomy:9606
+273 10-10-human-taxonomy:9606 18-18-tail-tissuelist:TS-1006 36-36-keratinocytes-tissuelist:TS-0500
+274 
+274 
+275 8-8-humans-taxonomy:9606 10-10-mice-taxonomy:10090 14-14-skin-tissuelist:TS-0934
+276 5-5-humans-taxonomy:9606 7-7-mice-taxonomy:10090 21-21-skin-tissuelist:TS-0934
+277 
+278 7-7-mice-taxonomy:10090 14-14-humans-taxonomy:9606
+279 6-6-human-taxonomy:9606 9-9-keratinocyte-tissuelist:TS-0500
+280 
+280 
+281 
+281 
+282 
+282 5-7-retinal_pigment_epithelium-tissuelist:TS-0869 20-20-cone-tissuelist:TS-0169 23-23-photoreceptor-uaz:UA-ORG-712
+283 19-19-photoreceptor-uaz:UA-ORG-712
+284 6-6-membranes-go:GO:0016020
+285 
+286 
+286 
+287 13-13-microsomes-uniprot:SL-0166
+288 
+289 
+290 
+291 
+292 
+293 15-15-mice-taxonomy:10090
+294 1-1-mice-taxonomy:10090 23-23-photoreceptor-uaz:UA-ORG-712
+295 1-1-humans-taxonomy:9606
+296 
+297 
+298 4-4-mice-taxonomy:10090
+299 
+300 
+300 
+301 
+301 
+302 
+302 
+303 6-7-skeletal_muscle-tissuelist:TS-0933
+304 22-22-circulation-uaz:UA-ORG-92
+305 
+306 
+307 12-13-skeletal_muscle-tissuelist:TS-0933
+308 12-13-skeletal_muscle-tissuelist:TS-0933
+309 
+309 0-0-Kidney-tissuelist:TS-0510
+310 20-20-plasma-tissuelist:TS-0800
+311 5-5-kidney-tissuelist:TS-0510 10-10-liver-tissuelist:TS-0564
+312 
+313 8-8-kidney-tissuelist:TS-0510
+314 11-11-kidney-tissuelist:TS-0510
+315 
+316 5-5-plasma-tissuelist:TS-0800 12-12-plasma-tissuelist:TS-0800
+317 2-2-kidney-tissuelist:TS-0510 11-11-plasma-tissuelist:TS-0800
+318 11-11-kidney-tissuelist:TS-0510 20-20-membranes-go:GO:0016020 22-22-microsomes-uniprot:SL-0166
+319 1-1-kidney-tissuelist:TS-0510 43-43-kidney-tissuelist:TS-0510
+320 
+321 
+321 3-3-lung-tissuelist:TS-0568
+322 
+323 
+324 15-15-kidney-tissuelist:TS-0510
+325 8-8-lung-tissuelist:TS-0568
+326 9-9-lung-tissuelist:TS-0568
+327 
+328 6-6-lung-tissuelist:TS-0568
+329 
+329 0-0-Spleen-tissuelist:TS-0956
+330 26-26-spleen-tissuelist:TS-0956 41-41-liver-tissuelist:TS-0564 44-44-spleen-tissuelist:TS-0956 54-54-liver-tissuelist:TS-0564
+331 0-0-Spleen-tissuelist:TS-0956
+332 4-4-spleen-tissuelist:TS-0956
+333 
+333 1-1-testis-tissuelist:TS-1030
+334 
+335 
+336 24-25-adipose_tissue-tissuelist:TS-0013
+337 
+337 17-17-brain-tissuelist:TS-0095
+338 
+339 8-8-mouse-taxonomy:10090
+340 8-8-brain-tissuelist:TS-0095 11-11-circulation-uaz:UA-ORG-92
+341 8-8-brain-tissuelist:TS-0095
+342 12-13-choroid_plexus-tissuelist:TS-0145
+343 1-1-mice-taxonomy:10090 17-17-brain-tissuelist:TS-0095
+344 16-17-zebra_fish-taxonomy:7955
+345 9-9-human-taxonomy:9606
+346 
+347 9-9-human-taxonomy:9606 10-10-brain-tissuelist:TS-0095 18-18-brain-tissuelist:TS-0095
+348 11-11-mice-taxonomy:10090
+349 10-10-mice-taxonomy:10090 17-17-humans-taxonomy:9606
+350 
+350 
+351 
+351 
+352 
+352 
+353 
+354 
+355 14-14-intestine-tissuelist:TS-0490
+356 2-2-circulation-uaz:UA-ORG-92
+357 
+358 0-0-Liver-tissuelist:TS-0564
+359 
+360 
+361 17-17-plasma-tissuelist:TS-0800
+362 12-13-adipose_tissue-tissuelist:TS-0013
+363 
+364 
+364 
+365 
+365 
+366 
+367 
+368 
+369 
+370 
+371 52-54-retinal_pigment_epithelium-tissuelist:TS-0869
+372 

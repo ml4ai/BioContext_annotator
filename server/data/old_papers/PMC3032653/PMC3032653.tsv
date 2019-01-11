@@ -1,0 +1,242 @@
+1			e1	c1	Spatially restricted activation of RhoA at epithelial junctions by p114RhoGEF drives junction formation and morphogenesis	Spatially restricted activation of RhoA at epithelial junctions by p114RhoGEF drives junction formation and morphogenesis
+2	uaz:UA-CT-30006	epithelial cells	c1			Signalling by the GTPase RhoA , a key regulator of epithelial cell behaviour , can stimulate opposing processes : RhoA can promote junction formation and apical constriction , as well as reduced adhesion and cell spreading , .
+3						Molecular mechanisms are thus required that ensure spatially restricted and process specific RhoA activation .
+4						For many fundamental processes , including assembly of the epithelial junctional complex , such mechanisms are still unknown .
+5						Here we show that p114RhoGEF is a junction associated protein that drives RhoA signalling at the junctional complex and regulates tight junction assembly and epithelial morphogenesis .
+6			e2	c1	p114RhoGEF is required for RhoA activatio	p114RhoGEF is required for RhoA activation at cell-cell junctions , and its depletion stimulates non junctional Rho signalling and induction of myosin phosphorylation along the basal domain .
+7			e3	c1	 GEF-H1 , a RhoA activator	Depletion of GEF-H1 , a RhoA activator inhibited by junctional recruitment , does not reduce junction associated RhoA activation .
+8			e4,e5,e6	c1	p114RhoGEF associates with a complex containing myosin II , Rock II and the junctional adaptor cingulin	p114RhoGEF associates with a complex containing myosin II , Rock II and the junctional adaptor cingulin , indicating that p114RhoGEF is a component of a junction associated Rho signalling module that drives spatially restricted activation of RhoA to regulate junction formation and epithelial morphogenesis .
+9						A particular RhoGTPase can be part of signalling mechanisms that stimulate opposing processes and , at a given point in time , may be activated at one subcellullar site and inactivated at another .
+10						Orchestration of RhoGTPase signalling thus requires mechanisms that regulate activity in space and time , .
+11			e7,e8	c1	Activation of GTPases is catalysed by guanine nucleotide exchange factors ( GEFs ) and inactivation by GTPase activating proteins ( GAPs ) , .	Activation of GTPases is catalysed by guanine nucleotide exchange factors ( GEFs ) and inactivation by GTPase activating proteins ( GAPs ) , .
+12						In epithelial cells , the RhoGTPase family member RhoA is activated at cell junctions upon initiation of cell-cell adhesion and , concomitantly , downregulated in other parts of the cells , contributing to reduced cell spreading and stress fibre formation , and inhibition of proliferation - .
+13						Junctional RhoA activation drives formation of tight and adherens junctions , and is required to maintain junctional integrity , processes that are mediated by the actinomyosin cytoskeleton ; however , how RhoA is activated at junctions is not understood .
+14			e9	c1	 Rho stimulated transcription factor ZONAB	GEF-H1 , a GEF for RhoA , localises to tight junctions , the most apical component of the junctional complex ; yet , it is not required for junction formation , and junctional recruitment leads to its inactivation and inhibition of the Rho stimulated transcription factor ZONAB , , .
+15						GEF-H1 activation is indeed required for junction dissociation .
+16						We identified p114RhoGEF as a regulator of epithelial differentiation and junction assembly using a functional siRNA screen .
+17						A p114RhoGEF specific antibody was found to detect a 114kD protein that disappeared upon transfection of specific siRNAs in the human intestinal epithelial cell line Caco-2 and in immortalised human corneal epithelial ( HCE ) cells .
+18						By immunofluorescence , this antibody stained the junctional complex and a cytoplasmic pool .
+19						Both stainings disappeared upon p114RhoGEF depletion .
+20						Junctional p114RhoGEF overlapped with occludin , a tight junction protein , but not E-cadherin , an adherens junction component , indicating that p114RhoGEF associates with the apical junctional complex and tight junctions .
+21			e10,e11	c2	p114RhoGEF is a widely expressed gene and , in vitro , functions as a specific activator of RhoA - .	p114RhoGEF is a widely expressed gene and , in vitro , functions as a specific activator of RhoA - .
+22	uaz:UA-CLine-8216	hce cells	c2	c2	Accordingly , depletion of p114RhoGEF resulted in reduced levels of active RhoA	Accordingly , depletion of p114RhoGEF resulted in reduced levels of active RhoA in HCE cells without significantly affecting Rac and Cdc42 .
+23						We next determined the effect of p114RhoGEF depletion on the junctional complex by staining for tight and adherens junction markers .
+24						In the columnar epithelial cell line Caco-2 , p114RhoGEF depletion resulted in flatter cells and in a warped appearance of the junctional staining of ZO-1 and , to a lesser degree , beta-catenin , as well as reduced perijunctional f-actin and increased formation of stress fibres .
+25						The phenotype of HCE cells was similar but , as these are not columnar , no flattening was observed .
+26						Strikingly , ZO-1 staining was disrupted , indicating a defect in tight junction assembly .
+27						Comparable phenotypes were observed when cells were stained for other tight junction markers and when p114RhoGEF was depleted with individual siRNAs or a different type of siRNA pool .
+28						p114RhoGEF is thus required for normal junction formation and actin organisation .
+29						We next investigated if Caco-2 cells depleted of p114RhoGEF form functional epithelial barriers by testing the permeability properties of the monolayers .
+30						We performed calcium switch assays to monitor de novo junction formation and measured transepithelial electrical resistance , a measure of barrier integrity .
+31						Depletion of p114RhoGEF strongly attenuated barrier formation and only reached 40 % of the values of control cultures .
+32						Paracellular diffusion of fluorescent 4 and 70 kD dextran was still high in such cultures , indicating that tight junctions remained leaky .
+33						Morphological analysis of cells incubated for different times with calcium revealed that p114RhoGEF depletion did not affect initial spreading and initiation of cell-cell contacts as ZO-1 accumulated at forming junctions already after 1 hour and f-actin staining revealed spread cells .
+34						However , ZO-1 staining remained discontinuous and warped even after 24 hours .
+35						Similar observations were made for other junctional markers .
+36						Thus , p114RhoGEF is not required for spreading and initiation of adhesion , but for junctional maturation .
+37						As expected , GEF-H1 depleted cells spread more slowly as round cells were still detected after 1 hour with calcium but , once junctions started to form , they established morphologically normal junctions .
+38						GEF-H1 depletion did also not affect junction formation in HCE cells .
+39						This is in agreement with previous observations indicating that GEF-H1 is not required for junction formation but cell spreading , , .
+40						p114RhoGEF localised to forming junctions already after 30 minutes together with myosin II , a target of Rho signalling during junctional maturation .
+41						Myosin II recruitment to cell contacts was attenuated by 114RhoGEF depletion and , instead , showed increased association with stress fibres .
+42						GEF-H1 was also not recruited to cell contacts and may hence contribute to the increase in stress fibres along the base of the cells , .
+43						We next analysed whether p114RhoGEF regulates epithelial morphogenesis using three-dimensional culture systems that allow the formation of polarised cysts with a central lumen .
+44						p114RhoGEF was depleted by siRNA transfection in Caco-2 cells and expression of shRNAs in MDCK cells .
+45						Depletion affected both epithelial cell types , resulting in a disorganised appearance of the cysts that often developed multiple lumens and an irregular distribution of ZO-1 .
+46						The apical marker podocalyxin still accumulated in lumens , suggesting p114RhoGEF depletion did not cause a loss of polarity but a disorganised three-dimensional arrangement of the cells .
+47						We next investigated whether p114RhoGEF stimulates Rho signalling at the junctional complex .
+48						We used a FRET ( Fluorescence Resonance Energy Transfer ) - based RhoA biosensor to localise RhoA activation in live cells after depletion of either p114RhoGEF or , as an additional control , GEF-H1 .
+49						In control cells , the most intense FRET signal , indicating active RhoA , was observed along cell-cell junctions .
+50						Depletion of p114RhoGEF led to a redistribution of the FRET signal away from cell junctions and was increased throughout the cells including the basal domain .
+51						Depletion of GEF-H1 did not affect the junctional FRET signal .
+52						Comparable results were obtained with HCE and Caco-2 cells as well as during junction formation , indicating that p114RhoGEF is required for spatially restricted RhoA activation at cell junctions .
+53			e12,e13	c3,c4	One of the main targets of RhoA signalling is phosphorylation of the light chain of myosin II ( MLC ) , leading to myosin activation .	One of the main targets of RhoA signalling is phosphorylation of the light chain of myosin II ( MLC ) , leading to myosin activation .
+54						Therefore we next investigated the role of p114RhoGEF in MLC phosphorylation .
+55						In control cells , myosin staining was found along the junctional complex and , to a lesser extent , along the basal membrane .
+56						Depletion of p114RhoGEF led to a redistribution of myosin from junctions to stress fibres .
+57						Phosphorylated MLC was found along cell junctions in control cells and concentrated on stress fibres in the absence of p114RhoGEF , indicating that myosin activation was shifted to the basal domain .
+58						GEF-H1 depletion did not affect the distribution of phosphorylated MLC .
+59			e14	c3,c4	p114RhoGEF also inhibited the appearance of phosphorylated MLC	Depletion of p114RhoGEF also inhibited the appearance of phosphorylated MLC during junction assembly , indicating that it is required for myosin activation during junction formation .
+60	uaz:UA-CLine-750,uaz:UA-CLine-8216	caco-2 cells, hce cells	e15,c3,c4	c3,c4	 phosphorylated MLC i	p114RhoGEF depletion did not alter total levels of phosphorylated MLC in Caco-2 cells and only slightly reduced them in HCE cells .
+61						Phosphorylation of the Rock substrate myosin light chain phosphatase was also unaltered .
+62						These observations suggest that p114RhoGEF is required for the spatially restricted activation of RhoA signalling and myosin activation at cell-cell junctions , and that its absence leads to defective junction assembly , cell spreading , increased non junctional RhoA signalling and myosin activation .
+63						If p114RhoGEF regulates activation of junctional myosin , overexpression should induce junctional actinomyosin contraction and this should require a functional GEF domain .
+64						Hence , we substituted a conserved tyrosine residue in the Dbl domain necessary for GEF activity ( p114RhoGEFY260A ) .
+65						Analogous mutations were previously shown to inactivate the GEF activities of GEF-H1 and Lbc , .
+66			e16,e17	c3,c4	VSV tagged p114RhoGEF had increased active RhoA levels and increased levels of phosphorylated MLC	Cells expressing VSV tagged p114RhoGEF had increased active RhoA levels and increased levels of phosphorylated MLC whereas expression of the mutant had no effect .
+67						Morphologically , expression of p114RhoGEF-VSV led to an apically contracted , rounded morphology with increased perijunctional f-actin .
+68	uaz:UA-CLine-5690	MDCK cells	e18,e19,c5	c5	upregulation of the active p114RhoGEF led to increased phosphorylated MLC	In stably transfected MDCK cells , upregulation of the active p114RhoGEF led to increased phosphorylated MLC at cell junctions .
+69						Expression of active , but not inactive p114RhoGEF led to Rock activity dependent rounding and monolayer contraction leading to monolayer gaps .
+70						Cell compaction was particularly striking in the normally flat HCE cells , which developed an apically elongated , dome like appearance with a contracted junctional ring , but was also evident in Caco-2 cells .
+71						These effects required Rho activation as they were not observed when p114RhoGEFY260A-VSV was expressed .
+72						Similarly , only active human p114RhoGEF could induce recruitment of junctional markers in depleted MDCK cells , and expression of the inactive exchange factor in HCE cells interfered with the normal junctional distribution of ZO-1 .
+73						Overexpression of GEF-H1 did not induce contraction of the perijunctional actinomyosin ring .
+74						These data indicate that junctional contraction is a p114RhoGEF specific function and requires a functional GEF domain .
+75						As p114RhoGEF regulates the junctional recruitment of myosin , we next tested whether the two proteins are part of a common complex .
+76			e20	c3,c4,c5	p114RhoGEF immunoprecipitates contained myosin IIA and the RhoA effector Rock II .	p114RhoGEF immunoprecipitates contained myosin IIA and the RhoA effector Rock II .
+77			e21,e22,e23	c3,c4,c5	Cingulin , a tight junction associated adaptor known to form a complex with myosin and to regulate RhoA signalling , was also coprecipitating with p114RhoGEF , .	Cingulin , a tight junction associated adaptor known to form a complex with myosin and to regulate RhoA signalling , was also coprecipitating with p114RhoGEF , .
+78						Coprecipitation of myosin IIA , cingulin and RockII was not detected when cells were not allowed to form junctions by culturing in low calcium medium .
+79						Cingulin can also bind GEF-H1 ; however , coprecipitation of the two GEFs was not observed ( not shown ) , suggesting that they are part of distinct complexes .
+80						We next used GST fusion proteins of p114RhoGEF to map the domain of p114RhoGEF required for these interactions .
+81			e24,e25,e26	c3,c4,c5	We found that full-length p114RhoGEF pulled down myosin IIA , cingulin and Rock I	We found that full-length p114RhoGEF pulled down myosin IIA , cingulin and Rock II ; however , the efficiency was low possibly because the full length fusion protein was difficult to express .
+82						The PH domain alone pulled down myosin and cingulin efficiently .
+83						Pull down of Rock II was not efficient , suggesting that Rho activation might be needed for efficient Rock recruitment .
+84						We next asked whether cingulin is required for recruitment of p114RhoGEF to tight junctions .
+85						Depletion of cingulin indeed inhibited junctional recruitment of p114RhoGEF .
+86	uaz:UA-CLine-8216	hce cells	c6			In HCE cells , cingulin was required for tight junction formation : depletion led to a loss of junctional staining not only of p114RhoGEF , but also of ZO-1 , occludin and GEF-H1 , but not of components of adherens junctions .
+87						Cingulin and p114RhoGEF also colocalised by confocal microscopy , and overexpression of cingulin led to a redistribution of p114RhoGEF and myosin .
+88			e27,e28,e29	c6	Cingulin depletion also attenuated p114RhoGEF and myosin IIA recruitment , and MLC phosphorylation	Cingulin depletion also attenuated p114RhoGEF and myosin IIA recruitment , and MLC phosphorylation at forming junctions .
+89	uaz:UA-CLine-8216,uaz:UA-CLine-750,uaz:UA-CLine-8216	hce cells,caco-2 cells, hce cells	e30,e31,c7,e32,c8,c9	c7,c8,c9	cingulin was required for myosin recruitment and MLC phosphorylation | for normal Rho activation at cell junctions	Similarly , cingulin was required for myosin recruitment and MLC phosphorylation in HCE cells , and for normal Rho activation at cell junctions in Caco-2 and HCE cells .
+90			e33	c8,c9	Cingulin is thus important for the cellular distribution of p114RhoGEF and for activation of RhoA signalling at cell junctions .	Cingulin is thus important for the cellular distribution of p114RhoGEF and for activation of RhoA signalling at cell junctions .
+91						Our study shows that p114RhoGEF regulates spatially restricted activation of RhoA at epithelial junctions , driving junction assembly and junctional actinomyosin activation .
+92						RhoA signalling is well-known to be a crucial regulator of junction assembly and function ; however , the GEF that activates RhoA at cell junctions had thus far not been known .
+93						p114RhoGEF forms a functional signalling module containing Rock II and myosin , two proteins that are known to regulate junction dynamics , .
+94						Junctional recruitment requires cingulin , an adaptor protein that is known to impact on RhoA signalling , .
+95						p114RhoGEF regulates spatially restricted RhoA activation at cell-cell contacts in different types of epithelial cells .
+96						In agreement with previous results , depletion of GEF-H1 , which is not required for junction formation and is inactive at junctions , did not affect junctional Rho signalling , .
+97						Hence , p114RhoGEF and GEF-H1 represent two opposing pathways of RhoA regulation at cell junctions : the former is recruited to the forming junctional complex and promotes junctional maturation and contraction of the actinomyosin belt ; the latter is recruited and turned off , contributing to inhibition of confluence induced RhoA signalling and cell proliferation .
+98			e34,e35,e36	c8,c9	Depletion of p114RhoGEF did not only inhibit RhoA activation at junctions , but led to increased non junctional Rho activation and increased MLC phosphorylation along the basal domain .	
+99						Paradoxically as this may seem , it supports the specificity of p114RhoGEF for junctional Rho signalling and its importance for junction formation .
+100						RhoA activity is downregulated in response to cell confluence ; hence , interfering with junction formation stimulates RhoA signalling in the rest of the cell .
+101						As junctions do not form normally in p114RhoGEF depleted cells , GEF-H1 is also not recruited normally and , hence , is likely to contribute to overall RhoA activation in such cells .
+102						GEF-H1 indeed induces stress fibres in response to stimuli such as TNFalpha , .
+103						However , there are other mechanisms that contribute to inhibition of RhoA signalling at cell confluence , such as regulation of p190RhoGAP or , possibly , the junction associated GAP myosin-IXb , and depletion of GEF-H1 in addition to p114RhoGEF was not sufficient to block stress fibre formation ( not shown ) .
+104						The junction associated actinomyosin cytoskeleton is crucial for the regulation of junction dynamics and function , and also drives apical constriction and tissue remodeling .
+105			e37	c8,c9	p114RhoGEF thus associates with and activates a Rho signalling module that is central to epithelial junction formation and morphogenesis .	p114RhoGEF thus associates with and activates a Rho signalling module that is central to epithelial junction formation and morphogenesis .
+106						This is supported by our data that shows p114RhoGEF regulated junction assembly and epithelial morphogenesis in three-dimensional culture systems .
+107						Overexpression of p114RhoGEF induced actinomyosin contraction , suggesting that this Rho GEF may also be important for developmental processes requiring apical constriction .
+108						Our data thus show that p114RhoGEF represents a RhoA regulator central to epithelial barrier formation and morphogenesis that forms a junction associated signalling module .
+109						Given the physiological roles of junctional RhoA signalling , it will be important to determine how p114RhoGEF becomes stimulated during physiological and developmental processes to drive spatially restricted Rho signalling at cell junctions .
+110						Supplementary Material
+111						1
+112						2
+113						Methods
+114						DNA constructs , RNA interference
+115						A construct containing the human p114RhoGEF cDNA sequence was kindly provided by T. Voyno-Yasenetskaya ( University of Illinois at Chicago , Chicago , Illinois , USA ) .
+116						The cDNA was used to generate VSV tagged constructs that were cloned into pCDNA4 and TO ( Invitrogen ) .
+117						The point mutation Y260 A was introduced with the Quickchange mutagenesis kit ( Stratagene ) and the primers 5 ' - CGCATAACCAAAGCCCCAGTGCTGGTGG-3 ' and 5 ' - CACCAGCACTGGGGCTTTGGTTATGCG -3 ' .
+118						For p114RhoGEF GST fusion proteins the sequences encoding the indicated domains were cloned into pGEX-4T-3 ( GE Lifesciences ) to generate GST-N-terminally-tagged fusion proteins .
+119						The tetracycline repressor was expressed with pcDNA6 and TR ( Invitrogen ) .
+120						The GEF-H1-VSV and myc-cingulin cDNAs were as described .
+121						For RNAi experiments cells were transfected with individual or pools of siGenome or On-Target plus siRNAs for p114RhoGEF ( ARHGEF18 ) , Cingulin ( CGNL1 ) and GEF-H1 ( ARHGEF2 ) as well as non targeting control siRNAs ( Thermo Scientific , Dharmacon ) .
+122						All experiments shown using GEF-H1 siRNAs were performed with the siGenome version as they were more effective than On-Target plus siRNAs .
+123						The sequences were 5 ' - GGACAAGCCUUCAGUGGUA-3 ' , 5 ' - CAACAUUGCUGGACAUUUC-3 ' , 5 ' - GAAUUAAGAUGGAGUUGCA-3 ' and 5 ' - GUGCGGAGCAGAUGUGUAA-3 ' .
+124						Sequences for individual p114RhoGEF siGenome siRNAs were 5 ' - UCAGGCGCUUGAAAGAUA-3 ' and 5 ' - GGACGCAACUCGGACCAAU-3 ' .
+125						For MDCK cells , the sequences 5 ' - AAGACCACGTCGGGACGCTTG-3 ' and 5 ' - AACTACGTCATCCAGAAAATC-3 ' were targeted using either siRNAs or by expressing shRNAs using a plasmid with a tetracycline regulated mouse U6 promoter .
+126						For cingulin , the sequences were 5 ' - GGACCAGGGUGAAGAUUUA-3 ' and 5 '- GGACACAGGAGGAGCUUAA-3 ' .
+127						For siRNA transfections , Interferin transfection reagent ( Polyplus-transfection Inc. ) was used according to the manufacturer 's instructions using a total final siRNA concentration of 40 nM .
+128						Caco-2 cells were transfected one day after plating , and HCE and MDCK cells 1 hour after seeding .
+129						Samples were collected and processed 3 - 4 days after transfection or , for the morphogenesis experiments , after 5 days .
+130						For DNA transfections 0.3 mug and ml plasmid DNA and JetPEI transfection reagent ( Polyplus-transfection Inc. ) were used according to the manufacturer 's instructions .
+131						Samples were collected and processed after 24 hours .
+132						Antibodies
+133						Antibodies used were as follows : goat anti-p114 RhoGEF ( ARHGEF18 ) ( immunoblotting , 1 and 1000 ; immunofluorescence , 1:200 ) , Everest Biotech ; mouse anti-occludin ( 1 and 1000 ) , mouse anti-ZO-1 ( immunofluorescence , 1:1000 ) and rabbit anti-cingulin ( immunoblotting , 1 and 5000 ; immunofluorescence , 1:1000 ) , Invitrogen ; goat anti-beta-catenin ( immunofluorescence , 1:100 ) and rabbit anti-cingulin ( 1:1000 ) , Santa Cruz Biotech ; guinea pig anti-occludin ( immunofluorescence , 1:200 ) , Hycult Biotech ; rabbit anti-myosin IIA ( 1:1000 ) , anti-beta-catenin ( 1:1000 ) and alpha-catenin ( 1:1000 ) , Sigma-Aldrich ; mouse anti-E-cadherin ( immunoblotting , 1 and 1000 ; immunofluorescence , 1:500 ) , anti-p120catenin ( immunoblotting , 1 and 1000 ; immunofluorescence , 1:500 ) , anti-cofilin ( immunoblotting , 1 and 500 ) , anti-Rock II ( immunoblotting , 1 and 1000 ; immunofluorescence , 1:200 ) , BD Biosciences ; rabbit anti-MLC ( immunoblotting , 1 and 500 ; immunofluorescence , 1:200 ) , anti-ppMLC ( T18 , S19 ) ( immunoblotting , 1 and 500 ; immunofluorescence , 1:200 ) and phospholyated Cofilin ( immunoblotting , 1 and 500 ) , Cell signalling Technologies ; total ( immunoblotting , 1 and 5000 ) and phosphorylated ( T696 ) ( immunoblotting , 1 and 1000 ) myosin light chain phosphotase MYPT1 , Millipore .
+134						Antibodies against ZO-1 ( rabbit : immunoblotting , 1 and 1000 ; immunofluorescence , 1:500 ; note , this antibody crossreacts with a nuclear antigen in human cells . )
+135						, alpha-tubulin ( mouse : immunoblotting , 1 and 400 ) , GEF-H1 ( mouse : immunofluorescence , 1 and 10 ; rabbit : immunoblotting , 1 and 500 ) , VSV ( mouse : immunofluorescence , 1 and 10 ; immunoblotting , 1 and 20 ) and myc ( mouse : immunofluorescence , 1 and 100 ) epitpes were described previously .
+136						Cell culture and cell lines
+137						Human adenocarcinoma colon cells ( Caco-2 ) and human corneal epithelial cells ( HCE ) , transformed with SV-40 T antigen , ( Gift from M.S. Chang , Vanderbilt University , Nashville , Tennessee , USA ) and Madin-Darby Canine Kidney cells ( MDCK ) were cultured in DMEM containing 10 % heat inactivated FBS ( 20 % FBS for Caco-2 ) with 100mug and ml streptomycin and 100mug and ml penicillin ( PAA cell culture ) at 37degreesC in a 5 % CO 2 atmosphere .
+138						Stable MDCK cell lines were generated as described .
+139						The three dimensional cultures of MDCK cells were generated as previously , and , for Caco-2 cells , a recently described method was used .
+140						Calcium switch and permeability assays
+141						Caco-2 cells were cultured in six well plates for the siRNA transfections and , after 24 hours , were trypsinised and replated in low calcium medium containing dialysed FBS .
+142						After another 24 hours , normal medium was added to induce junction formation .
+143						Samples were fixed at various time points for immunostaining .
+144						Transepithelial electrical resistance ( TER ) measurements were taken using an AC square wave current of + /- 20 muA at 12.5 Hz with a silver electrode and measuring the voltage deflection elicited with a silver and silver-chloride electrode using an EVOM ( World Precision Instruments , Sarasota , FL ) as previously described .
+145						Paracellular permeability was determined using 4 kD FITC conjugated Dextran and 70 kD Rhodamine B conjugated dextran over a time of 3 hours .
+146						Fluorescence was then determined with a FLUOstar OPTIMA microplate reader ( BMGLabTech , Offenburg , Germany ) .
+147						Immunostaining and microscopy
+148						Cells were fixed in methanol or 3 % PFA as previously described and stained with the appropriate fluorescent secondary antibodies conjugated to either FITC , Cy3 , Cy5 or AMCA ( 1:600 dilutions ; Jackson ImmunoResearch Inc. ) or incubated with FITC or TRITC conjugated Phalloidin ( Sigma ) or DNA stain Hoechst 33258 ( Invitrogen ) .
+149						Slides were observed under a Leica DMIRB fluorescent microscope , and Zeiss LSM 510 and 700 confocal laser scanning microscopes using 63x immersion oil lenses .
+150						Images were acquired using simple PCI and LSM510 and ZEN operating softwares , respectively .
+151						Image were adjusted for brightness and contrast with Adobe Photoshop .
+152						For FRET experiments , siRNA transfected cells were plated into ibid multi-well chamber slides and then transfected with pRaichu-RhoA ( kindly provided by M. Matsuda , Osaka University , Japan ) .
+153						The FRET analysis was performed at 37degreesC with a Leica SP2 microscope using the manufacturer 's software measuring donor recovery after acceptor bleaching ( YFP was bleached to 30 % ) .
+154						FRET efficiency maps were then produced with the Leica software .
+155						For quantification , CFP images were subtracted and then quantified with ImageJ .
+156						For each image , all cell-cell contacts were quantified and as many internal areas ; averages of all cell-cell contacts and all internal areas then gave one value each per image , and these values were used for the final statistical analysis .
+157						Normalisations were performed by dividing values obtained for specific fields by the values obtained for the entire field imaged .
+158						Immunoblotting , immunoprecipitations , GST pull downs , RhoGTPase activation assays
+159						Whole cell lysates were collected by washing twice with PBS before adding SDS-PAGE sample buffer and heating at 70degreesC for 10 minutes before homogenising with a 23G needle .
+160						Samples were processed using standard western blotting techniques .
+161						Protein bound antibodies were detected with horseradish peroxidase conjugated secondary antibodies using enhanced chemiluminescence detection system ( ECL , Amersham , Corp. .
+162						Arlington Heights , IL ) , or IRDye-680- and IRDye-800CW-conjugated secondary antibodies and an Odyssey detector ( LI-COR ) .
+163						For immunoprecipitations , Caco2 cells were extracted at 4degreesC with 10 mM Hepes ( pH 7.4 ) , containing 150 mM NaCl , 1 % Triton X-100 , 0.5 % sodium deoxycholate , 0.2 % SDS and a cocktail of protease and phosphotase inhibitors as previously described .
+164						Extracts were pre-adsorbed with inactive sepharose beads for 15 minutes prior to incubation with antibodies conjugated to Protein G sepharose beads for 2 hours at 4degreesC .
+165						Samples were washed twice with 0.5 % Triton X-100 in PBS and once with PBS before adding SDS-PAGE sample buffer .
+166						For GST pull-down experiments with p114RhoGEF fusion proteins , cells were extracted with the same buffer at 4degreesC and preadsorbed with inactive beads as above for immunoprecipitations .
+167						Extracts were incubated with glutathione-agarose beads coated with 15 mug of fusion proteins and incubated for 2 hours at 4degreesC before washing as described for immunoprecipitations .
+168						For RhoGTPase activation assays , cells were transfected with the appropriate siRNAs in 12-well plates and , after 72 hours , protein was harvested and analysed for levels of active RhoA , Cdc42 and Rac1 using the respective G-LISA assay kits from Cytoskeleton Inc. .
+169						Protein concentrations were equilibrated before incubation with the coated 96-well plates and HRP conjugated secondary antibodies were used for detection .
+170						Samples of cell extracts were immunoblotted for the GTPases to exclude altered expression levels .
+171						Statistical analysis
+172						Averages and standard deviations were calculated and provided in the graphs .
+173						Respective n values are provided in the figure legends .
+174						The indicated p values were obtained with two tailed Student 's t-test .
+175						Figure 1
+176						p114RhoGEF is a TJ associated RhoA GEF that regulates junction formation and the actin cytoskeleton .
+177						Caco-2 and HCE cells transfected with non targeting ( Control ) or siRNAs directed against p114RhoGEF ( p114RG ) .
+178						Lysates were analysed by immunoblotting p114RhoGEF and alpha-tubulin .
+179						Uncropped images are shown .
+180						( b - e ) HCE and Caco-2 cells were processed for immunofluorescence using antibodies against the proteins indicated .
+181						In c , cells were transfected with siRNAs targeting p114RhoGEF prior to immunofluorescence .
+182						Panels b and c are epifluorescence images whereas d and e are confocal xy and z line scans .
+183						( f ) Levels of active Rho GTPases in HCE cells were measured after transfection of either control or p114RhoGEF targeting siRNAs .
+184						Shown are averages + /- 1SD , n = 3 .
+185						( g , h ) Caco-2 and HCE cells were transfected with siRNAs ( for p114RhoGEF , a pool containing siRNA1 and 2 were used ) and then processed for immunofluorescence using antibodies against the indicated proteins ( g ) or fluorescent phalloidin to label f-actin ( h ) .
+186						For the columnar Caco-2 cells , two epifluorescence images are shown for the actin staining , one taken focusing on the apical region and one from the base of the cells .
+187						For the flat HCE cells , a single epifluorescence image is shown that includes lateral and basal actin staining .
+188						See for other tight junction markers and experiments with individual siRNAs .
+189						Bars , 10 mum .
+190						Figure 2
+191						p114RhoGEF regulates epithelial barrier formation .
+192						( a-c ) Caco-2 cells transfected with control or two different pools of p114RhoGEF specific siRNAs ( OnT refers to the On-Target pool ) were trypsinised and plated onto filters in low calcium media for 24 hours to prevent forming of cell-cell contacts .
+193						Expression of p114RhoGEF and other junctional proteins was assayed at the end of the experiment by immunoblotting .
+194						Uncropped images are shown .
+195						Normal calcium containing medium was added and cell contact formation was monitored during the next 48 hours by measuring transepithelial electrical resistance ( b , shown are averages + /- 1SD , n = 3 ) .
+196						Paracellular tracer permeability was then determined using fluorescently labelled dextrans ( c , shown are averages + /- 1SD , n = 3 ) .
+197						( d - h ) Cells transfected with siRNAs and plated in low calcium followed by incubations in normal calcium were processed for immunoblotting ( d , 24 hours of calcium , uncropped images are shown ) or fixed at the indicated times and processed for immunofluorescence analysis using an epifluorescence microscope ( e , ZO-1 ; f , f-actin ; g , p114RhoGEF and myosin IIA ) .
+198						See for additional junctional markers analysed .
+199						Focal planes for the epifluorescence images in panels f , g and h were chosen so that they include lateral and basal staining .
+200						Note , p114RhoGEF depleted cells , in contrast to GEF-H1 depleted , spread normally but did not assemble morphologically normal junctions .
+201						Bars , 10 mum .
+202						Figure 3
+203						p114RhoGEF regulates epithelial morphogenesis in three-dimensional cultures .
+204						p114RhoGEF was depleted by transfecting siRNAs into Caco-2 cells ( a-c ) or by generating MDCK cells expressing shRNAs ( d-e ) .
+205						The cells were then cultured in three-dimensional gels .
+206						After 5 days , the cultures were analysed by phase contrast microscopy and quantified by counting cysts with a single lumen or structures with a disorganised appearance and multiple lumens ( b , e ; averages + /- 1SD ; b , n = 3 ; e , n = 5 ) .
+207						The cultures were then fixed and processed for analysis by confocal microscopy using the indicated antibodies and fluorescent labels ( c , f ) .
+208						Bars , 30 mum and 10 mum ( c , f ) .
+209						See for immunoblot analysis of p114RhoGEF expression .
+210						Figure 4
+211						p114RhoGEF regulates RhoA signalling at cell junctions .
+212						( a-b ) Cells were transfected with siRNAs and , after 2 days , with a RhoA FRET biosensor .
+213						RhoA activity was then imaged by gain of CFP fluorescence after acceptor bleaching .
+214						Shown are images of control , p114RhoGEF and GEF-H1 depleted cells taken from the apical part of the cells that contains the junctional complex ( a ; see for basal sections ) .
+215						Images to monitor Rho activity during junction formation were taken between 1 and 2 hours after adding calcium ( Ca-Switch ) .
+216						Images were quantified by normalising FRET signals in specific regions ( cell-cell contacts or interior cytoplasm ) with the total FRET signal in the quantified fields ( b ; averages + /- 1SD ; n : Caco-2 , 30 for control and p114RhoGEF and 12 for GEF-H1 ; HCE , 20 for control , 14 for p114RhoGEF , 12 for GEF-H1 ; Ca-Switch , 10 ) .
+217						( c-d ) Caco-2 cells ( c ) and HCE cells , transfected with the specified siRNAs , were processed for immunofluorescence as indicated and analysed by epifluorescence microscopy .
+218						For Caco-2 cells , images taken form the apical and the basal regions are shown whereas a single image is shown for HCE cells that includes lateral and basal staining .
+219						( e ) Levels of active RhoA were measured after tetracycline induced expression of p114RhoGEF-VSV , labelled as WT , or p114RhoGEFY260A-VSV , labelled as Y260A , in MDCK cells .
+220						Shown are averages + /- 1SD , n = 3 .
+221						( f ) HCE ells were transfected with the indicated constructs for p114RhoGEF and GEF-H1 expression and then processed for immunofluorescence and confocal microscopy .
+222						Shown are z line scans and xy sections .
+223						Note , the contracted appearance of cells expressing active p114RhoGEF .
+224						( g ) Images from samples as those in panel f for HCE cells and analogous samples generated with Caco-2 cells were quantified by counting transfected cells with a rounded and contracted appearance and cells that remained normal and flat .
+225						Shown are averages + /- 1SD , n = 3 .
+226						( h ) HCE cells transfected as in panel f were stained for ZO-1 and beta-catenin , and imaged by epifluorescence microscopy ( the used antibody against ZO-1 crossreacts with a nuclear antigen in human cells ) .
+227						The overlay shows ZO-1 in green , beta-catenin in blue and VSV in red .
+228						Bars , 10 mum .
+229						Figure 5
+230						114RhoGEF forms a complex with myosin II , cingulin and Rock II .
+231						p114RhoGEF was immuoprecipitated from cell extracts of normally cultured Caco-2 cells or cells kept in low calcium to prevent junction formation .
+232						Beads conjugated with a non related goat IgG were used as negative control .
+233						Coprecipitating proteins were analysed by immunoblotting as indicated .
+234						Uncropped images are shown .
+235						( b ) GST fusion proteins containing different domains of p114RhoGEF were bound to beads and used for pull down experiments with Caco-2 cell extract .
+236						Pull downs were analysed by immunoblotting .
+237						( c ) Cells were transfected with control or cingulin targeting siRNAs and expression of the indicated proteins was analysed by immunoblotting .
+238						( d , e ) Caco-2 and HCE cells were transfected with siRNAs as in panel c and then fixed and processed for immunofluorescence to localise p114RhoGEF and junctional proteins .
+239						Shown are fields from depleted samples that still express some cingulin ( labelled with asterisks ) .
+240						( f ) HCE cells were transfected with siRNAs as indicated and then processed for immunofluorescence .
+241						All immunofluorescence images shown were acquired by epifluorescence microscopy and include lateral and basal structures .
+242						Bars , 10 mum .

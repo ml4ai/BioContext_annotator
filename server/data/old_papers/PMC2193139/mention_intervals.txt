@@ -1,0 +1,303 @@
+0 2-3-B_Lymphocyte-tissuelist:TS-0068
+1 
+1 28-29-B_cell-uaz:UA-CLine-100005
+2 3-3-human-taxonomy:9606 5-5-mouse-taxonomy:10090 13-13-human-taxonomy:9606 19-19-chromosome-go:GO:0005694
+3 4-5-B_lymphocytes-uaz:UA-CLine-100009 10-10-lymphocytes-uaz:UA-CT-22
+4 0-0-Human-taxonomy:9606 1-2-germinal_center-uaz:UA-ORG-359 3-4-B_cells-uaz:UA-CLine-100005 12-13-B_cells-uaz:UA-CLine-100005 33-34-B_cell-uaz:UA-CLine-100005
+5 9-10-plasma_membrane-go:GO:0005886
+6 0-0-Membrane-go:GO:0016020 23-23-membrane-go:GO:0016020
+7 4-5-B_cells-uaz:UA-CLine-100005 21-22-T_cells-uaz:UA-CLine-100050
+8 6-7-B_cell-uaz:UA-CLine-100005
+9 
+9 
+10 
+10 3-4-B_lymphocytes-uaz:UA-CLine-100009 7-9-peripheral_lymphoid_tissues-uaz:UA-ORG-1085 22-23-bone_marrow-tissuelist:TS-0087 31-32-B_cell-uaz:UA-CLine-100005
+11 
+12 1-2-B_cell-uaz:UA-CLine-100005 13-14-B_cell-uaz:UA-CLine-100005
+13 10-11-B_cells-uaz:UA-CLine-100005
+14 17-18-B_cell-uaz:UA-CLine-100005
+15 
+16 
+17 
+17 
+18 
+19 
+20 16-16-membrane-go:GO:0016020
+21 4-5-B_cell-uaz:UA-CLine-100005
+22 17-18-T_cells-uaz:UA-CLine-100050
+23 
+24 
+24 1-2-B_cell-uaz:UA-CLine-100005 5-5-thymus-tissuelist:TS-1043 10-11-B_cell-uaz:UA-CLine-100005 18-19-germinal_centers-uaz:UA-ORG-359
+25 6-7-B_cells-uaz:UA-CLine-100005 15-16-T_cell-uaz:UA-CLine-100050 21-22-B_cell-uaz:UA-CLine-100005 33-34-dendritic_cell-tissuelist:TS-0194
+26 1-2-B_cells-uaz:UA-CLine-100005 29-30-B_cells-uaz:UA-CLine-100005 32-33-plasma_cells-uaz:UA-CT-3
+27 1-2-B_cells-uaz:UA-CLine-100005 26-27-B_cell-uaz:UA-CLine-100005
+28 4-5-B_cell-uaz:UA-CLine-100005
+29 22-23-B_cell-uaz:UA-CLine-100005 33-34-B_cells-uaz:UA-CLine-100005 39-40-B_cell-uaz:UA-CLine-100005
+30 
+30 
+31 
+31 
+32 
+32 6-6-human-taxonomy:9606 7-7-tonsils-uaz:UA-ORG-1013
+33 
+34 13-14-B_cell-uaz:UA-CLine-100005
+35 20-20-fibroblast-uaz:UA-CLine-100060 30-30-HeLa-uaz:UA-CLine-5369
+36 34-34-fibroblast-uaz:UA-CLine-100060 36-37-epithelial_cell-tissuelist:TS-0288
+37 
+38 
+39 12-12-human-taxonomy:9606 13-14-lymph_node-tissuelist:TS-0579
+40 47-47-spleen-tissuelist:TS-0956
+41 
+41 
+42 
+42 
+43 1-1-chromosome-go:GO:0005694 4-4-lymphocytes-uaz:UA-CT-22 7-7-human-taxonomy:9606
+44 
+45 1-1-chromosomes-go:GO:0005694
+46 1-1-chromosomes-go:GO:0005694
+47 
+47 
+48 
+48 10-10-human-taxonomy:9606 32-32-human-taxonomy:9606 33-33-tonsils-uaz:UA-ORG-1013
+49 
+50 
+51 
+52 
+52 7-8-B_cell-uaz:UA-CLine-100005 12-13-B_cells-uaz:UA-CLine-100005
+53 11-12-B_cells-uaz:UA-CLine-100005 20-21-B_cells-uaz:UA-CLine-100005
+54 11-11-G28-5-uaz:UA-CLine-6341
+55 
+56 
+56 
+57 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 2-2-serum-tissuelist:TS-0923 10-10-rabbits-taxonomy:9986
+65 14-14-mice-taxonomy:10090
+66 30-30-rabbit-taxonomy:9986
+67 
+67 
+68 
+68 
+69 
+70 
+71 
+71 
+72 
+72 4-4-Ramos-uaz:UA-CLine-6550
+73 
+74 
+75 
+75 
+76 
+76 
+77 
+78 5-5-membrane-go:GO:0016020
+79 
+80 
+81 
+82 
+83 3-3-membrane-go:GO:0016020
+84 13-14-plasma_membrane-go:GO:0005886 29-29-cytoplasm-go:GO:0005737 33-33-nucleus-go:GO:0005634
+85 
+85 
+86 
+86 1-2-B_cells-uaz:UA-CLine-100005
+87 
+88 
+89 
+90 
+90 
+91 
+91 
+92 
+92 18-18-human-taxonomy:9606
+93 18-19-B_cells-uaz:UA-CLine-100005
+94 
+95 17-17-human-taxonomy:9606 18-19-lymph_node-tissuelist:TS-0579
+96 
+97 
+98 
+99 24-25-B_lymphocyte-tissuelist:TS-0068
+100 
+100 
+101 9-9-human-taxonomy:9606
+102 29-29-human-taxonomy:9606
+103 14-14-human-taxonomy:9606 26-26-mouse-taxonomy:10090
+104 4-4-human-taxonomy:9606
+105 5-5-human-taxonomy:9606 20-20-human-taxonomy:9606 22-22-chromosomes-go:GO:0005694
+106 20-20-chromosome-go:GO:0005694
+107 
+107 4-5-B_Lymphocytes-uaz:UA-CLine-100009 9-10-T_Cells-uaz:UA-CLine-100050
+108 
+108 4-4-human-taxonomy:9606
+109 
+110 10-11-bone_marrow-tissuelist:TS-0087 13-13-spleen-tissuelist:TS-0956 15-16-lymph_node-tissuelist:TS-0579 19-20-peripheral_blood-tissuelist:TS-0771 28-28-thymus-tissuelist:TS-1043
+111 6-6-trachea-tissuelist:TS-1060 8-8-placenta-tissuelist:TS-0799 18-18-brain-tissuelist:TS-0095 20-20-heart-tissuelist:TS-0445 22-22-kidney-tissuelist:TS-0510 24-24-liver-tissuelist:TS-0564 26-27-skeletal_muscle-tissuelist:TS-0933 39-40-immune_system-uaz:UA-ORG-406
+112 17-18-B_cell-uaz:UA-CLine-100005 25-26-T_cell-uaz:UA-CLine-100050 28-29-epithelial_cell-tissuelist:TS-0288 31-31-fibroblast-uaz:UA-CLine-100060 35-35-leukemia-tissuelist:TS-0547
+113 20-20-fibroblast-uaz:UA-CLine-100060
+114 
+114 5-6-B_Cell-uaz:UA-CLine-100005
+115 
+115 24-25-B_cell-uaz:UA-CLine-100005
+116 4-4-human-taxonomy:9606 6-7-B_cells-uaz:UA-CLine-100005
+117 10-11-B_cells-uaz:UA-CLine-100005 18-19-B_cells-uaz:UA-CLine-100005
+118 4-5-B_cell-uaz:UA-CLine-100005 16-17-B_cells-uaz:UA-CLine-100005
+119 10-11-B_cell-uaz:UA-CLine-100005
+120 13-14-B_cells-uaz:UA-CLine-100005
+121 
+122 12-13-T_cell-uaz:UA-CLine-100050 35-36-B_cells-uaz:UA-CLine-100005
+123 
+123 
+124 
+124 10-11-B_cell-uaz:UA-CLine-100005 23-24-B_cells-uaz:UA-CLine-100005
+125 24-24-Ramos-uaz:UA-CLine-6550
+126 14-14-Jurkat-uaz:UA-CLine-2244
+127 
+128 
+129 
+130 
+130 
+131 
+132 17-17-membrane-go:GO:0016020
+133 
+134 13-14-B_cell-uaz:UA-CLine-100005
+135 
+135 5-6-Plasma_Membrane-go:GO:0005886
+136 
+136 8-9-plasma_membrane-go:GO:0005886 36-37-B_cells-uaz:UA-CLine-100005
+137 17-18-B_cells-uaz:UA-CLine-100005
+138 23-24-plasma_membrane-go:GO:0005886
+139 0-0-Membrane-go:GO:0016020
+140 9-9-membrane-go:GO:0016020
+141 10-10-cytoplasm-go:GO:0005737 23-24-plasma_membrane-go:GO:0005886
+142 16-16-membrane-go:GO:0016020 30-30-membrane-go:GO:0016020
+143 
+143 7-7-membrane-go:GO:0016020 11-12-B_cells-uaz:UA-CLine-100005 25-25-3T3-uaz:UA-CLine-1347 38-38-membrane-go:GO:0016020
+144 7-8-plasma_membrane-go:GO:0005886 11-11-cytoplasm-go:GO:0005737 22-22-membrane-go:GO:0016020
+145 24-25-plasma_membrane-go:GO:0005886 30-30-cytoplasm-go:GO:0005737 38-38-membrane-go:GO:0016020
+146 16-16-nucleus-go:GO:0005634
+147 15-16-plasma_membrane-go:GO:0005886 32-33-plasma_membrane-go:GO:0005886
+148 
+148 8-9-Plasma_Membrane-go:GO:0005886
+149 
+149 3-3-membrane-go:GO:0016020
+150 3-3-membrane-go:GO:0016020 12-12-membrane-go:GO:0016020
+151 52-52-human-taxonomy:9606 59-59-mice-taxonomy:10090
+152 3-3-membrane-go:GO:0016020
+153 5-5-membrane-go:GO:0016020
+154 33-33-membrane-go:GO:0016020
+155 9-9-membrane-go:GO:0016020 21-21-membrane-go:GO:0016020
+156 8-8-membrane-go:GO:0016020
+157 12-12-membrane-go:GO:0016020
+158 18-19-plasma_membrane-go:GO:0005886
+159 
+159 
+160 
+160 8-8-membrane-go:GO:0016020
+161 35-36-T_cell-uaz:UA-CLine-100050
+162 28-29-B_cell-uaz:UA-CLine-100005
+163 
+164 
+165 34-34-membrane-go:GO:0016020
+166 
+166 20-21-B_cells-uaz:UA-CLine-100005
+167 
+168 
+169 
+169 
+170 
+170 6-6-humans-taxonomy:9606 20-20-lymphocytes-uaz:UA-CT-22
+171 26-26-lymphocyte-tissuelist:TS-0583
+172 
+173 20-20-mouse-taxonomy:10090 28-28-human-taxonomy:9606 32-32-chicken-taxonomy:9031 40-40-human-taxonomy:9606
+174 
+174 
+175 
+175 5-6-B,-uaz:UA-CLine-100007 10-10-lymphocytes-uaz:UA-CT-22
+176 10-10-trachea-tissuelist:TS-1060 15-15-lymphocytes-uaz:UA-CT-22
+177 9-9-monocyte-tissuelist:TS-0638 38-38-trachea-tissuelist:TS-1060
+178 12-13-pre-B_cell-tissuelist:TS-0819
+179 3-4-B_cells-uaz:UA-CLine-100005 24-25-B_cell-uaz:UA-CLine-100005 34-35-B_cells-uaz:UA-CLine-100005
+180 1-1-human-taxonomy:9606 2-3-B_cell-uaz:UA-CLine-100005 19-19-lymphoma-tissuelist:TS-0585 21-21-Ramos-uaz:UA-CLine-6550 23-23-Daudi-uaz:UA-CLine-7023 36-37-B_cells-uaz:UA-CLine-100005
+181 10-11-B_cells-uaz:UA-CLine-100005 22-23-B_cells-uaz:UA-CLine-100005
+182 
+183 12-13-T_cell-uaz:UA-CLine-100050 15-16-B_cell-uaz:UA-CLine-100005
+184 27-28-B_cell-uaz:UA-CLine-100005
+185 
+185 1-1-human-taxonomy:9606 7-7-chromosome-go:GO:0005694
+186 19-19-chromosome-go:GO:0005694
+187 7-7-chromosome-go:GO:0005694 24-25-B_cells-uaz:UA-CLine-100005
+188 9-10-B_cells-uaz:UA-CLine-100005 27-28-B_cell-uaz:UA-CLine-100005 37-37-lymphoma-tissuelist:TS-0585
+189 
+189 
+190 
+190 
+191 
+192 
+193 
+194 
+195 
+196 30-30-membrane-go:GO:0016020
+197 
+197 
+198 
+198 
+199 
+200 27-27-lymphocytes-uaz:UA-CT-22 33-33-DOK-uaz:UA-CLine-1138
+201 
+202 
+203 
+204 
+205 
+205 
+206 
+206 13-13-membrane-go:GO:0016020
+207 30-30-membrane-go:GO:0016020 36-36-membrane-go:GO:0016020
+208 
+209 
+210 23-23-membrane-go:GO:0016020
+211 10-11-plasma_membrane-go:GO:0005886
+212 15-15-name-taxonomy:55581
+213 42-42-membrane-go:GO:0016020
+214 
+214 6-7-B_cell-uaz:UA-CLine-100005 15-16-plasma_membrane-go:GO:0005886
+215 3-3-membrane-go:GO:0016020 15-15-membrane-go:GO:0016020 24-25-B_cell-uaz:UA-CLine-100005 38-38-membrane-go:GO:0016020
+216 6-6-membrane-go:GO:0016020 24-25-plasma_membrane-go:GO:0005886 28-29-B_cells-uaz:UA-CLine-100005
+217 10-10-membrane-go:GO:0016020 13-13-cytoplasm-go:GO:0005737 33-33-membrane-go:GO:0016020 44-44-membrane-go:GO:0016020 46-46-cytoplasm-go:GO:0005737
+218 
+219 
+220 
+221 
+221 4-5-B_Cell-uaz:UA-CLine-100005
+222 
+222 12-13-B_cell-uaz:UA-CLine-100005 26-27-B_cell-uaz:UA-CLine-100005
+223 5-6-B_cell-uaz:UA-CLine-100005 20-20-membrane-go:GO:0016020
+224 
+225 28-29-plasma_membrane-go:GO:0005886 36-36-membrane-go:GO:0016020
+226 
+227 
+227 
+228 
+229 6-7-B_cells-uaz:UA-CLine-100005 11-12-T_cells-uaz:UA-CLine-100050
+230 6-7-B_cells-uaz:UA-CLine-100005 36-37-B_cells-uaz:UA-CLine-100005
+231 
+232 26-27-plasma_membrane-go:GO:0005886
+233 
+234 
+235 
+236 25-25-nucleus-go:GO:0005634
+237 
+238 
+238 10-11-B_cell-uaz:UA-CLine-100005 24-25-B_cell-uaz:UA-CLine-100005 37-37-mice-taxonomy:10090
+239 
+240 13-14-B_lymphocytes-uaz:UA-CLine-100009
+241 14-15-B_cells-uaz:UA-CLine-100005 18-19-B_cells-uaz:UA-CLine-100005 22-22-mice-taxonomy:10090
+242 3-4-B_cells-uaz:UA-CLine-100005 7-7-mice-taxonomy:10090 11-12-B_cells-uaz:UA-CLine-100005 15-15-mice-taxonomy:10090
+243 20-20-nucleus-go:GO:0005634
+244 

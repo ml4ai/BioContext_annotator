@@ -1,0 +1,10 @@
+Binding	96
+Binding	96
+Binding	100
+Binding	102
+Binding	105
+Positive_activation	130
+Positive_activation	144
+Positive_activation	149
+Positive_activation	152
+Binding	155

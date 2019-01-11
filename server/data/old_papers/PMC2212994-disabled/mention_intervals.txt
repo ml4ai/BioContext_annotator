@@ -1,0 +1,303 @@
+0 
+1 
+1 1-2-B_cell-uaz:UA-CLine-100005
+2 
+3 
+4 7-8-lymphoid_tissue-tissuelist:TS-0584
+5 
+6 
+6 3-4-B_cell-uaz:UA-CLine-100005 25-29-immature_and_naive_B_lymphocytes-uaz:UA-CT-100026 37-38-B_cells-uaz:UA-CLine-100005
+7 
+8 
+9 
+10 24-24-nucleus-go:GO:0005634
+11 
+12 
+12 
+13 
+14 32-33-lymphoid_tissue-tissuelist:TS-0584
+15 2-3-B_cells-uaz:UA-CLine-100005
+16 9-9-SH3-uaz:UA-CLine-8476 18-18-membrane-go:GO:0016020 28-28-membrane-go:GO:0016020 43-43-membrane-go:GO:0016020
+17 
+18 
+19 
+19 
+20 
+21 
+22 
+22 
+23 
+23 
+24 
+24 23-24-B_cells-uaz:UA-CLine-100005 41-41-DT40-uaz:UA-CLine-6143 42-43-B_cells-uaz:UA-CLine-100005
+25 
+26 8-8-DT40-uaz:UA-CLine-6143
+27 9-9-DT40-uaz:UA-CLine-6143
+28 7-7-chicken-taxonomy:9031 8-8-DT40-uaz:UA-CLine-6143 9-10-B_cell-uaz:UA-CLine-100005
+29 9-9-DT40-uaz:UA-CLine-6143 10-11-B_cell-uaz:UA-CLine-100005
+30 
+31 
+31 
+32 
+32 9-9-DT40-uaz:UA-CLine-6143
+33 5-5-DT40-uaz:UA-CLine-6143 26-26-DT40-uaz:UA-CLine-6143 27-28-B_cells-uaz:UA-CLine-100005
+34 
+35 
+36 
+37 
+38 
+39 
+39 
+40 
+41 
+42 
+43 
+44 
+45 11-12-B_cells-uaz:UA-CLine-100005
+46 
+47 6-6-DT40-uaz:UA-CLine-6143 7-8-B_cells-uaz:UA-CLine-100005
+48 6-6-DT40-uaz:UA-CLine-6143 7-8-B_cells-uaz:UA-CLine-100005
+49 14-14-DT40-uaz:UA-CLine-6143 15-16-B_cells-uaz:UA-CLine-100005
+50 
+51 13-14-B_cells-uaz:UA-CLine-100005 18-18-DT40-uaz:UA-CLine-6143 19-20-B_cells-uaz:UA-CLine-100005
+52 
+52 
+53 
+53 
+54 8-9-B_cells-uaz:UA-CLine-100005 11-11-spleens-uaz:UA-CT-200004 16-16-mice-taxonomy:10090
+55 
+56 
+57 16-16-DT40-uaz:UA-CLine-6143 24-24-DT40-uaz:UA-CLine-6143
+58 
+59 
+60 7-7-DT40-uaz:UA-CLine-6143 31-31-DT40-uaz:UA-CLine-6143
+61 
+62 
+63 
+63 14-14-DT40-uaz:UA-CLine-6143
+64 3-4-B,-uaz:UA-CLine-100007 14-14-DT40-uaz:UA-CLine-6143 15-16-B_cells-uaz:UA-CLine-100005
+65 
+66 
+67 
+68 18-18-DT40-uaz:UA-CLine-6143 19-20-B_cells-uaz:UA-CLine-100005
+69 
+69 
+70 
+70 6-6-DT40-uaz:UA-CLine-6143 7-8-B_cells-uaz:UA-CLine-100005 25-26-B_cells-uaz:UA-CLine-100005
+71 
+72 26-26-DT40-uaz:UA-CLine-6143 27-28-B_cell-uaz:UA-CLine-100005
+73 
+74 33-34-nonlymphoid_cells-uaz:UA-CT-100029
+75 18-18-DT40-uaz:UA-CLine-6143 19-20-B_cells-uaz:UA-CLine-100005
+76 
+77 
+77 
+78 
+78 
+79 18-18-human-taxonomy:9606 32-32-DT40-uaz:UA-CLine-6143
+80 13-13-DT40-uaz:UA-CLine-6143
+81 9-9-DT40-uaz:UA-CLine-6143 35-35-DT40-uaz:UA-CLine-6143
+82 
+83 
+83 25-25-DT40-uaz:UA-CLine-6143 26-27-B_cells-uaz:UA-CLine-100005
+84 
+85 
+85 
+86 
+86 27-27-DT40-uaz:UA-CLine-6143 28-29-B_cells-uaz:UA-CLine-100005
+87 10-11-B_cells-uaz:UA-CLine-100005
+88 8-9-B_cells-uaz:UA-CLine-100005
+89 
+90 
+91 
+92 
+93 20-20-293T-uaz:UA-CLine-100002
+94 
+95 
+95 
+96 
+96 
+97 14-14-DT40-uaz:UA-CLine-6143
+98 5-6-B_cells-uaz:UA-CLine-100005 8-8-spleens-uaz:UA-CT-200004 13-13-mice-taxonomy:10090
+99 
+100 
+100 
+101 
+101 
+102 
+103 
+104 7-7-DT40-uaz:UA-CLine-6143
+105 
+106 
+107 25-25-293T-uaz:UA-CLine-100002
+108 
+109 
+110 
+111 
+111 
+112 
+112 
+113 
+114 17-17-DT40-uaz:UA-CLine-6143 18-19-B_cells-uaz:UA-CLine-100005
+115 
+116 
+117 16-16-DT40-uaz:UA-CLine-6143 17-18-B_cells-uaz:UA-CLine-100005
+118 
+119 4-10-wild-type_and_PKCbeta-deficient_DT40_B_cells-uaz:UA-CT-100008
+120 
+121 
+121 
+122 
+122 
+123 13-13-DT40-uaz:UA-CLine-6143 23-23-B.-uaz:UA-CLine-100008 41-41-DT40-uaz:UA-CLine-6143
+124 
+125 
+125 
+126 
+127 
+127 
+128 
+128 
+129 
+130 
+131 
+131 
+132 
+132 
+133 
+134 
+135 
+136 
+136 
+137 17-17-DT40-uaz:UA-CLine-6143 18-19-B_cells-uaz:UA-CLine-100005
+138 3-4-B,-uaz:UA-CLine-100007
+139 37-38-B,-uaz:UA-CLine-100007
+140 
+141 
+141 
+142 
+142 
+143 
+144 
+145 
+146 6-7-T_cells-uaz:UA-CLine-100050 20-21-B_cells-uaz:UA-CLine-100005
+147 
+147 
+148 
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+154 
+155 5-10-wild-type_and_PKCbeta-deficient_DT40_cells-uaz:UA-CT-100008
+156 12-12-DT40-uaz:UA-CLine-6143
+157 
+157 
+158 9-9-SH3-uaz:UA-CLine-8476
+159 23-24-postsynaptic_membrane-go:GO:0045211 27-27-neurons-uaz:UA-ORG-623
+160 17-17-SH3-uaz:UA-CLine-8476
+161 
+162 
+163 
+164 
+165 
+166 
+166 14-15-T_cells-uaz:UA-CLine-100050
+167 4-4-DT40-uaz:UA-CLine-6143 5-6-B_cells-uaz:UA-CLine-100005
+168 
+169 
+170 
+171 
+172 
+172 
+173 
+174 
+175 
+176 
+177 8-8-Jurkat-uaz:UA-CLine-2244 9-10-T_cells-uaz:UA-CLine-100050 28-28-DT40-uaz:UA-CLine-6143 29-30-B_cells-uaz:UA-CLine-100005
+178 
+179 
+180 
+180 3-5-wild-type_DT40_cells-uaz:UA-CT-100008
+181 
+182 
+183 
+184 
+185 
+186 
+187 
+187 
+188 
+189 13-13-DT40-uaz:UA-CLine-6143
+190 
+191 4-5-immune_system-uaz:UA-ORG-406 16-17-immune_system-uaz:UA-ORG-406
+192 
+192 
+193 
+193 2-2-mice-taxonomy:10090
+194 
+194 4-4-DT40-uaz:UA-CLine-6143 25-25-chicken-taxonomy:9031 26-26-serum-tissuelist:TS-0923
+195 4-4-mice-taxonomy:10090
+196 9-9-rabbits-taxonomy:9986 28-28-chicken-taxonomy:9031
+197 4-4-M4-uaz:UA-CLine-138
+198 
+199 
+200 
+201 
+202 
+203 
+204 
+205 
+205 
+206 
+206 2-2-mouse-taxonomy:10090
+207 
+208 
+209 7-7-DT40-uaz:UA-CLine-6143
+210 
+210 4-4-DT40-uaz:UA-CLine-6143
+211 
+211 16-16-chicken-taxonomy:9031 27-27-chicken-taxonomy:9031 34-34-DT40-uaz:UA-CLine-6143 35-36-B_cells-uaz:UA-CLine-100005
+212 
+213 
+214 18-18-chicken-taxonomy:9031
+215 
+216 7-7-DT40-uaz:UA-CLine-6143 23-23-DT40-uaz:UA-CLine-6143
+217 
+217 
+218 
+218 
+219 20-20-membrane-go:GO:0016020 30-30-horseradish-taxonomy:3704
+220 
+221 
+221 
+222 
+222 
+223 7-7-DT40-uaz:UA-CLine-6143 21-21-M4-uaz:UA-CLine-138
+224 
+224 
+225 
+225 11-11-DT40-uaz:UA-CLine-6143 19-19-M4-uaz:UA-CLine-138
+226 
+227 
+228 
+229 6-6-mouse-taxonomy:10090 19-19-human-taxonomy:9606
+230 
+231 11-11-membrane-go:GO:0016020
+232 
+233 
+233 
+234 
+234 0-1-Cell_surface-go:GO:0009986 8-8-DT40-uaz:UA-CLine-6143
+235 
+235 
+236 
+236 
+237 6-6-DT40-uaz:UA-CLine-6143 18-18-DT40-uaz:UA-CLine-6143 19-20-B_cells-uaz:UA-CLine-100005
+238 
+239 7-8-cell_surface-go:GO:0009986 15-15-DT40-uaz:UA-CLine-6143
+240 
+241 

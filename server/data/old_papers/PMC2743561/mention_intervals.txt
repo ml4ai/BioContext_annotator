@@ -1,0 +1,376 @@
+0 
+1 
+1 
+2 
+3 
+4 4-4-human-taxonomy:9606
+5 
+6 
+7 
+8 9-9-human-taxonomy:9606
+9 
+10 
+10 
+11 
+12 10-11-endothelial_cell-tissuelist:TS-0278
+13 
+14 
+15 
+16 
+16 
+17 
+18 
+19 
+20 
+21 10-10-telomeres-uniprot:SL-0276
+22 
+22 
+23 
+24 
+25 
+26 
+26 5-5-HCA2-uaz:UA-CLine-100115 6-6-human-taxonomy:9606 8-8-fibroblasts-uaz:UA-CLine-100060
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+33 
+34 
+35 0-0-Human-taxonomy:9606 1-2-WI-38_fibroblasts-uaz:UA-CLine-888
+36 
+37 
+37 
+38 
+39 
+40 
+41 
+41 0-0-HCA2-uaz:UA-CLine-100115 1-1-fibroblasts-uaz:UA-CLine-100060 13-13-telomeres-uniprot:SL-0276
+42 
+43 
+44 0-0-IMR-90-uaz:UA-CLine-7214 1-1-human-taxonomy:9606 2-2-fibroblasts-uaz:UA-CLine-100060
+45 23-23-HCA2-uaz:UA-CLine-100115
+46 5-5-telomeres-uniprot:SL-0276
+47 
+48 0-0-IMR90-uaz:UA-CLine-7214 1-1-fibroblasts-uaz:UA-CLine-100060
+49 
+50 
+51 
+51 12-12-HCA2-uaz:UA-CLine-100115
+52 
+53 
+54 4-4-telomere-uniprot:SL-0276
+55 
+56 
+57 
+58 
+58 56-56-HCA2-uaz:UA-CLine-100115
+59 3-3-HCA2-uaz:UA-CLine-100115
+60 
+61 
+62 
+62 11-11-HCA2-uaz:UA-CLine-100115
+63 
+64 
+65 
+66 
+67 
+67 
+68 
+69 
+70 18-18-telomeres-uniprot:SL-0276
+71 
+72 
+72 
+73 
+74 2-2-HCA2-uaz:UA-CLine-100115
+75 
+76 5-6-WI-38_fibroblasts-uaz:UA-CLine-888
+77 
+78 4-4-fibroblasts-uaz:UA-CLine-100060
+79 
+79 
+80 20-20-fibroblasts-uaz:UA-CLine-100060 25-25-patient-taxonomy:9606
+81 
+82 
+83 
+84 
+85 
+85 
+86 
+87 
+88 
+88 24-24-HCA2-uaz:UA-CLine-100115
+89 
+90 
+91 
+92 
+93 
+94 
+94 
+95 
+96 3-3-human-taxonomy:9606 4-5-breast_cancer-tissuelist:TS-0591 15-16-basement_membrane-go:GO:0005604
+97 
+98 
+99 
+99 14-14-human-taxonomy:9606 15-15-breast-tissuelist:TS-0595 17-17-lung-tissuelist:TS-0568 19-19-skin-tissuelist:TS-0934 21-21-bladder-tissuelist:TS-1090 23-23-colon-tissuelist:TS-0158
+100 10-10-fibroblasts-uaz:UA-CLine-100060
+101 
+102 26-26-human-taxonomy:9606 27-28-breast_cancer-tissuelist:TS-0591
+103 19-19-human-taxonomy:9606 20-20-breast-tissuelist:TS-0595
+104 
+105 
+105 32-32-human-taxonomy:9606 33-33-colon-tissuelist:TS-0158
+106 25-25-HCA2-uaz:UA-CLine-100115
+107 
+108 7-7-fibroblasts-uaz:UA-CLine-100060
+109 
+110 
+111 
+112 16-16-HCA2-uaz:UA-CLine-100115
+113 
+114 
+114 
+115 
+116 25-25-nucleus-go:GO:0005634
+117 8-8-telomeres-uniprot:SL-0276
+118 
+119 
+120 
+121 
+122 
+123 
+123 
+124 
+125 
+126 
+127 15-15-stem-tissuelist:TS-0971
+128 
+129 
+129 
+130 
+131 
+132 
+133 
+134 39-40-immune_system-uaz:UA-ORG-406
+135 22-23-immune_cells-uaz:UA-CT-9 30-30-liver-tissuelist:TS-0564 40-41-immune_system-uaz:UA-ORG-406
+136 
+137 
+137 
+138 
+138 45-45-JC-uaz:UA-CLine-7067 51-51-JC-uaz:UA-CLine-7067
+139 
+139 
+140 
+140 
+141 
+141 0-0-HCA2-uaz:UA-CLine-100115 1-1-foreskin-tissuelist:TS-0383 2-2-fibroblasts-uaz:UA-CLine-100060 38-38-serum-tissuelist:TS-0923
+142 
+143 
+144 11-11-fibroblasts-uaz:UA-CLine-100060
+145 
+146 12-12-PT67-uaz:UA-CLine-3737
+147 
+147 
+148 
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+154 
+155 
+155 
+156 
+156 
+157 
+157 
+158 16-16-donkey-taxonomy:9793 17-17-serum-tissuelist:TS-0923
+159 
+160 
+161 
+162 
+162 
+163 
+163 
+164 
+165 
+166 
+166 
+167 
+167 
+168 0-0-Donkey-taxonomy:9793
+169 
+170 
+170 
+171 
+171 
+172 
+173 
+173 
+174 
+174 
+175 
+176 
+177 
+177 
+178 
+178 
+179 9-10-basement_membrane-go:GO:0005604
+180 
+181 
+182 
+183 
+183 
+184 
+184 
+185 23-23-Human-taxonomy:9606
+186 
+186 
+187 
+187 
+188 
+189 
+190 6-6-membranes-go:GO:0016020 17-17-milk-tissuelist:TS-0636
+191 
+192 
+193 
+193 
+194 
+194 
+195 
+195 
+196 
+196 
+197 
+197 
+198 
+198 
+199 
+199 
+200 
+200 0-0-HCA2-uaz:UA-CLine-100115 1-1-fibroblasts-uaz:UA-CLine-100060
+201 
+202 
+202 
+203 
+204 
+204 3-3-HCA2-uaz:UA-CLine-100115
+205 
+206 
+206 0-0-HCA2-uaz:UA-CLine-100115
+207 
+208 
+208 3-3-HCA2-uaz:UA-CLine-100115
+209 
+210 
+210 25-25-telomere-uniprot:SL-0276
+211 
+212 
+213 
+213 
+214 21-21-scale-tissuelist:TS-0895
+215 
+215 
+216 
+216 
+217 
+217 0-0-HCA2-uaz:UA-CLine-100115
+218 14-14-axis-uaz:UA-ORG-75
+219 
+220 
+221 
+222 
+222 3-3-HCA2-uaz:UA-CLine-100115
+223 
+224 
+224 
+225 
+226 
+227 
+227 
+228 
+229 
+229 8-8-retrovirus-taxonomy:31931
+230 30-30-2a-uaz:UA-CLine-7484
+231 
+231 5-5-HCA2-uaz:UA-CLine-100115 7-7-HCA2-uaz:UA-CLine-100115 40-40-2a-uaz:UA-CLine-7484
+232 
+233 
+234 
+234 
+235 
+235 
+236 
+236 2-2-HCA2-uaz:UA-CLine-100115
+237 11-11-scale-tissuelist:TS-0895
+238 
+238 5-5-HCA2-uaz:UA-CLine-100115 13-13-retrovirus-taxonomy:31931
+239 30-30-scale-tissuelist:TS-0895
+240 
+241 
+241 5-5-HCA2-uaz:UA-CLine-100115 38-38-scale-tissuelist:TS-0895
+242 
+242 7-7-retrovirus-taxonomy:31931
+243 
+243 
+244 
+244 
+245 
+245 0-0-HCA2-uaz:UA-CLine-100115
+246 
+247 
+247 3-3-HCA2-uaz:UA-CLine-100115
+248 
+249 
+250 
+251 
+251 5-5-HCA2-uaz:UA-CLine-100115
+252 
+252 
+253 
+253 
+254 3-3-HCA2-uaz:UA-CLine-100115
+255 
+256 
+256 3-3-HCA2-uaz:UA-CLine-100115
+257 
+258 
+258 5-5-HCA2-uaz:UA-CLine-100115
+259 
+259 
+260 
+260 
+261 
+261 9-9-HCA2-uaz:UA-CLine-100115
+262 
+263 
+264 
+264 
+265 
+266 
+267 
+267 11-11-HCA2-uaz:UA-CLine-100115
+268 22-22-serum-tissuelist:TS-0923 31-31-HCA2-uaz:UA-CLine-100115
+269 
+270 
+270 0-0-Human-taxonomy:9606 1-1-breast-tissuelist:TS-0595
+271 
+272 
+273 
+273 3-3-HCA2-uaz:UA-CLine-100115
+274 
+274 3-3-HCA2-uaz:UA-CLine-100115
+275 
+275 3-3-HCA2-uaz:UA-CLine-100115
+276 
+277 
+277 4-4-fibroblasts-uaz:UA-CLine-100060
+278 
+279 
+279 3-3-HCA2-uaz:UA-CLine-100115
+280 

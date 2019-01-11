@@ -1,0 +1,193 @@
+1						the integrin effector pinch regulate jnk activity and epithelial migration in concert with ra suppressor 1
+2						cell adhesion and migration be dynamic process require the coordinated action of multiple signaling pathway , but the mechanism underlie signal integration have remain elusive .
+3	taxonomy:7215,tissuelist:TS-0229	drosophila,  embryonic 	S1,T1			drosophila embryonic dorsal closure ( dc ) require both integrin function and c-jun amino-terminal kinase ( jnk ) signaling for opposed epithelial sheet to migrate , meet , and suture .
+4						here , we show that pinch , a protein require for integrin dependent cell adhesion and actin-membrane anchorage , be present at the lead edge of these migrate epithelium and be require for dc .
+5			e1	s1,t1	we identify rsu-1 , a regulator of ra signaling in mammalian cell , as a novel pinch binding partner that contribute to pinch stability .	by analysis of native protein complex , we identify rsu-1 , a regulator of ra signaling in mammalian cell , as a novel pinch binding partner that contribute to pinch stability .
+6						mutation of the gene encode rsu-1 result in wing blistering in drosophila , demonstrate its role in integrin dependent cell adhesion .
+7			e2,e3	s1,t1	both pinch and rsu-1 antagonize jnk signaling	genetic interaction analysis reveal that both pinch and rsu-1 antagonize jnk signaling during dc .
+8						we result suggest that pinch and rsu-1 contribute to the integration of jnk and integrin function during drosophila development .
+9						introduction
+10						adhesion and migration of epithelial sheet be critical for wound healing , organ integrity , and morphogenetic movement during development .
+11						cellular circuit that orchestrate these process require coordination of integrin function with multiple signaling pathway .
+12						integrin be transmembrane heterodimeric receptor for ecm that convey information bi-directionally between the extracellular environment and intracellular signaling machinery .
+13						engagement of integrin lead to the concentration of tyrosine kinase and they substrate at focal adhesion , a type of adheren junction that act as a signaling nexus , a tethering site for actin filament , and a region for generation of traction force during cell migration .
+14						during drosophila embryogenesis , lateral epidermal sheet migrate to close a hole in the dorsal epidermis in the process of dorsal closure ( dc ) .
+15						dc be execute through cytoskeletal rearrangement and cell shape change with no accompany cell division .
+16						because many protein involve in dc also function in epithelial migration in other organism , dc have emerge as a ideal model system to dissect the mechanism drive migration and fusion of epithelial sheet .
+17						during dc , structure relate to focal adhesion be assemble at the lead edge ( LE ) of advance lateral epithelial cell and integrin be concentrate at these site .
+18						moreover , genetic analysis have reveal that integrin be essential for normal dc .
+19						base on the established role of integrin in mammalian system , these adhesion receptor could influence dc by support cell-substratum interaction , modulate signaling pathway , or both .
+20						one signaling cascade that be essential for successful execution of dc result in activation of c-jun amino-terminal kinase ( jnk ) .
+21						fine tuning of jnk output be critical , as both attenuation and hyper-activation of jnk signaling result in a failure of dc .
+22						the formation of focal adhesion complex at the apical border of the le cell during dc depend on proper modulation of the jnk cascade , highlight the potential importance of crosstalk between integrin and jnk signaling .
+23						several cytoplasmic protein that colocalize with integrin be know to be essential mediator of integrin function in mammalian system .
+24						one of these , the lim protein pinch , interact with the integrin link kinase ( ilk ) and be critical for adhesion and spreading of mammalian cell .
+25						to elucidate the in vivo role and mechanism of action of pinch , we undertake a genetic analysis of pinch function .
+26						drosophila pinch be encode by the steamer duck ( stck ) locus .
+27						Mosaic analysis have reveal a critical role for pinch in integrin dependent epithelial cell adhesion in the adult wing .
+28						homozygous zygotic stck mutant die late in embryogenesis , exhibit deficit in both muscle cell adhesion and actin-membrane anchorage .
+29						involvement of pinch in both integrin mediate adhesion and actin-membrane linkage make it a attractive candidate for coordination of integrin and jnk function during dc .
+30						result and discussion
+31						to determine if pinch could contribute to dc , we examine its localization in stage 14 embryo .
+32	uaz:UA-CT-30007,uaz:UA-ORG-252	le, amnioserosa	t2,t3,e4	t3,t2,s1	 consistent with pinch 's established role as a integrin effector	pinch and beta-p integrin be colocalize in both the LE and the amnioserosa ( a ) , consistent with pinch 's established role as a integrin effector .
+33						the amnioserosa be a extraembryonic tissue present on the dorsal surface of the embryo .
+34						as it have be establish that coordinate signaling between the amnioserosa and migrate epithelium be key to formation of LE focal complex , pinch could exert a effect in the LE epithelium , the amnioserosa , or both tissue .
+35						stck homozygous mutant embryo rescue with a pinch : gfp transgene under the control of the endogenous pinch promoter display pinch-gfp at the LE of the advance epithelial sheet .
+36						within the LE , PINCH be precisely localized to area of active phosphotyrosine signaling at triangular node correspond to apical adheren junction ( b , inset ) .
+37						Figure 1 .
+38						pinch function in dc and colocalize with beta-p integrin and phosphotyrosine .
+39						( a ) confocal image of w1118 embryo show pinch ( green ) , beta-integrin ( magenta ) , and they merge ( white ) highlight the LE ( arrow ) and amnioserosa ( asterisk ) .
+40						Inset show a single z-slice and confirm colocalization .
+41						( b ) confocal image of p [ w+ gfp-pinch ] stck18 and l ( 3 ) 097 embryo show pinch : gfp ( green ) , phosphotyrosine ( magenta ) , and they merge ( white ) .
+42						Inset : magnification of the LE illustrate concentration of pinch at apical junction .
+43						( c ) cuticle of embryo carry stck17 loss-of-function allele both maternally and zygotically display pucker ( leave , arrow ) and dorsal hole ( right , arrow ) .
+44						analogous stck18 embryo have the same array of phenotype .
+45						control flp-frt embryo with wild-type pinch be fully viable .
+46						bar : 20 mum ( a ) , 100 mum ( b and c ) .
+47						zygotic stck mutant proceed normally through dc with complete lethality arise at the embryo-to-larval transition .
+48						when maternal pinch contribution be eliminate , only 12 % of cuticle have wild-type morphology .
+49						dorsal pucker and dorsal hole ( c ) characteristic of aberrant dc be observe at a 36 and 23 % frequency , respectively ( n = 180 ) , indicate that maternally inherit pinch be a key contributor to the process of dc .
+50						moreover , in the absence of maternal pinch , we also observe epithelial defect in ventral patterning and head involution , indicate that pinch may have additional function in the develop embryo .
+51						cuticle from embryo lack both maternal and zygotic pinch have the same array of phenotype .
+52						pinch be compose of five lim domain , each of which could serve as a protein binding interface .
+53						the sh2-sh3 adaptor protein , nck2 , have be report to interact with mammalian pinch .
+54	taxonomy:7215	drosophila	s2,e5	s2	 Dreadlocks , interact directly with misshapen ( Msn ) , a map4k in the jnk signaling cascade .	this association be intriguing because the drosophila homologue of nck2 , Dreadlocks , interact directly with misshapen ( Msn ) , a map4k in the jnk signaling cascade .
+55						as with other component of the jnk pathway , null mutation in msn result in embryonic lethality due to failure of dc .
+56						although we be unable to detect direct binding of pinch to Dreadlocks in drosophila , we uncover a link between pinch 's role in dc and the jnk cascade by testing for genetic interaction between stck and msn .
+57			e6	s2	 pinch function as a negative regulator of jnk signaling .	reduction of pinch protein level by introduction of a single copy of the loss-of-function allele , stck18 , into the msn102 homozygous null background allow partial restoration of dc ( p = 0.003 ; a ) , suggest that pinch function as a negative regulator of jnk signaling .
+58						figure 2 .
+59						pinch regulate jnk signaling .
+60						( a ) Representative dorsal open msn102 ( dorsal view ) and dorsal rescue msn102stck18 and msn102 ( lateral view ) embryo .
+61						arrow mark the LE or dorsal suture .
+62						graph show percentage of dorsal open embryo observe in the sample size report above each bar .
+63						( b ) inverted confocal image of stage 14 ( top ) and stage 15 ( bottom ) puce69 /+ embryo show Puc : lacz expression ( black ) .
+64						genetic background be wild type ( leave ) or maternally stck deficient ( right ) .
+65						( c ) confocal image of a puce69 third instar larval wing disc show Puc : lacz ( green ) , pinch ( magenta ) , and they merge ( white ) .
+66						Arrow indicate the proximal stalk region .
+67						( d ) comparison of msn3349 and rescue msn3349stck18 and msn3349 adult fly show defective versus normal thorax .
+68						graph reflect percent eclosure of the indicated genotype calculate from the sample size show above each bar .
+69						bar , 100 mum .
+70			e7,e8	s2	puckered ( puc ) be a jnk phosphatase whose expression be up regulate in response to jnk activation , set up a negative feedback loop .	puckered ( puc ) be a jnk phosphatase whose expression be up regulate in response to jnk activation , set up a negative feedback loop .
+71						during dc , jnk regulate expression of a puc-lacz fusion reporter be restricted to the le cell ( b ) .
+72						in embryo lack maternal pinch , expression of the puc-lacz fusion protein be disorganize and present in a expanded number of cell , include those beyond the LE border ( b ) .
+73			e9	s2	 pinch in the negative regulation of the jnk cascade .	this phenotype be similar to puc-lacz expression observe in puc loss-of-function mutant and further support a role for pinch in the negative regulation of the jnk cascade .
+74						Thorax closure be a post-embryonic developmental process with feature common to dc , include migration of epithelial sheet and a dependence on jnk signaling .
+75						within the wing disc , cell of the stalk region be functionally similar to le cell during dc .
+76						these cell comprise the eventual fusion site for adjacent imaginal disc and be active in jnk signaling .
+77						spatially restricted jnk signaling in the stalk of wing disc can be visualize via a puc-lacz reporter , and pinch expression overlap with puc-lacz in this area of active jnk signaling ( c ) .
+78						therefore , as in dc , pinch be properly position to act as a regulator of the jnk cascade .
+79						although msn null mutation be embryonic lethal due to dc failure , fly homozygous for the hypomorphic allele msn3349 be semi-viable and a large proportion of the eclose adult have thorax closure defect ( d ) .
+80						these observation underscore the similarity between thorax closure and dc .
+81						in a stck18 heterozygous background , a greater percentage of msn3349 homozygote be able to eclose ( p < 0.0001 ; d ) , support the hypothesis that pinch be a negative regulator of the jnk pathway in both dorsal and thorax closure .
+82						we purify drosophila pinch in complex with its bind partner use tandem affinity purification ( tap ) - tag pinch ( tap-pinch ; ) .
+83						stck homozygous mutant embryo rescue with a tap : pinch transgene drive by the endogenous stck promoter to wild-type level ( a ) afford material for purification of soluble , cytoplasmic tap-pinch complex in the absence of endogenous pinch protein .
+84	taxonomy:7215,uaz:UA-CLine-100106	 drosophila, s2r+ cell 	s3,c1			three partner that copurify stoichiometrically with tap-pinch from embryo , as well as in complex with tap-pinch from culture drosophilum s2r+ cell ( b ) , be identify by mass spectrometric analysis .
+85			e10	s3,c1	ilk copurify with pinch .	consistent with what be observe in mammalian cell and we previous finding in drosophilum , ilk copurify with pinch .
+86	taxonomy:7215	drosophila	s4,e11	s4	 cg32528 , be also present in pinch protein complex .	the drosophila homologue of the parvin and actopaxin family of protein , cg32528 , be also present in pinch protein complex .
+87			e12,e13	s4	Parvin be know to bind ilk and actin in mammalian system , but the isolated parvin/ilk/pinch complex be the first to be describe in drosophila .	Parvin be know to bind ilk and actin in mammalian system , but the isolated parvin/ilk/pinch complex be the first to be describe in drosophila .
+88					additionally , a novel 31-kd protein be identify as drosophila cg9031 .	additionally , a novel 31-kd protein be identify as drosophila cg9031 .
+89	taxonomy:9606	human	s5,e14	s5	 rsu-1 , a leucine rich repeat contain protein first identify as a suppressor of cell transformation by v-ra 	the cg9031 protein be 55 % identical and 74 % similar to human rsu-1 , a leucine rich repeat contain protein first identify as a suppressor of cell transformation by v-ra and subsequently implicate in regulation of map kinase signaling , specifically the jnk and erk cascade , when overexpress in culture cell .
+90						despite its potent ability to act as a tumor suppressor , little be know about the mechanism of action of rsu-1 .
+91			e15	s5	its partnership with the pinch protein	its partnership with the pinch protein allow placement of rsu-1 in a molecular pathway that be link to integrin .
+92						Figure 3 .
+93						pinch and rsu-1 physically interact and colocalize .
+94						( a ) quantitative anti-pinch western analysis of pinch level in wild-type fly ( lane 1 ) versus tap-pinch-rescued fly ( lane 2 ) .
+95						( b ) silver stain gel of purify protein from s2r+ stably transfect with empty vector ( lane 1 ) or pmt and tap-pinch ( lane 2 ) .
+96						( c ) western blot of ni-nta purify he tag complex from s2 cell .
+97						RSU-1 interact with full-length pinch , but not lim1-3 .
+98						( d ) yeast two-hybrid reporter activity : growth on medium lack histidine and adenine ( + / - ) and beta-galactosidase activity relative to empty vector bait and rsu -1 prey .
+99						( e ) confocal image of p [ w+ gfp-pinch ] stck18 and l ( 3 ) 097 stage 16 embryo show that pinch : gfp ( green ) and rsu-1 ( magenta ) colocalize ( white ) at muscle attachment site ( arrow ) and in the pharynx ( arrowhead ) and gut ( asterisk ) .
+100						bar , 100 mum .
+101			e16	s6	interaction between pinch and rsu-1 	to assess the specificity and nature of the interaction between pinch and rsu-1 , domain mapping study be perform in cell culture and in yeast two-hybrid assay .
+102	taxonomy:7215	drosophila	e17,s6	s6	rsu-1 copurify with full-length he tag pinch , but not with a truncate he tag pinch contain only lim1-3 ( c ) , confirm the specificity of the interaction and suggest lim4 and and or 5 be the site of binding .	drosophila rsu-1 copurify with full-length he tag pinch , but not with a truncate he tag pinch contain only lim1-3 ( c ) , confirm the specificity of the interaction and suggest lim4 and and or 5 be the site of binding .
+103			e18,e19,e20	s6	ILK , which bind lim1 of pinch , copurify with both full-length and the truncated lim1-3 version of he tag pinch ( c ) , serve as a positive control .	ILK , which bind lim1 of pinch , copurify with both full-length and the truncated lim1-3 version of he tag pinch ( c ) , serve as a positive control .
+104				s6	both pinch and ilk be copurify with he tag rsu-1 ( c ) .	both pinch and ilk be copurify with he tag rsu-1 ( c ) .
+105					moreover , endogenous pinch and rsu-1 can be coimmunoprecipitate ( unpublished datum ) .	moreover , endogenous pinch and rsu-1 can be coimmunoprecipitate ( unpublished datum ) .
+106			e21	s6	the site of rsu-1 binding to pinch	the site of rsu-1 binding to pinch be further map use yeast two-hybrid analysis .
+107						only cell express lim5 bait and rsu -1 prey activate all three reporter ( d ) , indicate lim5 be the site of rsu-1 binding .
+108						consistent with the view that they interact in vivo , pinch : gfp and rsu-1 be prominently colocalize at integrin rich muscle attachment site in drosophila embryo ( e ) .
+109						drosophila rsu-1 , which display seven leucine rich repeat with high sequence similarity to small gtpase regulator , be encode by the cg9031 locus .
+110						we have characterize a p-element insertion allele that disrupt the rsu-1 code sequence ( a ) .
+111						fly homozygous for this mutation within cg9031 be viable and fertile ( unpublished datum ) , and lack rsu-1 protein as indicate by western analysis with multiple anti-rsu-1 antibody ( b ) .
+112						pinch and rsu-1 be both express in larval wing disc ( c ) and similar to stck wing clone , the mutation within cg9031 produce fly with wing blister ( d ) at 60 % penetrance .
+113						these datum be consistent with pinch and rsu-1 acting in concert to support integrin dependent adhesion .
+114						we have name the cg9031 gene icarus ( ic ) after the son of Daedalus who have unstable wing .
+115						Figure 4 .
+116						ic encode rsu-1 .
+117						( a ) the gene encode rsu-1 , located on chromosome 2 at cytological position 34c6 , comprise three exon ( code region shaded ) .
+118						Location of the peptide antigen use for antibody production ( bar ) and p-element insertion allele ( triangle ; drosophila gene disruption project , http://www.fruitfly.org/p_disrupt/index.html ) be indicate .
+119						( b ) western blot of third instar larval extract use antibody direct against the amino or carboxy terminus of rsu-1 .
+120						( c ) pinch and rsu-1 be express in wing disc .
+121						( d ) ic homozygote display wing blister .
+122						although elimination of rsu-1 function do not result in dorsal or thorax closure defect ( unpublished datum ) , we evaluate the role of rsu-1 in these process by testing for genetic interaction between ic and msn .
+123						similar to what occur with reduction of stck dosage ( a ) , homozygous mutation of ic suppress dc defect observe in msn102 mutant embryo ( p < 0.001 ; a ) .
+124						absence of rsu-1 also increase eclosure rate ( p < 0.0001 ) of msn3349 hypomorph ( b ) and completely suppress the thorax defect present in msn3349 animal ( unpublished datum ) , suggest that like pinch , rsu-1 can function as a negative regulator of jnk signaling .
+125						to confirm that the suppression of msn dc defect by ic mutation be mediate by the jnk signaling cascade , we eliminate rsu-1 in basket ( bsk ) embryo that lack zygotic jnk , the terminal kinase in this cascade .
+126						homozygous ic mutation suppress the dc defect of bsk1 mutant ( p < 0.001 ; c ) , confirm that ic loss-of-function mutation affect dc by influence the jnk cascade .
+127						moreover , wing disc isolate from ic mutant display a 30 % increase in active phospho-jnk relative to wild type ( d ) , provide direct biochemical confirmation that rsu-1 influence jnk activation state in vivo .
+128						although we have not detect any localized accumulation of rsu-1 during dc ( unpublished datum ) , rsu-1 be readily detect by western analysis in stage 13 embryo that be undergo dc ( e , lane 1 ) .
+129						thus , the temporal pattern of rsu-1 expression be consistent with genetic result that highlight its role in regulation of jnk dependent morphogenesis .
+130						Figure 5 .
+131						RSU-1 modulate jnk signaling and form a stabilized complex with pinch .
+132						( a ) comparison of dc defect in msn102 versus ic ; msn102 embryo as in a. ( b ) comparison of percent eclosure in msn3349 and ic ; msn3349 fly as in D. ( c ) comparison of dc defect in bsk1 versus bsk1 ; ic embryo .
+133						( d ) quantification from western blot ( n = 6 ) of phospho-jnk level in third instar larval wing disc .
+134						total jnk level be unchanged ( not depict ) .
+135						( e ) quantitative anti-pinch and anti-rsu-1 western blot of w1118 ( lane 1 ) , stck germ line clone ( lane 2 ) , and ic ( lane 3 ) stage 13 whole embryo lysate .
+136						Coomassie staining confirm equal loading .
+137						( f ) propose model for pinch action in jnk and integrin signaling .
+138						analysis of pinch and rsu-1 level in wild-type versus stck or ic mutant embryo provide insight into the physiological significance of they association .
+139						in embryo mutant for both maternal and zygotic stck , rsu-1 be dramatically reduce relative to wild-type level ( e , lane 2 ) .
+140						likewise , in ic embryo , pinch level be also decrease ( e , lane 3 ) .
+141						these observation suggest that pinch and rsu-1 be reciprocally dependent on each other for maximal expression and and or stability .
+142						the mechanism for coordinate regulation of rsu-1 and pinch remain to be determine .
+143						because the phenotype associate with loss of rsu-1 represent a subset of stck phenotype , the process disturb in ic mutant may be exquisitely sensitive to pinch level .
+144						alternately , rsu-1 may have function that be independent of its role in pinch stabilization .
+145						we datum be consistent with a model ( f ) in which pinch could modulate jnk signaling in two distinct way .
+146			e22	s7	pinch be present at area where jnk be active and antagonize jnk signaling .	first , pinch be present at area where jnk be active and antagonize jnk signaling .
+147	taxonomy:7215	drosophila	e23,s7	s7	this behavior be reminiscent of drosophila puc , a phosphatase regulator of the jnk cascade that establish a negative feedback loop .	this behavior be reminiscent of drosophila puc , a phosphatase regulator of the jnk cascade that establish a negative feedback loop .
+148						pinch have no intrinsic catalytic activity , but might recruit protein that could alter the availability or activity of jnk signaling component .
+149						like Puc , pinch expression be up regulate in response to constitutive jnk signaling .
+150						availability of rsu-1 at these site of active jnk signaling could independently regulate jnk signaling or modulate the effect of pinch on jnk through regulation of pinch stability .
+151						second , pinch and rsu-1 be require for integrin dependent adhesion .
+152						pinch have previously be show to link integrin to the actin cytoskeleton via ILK and Parvin , and these connection could influence both integrin dependent adhesion and signaling .
+153						integrin signaling , through a variety of tyrosine kinase and rac , stimulate the jnk cascade ; therefore , pinch may also exert a influence on jnk signaling via integrin .
+154						we finding illustrate that the cellular concentration of pinch affect the level of rsu-1 and vice versa .
+155	taxonomy:7215	drosophila	s8			thus , modulation of the ratio of rsu-1 to pinch could provide a mechanism to regulate jnk signaling during dc and thorax closure in drosophila .
+156			e24	s8	 pinch and rsu -1 complex	we hypothesize that pinch and rsu -1 complex fine-tune and integrate the jnk and integrin signaling cascade require during morphogenesis , highlight the potential role of integrin associate apical junctional complex as signal coordination point for epithelial morphogenesis .
+157						Materials and method
+158						fly genetics
+159						pinch : gfp and pinch : tap transgenic use standard method .
+160						for msn102 dorsal open rescue , msn102 and tm3 , sb fly be cross to same and to msn102 stck18 and tm3 , sb , or ic ; msn102 and tm3 , sb fly be cross to same .
+161						for of the bsk1 dorsal open rescue , bsk1 and cyo or bsk1 ; ic and cyo fly be cross to same .
+162						for rescue of msn3349 , msn3349 and tm3 , sb fly be cross to same and to msn3349 stck18 and tm3 , sb , or ic ; msn3349 and tm3 , sb fly be cross to same .
+163						embryo lack maternal pinch be generate use the flp-frt system .
+164						immunochemistry and microscopy
+165						rabbit polyclonal antisera be generate ( Harlan Bioproducts ) use antigen of the first and last 15 amino acid of drosophila rsu-1 .
+166						antibody use be rabbit anti-active-jnk ( Promega ) , anti-jnk , and anti-pinch ; mouse anti-ilk ( BD Scientific ) , anti-phosphotyrosine 4g10 ( Upstate Biotechnology ) , anti-penta he ( QIAGEN ) , anti-beta-ps integrin ( cf6g11 ) , and anti-lacz ( 40-1a ) ( dshb , University of Iowa , Iowa City , IA ) .
+167						drosophila embryo and third instar larval wing disc be prepare as describe previously .
+168						confocal image be acquire at rt on a confocal microscope ( model fv300 ; Olympus ) , use 20x 0.7 na dry and 60x 1.4 na oil immersion objective , and be assemble use imagej and Adobe Photoshop 7.0 .
+169						third instar larval wing disc ( n = 10-25 ) be homogenize and quantitatively immunoblot for jnk and activate jnk as describe previously .
+170						dna construct
+171						plasmid for expression of tag pinch or rsu-1 be construct by standard molecular biology technique .
+172						for detail ( available at http://www.jcb.org/cgi/content/full/jcb.200408090/dc1 ) .
+173						pinch complex purification
+174						10 g pcaspin-tap-rescued stck embryo or 5 x 108 drosophila s2r+ cell stably transfect with pmt and tap-pinch be wash and homogenize in lysis buffer ( tb , ph 7.9 , plus 0.1 % Triton x-100 and protease inhibitor ) and 125,000 g soluble portion be use as describe below .
+175						s2r+ cell be grow as recommend ( Invitrogen ) and lyse , and 30,000 g supernatant be batch bind to 100 mul igg sepharose ( Amersham Biosciences ) prepare per manufacturer 's recommendation and equilibrate in lysis buffer .
+176						after wash extensively with lysis buffer , protein be elute with a step gradient of 100 mm glycine from ph 5.0-2 .75 .
+177						Ni-NTA agarose ( QIAGEN ) purification of he tag protein use standard technique .
+178						mass spectrometry
+179						TAP-PINCH complex be TCA precipitate and resuspend in Tris buffer , 8m urea , ph 8.6 , reduce , and alkylate .
+180						complex be endoproteinase lys-c digest ( 4 h ) , dilute to 2m urea , and digest with trypsin overnight .
+181						peptide mixture be load onto a triphasic lc and lc column and analyze as describe previously .
+182						Tandem mass spectrum be analyze use SEQUEST and the drosophilum sequence database with threshold value of 1.8 ( +1 ) , 2.8 ( +2 ) , and 3.5 ( +3 ) .
+183						identity of specific band be confirm by sequence analysis .
+184						yeast two-hybrid
+185						pinch bait depict in c be construct in pgbd-c1 .
+186						the full-length rsu-1 prey be clone in pact2 .
+187						the yeast host strain , pj69-2a , be transform with bait and prey , and then reporter activity be assay as describe previously .
+188						online supplemental material
+189						fig .
+190						s1 show pleitropic phenotype of maternally deficient stck cuticle .
+191						detail of plasmid construction be provide in fig .
+192						s2 .
+193						online supplemental material available at http://www.jcb.org/cgi/content/full/jcb.200408090/dc1 .

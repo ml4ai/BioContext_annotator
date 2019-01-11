@@ -1,0 +1,168 @@
+0 11-11-lung-tissuelist:TS-0568
+1 
+1 
+2 19-19-lung-tissuelist:TS-0568
+3 
+4 8-9-bronchial_gland-uaz:UA-ORG-1095 14-14-pneumocytes-uaz:UA-CT-200010
+5 35-36-squamous_cell-tissuelist:TS-1249
+6 13-14-squamous_cell-tissuelist:TS-1249
+7 
+8 23-23-lung-tissuelist:TS-0568
+9 14-14-lung-tissuelist:TS-0568
+10 13-13-lung-tissuelist:TS-0568
+11 
+11 
+12 
+13 
+13 
+14 
+14 0-1-Lung_cancer-tissuelist:TS-0571
+15 9-9-lung-tissuelist:TS-0568
+16 
+17 
+18 
+19 
+19 
+20 
+21 
+22 
+23 2-2-human-taxonomy:9606
+24 
+25 
+26 11-11-glands-uaz:UA-ORG-360
+27 
+28 10-10-human-taxonomy:9606 11-11-lung-tissuelist:TS-0568 16-16-human-taxonomy:9606 22-22-pneumocytes-uaz:UA-CT-200010 26-26-lung-tissuelist:TS-0568
+29 
+29 
+30 
+31 
+31 
+32 
+32 
+33 
+33 
+34 7-7-men-taxonomy:9606 10-10-women-taxonomy:9606
+35 
+36 5-6-squamous_cell-tissuelist:TS-1249
+37 2-2-carcinoma-tissuelist:TS-0114 8-8-carcinoma-tissuelist:TS-0114 12-12-carcinoma-tissuelist:TS-0114
+38 
+39 17-17-Joint-uaz:UA-ORG-460
+40 48-49-lung_cancer-tissuelist:TS-0571
+41 23-24-lung_cancer-tissuelist:TS-0571
+42 20-21-squamous_cell-tissuelist:TS-1249
+43 
+44 
+45 
+46 
+46 
+47 
+47 
+48 
+49 
+49 
+50 
+50 17-17-membrane-go:GO:0016020
+51 26-26-rabbit-taxonomy:9986 34-34-human-taxonomy:9606
+52 
+52 
+53 
+53 
+54 
+55 
+56 6-6-rabbit-taxonomy:9986 7-7-serum-tissuelist:TS-0923
+57 10-10-rabbit-taxonomy:9986 18-18-human-taxonomy:9606 25-25-rabbit-taxonomy:9986 28-28-serum-tissuelist:TS-0923
+58 
+59 
+60 8-9-bronchial_gland-uaz:UA-ORG-1095 14-14-pneumocytes-uaz:UA-CT-200010
+61 
+62 
+63 
+64 
+64 
+65 
+65 
+66 
+66 16-16-Fisher-taxonomy:76720
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+73 
+74 
+74 
+75 
+75 
+76 21-21-membrane-go:GO:0016020
+77 
+78 
+79 
+79 
+80 
+80 
+81 
+82 0-0-Scale-tissuelist:TS-0895
+83 
+83 
+84 
+85 
+86 
+87 
+87 
+88 
+88 
+89 8-9-bronchial_gland-uaz:UA-ORG-1095
+90 7-7-cytoplasm-go:GO:0005737 15-16-Golgi_apparatus-go:GO:0005794 29-30-squamous_cell-tissuelist:TS-1249 31-31-carcinoma-tissuelist:TS-0114
+91 0-0-Scale-tissuelist:TS-0895
+92 
+92 
+93 11-11-cytoplasm-go:GO:0005737 17-18-Golgi_apparatus-go:GO:0005794
+94 7-8-bronchial_gland-uaz:UA-ORG-1095 15-15-pneumocytes-uaz:UA-CT-200010
+95 
+95 
+96 
+97 11-11-men-taxonomy:9606 16-16-women-taxonomy:9606
+98 8-9-squamous_cell-tissuelist:TS-1249
+99 
+100 13-14-squamous_cell-tissuelist:TS-1249
+101 
+102 
+103 
+104 
+104 
+105 
+105 
+106 
+107 2-2-carcinoma-tissuelist:TS-0114 8-8-carcinoma-tissuelist:TS-0114 12-12-carcinoma-tissuelist:TS-0114
+108 
+108 
+109 
+110 5-6-squamous_cell-tissuelist:TS-1249
+111 4-4-carcinoma-tissuelist:TS-0114
+112 
+112 
+113 
+114 8-9-squamous_cell-tissuelist:TS-1249
+115 
+115 
+116 
+116 23-24-bronchial_gland-uaz:UA-ORG-1095 28-28-pneumocytes-uaz:UA-CT-200010
+117 
+118 
+118 22-23-squamous_cell-tissuelist:TS-1249 38-38-glands-uaz:UA-ORG-360
+119 
+120 18-18-gland-tissuelist:TS-1305 22-22-colon-tissuelist:TS-0158 39-39-colon-tissuelist:TS-0158
+121 
+121 
+122 
+123 
+124 
+125 
+126 
+127 
+128 
+128 
+129 
+130 

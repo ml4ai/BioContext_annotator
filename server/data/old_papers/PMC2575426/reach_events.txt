@@ -1,0 +1,17 @@
+Positive_activation	31
+Phosphorylation	33
+Positive_activation	44
+Positive_activation	44
+Positive_activation	44
+Positive_activation	44
+Positive_activation	44
+Positive_activation	44
+Positive_activation	44
+Negative_activation	118
+Binding	121
+Phosphorylation	129
+Binding	133
+Binding	154
+Binding	263
+Negative_activation	288
+Negative_activation	288

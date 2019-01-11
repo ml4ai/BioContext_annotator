@@ -1,0 +1,13 @@
+Negative_activation	5
+Negative_activation	5
+Negative_activation	5
+Positive_activation	27
+Positive_activation	27
+Negative_activation	28
+Negative_activation	28
+Negative_activation	28
+Positive_activation	29
+Positive_activation	29
+Positive_activation	29
+Negative_activation	32
+Binding	66

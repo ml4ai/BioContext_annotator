@@ -1,0 +1,47 @@
+#!/bin/bash
+# start-server: Initialises the annotation backend server.
+# The process will be put in a detached screen and will log input and output to
+# 'context-server.log', unless the 'console' option is set.
+
+# Default Parameters:
+# Screen session name
+screen_name="context-devel"
+# Server settings
+postgres="context@127.0.0.1:5432/context_devel"
+ws_arg="-ws"
+ws_port="8090"
+
+# Test for console option, in which case we don't create a screen
+console=0
+for arg; do
+  case "$arg" in
+    --console | -c)
+      console=1
+      ;;
+  esac
+done
+
+# If the console option is unset, re-execute in a screen if not in one already
+if [[ -z "$STY" && $console = 0 ]]; then
+  # Check for an existing instance
+  screen -ls | grep -q "\.$screen_name\s"
+  if [[ "$?" -eq "0" ]]; then
+    echo "A server instance is already running in another screen; use 'screen -r $screen_name' to resume it."
+    exit
+  fi
+
+  echo "Starting server in detached screen with session name: $screen_name"
+  exec screen -dmS "$screen_name" /bin/bash "$0" -postgres "$postgres" -ws "$ws_port"
+fi
+
+# LD_LIBRARY_PATH needs to be set before python is started.
+export LD_LIBRARY_PATH=./lib:$LD_LIBRARY_PATH
+source ./virtualenv/bin/activate
+
+if [[ $console = 0 ]]; then
+  # Log both input and output. Second 'tee' ignores interrupts to log until EOF
+  tee -a context-server.log | python3 main.py "$@" 2>&1 | tee -a -i context-server.log
+else
+  # Don't log
+  python3 main.py "$@"
+fi

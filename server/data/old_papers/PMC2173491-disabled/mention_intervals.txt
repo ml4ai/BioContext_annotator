@@ -1,0 +1,323 @@
+0 6-6-vesicles-go:GO:0031982
+1 
+1 28-28-vesicles-go:GO:0031982
+2 6-6-vesicle-go:GO:0031982 27-27-vesicle-go:GO:0031982
+3 19-19-vesicle-go:GO:0031982
+4 7-7-vesicles-go:GO:0031982 10-11-Golgi_membrane-go:GO:0000139 27-27-vesicle-go:GO:0031982
+5 9-9-vesicle-go:GO:0031982 13-13-vesicle-go:GO:0031982 24-24-vesicles-go:GO:0031982
+6 5-5-vesicle-go:GO:0031982 18-18-vesicles-go:GO:0031982
+7 8-8-vesicle-go:GO:0031982
+8 
+8 
+9 
+9 15-16-transport_vesicles-go:GO:0030133 26-26-cytosol-go:GO:0005829 28-28-membranes-go:GO:0016020
+10 
+11 
+12 22-23-membrane_region-go:GO:0098589
+13 
+14 
+15 
+15 27-27-vesicle-go:GO:0031982
+16 
+17 1-1-vesicles-go:GO:0031982 20-20-vesicle-go:GO:0031982
+18 3-3-vesicle-go:GO:0031982 21-21-vesicle-go:GO:0031982
+19 5-5-vesicle-go:GO:0031982 38-38-vesicles-go:GO:0031982
+20 30-30-vesicle-go:GO:0031982
+21 16-16-vesicle-go:GO:0031982
+22 
+22 13-13-vesicle-go:GO:0031982 22-23-Golgi_membrane-go:GO:0000139
+23 18-18-vesicle-go:GO:0031982
+24 14-14-vesicle-go:GO:0031982
+25 
+25 
+26 
+26 8-8-vesicles-go:GO:0031982 19-20-Golgi_membrane-go:GO:0000139 29-29-membrane-go:GO:0016020 34-34-vesicle-go:GO:0031982
+27 25-25-vesicle-go:GO:0031982
+28 20-20-vesicle-go:GO:0031982
+29 23-24-Golgi_membrane-go:GO:0000139
+30 
+30 18-19-Golgi_membrane-go:GO:0000139
+31 14-15-Golgi_membrane-go:GO:0000139
+32 2-3-Golgi_membrane-go:GO:0000139 22-23-Golgi_membrane-go:GO:0000139
+33 17-18-Golgi_membrane-go:GO:0000139
+34 20-20-membranes-go:GO:0016020 29-29-vesicles-go:GO:0031982 36-36-vesicle-go:GO:0031982
+35 
+35 
+36 
+36 
+37 0-1-Golgi_membrane-go:GO:0000139 27-28-Golgi_membrane-go:GO:0000139
+38 7-8-Golgi_membrane-go:GO:0000139
+39 
+39 8-8-vesicles-go:GO:0031982 15-15-vesicles-go:GO:0031982 37-38-Golgi_membranes-go:GO:0000139 40-40-cytosol-go:GO:0005829
+40 8-8-vesicles-go:GO:0031982
+41 21-22-Golgi_membrane-go:GO:0000139
+42 6-6-vesicles-go:GO:0031982
+43 9-9-vesicles-go:GO:0031982
+44 5-5-vesicles-go:GO:0031982
+45 
+45 
+46 
+46 6-6-vesicles-go:GO:0031982
+47 4-4-vesicles-go:GO:0031982 19-19-vesicles-go:GO:0031982
+48 16-17-Golgi_membrane-go:GO:0000139 19-19-cytosol-go:GO:0005829
+49 
+50 
+51 7-7-vesicles-go:GO:0031982
+52 35-35-vesicles-go:GO:0031982
+53 
+53 7-8-Golgi_membranes-go:GO:0000139 12-12-vesicles-go:GO:0031982
+54 12-13-Golgi_membrane-go:GO:0000139
+55 11-12-Golgi_membrane-go:GO:0000139 14-14-cytosol-go:GO:0005829 18-18-vesicles-go:GO:0031982 26-26-vesicles-go:GO:0031982 39-40-Golgi_membrane-go:GO:0000139
+56 10-11-Golgi_membrane-go:GO:0000139
+57 19-19-vesicles-go:GO:0031982 34-34-membranes-go:GO:0016020
+58 15-15-vesicles-go:GO:0031982
+59 
+59 
+60 
+60 6-6-vesicles-go:GO:0031982
+61 10-11-Golgi_membranes-go:GO:0000139
+62 
+63 13-14-Golgi_membrane-go:GO:0000139
+64 
+65 9-9-vesicles-go:GO:0031982
+66 40-40-vesicles-go:GO:0031982
+67 
+67 7-7-vesicles-go:GO:0031982 16-17-coated_vesicles-go:GO:0030135 31-31-vesicles-go:GO:0031982
+68 
+69 12-12-vesicles-go:GO:0031982
+70 17-17-vesicles-go:GO:0031982 30-30-vesicles-go:GO:0031982 47-47-vesicles-go:GO:0031982
+71 9-9-vesicles-go:GO:0031982
+72 5-5-vesicles-go:GO:0031982 11-12-Golgi_membranes-go:GO:0000139 25-25-vesicles-go:GO:0031982 30-31-Golgi_membrane-go:GO:0000139
+73 16-16-vesicles-go:GO:0031982
+74 11-11-vesicles-go:GO:0031982
+75 37-38-coated_vesicles-go:GO:0030135 53-53-vesicles-go:GO:0031982
+76 
+76 
+77 
+77 6-6-vesicle-go:GO:0031982 10-10-vesicle-go:GO:0031982
+78 7-8-Golgi_membrane-go:GO:0000139
+79 22-23-Golgi_membrane-go:GO:0000139
+80 
+81 4-4-vesicles-go:GO:0031982
+82 
+83 25-25-vesicles-go:GO:0031982
+84 5-5-vesicles-go:GO:0031982
+85 
+86 36-36-vesicles-go:GO:0031982
+87 13-13-vesicles-go:GO:0031982
+88 
+89 
+90 22-22-vesicles-go:GO:0031982
+91 
+92 
+92 20-20-vesicles-go:GO:0031982 38-39-coated_vesicles-go:GO:0030135
+93 11-12-Golgi_membranes-go:GO:0000139
+94 
+95 5-5-vesicles-go:GO:0031982
+96 13-14-Golgi_membrane-go:GO:0000139 31-32-Golgi_membrane-go:GO:0000139
+97 
+98 12-12-vesicles-go:GO:0031982
+99 10-10-vesicles-go:GO:0031982
+100 8-8-vesicle-go:GO:0031982
+101 11-11-vesicle-go:GO:0031982 20-20-vesicles-go:GO:0031982
+102 
+102 
+103 12-12-vesicles-go:GO:0031982
+104 
+105 0-1-Golgi_membrane-go:GO:0000139 28-28-vesicles-go:GO:0031982
+106 11-11-vesicle-go:GO:0031982
+107 
+108 
+109 
+109 
+110 
+110 18-18-vesicles-go:GO:0031982
+111 10-11-Golgi_membrane-go:GO:0000139 14-14-CHO-uaz:UA-CLine-100019
+112 
+113 22-22-vesicles-go:GO:0031982
+114 36-36-vesicles-go:GO:0031982
+115 
+115 8-8-vesicle-go:GO:0031982 31-31-vesicles-go:GO:0031982
+116 10-10-vesicles-go:GO:0031982 31-31-vesicle-go:GO:0031982 48-48-membrane-go:GO:0016020
+117 26-26-vesicles-go:GO:0031982
+118 16-16-vesicles-go:GO:0031982 31-31-vesicles-go:GO:0031982
+119 12-12-vesicles-go:GO:0031982
+120 3-3-vesicles-go:GO:0031982
+121 16-16-vesicle-go:GO:0031982
+122 
+122 
+123 
+123 3-3-vesicles-go:GO:0031982
+124 3-3-Vesicles-go:GO:0031982
+125 
+126 
+127 
+128 
+129 9-9-vesicles-go:GO:0031982
+130 
+131 33-33-vesicles-go:GO:0031982
+132 
+132 22-22-vesicles-go:GO:0031982
+133 
+134 22-22-vesicles-go:GO:0031982
+135 
+136 12-12-vesicles-go:GO:0031982 21-21-vesicles-go:GO:0031982 51-51-vesicles-go:GO:0031982
+137 
+138 16-16-vesicles-go:GO:0031982
+139 
+140 26-26-vesicles-go:GO:0031982
+141 
+141 
+142 
+142 0-1-Coated_vesicles-go:GO:0030135
+143 
+144 23-23-B.-uaz:UA-CLine-100008
+145 
+145 2-2-vesicles-go:GO:0031982
+146 10-10-vesicle-go:GO:0031982 15-15-vesicles-go:GO:0031982
+147 11-11-vesicles-go:GO:0031982
+148 18-19-coated_vesicles-go:GO:0030135
+149 
+150 
+150 15-15-vesicles-go:GO:0031982 30-30-vesicle-go:GO:0031982
+151 14-15-Golgi_membrane-go:GO:0000139
+152 7-7-vesicles-go:GO:0031982 13-13-vesicles-go:GO:0031982 38-38-vesicle-go:GO:0031982
+153 
+153 
+154 
+154 
+155 13-13-vesicle-go:GO:0031982
+156 7-8-Golgi_membrane-go:GO:0000139
+157 3-3-vesicles-go:GO:0031982 27-28-Golgi_membrane-go:GO:0000139
+158 
+159 
+160 
+161 
+161 
+162 
+163 
+164 
+165 
+166 
+167 
+168 
+169 
+170 
+171 
+171 
+172 
+172 7-7-vesicles-go:GO:0031982 10-11-Golgi_membrane-go:GO:0000139
+173 5-5-vesicle-go:GO:0031982
+174 13-13-vesicles-go:GO:0031982 22-22-vesicle-go:GO:0031982
+175 18-18-vesicle-go:GO:0031982
+176 12-12-vesicle-go:GO:0031982
+177 
+177 19-19-vesicles-go:GO:0031982
+178 13-13-vesicles-go:GO:0031982
+179 40-41-coated_vesicles-go:GO:0030135
+180 14-14-vesicles-go:GO:0031982 42-42-vesicles-go:GO:0031982
+181 
+181 
+182 8-8-vesicle-go:GO:0031982 27-27-vesicle-go:GO:0031982
+183 16-16-vesicles-go:GO:0031982 25-26-coated_vesicles-go:GO:0030135
+184 13-13-vesicles-go:GO:0031982
+185 
+186 16-16-vesicles-go:GO:0031982
+187 7-7-vesicle-go:GO:0031982 36-36-vesicle-go:GO:0031982
+188 
+188 19-19-vesicles-go:GO:0031982
+189 4-4-vesicles-go:GO:0031982 33-33-vesicles-go:GO:0031982
+190 
+191 
+192 12-12-vesicle-go:GO:0031982
+193 
+193 11-12-Golgi_membranes-go:GO:0000139 22-23-Golgi_membrane-go:GO:0000139
+194 9-10-Golgi_membrane-go:GO:0000139
+195 15-16-Golgi_membrane-go:GO:0000139
+196 11-12-Golgi_membrane-go:GO:0000139 27-27-membrane-go:GO:0016020
+197 29-29-membranes-go:GO:0016020
+198 25-25-membrane-go:GO:0016020
+199 27-27-vesicle-go:GO:0031982
+200 
+200 
+201 1-1-vesicles-go:GO:0031982
+202 5-5-vesicle-go:GO:0031982 19-19-vesicle-go:GO:0031982
+203 
+204 37-37-vesicles-go:GO:0031982 59-59-vesicle-go:GO:0031982
+205 
+206 
+206 23-23-vesicle-go:GO:0031982
+207 15-16-coated_vesicles-go:GO:0030135 25-25-vesicles-go:GO:0031982
+208 
+209 31-31-membrane-go:GO:0016020 39-39-vesicles-go:GO:0031982 56-57-coated_vesicles-go:GO:0030135
+210 24-24-vesicles-go:GO:0031982
+211 21-22-coated_vesicles-go:GO:0030135 36-37-coated_vesicles-go:GO:0030135 53-53-vesicle-go:GO:0031982
+212 
+212 19-19-vesicle-go:GO:0031982
+213 
+214 9-9-vesicles-go:GO:0031982 18-18-vesicles-go:GO:0031982
+215 4-4-vesicle-go:GO:0031982
+216 
+217 
+218 
+219 19-19-cytosol-go:GO:0005829
+220 9-9-vesicle-go:GO:0031982
+221 
+222 
+223 20-20-membranes-go:GO:0016020 27-27-vesicle-go:GO:0031982
+224 
+225 
+225 
+226 
+226 
+227 
+227 20-20-rabbit-taxonomy:9986 23-23-mouse-taxonomy:10090 31-31-mouse-taxonomy:10090
+228 
+228 8-8-CHO-uaz:UA-CLine-100019 9-10-Golgi_membrane-go:GO:0000139 15-15-liver-tissuelist:TS-0564 16-16-cytosol-go:GO:0005829 39-39-vesicles-go:GO:0031982 43-44-Golgi_membrane-go:GO:0000139 46-46-cytosol-go:GO:0005829
+229 1-1-CHO-uaz:UA-CLine-100019
+230 
+230 9-9-mouse-taxonomy:10090 31-31-rabbit-taxonomy:9986 34-34-rabbit-taxonomy:9986 58-58-rabbit-taxonomy:9986 65-65-rabbit-taxonomy:9986
+231 
+231 
+232 
+232 
+233 7-8-Golgi_membrane-go:GO:0000139 70-70-soybean-taxonomy:3847
+234 33-34-Golgi_membrane-go:GO:0000139
+235 
+236 34-35-Golgi_membrane-go:GO:0000139 46-46-membrane-go:GO:0016020 47-47-vesicles-go:GO:0031982
+237 3-3-vesicles-go:GO:0031982
+238 
+238 
+239 
+239 
+240 
+241 
+242 
+243 
+244 
+245 
+246 
+247 
+248 
+248 
+249 
+250 
+251 0-0-Vesicles-go:GO:0031982
+252 1-1-vesicles-go:GO:0031982
+253 
+254 
+254 
+255 
+255 
+256 10-11-Golgi_membrane-go:GO:0000139 22-22-vesicles-go:GO:0031982
+257 
+258 14-14-vesicles-go:GO:0031982
+259 
+260 
+260 
+261 
+261 14-14-tail-tissuelist:TS-1006
+262 
+263 
+264 
+265 

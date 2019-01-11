@@ -1,0 +1,232 @@
+1	uaz:UA-CT-16	macrophages	"E1,C1"	C1	phosphoinositide 3-kinasegamma Controls the intracellular localization of cpg to Limit dna-pkcs-dependent il-10 production	phosphoinositide 3-kinasegamma Controls the intracellular localization of cpg to Limit dna-pkcs-dependent il-10 production in macrophage
+2						synthetic oligodeoxynucleotide contain unmethylated cpg motif ( cpg ) stimulate innate immune response .
+3						"phosphoinositide 3-kinase ( pi3k ) have be implicate in cpg induce immune activation ; however , its precise role have not yet be clarify ."
+4	uaz:UA-CT-16	macrophages	"E2,C2"	C2	cpg induce production of il-10	cpg induce production of il-10 be dramatically increase in macrophage deficient in pi3kgamma ( p110gamma-/- ) .
+5			E3	C2	 lp induce production of il-10	"by contrast , lp induce production of il-10 be unchanged in the cell ."
+6	taxonomy:10090	mice	"E4,E5,S1"	S1	"cpg induce , but not lp induce , il-10 production"	"cpg induce , but not lp induce , il-10 production be almost completely abolish in scid mouse have mutation in dna dependent protein kinase catalytic subunit ( dna-pkc ) ."
+7			"E6,E7,E8,E9"	C2	"wortmannin , a inhibitor of dna-pkc , completely inhibit cpg induce il-10 production "	"furthermore , wortmannin , a inhibitor of dna-pkc , completely inhibit cpg induce il-10 production , both in wild type and p110gamma-/- cell ."
+8						microscopic analysis reveal that cpg preferentially localized with dna-pkc in p110gamma-/- cell than in wild type cell .
+9						"in addition , cpg be preferentially co-localize with the acidic lysosomal marker , LysoTracker , in p110gamma-/- cell , and with a early endosome marker , eea1 , in wild type cell ."
+10						over-expression of p110gamma in cos7 cell result in decrease acidification of cpg contain endosome .
+11						"a similar effect be reproduce use kinase dead mutant , but not with a ra binding site mutant , of p110gamma ."
+12						"thus , it be likely that p110gamma , in a manner independent of its kinase activity , inhibit the acidification of cpg contain endosome ."
+13						"it be consider that increase acidification of cpg contain endosome in p110gamma-/- cell enforce endosomal escape of cpg , which result in increase association of cpg with dna-pkc to up-regulate il-10 production in macrophage ."
+14						introduction
+15						"oligodeoxynucleotide contain unmethylated cpg motif ( cpg ) be powerful immune adjuvant that induce the production of cytokine , include il-6 , il-10 , il-12 , ifn-alpha and beta , and tnf-alpha , ."
+16						"although previous study have establish that cpg induce immune response be mediate by endosomal tlr9 - , cytoplasmic dna-pkc be also involve in cpg signaling independent of tlr9 , ."
+17						"thus , intracellular trafficking of cpg be critical to select downstream signaling molecule , which determine the cytokine species produce by macrophage , ."
+18					phosphoinositide 3-kinase ( pi3k ) have be report to be both a positive and negative regulator of cpg mediate cytokine production .	phosphoinositide 3-kinase ( pi3k ) have be report to be both a positive and negative regulator of cpg mediate cytokine production .
+19	"tissuelist:TS-0194,taxonomy:10090"	"plasmacytoid dendritic cells, mice"	"E10,E11,E12,C3,S2"	"C3,S2"	cpg induce il-12 production be increase in plasmacytoid dendritic cell ( pdc )	"cpg induce il-12 production be increase in plasmacytoid dendritic cell ( pdc ) from p85alpha-/- mouse , and by treatment of wild-type pdc with wortmannin ."
+20	uaz:UA-CLine-6471	RAW264.7 cells	"E13,E14,C4"	C4	cpg induce ino expression be increase by treat raw264 .7 cell with wortmannin .	"likewise , cpg induce ino expression be increase by treat raw264 .7 cell with wortmannin ."
+21	uaz:UA-CLine-6471	RAW264.7 cells	"E15,E16,E17,E18,E19,E20,E21,E22,C5"	C5	"wortmannin inhibit cpg induced production of il-12 , il-6 , tnf-alpha , and no"	"by contrast , another group have report that wortmannin inhibit cpg induced production of il-12 , il-6 , tnf-alpha , and no from raw264 .7 cell ."
+22						"this inhibition have be consider to be the result of wortmannin mediated disruption of class iii pi3k signaling , which be responsible for cpg uptake ."
+23	"uaz:UA-CLine-6462,taxonomy:10090"	"mouse,bone marrow"	"E23,E24,C6,S3"	"C6,S3"	wortmannin inhibit cpg induce il-12 production 	"similarly , wortmannin inhibit cpg induce il-12 production by inhibit cpg internalization in mouse derive bone marrow cell ."
+24	"taxonomy:9606,tissuelist:TS-0801"	"human, pDC"	"S4,C7,E25,E26"	"S4,C7"	"another pi3k inhibitor , ly294002 , also inhibit cpg induce type i ifn production ."	"in human pdc , another pi3k inhibitor , ly294002 , also inhibit cpg induce type i ifn production ."
+25			"E27,E28,E29"	"S4,C7"	"nuclear translocation of irf-7 be inhibit by ly294002 , and also , by a specific inhibitor of pi3kdelta , ic87114 ."	"in this case , the uptake and endosomal trafficking of cpg be not affect , but nuclear translocation of irf-7 be inhibit by ly294002 , and also , by a specific inhibitor of pi3kdelta , ic87114 ."
+26	tissuelist:TS-0801	pDC	"E30,E31,C8"	C8	"pi3k/mtor/p70s6k pathway play a substantial role in the spatial interaction of tlr9/myd88/irf7 , which be indispensable for the induction of type i ifn production"	"in addition , the pi3k/mtor/p70s6k pathway play a substantial role in the spatial interaction of tlr9/myd88/irf7 , which be indispensable for the induction of type i ifn production by pdc ."
+27						these report have indicate that pi3k play some role in trafficking of cpg itself or its downstream molecule .
+28					pan-_NN and and or some other specific pi3k inhibitor be use in all of the previous study describe above .	pan-_NN and and or some other specific pi3k inhibitor be use in all of the previous study describe above .
+29			"E32,E33,E34"	S5	all of these inhibitor bind competitively to the atp binding pocket of pi3k and block kinase activity .	all of these inhibitor bind competitively to the atp binding pocket of pi3k and block kinase activity .
+30						"since dna dependent protein kinase catalytic subunit ( dna-pkc ) share similar atp binding site as a member of the pi3k like kinase family , these inhibitor , even isoform specific inhibitor , more or less inhibit dna-pkc ."
+31						this make it difficult to elucidate the precise role of dna-pkc and pi3k in cpg mediate cytokine production .
+32	taxonomy:10090	mice	S5			"in this paper , we use class ib pi3k ( p110gamma ) knockout mouse and scid mouse have mutation in dna-pkc to estimate they role in cpg mediate cytokine production ."
+33	uaz:UA-CT-16	macrophages	"E35,C9"	C9	cpg mediate il-10 production in macrophage .	"in agreement with a current report , dna-pkc play a substantial role in cpg mediate il-10 production in macrophage ."
+34			E36	C9	p110gamma specifically down-regulate il-10 production	"by contrast , p110gamma specifically down-regulate il-10 production follow cpg stimulation ."
+35						quantitative analysis of microscopic image show that cpg localized preferentially with dna-pkc in the cytosol in p110gamma-/- cell to a greater extent than in wild-type cell .
+36			E37	C9	cpg induce production of il-10	we propose a novel regulatory role of p110gamma in cpg induce production of il-10 through modulation of the intracellular trafficking of cpg .
+37						result
+38						p110gamma deficiency specifically increase il-10 production upon cpg stimulation in macrophage
+39	"taxonomy:10090,uaz:UA-CT-16"	"mouse, macrophages"	"S6,C10"	"S6,C10"	generate il-10 in response to cpg .	mouse macrophage generate il-10 in response to cpg .
+40			"E38,E39,E40"	"S6,C10,C11,S7"	 tlr induce il-10 production | we test the effect of p110gamma depletion on il-10 production .	"since pi3k have be implicate in the regulation of tlr induce il-10 production , we test the effect of p110gamma depletion on il-10 production ."
+41	"uaz:UA-CT-16,taxonomy:10090"	"macrophages,taxonomy:10090"	"E41,C11,S7"	"C11,S7"	cpg induce il-10 production be dramatically increase	cpg induce il-10 production be dramatically increase in macrophage from p110gamma-/- mouse .
+42						"although il-10 production sometimes vary extremely between experiment , il-10 production in wild type mouse be always approximately half of that in p110gamma-/- mouse in each paired experiment ."
+43	taxonomy:10090	mice	S8			"we also test the cytokine production use macrophage from p85alpha-/- mouse , and from p110deltakd and kd mouse ; neither display cpg specific change in il-10 production similar to what be see with p110gamma-/- cell ( datum not show ) ."
+44						10.1371 / journal.pone .0026836 .
+45						g001
+46						Figure 1
+47						increase il-10 production follow cpg stimulation of p110gamma-/- cell .
+48						"macrophage from wild type ( open bar ) or p110gamma /- mouse ( solid bar ) be incubate in 24-well plate with 10 ng and ml lp , 200 ng and ml cpg , 50 microg and ml polyus : c or 200 nm malp2 for 18 h ."
+49						the amount of il-10 in the medium be determine by elisa .
+50						the value be the means + /- sd of duplicate culture from three independent experiment .
+51						"wortmannin inhibit il-10 production induce by cpg , but increase that induce by lp"
+52	uaz:UA-CT-16	macrophages	C12			"macrophage be treat with a pan-pi3k inhibitor , wortmannin ."
+53			"E42,E43,E44,E45"	"C12,S8"	cpg induce il-10 production be almost completely inhibit by wortmannin while lp induce il-10 production be rather increase	cpg induce il-10 production be almost completely inhibit by wortmannin while lp induce il-10 production be rather increase in wild type cell .
+54			"E46,E47"	"C12,S8"	the effect of wortmannin on lp induce il-10 production may be the result of the inhibition of p110gamma	"the effect of wortmannin on lp induce il-10 production may be the result of the inhibition of p110gamma , because the augmentation be not observe in p110gamma-/- cell ."
+55			"E48,E49"	"C12,S8"	 wortmannin inhibit severely cpg induce il-10 production	"however , wortmannin inhibit severely cpg induce il-10 production in p110gamma-/- cell , as well as in wild type cell ( ."
+56						d ) .
+57			E50	"C12,S8"	the inhibition by wortmannin be specific to il-10 production	"the inhibition by wortmannin be specific to il-10 production , because il-12 production be unchanged by the treatment ( datum not show ) ."
+58			"E51,E52"	"C12,S8"	 wortmannin responsible for the suppression of cpg induce il-10	these datum indicate that the target molecule of wortmannin responsible for the suppression of cpg induce il-10 be not p110gamma .
+59						10.1371 / journal.pone .0026836 .
+60						g002
+61						figure 2
+62						inhibition of cpg induce il-10 production by wortmannin .
+63						"macrophage from wild type ( a , c ) or p110gamma-/- mouse ( b , d ) be pre-incubated with 0.1 microm ( + in a , b ) , or increase concentration of wortmannin ( c , d ) for 15 min , follow by the addition of 10 ng and ml lp ( a , b ) or 200 ng and ml cpg ( A-D ) , for 18 h ."
+64						the amount of il-10 in the medium be determine by elisa .
+65						the value be the means + /- sd of duplicate culture from three independent experiment .
+66						p110gamma mediate negative regulation of il-10 production be independent of kinase activity
+67			"E53,E54"	"C12,S8"	"cpg induce il-10 production , we next test the effect of the p110gamma specific inhibitor , as252424 , on cpg induce il-10 production ."	"since a pan-pi3k inhibitor , wortmannin , do not mimic the effect of p110gamma deficiency on cpg induce il-10 production , we next test the effect of the p110gamma specific inhibitor , as252424 , on cpg induce il-10 production ."
+68			E55	"C12,S8"	c5a induce akt phosphorylation be completely abolish in p110gamma-/- cell .	c5a induce akt phosphorylation be completely abolish in p110gamma-/- cell .
+69						the result confirm that the c5a action be dependent on p110gamma .
+70			"E56,E57"	"C12,S8"	as252424 inhibit the c5a induce akt phosphorylation	"as252424 inhibit the c5a induce akt phosphorylation , indicate that the compound be a powerful tool for investigate the role of p110gamma ."
+71			E58	"C12,S8"	 cpg induce il-10 production	"surprisingly , as252424 do not cause a increase in cpg induce il-10 production in the wild type cell nor in p110gamma-/- cell ."
+72			"E59,E60"	"C12,S8"	 negative regulation of cpg induce il-10 production by p110gamma	these datum suggest that the negative regulation of cpg induce il-10 production by p110gamma be not dependent on its kinase activity .
+73						10.1371 / journal.pone .0026836 .
+74						g003
+75						Figure 3
+76						irrelevance of the kinase activity of p110gamma in the regulation of il-10 production .
+77						"( a ) macrophage from wild type or p110gamma-/- mouse be pre-incubated with 10 microm as252424 for 15 min , follow by the addition of 100 ng and ml c5a for 5 min ."
+78						total cell lysate from the treated cell be analyze by western blot .
+79						"( b and c ) macrophage from wild type ( b ) or p110gamma-/- mouse ( c ) be pre-incubated with increase concentration of as252424 for 15 min , follow by the addition of 200 ng and ml cpg for 18 h ."
+80						the amount of il-10 in the medium be determine by elisa .
+81						the value be the means + /- sd of duplicate culture from three independent experiment .
+82						cpg induce il-10 production be abolish in scid mouse
+83			E61	S9	a indispensable role of dna-pkc in cpg induce il-10 production have be report .	"recently , a indispensable role of dna-pkc in cpg induce il-10 production have be report ."
+84			E62	S9	"since dna-pkc have a pi3k like catalytic domain , the kinase activity be susceptible to wortmannin ."	"since dna-pkc have a pi3k like catalytic domain , the kinase activity be susceptible to wortmannin ."
+85	taxonomy:10090	mice	"E63,S9"	S9	"as report earlier , cpg induce il-10 productio"	"as report earlier , cpg induce il-10 production be defective in scid mouse ."
+86	taxonomy:10090	mice	"E64,E65,S10"	S10	wortmannin inhibit significantly cpg induce il-10 production in wild type	"additionally , wortmannin inhibit significantly cpg induce il-10 production in wild type , whereas it do not affect this process in scid mouse ."
+87			"E66,E67"	S11	wortmannin suppress cpg induce il-10 production through inhibition of dna-pkc .	this result suggest that wortmannin suppress cpg induce il-10 production through inhibition of dna-pkc .
+88	taxonomy:10090	mice	"E68,S11"	S11	"by contrast , lp induce il-10 production"	"by contrast , lp induce il-10 production in scid be identical to wild type with the same background mouse ."
+89						10.1371 / journal.pone .0026836 .
+90						g004
+91						Figure 4
+92						failure of cpg to stimulate il-10 production in scid mouse .
+93						"macrophage from wild type ( open bar ) or scid ( solid bar ) mouse be preincubate with 0.1 microm wortmannin ( + ) or vehicle ( - ) for 15 min , follow by the addition of 10 ng and ml lp or 200 ng and ml cpg , for 18 h ."
+94						the amount of il-10 in the medium be determine by elisa .
+95						the value be the means + /- sd of duplicate culture from three independent experiment .
+96						co-localization of dna-pkc and cpg be increase in p110gamma-/- cell
+97						"cpg be internalize via endocytosis and immediately move into the lysosomal compartment , , ."
+98			"E69,E70,E71"	S11	" cpg preferentially induce il-12 production , but , when release from the endosome , it associate with dna-pkc in cytoplasm and induce a greater amount of il-10 ."	"a recent study report that endosomal cpg preferentially induce il-12 production , but , when release from the endosome , it associate with dna-pkc in cytoplasm and induce a greater amount of il-10 ."
+99						"therefore , we hypothesize that cpg localized to the endosomal compartment in the wild type cell , and be more efficiently release into the cytosol in p110gamma-/- cell ."
+100	uaz:UA-CT-16	macrophages	C13			"to quantify the co-localization of cpg and dna-pkc , macrophage be incubate with rhodamine label cpg , fix with formaldehyde , permeabilized , and incubate with anti-dna-pkcs antibody ."
+101						the merged area be calculate from the imaging datum as describe under .
+102						the co-localization area of cpg and dna-pkc be significantly increase in 110gamma-/- cell .
+103			E72	"C13,S11"	cpg complex with cationic liposome compose of lipofectamine ( ltx )	"interestingly , cpg complex with cationic liposome compose of lipofectamine ( ltx ) and plus reagent localized in large vesicle both in wild type and p110gamma-/- cell , and scarcely co-localize with dna-pkc ."
+104			E73	"C13,S11"	pi3k inhibitor exclusively inhibit the kinase activity of dna-pkc .	"since wortmannin do not affect cpg uptake or localization of cpg or dna-pkcs ( datum not show ) , the pi3k inhibitor exclusively inhibit the kinase activity of dna-pkc ."
+105						10.1371 / journal.pone .0026836 .
+106						g005
+107						Figure 5
+108						increase co-localization of cpg and dna-pkc in p110gamma-/- cell .
+109						macrophage from wild type or p110gamma-/- mouse be incubate with 0.5 microm rhodamine-cpg ( a ) or rhodamine-cpg and lipofectamine ltx and plus ( c ) for 60 min .
+110						"the cell be wash , fix , permeabilized , and stain with anti-dna-pkcs antibody and alexa 488 label secondary antibody ."
+111						( b ) the imaging datum in ( a ) be quantify and show as means + /- sd .
+112						manipulation of cpg localization with cationic liposome abolish the effect of p110gamma deficiency on cytokine production
+113					cpg complex with the lipofection reagent	"it seem interesting to determine il-10 production by cpg complex with the lipofection reagent , which hardly co-localize with dna-pkc ."
+114					"when cell be stimulate with this cpg and lipofection reagent , il-10 production be decrease"	"when cell be stimulate with this cpg and lipofection reagent , il-10 production be decrease both in wild-type and p110gamma-/- cell ."
+115						"in addition , the augmentation of il-10 production see in p110gamma-/- cell be completely abolish use this delivery system ."
+116						10.1371 / journal.pone .0026836 .
+117						g006
+118						Figure 6
+119						the effect of lipofection reagent on cpg induce cytokine production .
+120						macrophage from wild type ( open bar ) or p110gamma-/- mouse ( solid bar ) be incubate in 24-well plate with 200 ng and ml cpg or cpg and lipofectamine ltx and plus reagent complex for 18 h .
+121						the amount of il-10 ( a ) and il-12 ( b ) in the medium be determine by elisa .
+122						the value be the means + /- sd of duplicate culture from three independent experiment .
+123						"cpg preferentially localized in the early endosome in wild type cell , and in lysosome in p110gamma-/- cell"
+124						"we next test the cellular delivery of cpg use a early endosome marker , eea1 , a endosome marker , dextran , and a acidic lysosome marker , LysoTracker ."
+125						quantitative analysis of microscopic image show that more cpg merge with eea1 and dextran in wild type cell than in p110gamma-/- cell .
+126						"by contrast , cpg preferentially merge with LysoTracker in p110gamma-/- cell more than in wild-type cell ."
+127						"to further investigate the role of p110gamma in cpg localization , cos7 cell be transfect with p110gamma and its mutant form ( unlike macrophage , cos7 cell do not express p110gamma ) ."
+128						"as show in , most of the cpg be co-localize with lysotracker in cos7 cell transfect with vehicle alone , while scarcely co-localize with lysotracker in the cell transfect with wild type p110gamma ."
+129						"interestingly , overexpression of a kinase dead mutant of p110gamma also inhibit the acidification of cpg contain endosome ."
+130						"by contrast , the ra binding domain mutant form show no effect on the cpg localization ."
+131						these result suggest that pi3k p110gamma play a role in endosomal acidification independent of its kinase activity .
+132	uaz:UA-CT-16	macrophages	"E76,E77,E78,C14"	C14	cpg contain endosome may accelerate cpg translocation to the cytosol and the resultant association with dna-pkc to increase il-10 production	"since endosomal acidification be know to precede the endosomal leakage , acidification of cpg contain endosome may accelerate cpg translocation to the cytosol and the resultant association with dna-pkc to increase il-10 production in macrophage ."
+133						10.1371 / journal.pone .0026836 .
+134						g007
+135						Figure 7
+136						cpg localization in macrophage from wild type and p110gamma-/- mouse .
+137						"macrophage from wild type or p110gamma-/- mouse be incubate with 0.5 microm rhodamine-cpg ( a , b ) or fitc-cpg ( c ) for 30 min ."
+138						fitc-dextran ( 1 mg and ml ) ( b ) or LysoTracker red ( 50 nm ) ( c ) be add simultaneously with cpg .
+139						the cell be wash and observe as live cell ( b and c ) .
+140						"in ( a ) , the cell be fix , permeabilized and stain with anti-eea1 antibody and alexa 488 label secondary antibody ."
+141						"the imaging datum in ( a , b , c ) be quantify and show as means + /- sd in ( d , e , f ) ."
+142						"* ; p < 0.05 , ** ; p < 0.01 ."
+143						10.1371 / journal.pone .0026836 .
+144						g008
+145						Figure 8
+146						effect of overexpression of p110gamma on cpg localization in cos7 cell .
+147						cos7 cell be transfect with pi3k p110gammaor its mutant form as describe under .
+148						cell prepare in this manner be incubate with 50 nm LysoTracker red and 0.5 microm fitc-cpg for 30 min .
+149						the cell be wash and observe as live cell .
+150			"E79,E80,E81"	C14	cpg induce but not lp induce il-10 production be suppress by inhibitor	cpg induce but not lp induce il-10 production be suppress by inhibitor of endosomal acidification
+151			E82	C14	cpg induce il-10 production	effect of chemical inhibitor of endosomal acidification on cpg induce il-10 production be next examine .
+152			"E83,E84,E85"	C14	nh4cl and chloroquine strongly inhibit cpg induce il-10 production	both nh4cl and chloroquine strongly inhibit cpg induce il-10 production without affect lp induce one .
+153			E86	C14	cpg induce il-10 production .	the result support we hypothesis that endosomal acidification be require for cpg induce il-10 production .
+154						10.1371 / journal.pone .0026836 .
+155						g009
+156						Figure 9
+157						effect of inhibitor of lysosomal acidification on il-10 production .
+158						"macrophage from wild type mouse be preincubate with 20 mm nh4cl , 50 microm chloroquine or vehicle for 15 min , follow by the addition of 10 ng and ml lp or 200 ng and ml cpg , for 18 h ."
+159						the amount of il-10 in the medium be determine by elisa .
+160						the value be the means + /- sd of duplicate culture from three independent experiment .
+161						** ; p < 0.01 .
+162						discussion
+163						"in this study , we have identify a novel function of pi3k p110gamma in the regulation of cpg localization ."
+164	uaz:UA-CT-16	macrophages	C15			we have demonstrate this function use p110gamma-/- macrophage and cos7 cell transfect with p110gamma .
+165						"in macrophage , more cpg merge with the endosome marker , eea1 and dextran , in wild type cell than in p110gamma-/- cell , whereas preferentially merge with the acidic lysosome marker , LysoTracker , in p110gamma-/- cell to a greater extent than in wild-type cell ."
+166						"in cos7 cell , which do not express p110gamma , most of the cpg be co-localize with lysotracker , and scarcely co-localize with the dye in the cell transfect with p110gamma ."
+167			E87	C15	il-10 production be increase specifically in p110gamma-/- cell follow cpg stimulation .	another novel finding report in this paper be that il-10 production be increase specifically in p110gamma-/- cell follow cpg stimulation .
+168						"in p110gamma-/- cell , the increased acidification of cpg contain endosome and the resultant leakage of cpg to the cytosol , where dna-pkcs reside , appear to be responsible for the modulation of cytokine production ."
+169	taxonomy:10090	mice	"E88,E89,S12"	S12	"cpg induce , but not lp induce , il-10 production"	"for this reason , cpg induce , but not lp induce , il-10 production be almost completely abolish in scid mouse have mutation in dna-pkc ."
+170			"E90,E91,E92"	C15	" wortmannin , a inhibitor of dna-pkc , inhibit completely cpg induce il-10 production"	"furthermore , wortmannin , a inhibitor of dna-pkc , inhibit completely cpg induce il-10 production both in wild-type and in p110gamma-/- cell ."
+171						"in addition to these , manipulation of the delivery system with cationic liposome , which severely block the cytosolic delivery of cpg both in p110gamma-/-_NN and wild type cell , result in decrease il-10 production ."
+172						"finally , a intriguing point in this study be that the action of p110gamma on both the cpg delivery system and cytokine production be independent of its kinase activity ."
+173						several kinase independent function of p110gamma have be report previously .
+174	tissuelist:TS-20002	cardiomyocytes	"E93,C16"	C16	"protein complex contain p110gamma be know to activate phosphodiesterase ( pde3b ) in cardiomyocyte to degrade camp in a manner independent of its kinase activity , ."	"protein complex contain p110gamma be know to activate phosphodiesterase ( pde3b ) in cardiomyocyte to degrade camp in a manner independent of its kinase activity , ."
+175			"E94,E95,E96"	C15	"since increase in the camp level result in augmentation of tlr mediate il-12 production , with a decrease in il-10 production , we have hypothesize that the increased il-10 production in the absence of p110gamma might be the result of elevated camp level"	"since increase in the camp level result in augmentation of tlr mediate il-12 production , with a decrease in il-10 production , we have hypothesize that the increased il-10 production in the absence of p110gamma might be the result of elevated camp level ."
+176			"E97,E98,E99,E100,E101,E102"	C15	" some reagent know to increase camp , such as forskolin , prostaglandin e2 , 3-isobutyl-1-methylxanthin or dibutyryl camp in il-10 production ."	"to answer this question we test some reagent know to increase camp , such as forskolin , prostaglandin e2 , 3-isobutyl-1-methylxanthin or dibutyryl camp in il-10 production ."
+177					although these reagent more or less enhance il-10 productio	"although these reagent more or less enhance il-10 production , the effect be not specific to cpg stimulation , but rather , be commonly observe in tlr stimulation ( datum not show ) ."
+178						the other kinase independent function of p110gamma be report in vascular repair and platelet aggregation .
+179						"in addition , wild-type or the kinase dead mutant of p110gamma can block the growth of human colon cancer cell ."
+180						"although the mechanism of these kinase independent action of p110gamma remain to be clarify , a scaffolding role for p110gamma have be suggest ."
+181						"p110gamma-/- mouse show severe defect in immune response , and be protect completely against systemic anaphylaxi - ."
+182						"additionally , in model of rheumatoid arthritis , systemic lupus erythematosus , and atherosclerosis , loss of p110gamma activity result in protection against disease progression - ."
+183						"since il-10 be a anti-inflammatory cytokine , the increased il-10 production in p110gamma deficient cell may contribute , at least in a part , to protection against excessive inflammation ."
+184						"it be also likely that the increased il-10 and decrease il-12 production in p110gamma-/- macrophage might explain partly the development of colorectal carcinoma in p110gamma-/- mouse , because the il-12-mediated th1 response favor effective anti-tumor immune response ."
+185						"although further study be need to confirm the in vivo effect of p110gamma on the translocation of cpg , we finding suggest that when p110gamma be consider as a drug target for immune disease , , , not only its lipid kinase function , but also its kinase independent function should be consider ."
+186						MATERIAL/METHODS
+187						MATERIAL/METHODS
+188						MATERIAL/METHODS
+189						MATERIAL/METHODS
+190						MATERIAL/METHODS
+191						MATERIAL/METHODS
+192						MATERIAL/METHODS
+193						MATERIAL/METHODS
+194						MATERIAL/METHODS
+195						MATERIAL/METHODS
+196						MATERIAL/METHODS
+197						MATERIAL/METHODS
+198						MATERIAL/METHODS
+199						MATERIAL/METHODS
+200						MATERIAL/METHODS
+201						MATERIAL/METHODS
+202						MATERIAL/METHODS
+203						MATERIAL/METHODS
+204						MATERIAL/METHODS
+205						MATERIAL/METHODS
+206						MATERIAL/METHODS
+207						MATERIAL/METHODS
+208						MATERIAL/METHODS
+209						MATERIAL/METHODS
+210						MATERIAL/METHODS
+211						MATERIAL/METHODS
+212						MATERIAL/METHODS
+213						MATERIAL/METHODS
+214						MATERIAL/METHODS
+215						MATERIAL/METHODS
+216						MATERIAL/METHODS
+217						MATERIAL/METHODS
+218						MATERIAL/METHODS
+219						MATERIAL/METHODS
+220						MATERIAL/METHODS
+221						MATERIAL/METHODS
+222						MATERIAL/METHODS
+223						MATERIAL/METHODS
+224						MATERIAL/METHODS
+225						MATERIAL/METHODS
+226						MATERIAL/METHODS
+227						MATERIAL/METHODS
+228						MATERIAL/METHODS
+229						MATERIAL/METHODS
+230						MATERIAL/METHODS
+231						MATERIAL/METHODS
+232						MATERIAL/METHODS

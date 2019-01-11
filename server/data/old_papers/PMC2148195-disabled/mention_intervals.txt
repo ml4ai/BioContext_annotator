@@ -1,0 +1,447 @@
+0 12-13-Gap_Junction-go:GO:0005921
+1 
+1 
+2 9-10-gap_junction-go:GO:0005921
+3 4-4-tail-tissuelist:TS-1006
+4 15-16-Xenopus_laevis-taxonomy:8355 17-17-oocyte-tissuelist:TS-0711
+5 
+6 
+7 28-28-SH3-uaz:UA-CLine-8476
+8 8-12-rat_kidney_(NRK)-uaz:UA-CLine-100068
+9 8-9-gap_junctions-go:GO:0005921
+10 
+10 0-1-Gap_junctions-go:GO:0005921 18-18-cytoplasms-go:GO:0005737
+11 25-25-mice-taxonomy:10090
+12 5-6-gap_junction-go:GO:0005921
+13 11-12-gap_junction-go:GO:0005921
+14 
+15 
+15 2-3-gap_junctions-go:GO:0005921
+16 
+17 6-7-gap_junctions-go:GO:0005921
+18 
+18 
+19 6-7-Xenopus_laevis-taxonomy:8355 8-8-oocytes-uaz:UA-CLine-100066
+20 
+21 
+21 14-15-gap_junctions-go:GO:0005921
+22 5-6-gap_junctions-go:GO:0005921 11-12-plasma_membrane-go:GO:0005886 21-22-gap_junction-go:GO:0005921
+23 
+24 
+25 31-31-SH3-uaz:UA-CLine-8476
+26 
+27 35-36-gap_junction-go:GO:0005921
+28 
+28 8-9-gap_junction-go:GO:0005921
+29 38-39-gap_junctions-go:GO:0005921
+30 
+31 
+32 
+33 19-20-gap_junction-go:GO:0005921
+34 
+35 9-9-oocytes-uaz:UA-CLine-100066
+36 
+37 
+38 
+39 
+40 
+40 
+41 
+41 
+42 
+42 0-0-Rat-taxonomy:10116
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+52 
+53 
+53 
+54 
+55 
+56 
+57 
+57 1-1-Oocyte-tissuelist:TS-0711
+58 
+58 12-12-oocytes-uaz:UA-CLine-100066
+59 1-1-oocytes-uaz:UA-CLine-100066 20-21-follicular_cell-tissuelist:TS-0376
+60 0-0-Oocytes-uaz:UA-CLine-100066
+61 23-23-oocyte-tissuelist:TS-0711
+62 1-2-vitelline_envelope-go:GO:0060388
+63 
+64 28-28-oocyte-tissuelist:TS-0711 36-36-oocyte-tissuelist:TS-0711 38-38-tail-tissuelist:TS-1006 59-59-oocytes-uaz:UA-CLine-100066
+65 
+66 
+67 
+68 
+68 
+69 23-23-oocyte-tissuelist:TS-0711
+70 8-8-oocytes-uaz:UA-CLine-100066
+71 
+72 
+72 
+73 
+73 0-0-Oocytes-uaz:UA-CLine-100066 20-20-oocyte-tissuelist:TS-0711 46-46-oocytes-uaz:UA-CLine-100066 53-53-oocyte-tissuelist:TS-0711
+74 
+75 6-6-oocytes-uaz:UA-CLine-100066
+76 
+77 
+77 5-5-oocyte-tissuelist:TS-0711
+78 
+79 14-14-oocyte-tissuelist:TS-0711
+80 
+81 
+81 
+82 
+83 32-32-calf-taxonomy:9913
+84 
+85 
+85 4-4-Oocytes-uaz:UA-CLine-100066
+86 
+86 0-0-Oocytes-uaz:UA-CLine-100066 24-24-oocyte-tissuelist:TS-0711
+87 30-31-vegetal_pole-tissuelist:TS-1217
+88 4-4-oocytes-uaz:UA-CLine-100066 36-36-oocytes-uaz:UA-CLine-100066
+89 0-0-Oocytes-uaz:UA-CLine-100066 7-7-oocyte-tissuelist:TS-0711
+90 
+91 
+91 
+92 
+92 
+93 12-12-membrane-go:GO:0016020
+94 0-0-Membranes-go:GO:0016020 11-11-milk-tissuelist:TS-0636
+95 24-24-membrane-go:GO:0016020
+96 9-9-sheep-taxonomy:9940
+97 
+98 
+98 
+99 
+99 0-0-NRK-uaz:UA-CLine-3989 11-11-LA25-uaz:UA-CLine-100031
+100 6-6-LA25-uaz:UA-CLine-100031 17-17-SV40-taxonomy:10633
+101 
+102 
+103 
+103 
+104 
+105 
+106 
+107 
+107 
+108 
+109 
+109 
+110 
+110 10-10-Oocytes-uaz:UA-CLine-100066
+111 
+111 14-15-gap_junction-go:GO:0005921
+112 
+113 
+114 
+115 
+115 12-12-oocyte-tissuelist:TS-0711
+116 
+117 1-1-oocytes-uaz:UA-CLine-100066
+118 27-27-oocyte-tissuelist:TS-0711
+119 21-21-oocyte-tissuelist:TS-0711
+120 
+121 
+121 25-25-oocytes-uaz:UA-CLine-100066
+122 1-1-oocytes-uaz:UA-CLine-100066
+123 
+124 
+125 
+126 
+127 
+127 
+128 
+128 12-12-oocytes-uaz:UA-CLine-100066
+129 
+130 9-9-oocytes-uaz:UA-CLine-100066
+131 
+132 10-10-oocytes-uaz:UA-CLine-100066
+133 
+134 17-18-gap_junction-go:GO:0005921
+135 
+135 
+136 
+137 16-16-tail-tissuelist:TS-1006
+138 17-17-tail-tissuelist:TS-1006
+139 
+140 
+141 33-33-oocytes-uaz:UA-CLine-100066
+142 
+142 
+143 
+143 
+144 
+145 
+146 
+147 
+148 
+149 
+149 
+150 
+151 
+152 
+153 31-31-oocytes-uaz:UA-CLine-100066
+154 8-8-SH3-uaz:UA-CLine-8476
+155 
+156 
+157 
+158 
+159 
+159 
+160 
+160 
+161 11-11-oocytes-uaz:UA-CLine-100066
+162 
+163 
+163 
+164 
+165 
+166 17-18-gap_junction-go:GO:0005921
+167 
+168 
+169 
+170 
+171 
+172 
+172 
+173 
+173 
+174 29-30-gap_junctions-go:GO:0005921 34-34-SH3-uaz:UA-CLine-8476
+175 
+176 
+177 11-11-SH3-uaz:UA-CLine-8476
+178 
+179 
+180 13-13-SH3-uaz:UA-CLine-8476 23-23-SH3-uaz:UA-CLine-8476
+181 
+182 1-1-SH3-uaz:UA-CLine-8476
+183 
+184 
+185 
+186 
+187 
+187 
+188 
+188 17-17-SH3-uaz:UA-CLine-8476
+189 21-21-SH3-uaz:UA-CLine-8476
+190 
+191 
+191 16-16-oocytes-uaz:UA-CLine-100066
+192 38-38-brain-tissuelist:TS-0095
+193 
+194 
+195 12-12-oocytes-uaz:UA-CLine-100066
+196 
+197 
+198 
+199 
+200 
+200 18-18-oocytes-uaz:UA-CLine-100066
+201 
+202 
+202 11-11-oocytes-uaz:UA-CLine-100066
+203 
+204 33-33-oocyte-tissuelist:TS-0711
+205 
+206 17-17-SH3-uaz:UA-CLine-8476
+207 
+208 14-14-SH3-uaz:UA-CLine-8476
+209 33-33-SH3-uaz:UA-CLine-8476
+210 
+210 
+211 
+212 
+213 
+214 
+215 
+215 6-6-LA25-uaz:UA-CLine-100031
+216 
+216 27-27-oocytes-uaz:UA-CLine-100066
+217 15-16-gap_junction-go:GO:0005921 32-32-oocytes-uaz:UA-CLine-100066
+218 12-12-NRK-uaz:UA-CLine-3989 22-22-LA25-uaz:UA-CLine-100031
+219 
+219 2-3-gap_junction-go:GO:0005921 6-6-LA25-uaz:UA-CLine-100031
+220 
+221 
+222 
+223 2-2-oocyte-tissuelist:TS-0711 18-18-LA25-uaz:UA-CLine-100031
+224 
+225 8-8-oocytes-uaz:UA-CLine-100066 20-20-LA25-uaz:UA-CLine-100031 37-38-gap_junctions-go:GO:0005921
+226 
+226 
+227 
+227 5-6-gap__junction-go:GO:0005921
+228 
+229 
+230 
+231 
+232 6-6-oocyte-tissuelist:TS-0711
+233 
+233 
+234 
+235 8-8-tail-tissuelist:TS-1006
+236 
+237 29-29-SH3-uaz:UA-CLine-8476
+238 
+239 
+240 
+241 
+242 
+243 
+243 
+244 
+245 11-11-tail-tissuelist:TS-1006
+246 
+246 
+247 
+248 
+249 
+250 
+250 8-9-gap__junction-go:GO:0005921 16-16-oocytes-uaz:UA-CLine-100066 22-23-gap_junction-go:GO:0005921
+251 
+252 
+253 9-9-oocytes-uaz:UA-CLine-100066
+254 
+255 
+256 41-42-gap_junction-go:GO:0005921 46-47-plasma__membrane-go:GO:0005886
+257 
+258 
+259 
+259 
+260 
+261 
+262 
+263 
+264 
+265 
+266 
+267 
+267 
+268 17-17-oocyte-tissuelist:TS-0711
+269 
+270 
+271 
+272 
+272 
+273 
+274 
+275 
+276 
+277 
+278 21-21-SH3-uaz:UA-CLine-8476
+279 
+280 30-30-LA25-uaz:UA-CLine-100031
+281 
+282 
+282 3-3-oocyte-tissuelist:TS-0711
+283 
+284 12-12-oocytes-uaz:UA-CLine-100066 14-14-NRK-uaz:UA-CLine-3989
+285 
+286 9-10-gap_junction-go:GO:0005921 25-25-oocytes-uaz:UA-CLine-100066
+287 
+287 26-26-oocytes-uaz:UA-CLine-100066 35-35-LA25-uaz:UA-CLine-100031
+288 
+289 
+290 18-19-gap_junction-go:GO:0005921 22-22-Rat-1-uaz:UA-CLine-100045 23-23-fibroblast-uaz:UA-CLine-100060
+291 
+292 
+292 
+293 
+294 10-11-gap_junctions-go:GO:0005921
+295 
+296 
+297 
+298 
+299 
+300 
+301 
+301 
+302 
+302 
+303 
+303 
+304 
+305 
+306 14-14-oocyte-tissuelist:TS-0711 28-28-oocytes-uaz:UA-CLine-100066
+307 
+307 
+308 
+308 
+309 0-0-Oocytes-uaz:UA-CLine-100066
+310 
+311 
+312 
+313 
+313 
+314 
+314 5-5-oocytes-uaz:UA-CLine-100066
+315 0-0-Oocytes-uaz:UA-CLine-100066
+316 5-5-oocyte-tissuelist:TS-0711
+317 11-11-oocyte-tissuelist:TS-0711
+318 
+319 
+319 
+320 
+320 
+321 1-1-oocytes-uaz:UA-CLine-100066
+322 26-26-tail-tissuelist:TS-1006
+323 
+324 10-10-oocytes-uaz:UA-CLine-100066
+325 
+326 
+327 
+328 
+328 
+329 
+329 
+330 
+331 
+332 
+333 
+334 
+335 
+336 
+336 
+337 
+337 
+338 
+339 23-23-SH3-uaz:UA-CLine-8476
+340 
+341 
+342 
+342 
+343 
+343 
+344 3-3-LA25-uaz:UA-CLine-100031
+345 6-6-LA25-uaz:UA-CLine-100031
+346 
+347 23-23-LA25-uaz:UA-CLine-100031 33-33-LA25-uaz:UA-CLine-100031
+348 
+348 
+349 
+349 
+350 8-8-tail-tissuelist:TS-1006
+351 
+352 14-14-SH3-uaz:UA-CLine-8476
+353 
+354 
+354 
+355 
+355 11-11-tail-tissuelist:TS-1006
+356 7-7-oocytes-uaz:UA-CLine-100066
+357 
+358 3-3-oocytes-uaz:UA-CLine-100066
+359 10-10-tail-tissuelist:TS-1006
+360 
+361 
+362 7-7-oocytes-uaz:UA-CLine-100066
+363 3-3-oocytes-uaz:UA-CLine-100066
+364 

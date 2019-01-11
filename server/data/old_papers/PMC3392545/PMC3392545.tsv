@@ -1,0 +1,129 @@
+1			e1	s1		structure of sting bind to c-di-gmp reveal the mechanism of cyclic Dinucleotide recognition by the Immune System
+2			e3	s1		sting , stimulator of interferon gene , be a innate immune sensor of cyclic dinucleotide that regulate the induction of type i interferon .
+3			e2	s1		sting c-terminal domain form a v shaped dimer and bind a c-di-gmp molecule at the dimer interface through direct and solvent mediated hydrogen bond .
+4						the guanine basis of c-di-gmp stack against the phenolic ring of a conserved tyrosine residue .
+5						mutation at the c-di-gmp binding surface reduce nucleotide binding and affect signaling .
+6						nucleic acid from bacterium or virus induce potent immune response in infected cell , .
+7			e4,e5,e6,e7	s1		cyclic dinucleotide such as cyclic di-guanine monophosphate ( c-di-gmp ) and cyclic diadenosine monophosphate ( c-di-amp ) be immune stimulator that regulate the induction of type i interferon ( ifn-alpha and beta ) - .
+8						these special nucleotide be secondary messenger molecule that regulate bacterial motility , biofilm formation , and virulence gene expression , .
+9						sting , a protein localize on the endoplasmic reticulum membrane , be a innate immune sensor of cyclic dinucleotide .
+10						sting also play critical role in the innate immune response towards microbial dna and rna , .
+11			e14	s1		two putative dna sensor , ifi16 and ddx41 , stimulate the induction of type i ifn in a sting dependent manner , .
+12			e8,e9	s1		stimulation of cell by dsdna induce the recruitment of protein kinase tbk1 and transcription factor irf3 to sting .
+13			e10,e11,e12,e13	s1		the proximity of tbk1 and irf3 facilitate irf3 phosphorylation , lead to its dimerization and translocation to the nucleus to activate ifn-beta gene transcription .
+14						the molecular structure of the sting bind to a cyclic dinucleotide will help to understand the mechanism of sting activation .
+15	taxonomy:9606	human	s1			we have conduct systematic screening of mouse and human sting construct and identify a fragment of human sting c-terminal domain ( ctd ) contain residue 155 to 341 , which be soluble and can be crystallize .
+16						gel filtration chromatography show that the STING CTD form a dimer in solution .
+17			e15	s1		isothermal titration calorimetry ( ITC ) show that STING CTD bind c-di-gmp with a affinity ( kd ) of ~ 5 mum .
+18			e16	s1		two sting molecule bind one c-di-gmp , indicate a sting dimer share one c-di-gmp binding site .
+19						the binding interaction be enthalpy driven ( deltah = -14.5 kcal mol-1 , delta = -24.3 cal mol-1 k-1 ) .
+20						a slightly larger sting construct contain residue 155 to 379 have a similar affinity ( kd ~ 2.4 mum ) for c-di-gmp , demonstrate that truncation of the 38 c-terminal residue do not affect cdi-gmp binding .
+21	taxonomy:9606	human	s2,e17	s2		to elucidate the structural basis of cyclic dinucleotide recognition by sting , we have determine the 1.5 a resolution structure of human sting ctd bind to c-di-gmp .
+22						the crystallographic asymmetric unit contain a sting dimer in complex with a c-di-gmp molecule .
+23			e18	s2		the sting dimer have a v shaped structure and the c-di-gmp binding site be located at the bottom of the v of the dimer interface .
+24						the c-di-gmp also adopt a v shaped conformation and contact the sting dimer through stack of both guanine basis against the phenolic ring of tyr167 .
+25						residue 228 through 236 in the loop connect strand beta3 and beta4 of sting be not well define in the electron density map , likely due to the flexibility of this loop .
+26						this loop harbor a potential traf2 binding motif pqqtgd , and may play a role in signaling by sting .
+27						sting ctd exhibit a novel alpha and beta type fold with some structural similarity to the ra family small g-protein .
+28						sting ctd contain a central five strand beta-sheet sandwich between four alpha-helix .
+29						the first alpha-helix of sting contain residue 155 to 174 be rich in hydrophobic residue and be previously predict as a transmembrane helix .
+30						this helix be long and bent in the middle at residue gly166 and pro173 .
+31						helix alpha1 and alpha2 mediate the dimer formation and harbor key residue for c-di-gmp binding .
+32						truncation of helix alpha1 make the protein insoluble , indicate that helix alpha1 be a integral part of sting nucleotide binding domain and be require for proper folding of the protein .
+33						the total bury surface area between the c-di-gmp and sting be ~ 1,100 a2 .
+34						the interaction between c-di-gmp and sting be mediate by direct and solvent mediated hydrogen bond .
+35			e19,e20	s2		the interaction between the two sting molecule and the c-di-gmp be similar , therefore only half of the c-di-gmp interaction with sting will be describe .
+36						the guanine base of c-di-gmp form only one direct hydrogen bond with the hydroxyl group of thr263 .
+37						it also form two solvent mediated hydrogen bond with the backbone amine and carbonyl of ser241 .
+38						in addition , the guanine form a solvent mediated hydrogen bond with the sidechain hydroxyl of tyr163 and the carbonyl of tyr261 .
+39						glu260 play a critical role in form the c-di-gmp binding site by interact with the sidechain of tyr167 through direct hydrogen bond so that the phenolic ring of tyr167 can be position properly to stack against the guanine base .
+40						the sidechain of asn242 form a network of hydrogen bond with glu260 , tyr167 , and arg178 .
+41						these interaction be important to orient ser241 and tyr167 to interact with the guanine base .
+42						the 2 ' hydroxyl of the ribose interact directly with the hydroxyl of thr263 .
+43						the hydroxyl of thr267 form two solvent mediated-hydrogen bond with the ribose and the phosphate group .
+44						in addition , the phosphate group interact with the backbone carbonyl of gly166 through a solvent mediated hydrogen bond .
+45			e21	s2		a number of other residue of sting be also critical for c-di-gmp binding .
+46						for example , pro264 be critical in the formation of the binding surface by position thr263 and thr267 properly to interact with c-di-gmp .
+47						gly166 be also critical for c-di-gmp binding by allow the nucleotide to approach its binding surface closely , which be critical for the stack of the guanine ring on the phenolic ring of tyr167 .
+48						although ser162 do not interact with c-di-gmp directly , together with thr267 and several order solvent molecule , they form a large flat hydrophilic cushion to accommodate the ribose and phosphate ring of c-di-gmp .
+49						the total bury surface area at the sting dimer interface be ~ 1,550 a2 .
+50						the two monomer interact with each other through extensive hydrophobic interaction involve residue val155 , leu157 , trp161 , ile165 in helix alpha1 and ala270 , met271 , ala277 near the linker region between helix alpha2 and alpha3 .
+51						in addition , there be two direct hydrogen bond between the sidechain phenolic group of tyr164 and tyr274 .
+52						residue at the n-terminus of helix alpha1 be critical for the formation of the dimer , explain why truncation of this helix result in insoluble protein .
+53						two calcium ion be observe between two crystallographic symmetry related sting dimer .
+54						the calcium binding site be located at the loop between strand beta1 and beta2 and the loop between strand beta5 and helix alpha4 .
+55						the sidechain of glu316 and asp320 from one sting molecule , the carbonyl of ala318 and the sidechain asp205 from a symmetry related sting molecule and two water molecule coordinate with each of the calcium ion in octahedral geometry .
+56						mutation of mouse sting at glu315 , which correspond to the calcium ligand glu316 in human sting , to either alanine , asparagine , or glutamine , make mouse sting hyperactive and spontaneously induce ifn expression even at low level of transfection .
+57						these mutant also fail to respond to c-di-gmp .
+58						mutation of another calcium ligand asp204 to alanine also increase mouse sting signaling although it fail to respond to c-di-gmp .
+59						these result indicate that calcium play a critical role in regulate sting function .
+60						to investigate the potential conformational change induce by c-di-gmp binding , we have determine the structure of ligand-free sting ctd at 1.9 a resolution .
+61						superposition of the ligand free sting structure over the c-di-gmp complex structure show minor difference between the two structure ( rmsd of ~ 0.5 a , ) .
+62						since ligand-free sting crystallize in nearly the same unit cell as the c-di-gmp complex , it be likely that crystal packing contribute to the similar structure .
+63						these result suggest that the c-di-gmp binding site of sting be likely preformed and the dimer be rigid .
+64			e22,e23	s2		base on the structure of sting bind to c-di-gmp , we design eleven mutant of human sting and study they binding with c-di-gmp by gel filtration chromatography and ITC .
+65						three of the eleven mutant , y163a , y167a , and i200n , fail to express as soluble protein .
+66						mutation g166 or s162a reduce c-di-gmp binding slightly .
+67						the replacement of tyr240 by serine or thr263 by alanine reduce the c-di-gmp binding affinity to 17 and 10 mum , respectively .
+68						mutant n242a and e260a have severely reduce c-di-gmp binding .
+69						the affinity of these two mutant be reduce to 28 and 52 mum , respectively .
+70						mutation of t263a and pro264a also reduce c-di-gmp binding .
+71						in addition , mutation t267a reduce c-di-gmp binding affinity by nearly 7 fold ( kd of ~ 31 mum , ) .
+72	uaz:UA-CLine-100104	HEK293T	c1			since human sting be not sensitive to c-di-gmp when express in hek293t cell , we establish a ifn-beta luciferase reporter assay for the mouse sting that respond to c-di-gmp .
+73						mutation in mouse sting that correspond to the human sting residue involve in c-di-gmp binding be examine use the assay .
+74						consistent with previous study , mutant i199n do not express well and fail to respond to c-di-gmp .
+75						although the remain six mutant express normally , mutant y239 and e259a also fail to respond to c-di-gmp .
+76						in addition , mutant t262a exhibit reduce response to c-di-gmp .
+77						interestingly , mutation n241a , p263a and t266a enable the mouse sting to be hyperactive even in the absence of c-di-gmp , but only mutant p263a retain some response to c-di-gmp .
+78			e24	s3,s4		sting be potently phosphorylate by tbk1 at the c-terminus .
+79						phosphorylation of sting truncate after residue 341 be significantly reduce .
+80						Time course of the phosphorylation experiment show that sting dephosphorylate after 30 minute at the atp concentration of 1 mm and that phosphatase inhibitor reduce the dephosphorylation of sting .
+81			e25	s3,s4		phosphorylation assay with 5 mm atp result in persistent phosphorylation of sting .
+82						we also test the effect of sting and c-di-gmp on irf3 activation by tbk1 use purify protein .
+83	taxonomy:9606,taxonomy:10090	human, mouse	e26,e27,s3,s4	s3,s4		the rate of tbk1 dependent phosphorylation and dimerization of irf3 be not affect by human sting ( contain residue 155 to 379 ) or human sting in complex with c-di-gmp .
+84						similar result be observe with the mouse sting .
+85			e29	s3		the high-resolution structure of sting bind to c-di-gmp provide a detailed picture of how the protein recognize the cyclic dinucleotide .
+86						however , it be still not clear how c-di-gmp activate the tbk1 and irf3 signaling pathway .
+87			e30,e31,e32	s3		although sting can recruit tbk1 and irf3 through its c-terminal region and may facilitate the tbk1 dependent phosphorylation of irf3 in cell stimulate with dna , whether a similar mechanism be employ by c-di-gmp to activate irf3 await further analysis .
+88			e33	c1		we in vitro assay show sting be phosphorylate by tbk1 .
+89						however , sting c-terminal domain alone or in combination with c-di-gmp fail to stimulate the tbk1 dependent phosphorylation and dimerization of irf3 .
+90			e34,e35	c1		these result suggest that other protein or membrane localization of sting be likely need for the activation of irf3 by c-di-gmp .
+91						indeed , the inclusion of cell lysate from dna stimulate cell result in irf3 phosphorylation by tbk1 in the presence of sting .
+92						affinity purification of protein associate with sting in vivo may reveal additional factor necessary for cyclic dinucleotide sense .
+93						biochemical and structural characterization of these protein will provide additional insight into the role of sting in innate immune response to nucleic acid .
+94						Supplementary Material
+95						1
+96						2
+97						Figure 1
+98						sting form a dimer and bind c-di-gmp at the dimer interface .
+99						C-di-GMP binding study of human sting ctd ( residue 149-341 ) by gel filtration chromatography .
+100						( b ) c-di-gmp binding study of STING CTD ( residue 149 to 341 ) by ITC .
+101						( c ) c-di-gmp binding study of sting ( residue 155 to 379 ) by ITC .
+102						structure of human sting ctd bind to c-di-gmp .
+103						sting be show by the red and cyan ribbon representation .
+104						C-di-GMP be show by the yellow ball and stick model .
+105						figure 2
+106						structural basis of c-di-gmp recognition and the dimer interface of sting .
+107						stereo close up of the c-di-gmp binding site of sting .
+108						residue of sting be show by the gray ball and stick model .
+109						C-di-GMP be show by the cyan ball and stick model .
+110						solvent molecule mediate hydrogen bond between sting and c-di-gmp be show by the red sphere .
+111						( b ) .
+112						stereo close up view of the sting dimer interface .
+113						residue at the dimer interface be show by the gray and green stick model .
+114						( c ) the ca2+ binding site between two sting dimer .
+115						ca2+ ion be show by the gray sphere and ca2+ ligand be show as gray stick .
+116						solvent molecule be show by the red sphere .
+117						close up of the ca2+ binding site .
+118						residue from one sting be show by the gray ball and stick model .
+119						residue from a symmetry related sting be show by the purple ball and stick model .
+120						ca2+ be show by the yellow sphere .
+121						solvent molecule coordinate with the ca2+ be show by the blue sphere .
+122						Figure 3
+123						mutation at the nucleotide binding surface reduce c-di-gmp binding and affect sting signaling .
+124						C-di-GMP binding study of wild-type and mutant of STING CTD by gel filtration chromatography .
+125						the inset show a close up of the unbound c-di-gmp peak .
+126						( b ) c-di-gmp binding study of sting mutant by ITC .
+127						( c ) ifn-beta luciferase assay show that mutation at the c-di-gmp binding surface affect signaling of mouse sting express in hek293t cell .
+128						residue ile199 , tyr239 , asn241 , glu259 , thr262 , pro263 , and thr266 of mouse sting correspond to residue ile200 , tyr240 , asn242 , glu260 , thr263 , pro264 , and thr267 of human sting .
+129						the error bar show standard deviation of signal from three independent transfection .

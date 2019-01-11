@@ -1,0 +1,316 @@
+1						CDO , A Robo related cell surface protein that mediate myogenic differentiation
+2						CDO , a member of the ig and fibronectin type iii repeat subfamily of transmembrane protein that include the axon guidance receptor robo , be identify by virtue of its down regulation by the ra oncogene .
+3						we report here that one prominent site of cdo mrna expression during murine embryogenesis be the early myogenic compartment ( newly form somite , dermomyotome and myotome ) .
+4						CDO be express in proliferate and differentiate c2c12 myoblast and in myoblast line derive by treat 10t1 and 2 fibroblast with 5-azacytidine , but not in parental 10t1 and 2 cell .
+5						overexpression of CDO in c2c12 cell accelerate differentiation , while expression of secrete soluble extracellular region of cdo inhibit this process .
+6			E1	C1	oncogenic ra be know to block differentiation of c2c12 cell via downregulation of myod .	oncogenic ra be know to block differentiation of c2c12 cell via downregulation of myod .
+7	uaz:UA-CLine-1001000	C2C12	C1,E2,E3	C1	reexpression of CDO in c2c12 and ra cell induce myod|conversely , myod induce CDO .	reexpression of CDO in c2c12 and ra cell induce myod ; conversely , myod induce CDO .
+8						reexpression of either cdo or myod rescue differentiation of c2c12 and ra cell without alter anchorage independent growth or morphological transformation .
+9						CDO and myod be therefore involve in a positive feedback loop that be central to the inverse relationship between cell differentiation and transformation .
+10						it be propose that CDO mediate , at least in part , the effect of cell-cell interaction between muscle precursor that be critical in myogenesis .
+11						in vertebrate , the skeletal muscle of the trunk and limb arise from the somite .
+12						somite develop from unsegmented paraxial mesoderm as sphere of columnar epithelial cell that mature into distinct cellular compartment in response to signal from surround tissue ( for review see ; ) .
+13						the ventral half of the somite develop into the sclerotome , which have a mesenchymal morphology and ultimately give rise to vertebrae and rib .
+14						the dorsal region retain a epithelial morphology and comprise the dermomyotome , which give rise to skeletal muscle and dermi .
+15						the dermomyotomal cell adjacent to the neural tube form the myotome , a layer of differentiate muscle cell position between the dermomyotome and sclerotome .
+16						the generation of myogenic cell in the somite be regulate by signal derive from neighbor axial tissue ( neural tube and notocord ) , include wnt family member and sonic hedgehog , or by less well define signal derive from surface ectoderm .
+17						determination and differentiation of cell in the skeletal muscle lineage also require specific but poorly understand cell-cell interaction between muscle precursor , know as the community effect .
+18						the cell surface molecule that mediate the community effect be largely unknown , although cadherin be likely to play a role .
+19						the earliest known marker that be specific for the skeletal muscle lineage be the four myogenic basic helix-loop-helix ( bhlh ) 1 factor myod , myogenin , myf-5 , and mrf4 ( for review see ; Molkentin and Olson , 1996 ; Molkentin and Olson , 1996 ; ) .
+20						these protein function in both determination and differentiation of cell in this lineage and share the remarkable property of be able to activate the myogenic program in a variety of non muscle cell type .
+21						during differentiation , myogenic bhlh factor activate muscle specific gene and coordinate withdrawal from the cell cycle .
+22						they be also target of growth factor signaling pathway that negatively regulate myogenic differentiation ( ; Molkentin and Olson , 1996 ; Molkentin and Olson , 1996 ; ) .
+23						in cell culture system , myogenic bhlh factor autoactivate and cross-activate each other 's expression , which likely amplify and maintain the myogenic phenotype .
+24						also present in the regulatory region of many muscle specific gene be sequence that bind myocyte enhancer binding factor-2 ( mef-2 ) family protein .
+25						although mef-2 factor do not activate myogenesis alone , they interact physically and genetically with myogenic bhlh factor to do so .
+26						protein other than myogenic bhlh factor therefore play a role in the positive feedback mechanism that regulate the myogenic lineage , which raise the possibility that molecule that participate in the effect of cell-cell interaction during myogenesis could also be component of this network of regulatory protein .
+27						myogenesis serve as a useful model to understand the relationship between differentiation and oncogenesis .
+28						a variety of oncogene and growth factor inhibit differentiation of culture myoblast via multiple mechanism , include transcriptional downregulation of gene encode myogenic bhlh factor and posttranslational inhibition of these factor ' myogenic activity .
+29						importantly , although cell proliferation and differentiation be usually mutually exclusive , the transformation-_NN and growth factor mediate blockade of differentiation of myoblast be not simply a consequence of maintain the cell in a proliferative state , since this inhibition can occur in the absence of cell division .
+30						we have recently describe a novel member of the ig superfamily , designate CDO ( for cam-related and down-regulate by oncogene ; ) .
+31						CDO be a member of a recently identify subfamily characterize by a extracellular region that contain five ig like repeat follow by three fibronectin type iii ( fniius ) - like repeat , a transmembrane segment , and a long cytoplasmic tail .
+32						the other member of this 5 + 3 subfamily be the Robo like receptor , which be all more closely related to each other than to CDO .
+33						multiple line of evidence indicate that the robo protein , of which one have be identify in C. elegan , and two each in drosophila , rat , and human , be evolutionarily conserve axon guidance molecule , most likely serve as receptor for a cn midline repellent .
+34						rat , mouse , and human form of CDO have be isolate , but no function for these protein have yet be describe .
+35						cdo be express at very low level in adult rat tissue , but at high level in rat embryo fibroblast .
+36						cdo be transcriptionally downregulate by a variety of oncogene , many of which be know to inhibit myogenic differentiation .
+37						we report here that cdo be express at high level during murine embryogenesis in somite , dermomyotome , and myotome , as well as in myoblast cell line .
+38						overexpression of CDO in myoblast accelerate differentiation , while expression of secrete soluble form of CDO block this process .
+39						oncogenic ra inhibit myogenic differentiation in a fashion dependent on loss of cdo expression , while other aspect of the transformed phenotype such as anchorage independent growth , be independent of CDO .
+40						thus , CDO be a cell surface protein that play a important role in myogenic differentiation .
+41						we propose that CDO be involve in regulate cell-cell interaction between muscle precursor that be critical in myogenesis .
+42						furthermore , these result establish that member of the 5 + 3 subfamily regulate diverse process that contribute to morphogenesis and differentiation .
+43						MATERIALS/METHODS
+44						MATERIALS/METHODS
+45						MATERIALS/METHODS
+46						MATERIALS/METHODS
+47						MATERIALS/METHODS
+48						MATERIALS/METHODS
+49						MATERIALS/METHODS
+50						MATERIALS/METHODS
+51						MATERIALS/METHODS
+52						MATERIALS/METHODS
+53						MATERIALS/METHODS
+54						MATERIALS/METHODS
+55						MATERIALS/METHODS
+56						MATERIALS/METHODS
+57						MATERIALS/METHODS
+58						MATERIALS/METHODS
+59						MATERIALS/METHODS
+60						MATERIALS/METHODS
+61						MATERIALS/METHODS
+62						MATERIALS/METHODS
+63						MATERIALS/METHODS
+64						MATERIALS/METHODS
+65						MATERIALS/METHODS
+66						MATERIALS/METHODS
+67						MATERIALS/METHODS
+68						MATERIALS/METHODS
+69						MATERIALS/METHODS
+70						MATERIALS/METHODS
+71						MATERIALS/METHODS
+72						MATERIALS/METHODS
+73						MATERIALS/METHODS
+74						MATERIALS/METHODS
+75						MATERIALS/METHODS
+76						MATERIALS/METHODS
+77						MATERIALS/METHODS
+78						MATERIALS/METHODS
+79						MATERIALS/METHODS
+80						MATERIALS/METHODS
+81						MATERIALS/METHODS
+82						MATERIALS/METHODS
+83						MATERIALS/METHODS
+84						result
+85						cdo expression in early myogenic precursor
+86						previous study determine that cdo mrna be express at extremely low level in adult tissue .
+87						since many other member of the ig and fniius family , include Robo , be express and function during development , cdo mrna expression during murine embryogenesis be assess by whole-mount and thin section in situ hybridization .
+88						cdo be express in a variety of tissue in a broad and complex pattern ( P.J. Mulieri , D.A. Sasson , and R.S. Krauss , unpublished result ) .
+89						the most striking expression be see in the somite and neural tube .
+90						as early as e8 .5 , both the somite and dorsal lip of the neural tube express high level of cdo mrna .
+91						the somitic expression coincide with formation of the epithelialized somite since no expression be detect in unsegmented paraxial mesoderm .
+92						all somite be positive for cdo expression as late as e11 .5 ( datum not show ) .
+93						thin-section in situ hybridization demonstrate that cdo expression be restricted to the dorsal region of the epithelialized somite ( datum not show ) , and be maintain in both the dermomyotome and myotome as the somite mature .
+94						the observation of robust expression of cdo in the early myogenic compartment suggest a function during determination or differentiation of cell in the myogenic lineage .
+95						to investigate this possibility further , study on cdo expression and function be perform with the well characterize c2c12 myoblast cell line .
+96						CDO level be regulate during c2c12 myoblast differentiation
+97						c2c12 myoblast proliferate in serum rich GM , but when culture at a high cell density in mitogen deficient dm they withdraw from the cell cycle , express muscle specific gene , and fuse to form multinucleate myotube .
+98						under the condition use in this study , these cell express detectable level of myogenin 24 h after the shift to dm , and produce mhc 24 h after that .
+99						myotube begin to form 2 d after transfer to dm , and the majority of cell nucleus be present in large multinucleate myotube after 4 d in dm .
+100						c2c12 cell culture in GM express cdo mrna and protein regardless of cell density .
+101						the level of both the mrna and protein be transiently but reproducibly increase about twofold 48 h after the cell be transfer into dm .
+102						interestingly , after 4 d in dm when the culture be fully differentiate , CDO protein , but not mrna , be dramatically downregulate .
+103						we have previously demonstrate that , in rat 6 fibroblast , CDO be posttranscriptionally regulate by cell- substratum adhesion .
+104						it be possible , therefore , that differentiation mediate alteration in the repertoire of extracellular matrix molecule and receptor express by c2c12 cell play a role in this phenomenon .
+105						overexpression of CDO induce precocious differentiation of c2c12 cell
+106						to investigate the function of CDO during myoblast differentiation , c2c12 cell be engineer to overexpress CDO .
+107						c2c12 cell be infect with control or cdo express retrovirus and select for puromycin resistance ; drug resistant colony be pool and examine for expression of CDO and they ability to differentiate .
+108						the cdo virus infected cell ( c2c12 and cdo cell ) display a two- to threefold increase in CDO protein above the endogenous level produce by control infectant ( c2c12 and puro cell ; fig .
+109						a ) .
+110						overproduction of CDO have no effect on the morphology of c2c12 cell , or on they ability to proliferate in GM ( datum not show ) .
+111						when challenge to differentiate , c2c12 and puro cell closely resemble the parental line , exhibit only a few small mhc positive myotube after 2 d in dm .
+112						in contrast , c2c12 and cdo cell form many large mhc positive myotube at the same time point .
+113						the extent of myogenesis be quantitate by determine the percentage of nucleus present in myotube .
+114						2 d after the shift to dm , 17 % of c2c12 and puro cell nucleus be find in myotube , whereas 59 % of c2c12 and cdo cell nucleus be in myotube ( average value determine from four experiment ) .
+115						consistent with these result , expression of mhc and tnt be increase in c2c12 and cdo cell relative to c2c12 and puro cell as determine by western blot analysis of cell culture in dm for 2 d .
+116						however , expression of myod and myogenin be not increase by overexpression of CDO .
+117						after 4 d in dm , culture of both cell type look very similar with ~ 80 % of they nucleus present in myotube .
+118						thus , overexpression of CDO result in precocious morphological and biochemical differentiation of c2c12 cell .
+119						similar datum be obtain when CDO be overexpress in p2 cell , a myoblast line derive by treatment of 10t1 and 2 cell with 5-azacytidine , indicate that the effect of CDO be not restricted to c2c12 cell ( datum not show ) .
+120						because c2c12 be a long established cell line , the effect of CDO overexpression be also investigate in a additional strain of c2c12 cell ( here designate c2c12 [ e ] ) .
+121						the major difference between c2c12 ( e ) cell and the strain of c2c12 cell describe above be that : the former cell express detectable level of myogenin before the shift into dm ; and ( b ) all the event describe in fig .
+122						occur over 2 d instead of 4 ( datum not show ) .
+123						overexpression of CDO by two to threefold above endogenous level lead to a striking phenotype in the c2c12 ( e ) cell : these cell form myotube even when culture at subconfluence in GM , a condition under which the parental or control virus infected cell be unable to do so .
+124						as might be predict , this phenotype be not stable .
+125						continued passage of c2c12 ( e ) / cdo cell result in a population of cell that display accelerate differentiation in dm , but no longer form myotube in GM .
+126						thus , overexpression of CDO in highly differentiation-proficient cell be able to override the inhibitory effect of serum on myotube formation transiently .
+127	tissuelist:TS-20001	myogenic	E4, C2	C2	downregulation of CDO be require for ra mediate inhibition of myogenic differentiation	downregulation of CDO be require for ra mediate inhibition of myogenic differentiation
+128			E5,E6	C3,C4	CDO be originally identify as a gene whose expression be downregulate by v-h-ra and other oncogene .	CDO be originally identify as a gene whose expression be downregulate by v-h-ra and other oncogene .
+129	uaz:UA-CLine-1001000,tissuelist:TS-0650	C2C12, myoblast	E7,E8,C3,C4	C3,C4	oncogenic ra block differentiation of c2c12 and other myoblast cell line by multiple mechanism , include downregulation of myod and myogenin expression and posttranslational inhibition of the activity of myogenic bhlh factor .	oncogenic ra block differentiation of c2c12 and other myoblast cell line by multiple mechanism , include downregulation of myod and myogenin expression and posttranslational inhibition of the activity of myogenic bhlh factor .
+130	uaz:UA-CLine-1001000	C2C12	E9,E10,C5	C5	force reexpression of myod in ra transform c2c12 cell lead to reexpression of endogenous myod and myogenin	furthermore , force reexpression of myod in ra transform c2c12 cell lead to reexpression of endogenous myod and myogenin , and rescue the ability of the transformed cell to differentiate .
+131	uaz:UA-CLine-1001000	C2C12	C6			we therefore examine the pattern of cdo expression in ra transform c2c12 cell , as well as the effect of force expression of CDO on such cell .
+132						c2c12 ( e ) cell be infect with either control or v-h-ras-expressing retrovirus , and be select for g418 resistance follow by infection with control or cdo express retrovirus and selection for puromycin resistance .
+133						three cell line be then use for further study : c2c12/neo/puro , a double infection control ; c2c12/ras/puro , a transformed cell line ; and c2c12 / ra and CDO , a cell line that express both oncogenic ra and exogenous CDO .
+134						these cell be analyze for expression of muscle specific gene at the mrna and protein level , for the ability to differentiate , and for transformation related phenotype .
+135			E11,E12	C6	 ra lead to downregulation of both myod and myogenin , although a detectable level of myod persist .	as expect , ra lead to downregulation of both myod and myogenin , although a detectable level of myod persist .
+136			E13	C6	CDO be also strongly downregulate by ra at both the mrna and protein level .	CDO be also strongly downregulate by ra at both the mrna and protein level .
+137						furthermore , c2c12/ras/puro cell do not express the muscle structural protein mhc and tnt , nor do they form myotube , even when culture in dm .
+138						in contrast to the other muscle marker , myf-5 mrna , which be express at a much lower level than the other two myogenic bhlh factor , be not regulate by either ra or culture condition .
+139	uaz:UA-CLine-1001000	C2C12	E14,E15,C7	C7	the forced reexpression of CDO in c2c12/ras/cdo cell lead to a corresponding reexpression of endogenous myod and myogenin and	the forced reexpression of CDO in c2c12 /ras/cdo cell lead to a corresponding reexpression of endogenous myod and myogenin and , when these cell be shift to dm , induction of mhc and tnt be restore .
+140						furthermore , c2c12/ras/cdo cell form myotube in dm , although these myotube be smaller and less abundant than those find in parental c2c12 cell or any control virus infected derivative .
+141						it should be emphasize that c2c12/ras/cdo cell produce a level of CDO protein that be comparable to the endogenous level see in control c2c12/neo/puro cell .
+142						furthermore , c2c12/ras/cdo cell reexpress myod , myogenin , mhc , and tnt at level only slightly lower than those see in the control cell .
+143						they also express abundant ra protein , equivalent to the level see in c2c12/ras/puro cell .
+144						finally , it should be note that under these condition ( 4 d after transfer to dm ) there be no difference in the extent of differentiation between control c2c12 ( e ) cell and c2c12 ( e ) cell that overexpress CDO ( datum not show ) .
+145						similar to myod , therefore , reexpression of CDO be capable of reestablish the differentiation program in ra transform myoblast .
+146						CDO , like myod , fail to revert other aspect of the transformed phenotype
+147						expression of oncogenic ra in c2c12 cell lead not only to a block in differentiation , but also to additional response characteristic of the transformed phenotype ; e.g. , anchorage independent growth and morphological alteration .
+148						force expression of myod in ra transform c2c12 cell reactivate differentiation , but do not interfere with anchorage independent growth of the cell .
+149						we therefore test the effect of exogenous cdo expression on additional property of ra transform c2c12 cell .
+150						to assess anchorage independent growth , c2c12 / neo and puro , c2c12/ras/puro , and c2c12/ras/cdo cell be each culture in soft agar .
+151						as expect , c2c12/neo/puro cell fail to form progressively grow colony , while 21 % of the c2c12/ras/puro cell form large colony ( > 0.3-mm diameter ) .
+152						interestingly , the c2c12/ras/cdo cell behave very similarly to the c2c12/ras/puro cell , also form colony with a efficiency of 21 % .
+153						culture rat 6 fibroblast in suspension lead to posttranscriptional downregulation of CDO .
+154						to determine whether the ability of c2c12/ras/cdo cell to form colony in soft agar be due simply to loss of stable production of CDO protein , cell be culture either on plastic dish or in medium contain 1.3 % methylcellulose , which permit nearly quantitative recovery of suspend cell .
+155						such culture be then analyze by western blotting with antibody to CDO .
+156						as can be see in fig .
+157						a , loss of cell substratum adhesion do not result in loss of CDO protein production in c2c12 / ra and cdo cell .
+158						the ability of these cell to form colony in soft agar be therefore not due to a failure to produce CDO when culture in semisolid medium .
+159						c2c12/ras/puro cell also display a typical transform morphology : the cell be spindly , highly refractile , and disorganize when compare with control c2c12 cell .
+160						interestingly , c2c12/ras/cdo cell maintain a transformed morphology .
+161						c2c12 and ra cell that express retrovirally encode myod ( see below for a description of these cell ) be slightly less round than c2c12/ras/puro cell , but remain highly refractile and disorganized .
+162						similar to the result of , these cell form colony in soft agar with a frequency of 22 % .
+163						force reexpression of CDO or myod in ra transform c2c12 cell therefore result in very similar phenotype .
+164						both gene restore the ability of the cell to differentiate without significantly affect they highly altered morphology or anchorage independent growth ( and see below ) .
+165						reexpression of myod in c2c12 and ra cell induce CDO
+166						one possible interpretation of the striking similarity of the response of c2c12 and ra cell to exogenous CDO or myod be that CDO can act as a upstream inducer of myod and myogenin expression .
+167						the known autoregulatory activity of myogenic bhlh factor suggest a additional nonmutually exclusive possibility : that CDO be a integral part of a positive feedback network that control myogenic differentiation , and be itself regulate by the myogenic program .
+168						to address this question , we express myc tag myod in c2c12 and ra cell via retroviral infection , and test the cell for expression of cdo by western blot analysis .
+169						as report previously and as show in fig .
+170						a , expression of exogenous myod ( myod * in fig .
+171						a ) induce endogenous myod , and when the cell be culture in dm , induce the muscle structural protein tnt .
+172						interestingly , force expression of myod in c2c12 / ra cell lead to expression of endogenous CDO , suggest the possible existence of a positive feedback loop between CDO and myogenic bhlh factor .
+173						we also attempt to express myogenin exogenously in c2c12 / ra cell , but be unable to select cell that produce more than trace level of this protein , possibly because they differentiate prematurely .
+174						nevertheless , the cell that make a low level of myogenin also restore a small amount of cdo expression ( datum not show ) .
+175						the murine embryo fibroblast cell line 10t1 and 2 can be convert to myod express myoblast by treatment with the dna demethylating agent 5-azacytidine .
+176						10t1 and 2 cell express barely detectable level of CDO , but two independent 5-azacytidine-induced myoblast line ( p2 and f3 ) express abundant CDO .
+177						take together , the datum present in fig .
+178						suggest that cdo expression may be regulate in part by the myogenic program .
+179						however , unlike the four known myogenic bhlh factor , ectopic expression of CDO in 10T1 and 2 cell be not sufficient to convert these cell to the myogenic phenotype , as measure by expression of muscle specific gene or myotube formation ( datum not show ) .
+180						secrete soluble CDO inhibit c2c12 cell differentiation
+181						most member of the ig and fniius family bind in homo- or heterophilic fashion to cell surface protein on adjacent cell .
+182						although cdo do not appear to mediate cell-cell adhesion , recombinant soluble fusion protein that contain the entire CDO extracellular region couple to either alkaline phosphatase ( ap ) or the fc region of human igg ( cdo-ap and cdo-fc , respectively ; fig .
+183						a ) bind to the surface of various cell type ( datum not show ) .
+184						we reason that if CDO exert its positive effect on myogenic differentiation via interaction with another protein ( s ) on neighboring cell , soluble CDO fusion protein might compete with endogenous membrane bind CDO and block differentiation .
+185						to test this hypothesis , c2c12 ( e ) cell be stably transfect with expression vector for cdo-ap , cdo-fc , and , as a control , secrete ap alone .
+186						ap activity be easily detect in the conditioned medium ( cm ) of the cdo-ap and ap transfectant ( datum not show ) , and cdo-fc be detect immunologically in cm from the cdo-fc transfectant .
+187						these cell be then assess for they ability to differentiate .
+188						as show in fig .
+189						b , cell that express ap differentiate robustly ( 49 % of nucleus present in mhc positive cell , which be mainly myotubes ) .
+190						in contrast , cell that express either of the CDO fusion protein differentiate poorly under the same condition ( 12 % of nucleus in mhc positive cell , which be almost exclusively myocyte ; fig .
+191						b and datum not show ) .
+192						consistent with this result , western blot analysis demonstrate that expression of cdo-ap or cdo-fc delay accumulation of the differentiation marker myogenin , mhc , and TnT .
+193						as be observe with cdo overexpression , however , inhibition by cdo-ap or cdo-fc be not accompany by alteration in the level of myod .
+194						expression of cdo-ap or cdo-fc also do not significantly alter the level of endogenous CDO ( datum not show ) .
+195						comparable result be obtain when cm from 293t cell that have be transiently transfect with cdo-fc be add to culture of naive c2c12 ( e ) cell , but not when cm from mock transfect cell be use ( datum not show ; for production of cdo-fc by 293t cell ) .
+196						the inhibition of differentiation by soluble CDO fusion protein be transient in nature ; after several day under differentiation induce condition , the culture that express cdo-ap or cdo-fc express muscle structural protein , and have form mhc positive myotube to nearly the extent observe with the ap expressing cell .
+197						expression of soluble secrete CDO fusion protein therefore significantly delay , but do not ablate , differentiation .
+198						this result be consistent with the notion that soluble CDO exert its effect in these cell by competition with endogenous CDO .
+199						to confirm that inhibition of cdo function interfere with differentiation , c2c12 ( e ) cell be infect with a retrovirus harbor a murine cdo cdna in the anti-sense orientation , or a control virus that lack a cdna insert .
+200						puromycin resistant colony be select , shift to dm for 3 d , and the percentage of colony bear myotube be score .
+201						approximately 68 % of the colony infect with the control retrovirus contain myotube , whereas only 33 % of the colony infect with the anti-sense cdo express virus form myotube .
+202						take together , these datum indicate that endogenous CDO play a important , possibly critical , role in myoblast differentiation .
+203						discussion
+204						CDO mediate myogenic differentiation
+205						we report here that CDO , a member of the 5 + 3 subfamily of ig and fniius repeat contain cell surface protein play a key role in myogenic differentiation .
+206			E16	C8	ra inhibit differentiation of myoblast in a manner dependent on downregulation of CDO	this conclusion be base on the observation that overexpression of CDO enhance differentiation of myoblast cell line ; that expression of soluble secreted form of CDO or antisense cdo vector inhibit differentiation ; and that ra inhibit differentiation of myoblast in a manner dependent on downregulation of CDO .
+207	uaz:UA-CLine-1001000	C2C12	C8			additionally , overexpression of CDO in early passage , highly differentiation-proficient c2c12 ( e ) myoblast be sufficient to promote myotube formation in GM .
+208						CDO be the only protein other than a myogenic bhlh factor able to override a serum- or oncogene induce block to myogenesis report to date .
+209						the enhancement or inhibition of differentiation induce by wild-type or soluble CDO , respectively , occur without detectable alteration in the level of myod .
+210			E17,E18	C9	 CDO may function by increase the activity of myod at a posttranslational level .	these datum suggest that CDO may function by increase the activity of myod at a posttranslational level .
+211	uaz:UA-CLine-1001000	C2C12	C9			in contrast , reexpression of CDO in c2c12 and ra cell lead to induction of myod at the mrna level .
+212						it be worth note that c2c12 and ra cell retain low level of myod and myf-5 , which be presumably keep inactive by poorly understand posttranslational mechanism .
+213			E19,E24	C9	one possible explanation for these result be that CDO override or reverse ra mediated inhibition of the remain low level of myod and myf-5 , lead to activation of the positive feedback loop that regulate expression of myogenic bhlh factor and mef-2 .	one possible explanation for these result be that CDO override or reverse ra mediated inhibition of the remain low level of myod and myf-5 , lead to activation of the positive feedback loop that regulate expression of myogenic bhlh factor and mef-2 .
+214						after a critical threshold concentration of these protein be achieve , the ability to differentiate could be reimpose , even in the presence of activate ra .
+215						this feedback mechanism be think to amplify and maintain differentiation signal ( ; Molkentin and Olson , 1996 ; Molkentin and Olson , 1996 ; ) .
+216	uaz:UA-CLine-1001000	C2C12	E25,E26,E27,C10	C10	it be therefore interesting that expression of exogenous CDO in c2c12 and ra cell lead to induction of myod and myogenin , and , conversely , expression of exogenous myod in these cell lead to induction of CDO .	it be therefore interesting that expression of exogenous CDO in c2c12 and ra cell lead to induction of myod and myogenin , and , conversely , expression of exogenous myod in these cell lead to induction of CDO .
+217						these result indicate that a positive feedback loop exist between CDO at the cell surface and myogenic bhlh factor in the nucleus , and that CDO may be a integral component of the myogenic regulatory network .
+218						in this regard , expression of cdo in early myogenic precursor ( newly form somite , dermomyotome ) could conceivably play a role in the determination or stabilization of the myogenic lineage , collaborate with or amplify signal initiate by wnt family member and sonic hedgehog produce by axial tissue , or by less well define signal derive from surface ectoderm .
+219						this proposal , though speculative , be consistent with a requirement of muscle precursor within early somite for cell-cell contact in they response to such tissue ; i.e. , the community effect .
+220						furthermore , the temporal pattern of cdo expression in somite and dermomyotome closely resemble that of myf-5 , the myogenic bhlh factor express earliest during embryogenesis and for which a role in determination be strongly indicate .
+221						nevertheless , cdo expression alone be not sufficient to convert 10t1 and 2 cell to a myogenic phenotype .
+222						although establish myogenic identity in vivo undoubtedly require a complex combination of positive and negative signal provide by soluble and surface bind signal molecule , this negative result with 10t1 and 2 cell should be interpret with some caution since CDO be apparently unable to bind to itself , and rodent embryo fibroblast cell line display little binding activity for soluble CDO fusion protein ( j.-s .
+223						Kang , P.J. Mulieri , F. Cole , and R.S. Krauss , unpublished datum ) .
+224						thus , CDO express at the surface of a 10t1 and 2 cell may be unengaged , and consequently nonfunctional .
+225						regardless of CDO 's potential role in determine the myogenic lineage , it clearly play a role in differentiation of committed myoblast .
+226						because the signal for differentiation of these cell in culture be withdrawal of serum growth factor , the role of signal molecule as negative regulator have receive the most emphasis .
+227						the positive and possibly requisite role of CDO in differentiation suggest that positive signal emanate from the cell surface as well .
+228						cadherin and n-cam have both be implicate in myoblast differentiation and and or fusion , but whether these molecule serve as actual signal transducer or as adhesion molecule during myogenesis be not clear .
+229						in principle , CDO could act as a heterophilic CAM , but a signaling role seem more likely since CDO exert its effect on c2c12 and c2c12 and ra cell without produce significant alteration in cell aggregation ( datum not show ) .
+230						CDO and the Inverse relationship between transformation and differentiation
+231						myogenic differentiation be inhibit by a variety of oncogene and growth factor via multiple mechanism .
+232						oncogenic ra in particular can inhibit differentiation by transcriptional downregulation of myogenic bhlh factor , and by multiple mode of posttranslational inhibition of they activity .
+233						it be important to note that ra and specific growth factor can inhibit differentiation without necessarily force the cell to remain proliferative in dm , suggest the existence of activity that be specific for this aspect of oncoprotein or growth factor action .
+234						we and other have demonstrate that various response to ra can be dissociate from one another , indicate that distinct combination of pathway control individual aspect of the transformed phenotype .
+235						it be striking that CDO and myod each reactivate differentiation of c2c12 and ra cell without alter the transformed morphology or anchorage independent growth of these cell .
+236						the indistinguishable and highly specific effect of CDO and myod on c2c12 and ra cell strongly reinforce the notion of a close mechanistic connection between these protein .
+237						myogenic bhlh factor , mef-2 , CDO , and other protein may comprise a complex network of factor that auto-_VBP and cross-regulate each other ' expression and activity during myogenesis .
+238						furthermore , the ability of ra to block myogenic differentiation be specifically link to its ability to disrupt this network .
+239						activate raf and a ra effector loop mutant specific for activation of raf ( ras12v ,35 s ; ) each downregulate CDO in fibroblast ( ; j.-s .
+240						Kang and R.S. Krauss , unpublished datum ) , so it be likely that raf be a major effector of ra in this aspect of its action .
+241						preliminary datum also indicate that CDO be not nonspecific in its ability to override a block to differentiation ; tgfbeta1 inhibit differentiation of c2c12 cell without downregulate cdo expression , and c2c12 and cdo cell be not resistant to the inhibitory effect of tgfbeta1 ( j.-s .
+242						Kang and R.S. Krauss , unpublished datum ) .
+243						function of the 5 + 3 subfamily of ig and fniius repeat protein
+244						the 5 + 3 subfamily of ig and fniius repeat protein include the Robo like receptor ( one in caenorhabditis elegan , and two each in drosophila , rat , and human ) that have be implicate as axon guidance receptor in nematode and fruit fly , and likely play a similar role in mammal .
+245						this study be the first to implicate a member of the 5 + 3 subfamily , CDO , in the myogenic program , and establish that member of this subfamily have highly diverse function .
+246						it be intriguing that the sole 5 + 3 protein in C. elegan ( sax-3 / Robo ) be prominently express in muscle , as assess by a reporter gene .
+247						sax-3 may encode multiple function that have be distribute among several gene that arise by duplication and divergance during the course of evolution .
+248						it will be interesting to determine if there be defect in myogenesis in sax 3 mutant .
+249						it should also be note that although CDO participate in the myogenic regulatory program , cdo expression be not restricted to the myogenic lineage .
+250						cdo be also express at high level in the develop nervous system and other tissue during embryogenesis .
+251						similar to its role in myoblast , recent experiment indicate that ectopic cdo expression can induce differentiation of a neuroblastoma cell line ( F. Cole , J. Feinleib , and R.S. Krauss , unpublished datum ) .
+252						we hypothesize that CDO may play a role in mediate cell-cell interaction that coordinate appropriate differentiation of specific lineage during embryogenesis .
+253						figure and table
+254						Figure 1
+255						expression of cdo in the early myogenic compartment of the develop mouse .
+256						whole-mount in situ hybridization of a e8 .5 embryo show strong expression of cdo in the dorsal neural tube ( arrow ) and somite ( arrowhead ) .
+257						expression be present in the most recently form somite , and be maintain as somite develop , but be absent in unsegmented paraxial mesoderm .
+258						( b and c ) in situ hybridization of a sectioned e10 .5 embryo show regional expression of cdo in somite .
+259						( b ) bright-field image ; ( c ) dark-field image .
+260						( d and e ) bright-field and dark-field ( e ) image of the same section show in b and c show at higher magnification .
+261						note that cdo be express at high level in the dermomyotome ( arrowhead ) and myotome ( arrow ) , but be absent from sclerotome ( * in d ) .
+262						figure 2
+263						expression of CDO in c2c12 myoblast during differentiation .
+264						c2c12 myoblast be grow to near confluence , shift into dm , and harvest at the indicated time point .
+265						the upper panel show a northern blot analysis of cdo mrna expression .
+266						the ethidium bromide stain gel , display the 28 and 18 ribosomal rna band , be show as a load control .
+267						the lower panel show western blot analysis of CDO , myogenin , and mhc expression as indicate .
+268						Figure 3
+269						overexpression of CDO enhance differentiation of c2c12 myoblast .
+270						c2c12 or c2c12 ( e ) cell be infect with recombinant pbabepuro and cdo virus or pbabepuro virus lack a cdna insert , select for resistance to puromycin , and analyze for expression of CDO , myotube formation , and expression of muscle specific protein .
+271						western blot analysis of cdo expression by infectant .
+272						( - ) infection with control pbabepuro virus ; ( + ) , infection with pbabepuro and cdo virus .
+273						( b ) photomicrograph of infectant .
+274						the two panel on the left show culture of c2c12 infectant stain with a monoclonal antibody to mhc after 2 d in dm .
+275						the two panel on the right show phase-contrast micrograph of c2c12 ( e ) cell infectant culture in GM .
+276						note that the CDO overexpress c2c12 ( e ) cell form myotube in GM , while the control c2c12 ( e ) infectant do not .
+277						bar , 250 mum .
+278						( c ) western blot analysis of muscle specific protein express by c2c12 cell infectant culture in g or d medium .
+279						Figure 4
+280						CDO reactivate the differentiation program in c2c12 / ra cell .
+281						c2c12 ( e ) cell be infect with recombinant retrovirus harbor v-h-ra or cdo ( + ) , or with control virus ( - ) as indicate and as describe in the text .
+282						culture be analyze by northern and western blotting technique and by microscopy .
+283						northern blot analysis of cdo , myf-5 , myod , and myogenin expression in various infectant culture in g or d medium .
+284						the ethidium bromide stain gel display the 28 and 18 ribosomal rna band be show as a load control .
+285						note that the endogenous and exogenous cdo mrna be almost identical in size .
+286						the myf-5 blot be expose to film approximately sixfold longer than the other blot .
+287						( b ) western blot analysis of ra , CDO , myod , myogenin , mhc , and tnt level in various infectant culture in g or d medium .
+288						the identity of the lower band in the CDO panel be unknown , but be not CDO .
+289						the reason for the downregulation of endogenous myod protein in c2c12 and ra / cdo cell culture in d medium be not clear , but be not see with the control infectant .
+290						downregulation be also observe in c2c12 and ra cell that express exogenous myod .
+291						the expression of low level of mhc and tnt in the control infectant culture in g medium ( the first lane in b ) be due to the high density of these cell when harvest .
+292						( c ) phase-contrast photomicrograph of c2c12/ras/puro and c2c12/ras/cdo cell culture in dm .
+293						note the presence of myotube in the latter , but not the former cell .
+294						because the ra expressing cell be poorly adherent and grow to high density in multiple layer , some cell in each micrograph inevitably appear out of focus .
+295						bar , 250 mum .
+296						Figure 6
+297						stable expression of myod induce CDO .
+298						western blot analysis of myod , CDO , and tnt expression be show for the indicated infectant culture in g or d medium .
+299						myod * indicate retrovirally encode myc tag myod ; myod indicate endogenous protein .
+300						( b ) western blot analysis of CDO , myod , and mhc expression in various 10t1 and 2 cell derivative .
+301						10t1 and 2 refer to the parental line ; 10t1/2/puro and 10t1/2/cdo be line stably infect with control or cdo retrovirus , respectively ; and p2 and f3 be myoblast line derive by treatment of 10t1 and 2 cell with 5-azacytidine .
+302						cdo expression be analyze in cell culture in GM ; myod and mhc expression be analyze in cell culture for 3 d in dm .
+303						Figure 5
+304						CDO do not revert anchorage independent growth or morphological transformation of c2c12 and ra cell .
+305						expression of CDO by c2c12/ras/cdo cell be not lose when the cell be culture in suspension .
+306						western blot analysis of cdo expression be show for the indicated infectant when culture on plastic dish ( + adhesion ) or in methylcellulose contain medium ( - adhesion ) .
+307						( b ) phase-contrast photomicrograph of c2c12 / ra and puro , c2c12/ras/cdo , and c2c12/ras/myod cell culture in GM .
+308						bar , 250 mum .
+309						Figure 7
+310						secrete , soluble form of CDO inhibit myogenic differentiation .
+311						schematic representation of CDO and the soluble fusion protein cdo-ap and cdo-fc .
+312						c2c12 ( e ) cell be stably transfect with expression vector for cdo-ap , cdo-fc , or secrete ap itself , and be analyze as describe below .
+313						( b ) photomicrograph of cell express secrete ap or cdo-ap be culture under differentiation induce condition and stain with a monoclonal antibody to mhc .
+314						bar , 250 mum .
+315						( c ) western blot analysis of myod , myogenin , mhc , and tnt expression in cell express the indicated vector culture for the indicated time under differentiation-_NN inducing condition ( see Materials and method for detail ) .
+316						western blot analysis of cdo-fc in cm from stably transfect c2c12 ( e ) cell and transiently transfect 293t cell .

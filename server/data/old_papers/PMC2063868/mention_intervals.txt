@@ -1,0 +1,464 @@
+0 
+1 
+1 2-3-cell_surface-go:GO:0009986
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+10 
+11 
+11 15-15-axon-go:GO:0030424 20-21-nervous_system-tissuelist:TS-1313
+12 
+13 
+14 18-19-endothelial_cells-tissuelist:TS-0278
+15 12-12-NIH-3T3-uaz:UA-CLine-7618
+16 
+17 
+18 
+19 
+19 11-12-actin_cytoskeleton-go:GO:0015629
+20 
+21 32-32-neurons-uaz:UA-ORG-623
+22 8-9-growth_cone-go:GO:0030426 30-31-growth_cone-go:GO:0030426
+23 
+23 9-10-cell_surface-go:GO:0009986
+24 
+25 
+26 
+27 
+28 
+29 
+29 
+30 
+31 
+32 
+32 
+33 
+33 
+34 
+34 11-11-PC12-uaz:UA-CLine-100093
+35 14-14-PC12-uaz:UA-CLine-100093
+36 3-3-PC12-uaz:UA-CLine-100093
+37 17-17-PC12-uaz:UA-CLine-100093
+38 
+38 
+39 
+39 
+40 3-3-PC12-uaz:UA-CLine-100093
+41 
+42 5-5-PC12-uaz:UA-CLine-100093 36-36-mouse-taxonomy:10090
+43 
+44 1-2-B,-uaz:UA-CLine-100007
+45 
+46 
+47 
+47 
+48 
+48 
+49 
+50 6-6-PC12-uaz:UA-CLine-100093
+51 0-0-PC12-uaz:UA-CLine-100093
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+67 
+68 
+68 
+69 3-3-PC12-uaz:UA-CLine-100093
+70 
+71 
+72 
+73 5-5-PC12-uaz:UA-CLine-100093
+74 
+75 
+76 
+77 3-3-PC12-uaz:UA-CLine-100093
+78 
+79 
+80 
+81 
+81 
+82 
+83 
+84 
+84 
+85 
+85 
+86 3-3-PC12-uaz:UA-CLine-100093 14-14-mouse-taxonomy:10090 32-32-mouse-taxonomy:10090
+87 0-0-PC12-uaz:UA-CLine-100093
+88 3-3-PC12-uaz:UA-CLine-100093
+89 
+90 
+91 
+92 
+93 
+93 
+94 
+94 
+95 0-0-PC12-uaz:UA-CLine-100093
+96 
+97 
+98 
+99 
+99 
+100 
+100 16-16-PC12-uaz:UA-CLine-100093
+101 5-5-PC12-uaz:UA-CLine-100093
+102 
+103 
+104 
+105 
+106 
+106 
+107 
+107 11-11-tail-tissuelist:TS-1006
+108 
+109 0-0-COS-7-uaz:UA-CLine-100020
+110 
+111 1-1-COS-7-uaz:UA-CLine-100020
+112 
+113 
+114 
+115 
+116 
+117 
+118 
+119 0-0-COS-7-uaz:UA-CLine-100020
+120 
+121 
+122 
+123 
+124 
+125 
+125 
+126 
+126 
+127 3-3-COS-7-uaz:UA-CLine-100020
+128 
+129 
+130 1-2-B,-uaz:UA-CLine-100007 8-8-COS-7-uaz:UA-CLine-100020
+131 
+132 
+133 
+134 
+135 
+136 3-3-COS-7-uaz:UA-CLine-100020
+137 
+138 
+139 
+140 
+140 
+141 
+141 
+142 
+143 
+144 
+145 
+146 
+147 
+148 
+149 6-6-COS-7-uaz:UA-CLine-100020
+150 
+151 
+152 
+153 0-0-COS-7-uaz:UA-CLine-100020
+154 
+155 
+156 
+156 
+157 
+157 
+158 3-3-COS-7-uaz:UA-CLine-100020
+159 
+160 
+161 
+162 
+163 3-3-COS-7-uaz:UA-CLine-100020
+164 
+164 
+165 
+165 
+166 0-0-COS-7-uaz:UA-CLine-100020
+167 
+168 
+169 
+170 
+171 
+172 
+173 
+174 
+175 
+175 
+176 
+176 
+177 5-5-COS-7-uaz:UA-CLine-100020
+178 
+179 3-3-COS-7-uaz:UA-CLine-100020
+180 3-3-COS-7-uaz:UA-CLine-100020
+181 
+182 
+183 
+184 3-3-COS-7-uaz:UA-CLine-100020
+185 
+186 
+187 
+188 
+188 21-21-PC12-uaz:UA-CLine-100093
+189 
+190 
+191 
+192 4-4-PC12-uaz:UA-CLine-100093
+193 
+193 
+194 
+194 15-15-PC12-uaz:UA-CLine-100093
+195 
+196 
+197 
+198 
+199 3-3-PC12-uaz:UA-CLine-100093
+200 
+201 
+202 
+203 
+204 
+204 10-10-PC12-uaz:UA-CLine-100093
+205 14-14-PC12-uaz:UA-CLine-100093 52-52-PC12-uaz:UA-CLine-100093
+206 
+207 
+207 
+208 
+208 
+209 22-22-COS-7-uaz:UA-CLine-100020
+210 
+211 
+212 
+213 
+214 
+215 
+216 
+217 
+218 
+219 
+219 
+220 
+220 
+221 3-3-COS-7-uaz:UA-CLine-100020
+222 
+223 
+224 
+225 
+226 
+227 3-3-COS-7-uaz:UA-CLine-100020
+228 
+229 
+229 
+230 
+230 
+231 1-1-COS-7-uaz:UA-CLine-100020
+232 
+233 
+234 
+235 
+236 
+237 8-8-PC12-uaz:UA-CLine-100093
+238 
+239 
+239 
+240 
+240 
+241 7-7-COS-7-uaz:UA-CLine-100020
+242 
+243 9-9-COS-7-uaz:UA-CLine-100020
+244 5-5-PC12-uaz:UA-CLine-100093
+245 
+246 
+247 
+247 
+248 
+248 
+249 
+250 
+250 
+251 
+252 
+253 
+254 
+255 
+255 
+256 16-16-NIH-3T3-uaz:UA-CLine-7618
+257 12-12-tail-tissuelist:TS-1006 32-34-neuronal_growth_cone-uaz:UA-ORG-623
+258 
+259 
+260 17-18-endothelial_cells-tissuelist:TS-0278 30-30-mice-taxonomy:10090 36-37-neural_crest-tissuelist:TS-0676
+261 
+262 
+263 25-25-neurons-uaz:UA-ORG-623
+264 
+265 
+265 8-8-axon-go:GO:0030424 13-13-neurons-uaz:UA-ORG-623 21-22-cell_surface-go:GO:0009986
+266 17-17-neurons-uaz:UA-ORG-623
+267 25-26-growth_cone-go:GO:0030426
+268 
+269 
+269 
+270 
+271 
+272 21-21-tail-tissuelist:TS-1006
+273 21-22-extracellular_matrix-go:GO:0031012
+274 
+275 
+276 32-32-mast-uaz:UA-CLine-100061
+277 18-18-CHO-uaz:UA-CLine-100019
+278 
+279 
+279 
+280 
+281 9-10-endothelial_cells-tissuelist:TS-0278
+282 
+283 29-30-neural_cell-tissuelist:TS-0683
+284 
+284 
+285 
+285 
+286 
+286 
+287 8-8-human-taxonomy:9606
+288 
+289 
+290 
+291 
+291 
+292 
+292 
+293 7-7-human-taxonomy:9606
+294 6-6-mouse-taxonomy:10090 15-15-rabbit-taxonomy:9986 25-25-mouse-taxonomy:10090 54-54-rabbit-taxonomy:9986
+295 68-68-mouse-taxonomy:10090 84-84-human-taxonomy:9606
+296 
+297 
+298 
+298 
+299 
+299 15-15-membrane-go:GO:0016020
+300 1-1-membrane-go:GO:0016020 8-8-milk-tissuelist:TS-0636
+301 
+302 
+303 
+303 
+304 
+304 
+305 
+306 
+307 
+308 
+309 
+309 
+310 
+310 0-0-COS-7-uaz:UA-CLine-100020
+311 0-0-PC12-uaz:UA-CLine-100093 10-10-horse-taxonomy:9796 11-11-serum-tissuelist:TS-0923
+312 
+313 16-16-human-taxonomy:9606
+314 
+315 
+315 
+316 
+316 
+317 
+318 
+319 
+320 
+321 
+322 
+323 
+324 
+324 
+325 
+325 
+326 4-4-COS-7-uaz:UA-CLine-100020
+327 
+328 
+329 
+330 
+331 9-9-PC12-uaz:UA-CLine-100093
+332 
+333 
+334 
+334 
+335 
+335 
+336 
+337 
+338 
+339 
+340 
+341 
+342 
+343 
+344 
+345 
+346 
+347 
+347 
+348 
+348 2-3-cell_surface-go:GO:0009986
+349 2-2-PC12-uaz:UA-CLine-100093
+350 
+351 22-22-sheep-taxonomy:9940 23-23-serum-tissuelist:TS-0923
+352 
+353 
+354 11-11-COS-7-uaz:UA-CLine-100020
+355 
+356 
+357 
+358 
+359 
+359 
+360 
+360 
+361 4-4-COS-7-uaz:UA-CLine-100020
+362 
+363 
+364 14-14-PC12-uaz:UA-CLine-100093
+365 
+366 
+367 
+368 
+368 
+369 
+369 
+370 
+371 
+371 
+372 
+372 0-0-COS-7-uaz:UA-CLine-100020
+373 
+374 
+375 
+375 
+376 
+376 
+377 11-11-PC12-uaz:UA-CLine-100093 22-22-PC12-uaz:UA-CLine-100093
+378 
+379 
+379 
+380 
+380 
+381 

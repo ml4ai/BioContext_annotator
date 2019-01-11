@@ -1,0 +1,8 @@
+Positive_activation	15
+Positive_activation	15
+Binding	17
+Binding	129
+Negative_regulation	194
+Hydrolysis	194
+Translocation	198
+Binding	211

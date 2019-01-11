@@ -1,0 +1,354 @@
+1						Roles of Gbetagamma in membrane recruitment and activation of p110gamma and p101 phosphoinositide 3-kinase gamma
+2			e1	c1	Receptor regulated class I phosphoinositide 3-kinases ( PI3K ) phosphorylate the membrane lipid phosphatidylinositol ( PtdIns ) -4,5 - P 2 to PtdIns-3 ,4,5 - P 3 .	Receptor regulated class I phosphoinositide 3-kinases ( PI3K ) phosphorylate the membrane lipid phosphatidylinositol ( PtdIns ) -4,5 - P 2 to PtdIns-3 ,4,5 - P 3 .
+3						This , in turn , recruits and activates cytosolic effectors with PtdIns-3 ,4,5 - P 3 -binding pleckstrin homology ( PH ) domains , thereby controlling important cellular functions such as proliferation , survival , or chemotaxis .
+4			e2	c2	The class I B p110gamma and p101 PI3Kgamma is activated by Gbetagamma on stimulation of G protein coupled receptors .	The class I B p110gamma and p101 PI3Kgamma is activated by Gbetagamma on stimulation of G protein coupled receptors .
+5						It is currently unknown whether in living cells Gbetagamma acts as a membrane anchor or an allosteric activator of PI3Kgamma , and which role its noncatalytic p101 subunit plays in its activation by Gbetagamma .
+6	uaz:UA-CLine-7847	HEK cells	c1,e3,e4,e5,e6,e7	c1	Gbetagamma recruits the enzyme from the cytosol to the membrane by interaction with its p101 subunit .	Using GFP tagged PI3Kgamma subunits expressed in HEK cells , we show that Gbetagamma recruits the enzyme from the cytosol to the membrane by interaction with its p101 subunit .
+7					Gbetagamma recruits the enzyme from the cytosol to the membrane by interaction with its p101 subunit .	Accordingly , p101 was found to be required for G protein mediated activation of PI3Kgamma in living cells , as assessed by use of GFP tagged PtdIns-3 ,4,5 - P 3 -binding PH domains .
+8					Gbetagamma recruits the enzyme from the cytosol to the membrane by interaction with its p101 subunit .	Furthermore , membrane targeted p110gamma displayed basal enzymatic activity , but was further stimulated by Gbetagamma , even in the absence of p101 .
+9					Gbetagamma recruits the enzyme from the cytosol to the membrane by interaction with its p101 subunit .	Therefore , we conclude that in vivo , Gbetagamma activates PI3Kgamma by a mechanism assigning specific roles for both PI3Kgamma subunits , i.e. , membrane recruitment is mediated via the noncatalytic p101 subunit , and direct stimulation of Gbetagamma with p110gamma contributes to activation of PI3Kgamma .
+10						Introduction
+11						Phosphoinositide 3-kinases ( PI3Ks ) phosphorylate the D3 position of the inositol ring of phosphoinositides , thereby generating intracellular signaling molecules .
+12						These phospholipids , i.e. , phosphatidylinositol ( PtdIns ) -3 - P , PtdIns-3 ,4 - P 2 , and PtdIns-3 ,4,5 - P 3 , have been implicated in cellular functions including chemotaxis , differentiation , glucose homeostasis , proliferation , survival , and trafficking .
+13						They transmit signals by recruiting effector molecules that possess specific lipid binding domains .
+14						FYVE domains and PX domains bind to PtdIns-3-P with high affinity , whereas a subgroup of pleckstrin homology ( PH ) domains , containing a highly basic motif , preferentially binds PtdIns-3 ,4 - P 2 and PtdIns-3 ,4,5 - P 3 .
+15						PtdIns-3 ,4,5 - P 3 represents the major product of class I PI3Ks in vivo .
+16						These lipid kinases are under tight control of cell surface receptors , including receptor tyrosine kinases ( RTK ) or G protein coupled receptors ( GPCR ; ) .
+17						All class I members are heterodimers consisting of a p110 catalytic and a p85- or p101-type noncatalytic subunit .
+18						The class I A p110 isoforms alpha , beta , and delta form a complex with p85 adaptor subunits , whereas the only class I B member ( p110gamma ) is associated with a p101 noncatalytic subunit .
+19						The p85 subunit binds to tyrosine phosphorylated RTKs .
+20						This interaction has two consequences resulting in activation of the PI3K .
+21						First , the cytosolic enzyme translocates to the inner leaflet of the plasma membrane , giving p110 access to its lipid substrate .
+22						Second , the interaction with the tyrosine phosphorylated receptor induces a conformational change of p85 that results in disinhibition of p110 enzymatic activity .
+23						Because the p85 regulatory subunit inhibits the p110 catalytic subunit , it is feasible that constitutively membrane associated class I A p110 mutants trigger downstream responses characteristic of growth factor action .
+24						Similar to class I A PI3Ks , unstimulated PI3Kgamma is predominantly localized in the cytosol , whereas GPCRs induced an increase of PI3Kgamma in the membrane fraction .
+25						GPCRs activate PI3Kgamma through direct interaction with Gbetagamma , whereas a stimulation by Galpha is quantitatively less important .
+26						However , little is known about the activating mechanism , e.g. , it remains elusive whether Gbetagamma functions as a membrane anchor or an allosteric regulator of PI3Kgamma .
+27						Although the p101 subunit has been proposed to act as an indispensable adaptor linking Gbetagamma with p110gamma , in vitro studies have suggested that p101 is not mandatory for Gbetagamma induced stimulation of PI3Kgamma .
+28						Moreover , a direct interaction of Gbetagamma with NH 2 - and COOH-terminal regions of p110gamma has been demonstrated .
+29						Further support for a direct interaction of Gbetagamma with the p110 catalytic subunit came from the observation that the p110beta isoform can also be stimulated by Gbetagamma , regardless of whether p85 is present or not .
+30						Nevertheless , the noncatalytic p101 subunit of PI3Kgamma binds tightly to Gbetagamma , suggesting specific roles in G protein induced regulation of this lipid kinase .
+31						For instance , in vitro studies showed that Gbetagamma stimulated p110gamma potently produced PtdIns-3-P , whereas the Gbetagamma activated heterodimeric p110gamma and p101 counterpart potently catalyzed the formation of PtdIns-3 ,4,5 - P 3 .
+32						This suggests that p101 may affect the interaction of Gbetagamma stimulated p110gamma with the lipid interface .
+33						Therefore , the exact roles of Gbetagamma and PI3Kgamma subunits in G protein induced activation of PI3Kgamma in living cells remain unclear .
+34						Hence , we asked whether Gbetagamma functions as a membrane anchor and and or allosteric activator , and whether p101 is required for proper function of p110gamma in vivo .
+35						To tackle these questions , we examined cellular events leading to activation of PI3Kgamma using fluorescent fusion proteins in living cells .
+36						Results
+37						Characterization of fluorescent PI3K fusion proteins
+38						To visualize PI3Kgamma subunits in vivo , we generated constructs encoding p110gamma and p101 fused to YFP or CFP ( A ) .
+39						Their expression in human embryonic kidney ( HEK ) 293 cells was verified by immunoblot analysis using an antibody against GFP ( B ) .
+40						The catalytic activity and Gbetagamma sensitivity of PI3Kgamma fusion proteins was confirmed by in vitro lipid kinase assays after immunoprecipitation with an mAb recognizing only intact p110gamma ( C ) .
+41						Precipitates from vector transfected control cells neither exhibited p110gamma immunoreactivity nor lipid kinase activity .
+42						These results demonstrate that YFP fused p110gamma or p101 retain essential functions of the wild-type PI3Kgamma .
+43						Figure 1 .
+44						Construction and characterization of fluorescent PI3Kgamma fusion proteins .
+45						( A ) Schematic representation of the wild-type , fluorescent , and membrane targeted PI3Kgamma subunits .
+46						A YFP ( or CFP ) tag was fused to either the NH 2 - or the COOH terminus of p110gamma and p101 .
+47						The p110gamma-CAAX fusion protein contains an isoprenylation motif ( bars for lipid modifications ) .
+48						( B ) Differently fluorescence tagged PI3Kgamma subunits were coexpressed in HEK cells , and cell lysates were subjected to SDS-PAGE followed by immunoblotting with a GFP specific antibody .
+49						( C ) Catalytic activity of fluorescent PI3Kgamma fusion proteins .
+50						HEK cells were transfected with the indicated plasmids .
+51						Lysates were subjected to immunoprecipitation ( IP ) with ( + ) or without ( - ) an anti-p110gamma antibody .
+52						immunoprecipitation was controlled by immunoblotting ( IB ) with another anti-p110gamma antibody .
+53						Shown are chemiluminescence images ( top panels ) .
+54						Immunoprecipitates were assayed for in vitro PI3K activity in the absence or presence of 120 nM Gbetagamma using PtdIns-4 ,5 - P 2 - containing lipid vesicles and gamma [ 32 P ] ATP as substrates .
+55						Depicted are autoradiographs of the generated 32 P-PtdIns-3 ,4,5 - P 3 ( bottom panels ) .
+56						Subcellular distribution of PI3Kgamma subunits and instability of monomeric p101
+57						Next , we examined the subcellular distribution of the YFP tagged PI3Kgamma subunits in living cells by confocal laser scanning microscopy .
+58						Although YFP was uniformly distributed inside HEK cells ( unpublished data ) , fluorescence signals from YFP fused to the NH 2 or COOH termini of p110gamma were only detected in the cytosolic compartment ( A , top ) .
+59						However , a small fraction of the YFP fused p110gamma was also detected in the nucleus when coexpressed with wild-type p101 ( B , top ) .
+60						The same distribution was seen for YFP tagged p101 coexpressed with wild-type p110gamma ( B , bottom ) .
+61						Thus , fluorescent PI3Kgamma subunits form heterodimers ( see next section ) , present in the cytosol and nucleus of HEK cells , whereas distribution of the p110gamma subunit alone seems restricted to the cytosol .
+62						Interestingly , YFP fused p101 alone showed a predominant nuclear localization with a significantly lower overall fluorescence intensity ( A , bottom ) .
+63						Figure 2 .
+64						Expression and subcellular distribution of fluorescent p110gamma and p101 in HEK cells .
+65						( A ) Cells were transfected with plasmids for YFP tagged single PI3Kgamma subunits as indicated .
+66						Images were taken by confocal laser scanning microscopy .
+67						Images of typical cells are shown .
+68						White bars indicate a 10-mum scale .
+69						( B ) Cells were cotransfected with both p110gamma and p101 .
+70						Only one subunit was fused to YFP as indicated .
+71						( C ) Cells were transfected with plasmids encoding fluorescent p110gamma and p101 at different ratios .
+72						The total amount of transfected cDNA was kept constant by the addition of pcDNA3 .
+73						Equal amounts of whole-cell lysates were subjected to SDS-PAGE followed by immunoblotting with an anti-GFP antibody .
+74	uaz:UA-CLine-7847	HEK cells	c2			To explore the possibility that expression levels of p101 could depend on the coexpression of p110gamma , we transfected HEK cells with different ratios of plasmids encoding fluorescent p110gamma or p101 and analyzed total cell lysates by immunoblotting using an anti-GFP antibody ( C ) .
+75						The expression level of p110gamma correlated with the amount of the p110gamma ( but not the p101 ) plasmid .
+76						In contrast , the expression level of p101 was also dependent on the amount of the p110gamma plasmid .
+77						Hence , the stability of p101 depends on the coexpression of p110gamma , but not vice versa .
+78						The poor cytosolic fluorescence of YFP tagged p101 in the absence of p110gamma may thus be explained by cytosolic degradation of monomeric p101 .
+79						In vivo dimerization of PI3Kgamma subunits
+80						To directly demonstrate heterodimerization of PI3Kgamma subunits in living cells , we used fluorescence resonance energy transfer ( FRET ) .
+81						FRET between two fluorophores , e.g. , CFP and YFP , is restricted to distances of < 100 A , and therefore , provides direct evidence for a protein protein interaction .
+82						We coexpressed CFP- and YFP tagged PI3Kgamma subunits and determined FRET by following the donor ( CFP ) recovery during acceptor ( YFP ) bleach ( A ) .
+83						All combinations showed significant FRET , although quantitative differences were evident .
+84						Figure 3 .
+85						Dimerization of p110gamma and p101 .
+86						( A ) HEK cells were cotransfected with plasmids encoding NH 2 - or COOH-terminally YFP tagged p110gamma and NH 2 - or COOH-terminally CFP tagged p101 in different combinations .
+87						FRET was measured in vivo .
+88						An increase in CFP ( donor ) fluorescence during YFP ( acceptor ) bleach indicates FRET between fluorescent PI3Kgamma subunits .
+89						The depicted data represent means + /- SEM of at least 18 single cells in three independent transfection experiments .
+90						( B ) HEK cells were transfected with the indicated plasmids .
+91						Cytosols were prepared and subjected to gel filtration .
+92						The elution profiles were analyzed by immunoblotting with an anti-GFP antibody ( L , load diluted 1:5 ; V , void volume ; 20-26 , fraction numbers ) .
+93						Because FRET efficiency is a function of the distance between two fluorophores , quantitative differences may represent different distances of the fluorescent tags fused to the NH 2 or COOH termini of p101 and p110gamma in a particular combination .
+94						However , the different FRET efficiencies may also reflect different degrees of heterodimerization .
+95			e8	c2	 p101 and p110gamma combinations	To exclude the latter , we analyzed heterodimerization of different p101 and p110gamma combinations by size-exclusion chromatography ( B ) .
+96						The elution profile of YFP-p110gamma ( B , bottom ) was completely shifted to earlier fractions on coexpression with CFP-p101 ( B , top ) , indicating a high degree of heterodimerization .
+97						A similar elution profile was found for p110gamma-YFP + CFP-p101 ( B , middle ) , albeit a lower FRET efficiency was detected for this combination .
+98			e9	c2	p101 and p110gamma heterodime	Hence , the different FRET efficiencies observed are not due to different degrees of dimerization , but likely reflect different distances of the fluorescent tags in the p101 and p110gamma heterodimer .
+99						Thus , their two NH 2 termini as well as their two COOH termini are in close proximity , whereas the NH 2 terminus of each subunit is relatively far from the COOH terminus of the other .
+100			e10,e11	c2	Gbetagamma dimers recruit PI3Kgamma to membranes via the p101 subunit	Gbetagamma dimers recruit PI3Kgamma to membranes via the p101 subunit
+101			e12	c2	Current concepts of PI3K activation are based on the recruitment of the cytosolic lipid kinase to the plasma membrane .	Current concepts of PI3K activation are based on the recruitment of the cytosolic lipid kinase to the plasma membrane .
+102			e13,e14	c2	In the case of PI3Kgamma , the major stimulus is assumed to be Gbetagamma , which is membrane bound and has been shown to directly bind to both kinase subunits under in vitro conditions .	In the case of PI3Kgamma , the major stimulus is assumed to be Gbetagamma , which is membrane bound and has been shown to directly bind to both kinase subunits under in vitro conditions .
+103						Therefore , we asked whether overexpression of free Gbetagamma directs YFP fused PI3Kgamma subunits to the cell membrane in vivo .
+104						Surprisingly , p110gamma was not membrane localized in the presence of coexpressed Gbetagamma in HEK cells ( A , top ) .
+105			e15	c2	Gbetagamma recruited p101 to the membrane , resulting in accumulation of NH 2 - or COOH-terminally YFP tagged p101 at both plasma- and endomembranes ( A , bottom , and B ) .	In contrast , Gbetagamma recruited p101 to the membrane , resulting in accumulation of NH 2 - or COOH-terminally YFP tagged p101 at both plasma- and endomembranes ( A , bottom , and B ) .
+106			e16	c2	This corresponds to the subcellular distribution of overexpressed Gbetagamma dimers ( see below ) , suggesting that p101 interacted with membrane bound Gbetagamma .	This corresponds to the subcellular distribution of overexpressed Gbetagamma dimers ( see below ) , suggesting that p101 interacted with membrane bound Gbetagamma .
+107						Figure 4 .
+108						Membrane recruitment of PI3Kgamma by Gbetagamma .
+109						The effect of coexpression of Gbetagamma on the subcellular distribution of p110gamma , p101 , and heterodimeric PI3Kgamma in HEK cells was analyzed by confocal laser scanning microscopy .
+110						Images of typical cells are shown ( white bars , 10 mum ) .
+111						( A ) Coexpression of monomeric PI3Kgamma subunits with Gbetagamma .
+112						( B ) Controls ; coexpression of YFP-p101 with Gbeta 1 , Ggamma 2 , Gbeta 1 gamma 2 , or Gbeta 1 gamma 2 and the Gbetagamma- scavenging Galpha i2 .
+113						( C ) Coexpression of heterodimeric PI3Kgamma with Gbetagamma .
+114						Note the round shape of the cells .
+115						Controls ; coexpression of Gbetagamma with YFP or with kinase deficient YFP-p110gamma-K833R and p101 ; effect of 100 nM wortmannin .
+116						( D ) Subcellular localization of Gbetagamma .
+117						Cells were transfected with a plasmid encoding CFP tagged Gbeta 1 alone or together with the Ggamma 2 plasmid .
+118						( E ) Immunoblot analysis of membrane fractions .
+119						HEK cells were transfected with the plasmids encoding PI3Kgamma , Gbetagamma , or both together .
+120						To avoid rounding and detachment of the cells , the kinase deficient mutant YFP-p110gamma-K833R was used .
+121						Membrane fractions were prepared and analyzed by immunoblotting with anti-p110gamma and anti-Gbeta antibodies .
+122			e17	c3	p110gamma and p101 heterodimers	Next , we examined the subcellular localization of p110gamma and p101 heterodimers in the presence of free Gbetagamma .
+123	uaz:UA-CLine-7847	HEK cells	c3			When coexpressed with p101 and Gbetagamma , the p110gamma fluorescent signal was at , or close to , plasma and endosomal membranes of HEK cells ( C , top ) .
+124						The same picture emerged when the YFP-tag was fused to p101 ( unpublished data ) .
+125						Correspondingly , CFP tagged Gbeta 1 coexpressed with Ggamma 2 exhibited a similar subcellular distribution like fluorescent heterodimeric PI3Kgamma ( compare C and 4 D ) , and immunoblotting of membrane derived proteins confirmed an enrichment of PI3Kgamma in the membrane compartment after overexpression of Gbetagamma ( E ) .
+126			e18	c3	Gbetagamma directs cytosolic PI3Kgamma to the membrane via interaction with p101 .	Together , these data imply that Gbetagamma directs cytosolic PI3Kgamma to the membrane via interaction with p101 .
+127						Interestingly , coexpression of heterodimeric PI3Kgamma together with Gbetagamma produced a rounded morphology and detachment of the cells ( C ) .
+128			e19	c3	PI3K inhibitor wortmannin	This morphological change was reversed by treatment with 100 nM of the PI3K inhibitor wortmannin in approximately half of the cells within 30 min , and not seen when a kinase deficient YFP-p110gamma-K833R mutant was used ( C ) .
+129						Hence , the morphological change was related to the enzymatic activity of PI3Kgamma stimulated by the coexpressed Gbetagamma .
+130			e20	c3	p101 is required for G protein mediated activation of p110gamma in vivo	p101 is required for G protein mediated activation of p110gamma in vivo
+131			e21	c3	phosphorylation of endogenous protein kinase B ( PKB or Akt )	Because changes in morphology are not a very reliable measure of PI3K activity , we examined phosphorylation of endogenous protein kinase B ( PKB or Akt ) as an established PI3K specific read-out system .
+132			e22	c3	PI3Kgamma stimulation by overexpressed Gbetagamma	To avoid detachment of the cells as a consequence of constitutive PI3Kgamma stimulation by overexpressed Gbetagamma , we transiently stimulated the heterologously expressed G i -coupled formyl-methionyl-leucyl-phenylalanine ( fMLP ) receptor , which is known to activate PI3Kgamma .
+133	uaz:UA-CLine-7847	HEK cells	e23,c4	c3	Stimulation with fMLP induced Akt phosphorylation	Stimulation with fMLP induced Akt phosphorylation in HEK cells in the same range as with FCS ( A ) .
+134			e24,e25	c4	Akt phosphorylation was only seen when the receptor was coexpressed with both PI3Kgamma subunits	However , Akt phosphorylation was only seen when the receptor was coexpressed with both PI3Kgamma subunits , and not with p110gamma alone .
+135			e26	c4	 p101 is required for GPCR induced activation of PI3Kgamma in vivo .	These data imply that p101 is required for GPCR induced activation of PI3Kgamma in vivo .
+136						Figure 5 .
+137						Activation of PI3Kgamma by a G protein coupled receptor .
+138						( A ) Akt phosphorylation .
+139						Whole-cell lysates were analyzed by immunoblotting using an antibody that specifically recognizes the phosphorylated form of Akt .
+140						Equal loading was shown by using an anti-ERK antibody .
+141						Left ; FCS induced Akt phosphorylation in untransfected HEK cells .
+142						Right ; fMLP induced Akt phosphorylation in cells expressing the fMLP receptor and only the catalytic ( p110gamma ) or both PI3Kgamma subunits .
+143						( B ) Membrane recruitment of the PtdIns-3 ,4,5 - P 3 -binding PH domain of GRP1 .
+144						HEK 293 cells were transfected with plasmids encoding the PH domain of GRP1 fused to GFP ( GFP-GRP1 PH ) , and the human fMLP receptor ( fMLP-R ) , p110gamma , and p101 in different combinations .
+145						The localization of the GFP-GRP1 PH was monitored before and after the addition of 1 muM fMLP and 100 ng and ml EGF ( added 8 min later ) by confocal laser scanning microscopy .
+146						Pictures were taken 4 min after addition of either agonist .
+147						Images of typical experiments are shown ( white bars , 10 mum ) .
+148						( C ) Membrane recruitment of the PtdIns-3 ,4,5 - P 3 -binding PH domain of Btk .
+149						Instead of GFP-GRP1 PH , the PH domain of Btk fused to CFP ( Btk PH -CFP ) was used as a PtdIns-3 ,4,5 - P 3 sensor .
+150						To measure PI3Kgamma activity by a complementary experimental approach , the effects of fMLP receptor stimulation on the subcellular distribution of GFP-GRP1 PH fusion proteins were examined .
+151			e27	c4	phosphoinositides-1 ( GRP1 ) , a PI3K activated exchange factor for ADP ribosylation factors	Recruitment of the GFP labeled PH domain of general receptor for phosphoinositides-1 ( GRP1 ) , a PI3K activated exchange factor for ADP ribosylation factors , has been applied to detect formation of PtdIns-3 ,4,5 - P 3 with high affinity and selectivity .
+152			e28	c4	whereas subsequent stimulation with EGF induced a rapid membrane recruitment of the PtdIns-3 ,4,5 - P 3 sensor , presumably through activation of an endogenously expressed RTK sensitive class I A PI3K .	fMLP stimulation had no effect on the subcellular distribution of GFP-GRP1 PH in HEK cells expressing either the receptor or PI3Kgamma alone ( B , top two panels ) , whereas subsequent stimulation with EGF induced a rapid membrane recruitment of the PtdIns-3 ,4,5 - P 3 sensor , presumably through activation of an endogenously expressed RTK sensitive class I A PI3K .
+153			e29,e30	c4	In cells coexpressing the fMLP receptor and heterodimeric PI3Kgamma , fMLP stimulation induced a rapid membrane translocation of GFP-GRP1 PH ( B , third panel ) , indicating that this effect indeed reflects fMLP receptor mediated stimulation of PI3Kgamma .	In cells coexpressing the fMLP receptor and heterodimeric PI3Kgamma , fMLP stimulation induced a rapid membrane translocation of GFP-GRP1 PH ( B , third panel ) , indicating that this effect indeed reflects fMLP receptor mediated stimulation of PI3Kgamma .
+154						Accordingly , the fMLP induced effect was sensitive to pretreatment with pertussis toxin ( PTX ; unpublished data ) .
+155						Interestingly , a slight basal membrane localization of GFP-GRP1 PH was visible in the cells coexpressing heterodimeric PI3Kgamma and the fMLP receptor even in the absence of agonist ( B , third panel ) .
+156						Because this was not seen after PTX treatment ( unpublished data ) or in cells omitting the receptor ( B , second panel ) , it most likely reflected a constitutively active fMLP receptor .
+157			e31	c4	 Akt phosphorylation 	Translocation of an isolated PH domain in single cells may be a more sensitive read-out for PtdIns-3 ,4,5 - P 3 production than the Akt phosphorylation assay .
+158			e32	c4	 requirement of p101 for receptor induced PI3Kgamma activation ( A ) .	Hence , we used the GFP-GRP1 PH translocation approach to reexamine the requirement of p101 for receptor induced PI3Kgamma activation ( A ) .
+159						Nevertheless , an fMLP induced membrane recruitment of GFP-GRP1 PH in cells coexpressing the receptor and p110gamma ( but not p101 ) was not visible ( B , fourth panel ) .
+160						This finding confirms that the noncatalytic p101 subunit is required for GPCR mediated stimulation of PI3Kgamma in living cells .
+161						To further strengthen the findings , we replaced GFP-GRP1 PH by the GFP fused PH domain of Bruton 's tyrosine kinase ( Btk PH ) , which has also been described to bind PtdIns-3 ,4,5 - P 3 with high specificity and affinity .
+162						As expected , fluorescent Btk PH was distributed equally between cytosol and nucleus in HEK cells ( C ) .
+163						However , cells coexpressing the receptor and both PI3Kgamma subunits exhibited a slight basal membrane localization of Btk PH -CFP followed by a prominent translocation from the cytosol to the membrane on exposure to fMLP .
+164						Similar to GFP-GRP1 PH , no fMLP induced redistribution of Btk PH -CFP was seen in the absence of p101 .
+165						Activation of a membrane targeted p110gamma-CAAX in vivo
+166			e33,e34,e35	c4	 p101 is an indispensable adaptor for GPCR induced translocation and activation of class I B PI3Kgamma , which is equivalent to the role of p85 in RTK induced class I A PI3K activation .	The presented data suggest that in living cells , p101 is an indispensable adaptor for GPCR induced translocation and activation of class I B PI3Kgamma , which is equivalent to the role of p85 in RTK induced class I A PI3K activation .
+167			e36	c4	Vice versa , Gbetagamma behaves as a membrane anchor recruiting PI3Kgamma through association with p101 .	Vice versa , Gbetagamma behaves as a membrane anchor recruiting PI3Kgamma through association with p101 .
+168						So far , these experiments did not clarify whether membrane recruitment itself is sufficient for activation of the enzyme or whether additional allosteric stimulation is required .
+169						To tackle this question , we generated p110gamma mutants containing a COOH-terminal isoprenylation signal , i.e. , a CAAX-box motif , which constitutively localizes p110gamma to the plasma membrane .
+170	uaz:UA-CLine-7847	HEK cells	e37,c5	c5	p110gamma-CAAX accumulated at the plasma membrane of HEK cells , and was able to complex with p101 ( , top ) .	p110gamma-CAAX accumulated at the plasma membrane of HEK cells , and was able to complex with p101 ( , top ) .
+171						Coexpression of Gbetagamma together with YFP-p110gamma-CAAX increased not only fluorescent staining of endomembranes , but also produced a wortmannin sensitive rounding of the cells ( , bottom ) even in the absence of p101 ( not depicted ) , which was similar to the effect after coexpression of Gbetagamma with p110gamma and p101 dimers ( see C ) .
+172			e39	c5	These observations imply that membrane bound PI3Kgamma is not fully active , but can be further activated by Gbetagamma .	These observations imply that membrane bound PI3Kgamma is not fully active , but can be further activated by Gbetagamma .
+173						Figure 6 .
+174						Characterization of a constitutively membrane associated p110gamma-CAAX .
+175						HEK cells were transfected with the indicated plasmids and analyzed by confocal laser scanning microscopy .
+176						Images of typical cells are shown .
+177						White bars indicate a 10-mum scale .
+178						Top panel ; Subcellular localization of YFP-p110gamma-CAAX ( left ) or YFP-p101 expressed together with p110gamma-CAAX ( right ) .
+179						Bottom panel ; Coexpression with Gbetagamma .
+180						To substantiate this assumption , we analyzed the subcellular redistribution of GFP-GRP1 PH in HEK cells coexpressing membrane targeted p110gamma-CAAX , p101 and the fMLP receptor in various combinations ( A ) .
+181						A slight basal membrane localization of the fluorescent PH domain was evident on coexpression with p110gamma-CAAX ( A , top panel ) indicating an elevated PtdIns-3 ,4,5 - P 3 level .
+182						The same picture emerged when p101 was present in the panel of transfected plasmids ( A , second panel ) .
+183						On coexpression of the receptor , fMLP induced a significant additional translocation of GFP-GRP1 PH from the cytosol to the membrane ( A , third and fourth panel ) indicating additional stimulation of the membrane bound lipid kinase .
+184						Interestingly , the effect was similar irrespective of whether p101 was present or not , suggesting direct activation of monomeric p110gamma .
+185						PTX sensitivity confirmed that fMLP induced activation of p110gamma-CAAX was mediated by G i proteins ( unpublished data ) .
+186			e40,e41	c5	Because Gbetagamma can activate Ras , which in turn may activate p110gamma	Because Gbetagamma can activate Ras , which in turn may activate p110gamma , one may imagine that fMLP induced , p101 independent stimulation of p110gamma-CAAX was mediated by Ras .
+187						However , coexpression of dominant negative Ras N17 had no effect on fMLP induced p110gamma-CAAX stimulation , whereas its inhibitory effect was evident when EGF induced MAP kinase activation was assessed ( A , bottom panel ) .
+188						In addition , an indirect autocrine stimulatory effect was excluded because supernatants of fMLP stimulated cells failed to induce GFP-GRP1 PH translocation in cells omitting fMLP receptors ( unpublished data ) .
+189						Figure 7 .
+190						Activation of a constitutively membrane associated p110gamma-CAAX .
+191						( A ) GFP-GRP1 PH translocation .
+192						HEK cells were transfected with plasmids for GFP-GRP1 PH and p110gamma-CAAX , p101 , fMLP-R , and dominant negative Ras N17 in different combinations .
+193						Translocation of the PtdIns-3 ,4,5 - P 3 -binding GFP-GRP1 PH in response to agonist stimulation was monitored as described above ( see ) .
+194						White bars indicate a 10-mum scale .
+195						As a positive control for H-Ras N17 , cells were transfected with the H-Ras N17 plasmid ( same amount as for the GFP-GRP1 PH translocation experiment ) or empty vector .
+196						Cells were stimulated with 10 ng and ml EGF , and whole-cell lysates were analyzed by immunoblotting with an antibody that specifically recognizes the phosphorylated form of ERK ( p-ERK ) .
+197						Equal loading was shown using the anti-ERK-antibody .
+198						( B ) Btk PH -CFP translocation .
+199						( C ) Akt phosphorylation .
+200						The experiment shown in was repeated .
+201						In addition , cells were transfected with the plasmid for the membrane targeted p110gamma-CAAX instead of wild-type p110gamma .
+202						By using Btk PH -CFP instead of GFP-GRP1 PH as the PtdIns-3 ,4,5 - P 3 sensor , we confirmed both the basal enzymatic activity and fMLP induced stimulation of membrane targeted p110gamma-CAAX , regardless of coexpressed p101 ( B ) .
+203			e42,e43	c5	 Akt phosphorylation assay corroborated that p101 was dispensable for GPCR induced stimulation of membrane targeted p110gamma-CAAX ( C ) .	Furthermore , the Akt phosphorylation assay corroborated that p101 was dispensable for GPCR induced stimulation of membrane targeted p110gamma-CAAX ( C ) .
+204						Next , we sought to confirm our principal findings using nontransformed cells in primary culture with a higher degree of differentiation than HEK cells .
+205	tissuelist:TS-1107	Vascular smooth muscle ( VSM ) cells	c6			Vascular smooth muscle ( VSM ) cells were injected with plasmids encoding the fMLP receptor , p101 , p110gamma or p110gamma-CAAX , and GFP-GRP1 PH in different combinations , and redistribution of the fluorescent PtdIns-3 ,4,5 - P 3 sensor was monitored .
+206			e44	c6	 p101 is required for GPCR mediated activation of PI3Kgamma in living cells	Again , this series of experiments confirmed that p101 is required for GPCR mediated activation of PI3Kgamma in living cells , whereas membrane targeted p110gamma can be stimulated even in the absence of p101 .
+207						Figure 8 .
+208						PI3Kgamma mediated membrane translocation of GFP-GRP1 PH in vascular smooth muscle ( VSM ) cells .
+209						VSM cells were microinjected with plasmids for GFP-GRP1 PH , fMLP-R , p101 , and p110gamma or p110gamma-CAAX in different combinations .
+210						The localization of GFP-GRP1 PH was monitored before and after the addition of 1 muM fMLP ( picture taken after 4 min ) and 10 ng and ml PDGF-BB ( added 12 min later , picture taken after 8 min ) .
+211						White bars indicate a 10-mum scale .
+212						Discussion
+213						PI3Kgamma is a key player in the regulation of leukocyte functions such as chemotaxis and superoxide production .
+214						To elucidate the mechanism of how Gbetagamma activates the enzyme in vivo , we studied the subcellular localization and translocation of GFP tagged PI3Kgamma subunits and PH domains in living cells .
+215						A p110gamma-GFP construct has been previously reported , but data describing a functional interaction of the fusion protein with G proteins are not available .
+216						Therefore , we systematically tagged each PI3Kgamma subunit and found heterodimerization , enzymatic activity , and Gbetagamma-sensitivity of the fusion proteins unaffected by the tags , whereas a GFP tagged Gbeta complexed to Ggamma did not interact with PI3Kgamma ( unpublished data ) .
+217						In resting cells , fluorescent PI3Kgamma was predominantly detected in the cytosol .
+218						This resembles the native situation in which the vast majority of the endogenous PI3Kgamma pool has been assigned to the cytosol .
+219						Thus , the GFP tagged proteins are appropriate tools to study the cellular events leading to activation of PI3Kgamma .
+220						Recent analysis of p110gamma crystals gave insights into the three-dimensional structure of the catalytic PI3Kgamma subunit .
+221						However , the structure of p101 and the molecular determinants for the interaction of both PI3Kgamma subunits are currently unknown .
+222						In vitro data derived from p101 and p110gamma deletion mutants suggest that large areas of p101 may interact with the NH 2 -terminal side of p110gamma .
+223						FRET data presented here indicate that NH 2 and both COOH termini of p110gamma and p101 are in close proximity .
+224						The latter finding is of interest because the p110gamma COOH terminus harbors the catalytic domain .
+225						Previous data have implied that not only Ras , but also Gbetagamma directly interact with the COOH terminus of p110gamma .
+226						Therefore , interaction of p101 with the catalytic domain of p110gamma would be in line with the functional data suggesting that p101 affects interaction of Gbetagamma stimulated p110gamma with the lipid interface .
+227						Gbetagamma is considered to be the principal , direct stimulus of GPCR induced PI3Kgamma enzymatic activity .
+228						Convincing evidence for this assumption has come from reconstitution of purified proteins , demonstrating that in vitro , the enzymatic activity of heterodimeric and monomeric PI3Kgamma is significantly stimulated by Gbetagamma .
+229						However , when we challenged the concept in living cells , marked differences in the sensitivities between heterodimeric and monomeric PI3Kgamma emerged .
+230			e45	c7	The G protein coupled fMLP receptor activated p110gamma and p101	The G protein coupled fMLP receptor activated p110gamma and p101 , but not p110gamma , as evident from the translocation of fluorescent PtdIns-3 ,4,5 - P 3 sensors or the stimulation of Akt phosphorylation .
+231	uaz:UA-CLine-7847	HEK cells	c7			Likewise , coexpressed Gbetagamma recruited p110gamma and p101 , but not p110gamma , to membranes of HEK cells .
+232						Interestingly , PI3Kbeta , another Gbetagamma regulated PI3K , did not translocate to the membrane on GPCRs or Gbetagamma stimulation , whereas RTKs induced membrane recruitment in vivo ( unpublished data ) .
+233						Does membrane recruitment of PI3Kgamma by itself result in constitutive activation of p110gamma ?
+234						To answer this intriguing question , we used an isoprenylated mutant of p110gamma , i.e. , p110gamma-CAAX , which is permanently attached to the membrane , and thereby , is in close proximity to its lipid substrates .
+235	uaz:UA-CLine-7847,uaz:UA-ORG-1094	hek cells, vsm cells	c8,c9			Expression of p110gamma-CAAX only slightly enhanced membrane association of fluorescent PtdIns-3 ,4,5 - P 3 sensors in HEK or VSM cells .
+236						Notably , it did not affect the morphology of HEK cells .
+237						In contrast , coexpression of Gbetagamma together with p110gamma-CAAX induced morphological changes comparable to cells transfected with plasmids encoding Gbetagamma and p110gamma and p101 .
+238			e46	c8,c9	fMLP stimulated Akt phosphorylation	Furthermore , stimulation of the cells with fMLP stimulated Akt phosphorylation and membrane recruitment of PH domains regardless of whether p110gamma and p101 or p110gamma-CAAX was the effector .
+239						This establishes a second role for Gbetagamma , i.e. , the activation of the membrane attached catalytic p110gamma subunit even in the absence of p101 .
+240			e47	c8,c9	Gbetagamma interacts with either monomeric PI3Kgamma subunit through individual binding sites 	Although Gbetagamma interacts with either monomeric PI3Kgamma subunit through individual binding sites , it does not exclude the possibility that heterodimeric PI3Kgamma forms either a common or different binding site ( s ) for Gbetagamma .
+241						Attempts to determine the stoichiometry of the interaction between heterodimeric PI3Kgamma and one or more Gbetagamma were inconclusive .
+242						One possible reason may be a weak affinity between p110gamma and Gbetagamma , whereas p101 binds at least with moderate affinity to Gbetagamma as determined by copurification studies and by a Biacore plasmon resonance approach ( unpublished data ) .
+243						Figure 9 .
+244						Hypothetical model for receptor- induced membrane recruitment and activation of heterodimeric PI3Kgamma .
+245						fMLP receptor , a prototypical heptahelical receptor coupled to G i proteins .
+246						PI3Kgamma ; the cytosolic enzyme consists of a noncatalytic p101 subunit , which is in a tight complex with p110gamma , thereby stabilizing p101 .
+247						The NH 2 and COOH termini of p101 and p110gamma are oriented in close proximity , respectively .
+248						Contact sites involve the NH 2 termini of both subunits .
+249						The modular domain structure of p110gamma ( RBD , Ras binding domain ; C2 , C2 domain ; hel , helical domain ; N-cat , C-cat , NH 2 - and COOH-terminal lobes of the catalytic domain ) is based on the crystal structure of an NH 2 -terminally truncated p110gamma .
+250						( A ) Membrane recruitment .
+251						The agonist stimulated receptor induces the release of Gbetagamma from G i proteins ( dotted arrow ) .
+252						Gbetagamma recruits the PI3Kgamma heterodimer to the plasma membrane ( dotted arrow ) by binding to the noncatalytic p101 ( hollow arrow ) .
+253						Accordingly , Gbetagamma and p101 function as a membrane anchor and an adaptor for PI3Kgamma , respectively .
+254						In addition , the C2 domain of p110gamma may facilitate membrane attachment through interaction with phospholipids .
+255						p101 may also affect the interaction of PI3Kgamma with the lipid interface .
+256						Membrane attached PI3Kgamma exhibits basal enzymatic activity .
+257						( B ) Allosteric activation .
+258						At the membrane , Gbetagamma activates PI3Kgamma by direct interaction with p110gamma ( hollow arrows ) .
+259						This stimulation does not require p101 .
+260						However , p101 may participate in Gbetagamma induced stimulation of membrane attached p110gamma .
+261						The stoichiometry of the Gbetagamma-PI3Kgamma interaction is unknown , i.e. , Gbetagamma may interact with p101 and p110gamma through individual or common binding sites .
+262						Gbetagamma binds to the NH 2 - and COOH-terminal part of p110gamma , the latter harboring the catalytic domain .
+263						Thus , Gbetagamma may allosterically activate PI3Kgamma through a conformational change in the catalytic domain .
+264						Accordingly , Gbetagamma significantly increases V max of PtdIns-3 ,4,5 - P 3 production .
+265						PtdIns-3 ,4,5 - P 3 , in turn , recruits PH domain containing effectors such as GRP1 or Btk to the plasma membrane ( dotted arrow ) .
+266						In our paper , we present evidence that p110gamma is stable as a monomer without p101 , but not vice versa .
+267						This may explain why relevant amounts of native monomeric p101 do not occur in vivo ( Wetzker , R. , personal communication ) .
+268						p110gamma can be expressed as a stable protein independent of the presence of p101 , as shown previously ( C ; , ; ; ) .
+269			e48	c8,c9	the p110 subunit of class I A PI3Ks needs stabilization by forming a complex with the p85 adaptor .	Interestingly , the p110 subunit of class I A PI3Ks needs stabilization by forming a complex with the p85 adaptor .
+270						Accordingly , class I A p110alpha , beta , delta subunits are thought to occur only in their adaptor bound form .
+271						Moreover , the p85 adaptor is more abundant than the p110 counterparts .
+272						In contrast , p110gamma is also suggested to occur in the absence of p101 .
+273						Increasing evidences suggest that monomeric p110gamma may also function as a downstream regulator of GPCR dependent signal transduction pathways in cells .
+274						However , under in vivo conditions the p101 subunit seems mandatory for G protein mediated activation of PI3Kgamma by mediating membrane recruitment .
+275						Therefore , the question arises of how monomeric p110gamma translocates to the membrane .
+276						In this context , recent in vitro evidence points to the possibility that membrane attachment of p110gamma may involve binding to anionic phospholipids .
+277						In line with this finding , the majority of PI3Kgamma is already associated with lipid vesicles in the absence of Gbetagamma under in vitro conditions , and vesicle bound PI3Kgamma can still be activated by Gbetagamma .
+278						Alternatively , p110gamma may be recruited by binding to membrane anchored proteins other than Gbetagamma .
+279						In this respect , p110gamma , like all other class I PI3Ks , is directly activated by GTP bound Ras .
+280			e49	c8,c9	Gbetagamma may stimulate PI3Kgamma 	In conclusion , we present in vivo evidence that Gbetagamma may stimulate PI3Kgamma in a dual and complementary way , i.e. , by recruitment to the membrane , and by activation of the membrane bound enzyme .
+281						In this scenario , the p101 subunit functions as an adaptor molecule necessary to recruit the catalytic subunit to the plasma membrane through high affinity interaction with Gbetagamma .
+282			e50	c8,c9	direct interaction between Gbetagamma and the membrane attached catalytic p110gamma subunit contributes to a final activation of the enzyme by a mechanism other than translocation .	In turn , direct interaction between Gbetagamma and the membrane attached catalytic p110gamma subunit contributes to a final activation of the enzyme by a mechanism other than translocation .
+283						Materials and methods
+284						Construction of expression plasmids
+285						For generation of expression plasmids of PI3Kgamma subunits , restriction sites were introduced , and stop codons were removed by 8-12 cycles of PCR using the indicated primers , a PCR system ( Expand HF ; Roche ) , and a pcDNA3 .1 / V5-His-TOPO vector ( Invitrogen ) for first subcloning .
+286						Subcloned PCR fragments were confirmed by sequencing with fluorescent dye terminators ( ABI-Prism 377 ; PerkinElmer ) .
+287						Expression plasmids encoding NH 2 - and COOH-terminally tagged fusion proteins were generated by subsequent subcloning into the vectors pEYFP-C1 and pECFP-C1 ( CLONTECH Laboratories , Inc. ) or into pcDNA3-YFP and pcDNA3-CFP , respectively .
+288						The constructs are designated indicating the color and the position of the tag ( see A ) .
+289						In detail , wild-type p110gamma ; human p110gamma cDNA ( ; a corrected nucleotide sequence for p110gamma is available from GenBank/EMBL/DDBJ , accession no .
+290						AF327656 ) was amplified with the primers 5 ' - GCC ACC ATG GAG CTG GAG AAC TAT AA-3 ' and 5 ' - GGA TCC AGC TTT CAC AAT GTC TAT TG-3 ' , and subcloned into pcDNA3 via KpnI and XhoI .
+291						p110gamma-YFP and -CFP ; the stop codon was replaced by an XbaI site using the primer 5 ' - GTC TAG AGC TGA ATG TTT CTC TCC CTT GT-3 ' and the same forward primer as above .
+292						Subcloning into pcDNA3-YFP and -CFP was done via BamHI and XbaI .
+293						YFP- and CFP-p110gamma ; XhoI and BamHI sites were introduced using the primers 5 ' - CTC GAG GCA TGG AGC TGG AGA ACT A-3 ' and 5 ' - GGA TCC AGC TTT CAC AAT GTC TAT TG-3 ' for subcloning into pEYFP-C1 and pECFP-C1 .
+294						p110gamma-K833R ; position 2498 was mutated from A to G using the QuikChange ( R ) Mutagenesis Kit ( Stratagene ) and appropriate primers .
+295						p110gamma-CAAX ; two AfeI sites in p110gamma were removed , and the stop codon was replaced by a new AfeI site by silent mutations using the QuikChange ( R ) Mutagenesis Kit and appropriate primers .
+296						Adaptor oligonucleotides encoding the 18 COOH-terminal amino acids of H-Ras were inserted into the AfeI and BamHI sites .
+297						Wild-type p101 ; the cDNA for porcine p101 was subcloned in pcDNA3 via EcoRI and NotI .
+298						An optimized ribosomal docking sequence was introduced by PCR using the primers 5 ' - GCC ACC ATG CAG CCA GGG GCC ACG GA-3 ' and 5 ' - GGC CCG AGA CGA AGG AGG T-3 ' and subsequent exchange of the 5 ' - end via HindIII and BsmBI .
+299						YFP- and CFP-p101 ; the EcoRI and NotI fragment of p101 was subcloned into EcoRI and Bsp120I-digested pEYFP-C1 or pECFP-C1 .
+300						To adapt the reading frames , the HindIII site was blunted with Klenow fragment ( New England Biolabs , Inc. ) and religated .
+301						p101-YFP and -CFP ; PCR with the primers 5 ' - GTC CTC TCC TCA CAC GGT TCT T-3 ' and 5 ' - GTC TAG AGG CAG AGC TCC GCT GAA AGT-3 ' generated the 3 ' - end of p101 with an XbaI site instead of the stop codon .
+302						To restore the full-length p101 cDNA , the 5 ' - part was excised from wild-type p101 in pcDNA3 with HindIII and ClaI ( partial digest ) and ligated to the HindIII and ClaI-digested 3 ' - end .
+303						Subsequent subcloning in pcDNA3-YFP and pcDNA3-CFP was done via HindIII and XbaI .
+304						The human fMLP receptor cDNA was amplified with the primers 5 ' - GCC ACC ATG GAG ACA AAT TCC TCT CTC-3 ' and 5 ' - TCA CTT TGC CTG TAA CTC CAC-3 ' and subcloned in pcDNA3 via HindIII and XhoI .
+305						The cDNAs of Galpha i2 , human Gbeta 1 , and bovine Ggamma 2 were subcloned into pcDNA3 .
+306						Plasmids for GFP-GRP1 PH and Ras N17 are described elsewhere .
+307						For generation of expression plasmids encoding CFP tagged Gbeta 1 and Btk PH , restriction sites were introduced by PCR using the indicated primers , the Advantage ( TM ) II PCR enzyme system ( CLONTECH Laboratories , Inc. ) and the pGEM ( R ) -T Easy Vector ( Promega ) for first subcloning .
+308						The Gbeta 1 cDNA was amplified using the primers 5 ' - TAC AAG TCC GGA CAA GCT TCC ATG AGT GAG CTT GAC CAG TTA CGG C-3 ' and 5 ' - CGG GAT CCG TCG ACC CAT GGT GGC GTT AGT TCC AGA TCT TGA GGA AGC-3 ' , allowing for in-frame subcloning into the HindIII and BamHI sites of pECFP-C1 .
+309						The cDNA encoding the PH domain of human Btk and adjacent 5 ' untranslated bases was amplified from cDNA of dibuturyl-cAMP-differentiated HL-60 cells using the primers 5 ' - CCA AGT CCT GGC ATC TCA ATG CAT CTG-3 ' and 5 ' - TGG AGA CTG GTG CTG CTG CTG GCT C-3 ' .
+310						A nested PCR was performed using the primers 5 ' - GGA AGA TCT CGA GCC ACC ATG GCC GCA GTG ATT CTG G-3 ' and 5 ' - GGG GAT CCC GGG CCC GAG GTT TTA AGC TTC CAT TCC TGT TCT CC-3 ' , allowing for in-frame subcloning into the XhoI and BamHI sites of pECFP-N1 ( CLONTECH Laboratories , Inc. ) .
+311						The cDNA inserts and flanking regions of the resulting CFP-Gbeta 1 and Btk PH -CFP constructs were confirmed by sequencing .
+312						Cell culture , transfection , and intranuclear microinjection
+313						HEK 293 cells ( American Type Culture Collection ) were grown at 37degreesC with 5 % CO 2 in DME or in MEM with Earle 's salts supplemented with 10 % FCS , 100 mug and ml streptomycin , and 100 U and ml penicillin .
+314						All transfections were done with a FuGENE ( TM ) 6 transfection reagent ( Roche ) following the manufacturer 's recommendations .
+315						For fluorescence microscopy experiments , cells were seeded on glass coverslips .
+316						For confocal imaging of the subcellular localization of the PI3Kgamma subunits , cells were transfected with 0.1 mug of plasmid encoding YFP tagged PI3Kgamma subunits , 0.2 mug of plasmid for the untagged complementary subunit , and 1 mug each of plasmid for Gbeta 1 and Ggamma 2 ( except for the experiment shown in B ; 0.1 mug YFP-p101 + 2 mug Gbeta 1 or Ggamma 2 alone , or 0.5 mug Gbeta 1 + 0.5 mug Ggamma 2 + 1 mug Galpha i2 ) .
+317						For monitoring PH domain translocation , or Akt- or ERK phosphorylation , HEK cells were transfected with 0.2 mug plasmid encoding the fMLP receptor , and 0.4 mug each of the plasmids encoding the PI3Kgamma subunits and the fluorescent PH domain .
+318						The total amount of transfected cDNA was always kept constant ( 2.5 mug and well ) by the addition of empty expression vector .
+319						For FRET analysis , cells were transfected with 1.5 mug of plasmid encoding the YFP tagged p110gamma and 0.5 mug of plasmid for CFP tagged p101 .
+320						All experiments were performed one or two days after transfection .
+321						VSM cells from neonatal rat aortas were cultured as described previously .
+322						Cells were seeded on glass coverslips and microinjected with the plasmids for GFP-GRP1 PH ( 0.4 mug and ml ) , fMLP receptor ( 0.05 mug and ml ) , p110gamma ( 0.05 mug and ml ) , and p101 ( 0.05 mug and ml ) using an Eppendorf micromanipulator and transjector .
+323						Confocal images were taken one day after microinjection .
+324						Immunoblot analysis of whole-cell lysates , gel filtration , and membrane fractions
+325						p110gamma and p101 titration ; transfected HEK cells were lysed in Laemmli buffer and whole-cell lysates including nuclei were subjected to a 10 % SDS-PAGE .
+326						Proteins were blotted on nitrocellulose membranes , probed with anti-GFP ( CLONTECH Laboratories , Inc. ) and peroxidase coupled anti-rabbit IgG antibodies ( Sigma-Aldrich ) and visualized by ECL ( Amersham Biosciences ) .
+327						Akt and ERK phosphorylation ; HEK 293 cells were transfected as indicated with the plasmids encoding the fMLP receptor ( 0.2 mug ) , PI3Kgamma subunits ( each 0.4 mug ) , and H-Ras N17 ( 1.5 mug ) .
+328						Cells were serum starved overnight , then stimulated as indicated , and lysed in Laemmli buffer .
+329						Whole-cell lysates were subjected to SDS-PAGE and immunoblotting , and probed with anti-Phospho-Akt or anti-Phospho-ERK1 / 2 and anti-ERK1 / 2 as described previously .
+330						Gel filtration ; HEK cells were transfected with equal amounts of the plasmids for YFP-p110gamma ( or p110gamma-YFP ) and CFP-p101 ( or pcDNA3 ) .
+331						Cells were washed in PBS and lysed in 20 mM Hepes , pH 7.5 , 150 mM NaCl , 10 mM beta-mercaptoethanol , 4 mM EDTA , 0.2 % polyoxyethylene-10-laurylether ( C 12 E 10 ) , 200 muM Pefabloc ( R ) SC , 30 mug and ml TPCK , 30 mug and ml trypsin inhibitor , and 50 mug and ml benzamidine by repetitive aspiration through a 26-gauge needle .
+332						Cytosols were prepared ( 100,000 g for 30 min at 4degreesC ) , and subjected to gel filtration on a 24-ml Superdex 200 column and eluted with the same buffer on an AKTA ( TM ) purifier system ( Amersham Biosciences ) .
+333						Fractions were collected , and aliquots were subjected to SDS-PAGE and immunoblotting with anti-GFP .
+334						Preparation of membrane fractions ; HEK cells were transfected as indicated with the plasmids for YFP-p110gamma-K833R ( 0.1 mug ) , p101 ( 0.2 mug ) , Gbeta 1 ( 1.0 mug ) , and Ggamma 2 ( 1.0 mug ) .
+335						Cells were washed with PBS and lysed in PBS with protease inhibitors ( see above ) by repetitive aspiration through a 26-gauge needle .
+336						Membranes were prepared ( 16,000 g for 20 min at 4degreesC ) , redissolved in Laemmli buffer , subjected to SDS-PAGE and immunoblotting , and probed with anti-p110gamma ( see next section ) and anti-Gbeta common ( AS398 ; ) .
+337						In vitro PI3K assay
+338						HEK cells were transfected with equal amounts of the plasmids encoding p110gamma and p101 ( or empty pcDNA3 to keep the total amount of transfected cDNA constant ) .
+339						Cell lysates were subjected to immunoprecipitation using a monoclonal anti-p110gamma antibody .
+340						In brief , protein A Sepharose was preincubated with or without antibody , washed , incubated overnight with cleared lysates , and washed again .
+341						The in vitro PI3K assay was performed as described previously .
+342						Radioactive PtdIns-3 ,4,5 - P 3 was visualized with a PhosphorImager ( Fuji Bas-Reader 1500 ; Ray Test ) .
+343						Fluorescence imaging and detection of FRET
+344						Glass coverslips were mounted on a custom-made chamber and covered with a Hepes buffered solution containing 138 mM NaCl , 6 mM KCl , 1 mM MgCl 2 , 1 mM CaCl 2 , 5.5 mM glucose , 10 mM Hepes , pH 7.5 , and 2 mg and ml BSA .
+345						For confocal imaging , an inverted confocal laser scanning microscope with a Plan-Apochromat 63x and 1 .4 objective ( model LSM 510 ; Carl Zeiss MicroImaging , Inc. ) was used .
+346						YFP or GFP were excited at 488 nm , and fluorescence emission was detected through a 505-nm long pass filter .
+347						CFP was excited 458 nm , and detected through a 475-nm long pass filter .
+348						Pinholes were adjusted to yield optical sections of 0.5-1 .5 mum .
+349						FRET analysis was performed using an inverted microscope with a Plan-Apochromat 63x and 1 .4 objective ( Axiovert 100 ; Carl Zeiss MicroImaging , Inc. ) .
+350						CFP and YFP were alternately excited at 440 and 500 nm with a monochromator ( Polychrome II ; TILL Photonics ) in combination with a dual reflectivity dichroic mirror ( < 460 nm and 500-520 nm ; Chroma Technology Corp. ) .
+351						Emitted light was filtered through 475-505-nm ( CFP ) and 535-565-nm ( YFP ) band pass filters , changed by a motorized filter wheel ( Lambda 10 and 2 ; Sutter Instrument Co. ) , and detected by a cooled CCD camera ( Imago ; TILL Photonics ) .
+352						FRET was assessed as recovery of CFP ( donor ) fluorescence during YFP ( acceptor ) bleach .
+353						First , CFP and YFP fluorescences without acceptor bleach were recorded during 30 cycles with a 10-20-ms exposure .
+354						Then , 60 cycles were recorded with an additional 2-s illumination per cycle at 510 nm to bleach YFP .

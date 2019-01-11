@@ -1,0 +1,8 @@
+Positive_activation	8
+Phosphorylation	140
+Phosphorylation	142
+Phosphorylation	142
+Phosphorylation	152
+Phosphorylation	156
+Phosphorylation	182
+Negative_activation	240

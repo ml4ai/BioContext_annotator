@@ -1,0 +1,185 @@
+0 
+1 
+1 
+2 
+2 13-13-blood-tissuelist:TS-0079
+3 
+4 
+5 
+6 
+7 
+7 
+8 
+8 
+9 
+9 
+10 
+10 
+11 12-13-lymph_node-tissuelist:TS-0579
+12 9-10-gastric_carcinoma-tissuelist:TS-0400
+13 
+14 
+15 32-33-gastric_cancer-tissuelist:TS-0978
+16 
+16 
+17 
+17 25-26-gastric_cancer-tissuelist:TS-0978
+18 
+18 0-1-Gastric_adenocarcinoma-tissuelist:TS-0398
+19 
+20 
+21 
+22 
+23 
+23 13-13-blood-tissuelist:TS-0079
+24 
+25 
+26 11-12-endothelial_cells-tissuelist:TS-0278
+27 
+28 
+29 
+30 5-5-human-taxonomy:9606 6-6-fibroblast-uaz:UA-CLine-100060
+31 16-16-human-taxonomy:9606 22-22-human-taxonomy:9606 23-23-glioblastoma-tissuelist:TS-0417 26-26-human-taxonomy:9606 27-28-fetal_kidney-tissuelist:TS-0342
+32 18-18-human-taxonomy:9606 19-20-colorectal_carcinoma-tissuelist:TS-0161 22-22-human-taxonomy:9606 23-23-hepatoblastoma-tissuelist:TS-0453
+33 12-12-human-taxonomy:9606 13-14-lung_cancer-tissuelist:TS-0571 24-25-colorectal_cancer-tissuelist:TS-0160
+34 
+35 
+36 
+37 
+37 12-12-human-taxonomy:9606 56-57-lymph_node-tissuelist:TS-0579 62-62-human-taxonomy:9606
+38 
+39 
+39 
+40 
+40 
+41 
+41 
+42 5-6-gastric_cancer-tissuelist:TS-0978 11-11-People-taxonomy:9606
+43 
+44 
+45 
+46 
+47 8-9-lymph_node-tissuelist:TS-0579
+48 20-21-gastric_cancer-tissuelist:TS-0978
+49 
+50 
+51 
+52 10-10-stomach-tissuelist:TS-0980
+53 
+53 
+54 
+54 
+55 
+56 
+57 
+57 
+58 
+58 
+59 10-10-lymphocyte-tissuelist:TS-0583 39-40-plasma_cells-uaz:UA-CT-3 42-42-lymphocytes-uaz:UA-CT-22 58-58-epithelium-tissuelist:TS-0288 74-75-gastric_mucosa-tissuelist:TS-0404 89-90-basement_membrane-go:GO:0005604
+60 
+60 
+61 
+61 5-5-mouse-taxonomy:10090 10-10-human-taxonomy:9606
+62 5-5-mouse-taxonomy:10090 14-14-human-taxonomy:9606
+63 5-5-rabbit-taxonomy:9986 10-10-human-taxonomy:9606
+64 
+65 15-15-serum-tissuelist:TS-0923
+66 
+67 
+68 13-13-mouse-taxonomy:10090 15-15-rabbit-taxonomy:9986 16-16-serum-tissuelist:TS-0923
+69 
+70 
+70 
+71 
+72 8-8-cytoplasm-go:GO:0005737 10-11-cell_membrane-uniprot:SL-0039
+73 
+74 
+75 
+75 
+76 
+76 
+77 
+78 
+78 
+79 
+79 
+80 
+81 
+82 
+82 
+83 
+84 
+85 17-17-cytoplasm-go:GO:0005737 19-20-cell_membrane-uniprot:SL-0039
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+92 
+93 
+93 4-5-gastric_carcinoma-tissuelist:TS-0400
+94 
+95 
+96 
+96 
+97 
+97 4-5-gastric_carcinoma-tissuelist:TS-0400
+98 5-5-cytoplasm-go:GO:0005737 8-9-nuclear_membrane-go:GO:0031965
+99 
+100 
+100 
+101 
+101 4-5-gastric_carcinoma-tissuelist:TS-0400
+102 4-4-cytoplasm-go:GO:0005737 6-7-cell_membrane-uniprot:SL-0039
+103 
+104 
+104 14-14-muscle-tissuelist:TS-0642
+105 
+106 
+106 7-8-lymph_node-tissuelist:TS-0579 17-18-lymph_node-tissuelist:TS-0579
+107 17-18-lymph_node-tissuelist:TS-0579
+108 
+108 
+109 
+110 
+111 
+111 
+112 
+113 
+114 
+114 
+115 
+115 
+116 
+117 
+118 
+119 
+119 
+120 8-8-human-taxonomy:9606 9-9-lung-tissuelist:TS-0568 11-11-colon-tissuelist:TS-0158
+121 
+122 
+123 
+124 
+125 
+126 
+127 9-10-gastric_cancer-tissuelist:TS-0978
+128 
+129 
+129 
+130 10-11-gastric_mucosa-tissuelist:TS-0404 13-13-glands-uaz:UA-ORG-360 26-27-small_intestine-tissuelist:TS-0942 34-35-stomach_cancer-tissuelist:TS-0978
+131 24-25-small_intestine-tissuelist:TS-0942
+132 
+132 18-19-lymph_node-tissuelist:TS-0579
+133 
+134 
+135 
+135 
+136 
+136 23-24-gastric_adenocarcinoma-tissuelist:TS-0398
+137 
+137 
+138 
+138 
+139 

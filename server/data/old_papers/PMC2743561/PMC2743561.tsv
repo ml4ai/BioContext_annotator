@@ -1,0 +1,280 @@
+1						Persistent DNA damage signaling triggers senescence associated inflammatory cytokine secretion
+2						Cellular senescence suppresses cancer by stably arresting the proliferation of damaged cells .
+3						Paradoxically , senescent cells also secrete factors that alter tissue microenvironments .
+4						The pathways regulating this secretion are unknown .
+5						We show that damaged human cells develop persistent chromatin lesions bearing hallmarks of DNA double-strand breaks ( DSBs ) , which initiate increased secretion of inflammatory cytokines such as interleukin-6 ( IL-6 ) .
+6						Cytokine secretion occurred only after establishment of persistent DNA damage signaling , usually associated with senescence , not after transient DNA damage responses ( DDR ) .
+7						Initiation and maintenance of this cytokine response required the DDR proteins ATM , NBS1 and CHK2 , but not the cell cycle arrest enforcers p53 and pRb .
+8						ATM was also essential for IL-6 secretion during oncogene induced senescence and by damaged cells that bypass senescence .
+9						Further , DDR activity and IL-6 were elevated in human cancers , and ATM-depletion suppressed the ability of senescent cells to stimulate IL-6-dependent cancer cell invasiveness .
+10						Thus , in addition to orchestrating cell cycle checkpoints and DNA repair , a novel and important role of the DDR is to allow damaged cells to communicate their compromised state to the surrounding tissue .
+11						Cellular senescence limits the proliferation of damaged cells that are at risk for neoplastic transformation by imposing an essentially irreversible growth arrest .
+12						Senescent cells also develop a complex senescence associated secretory phenotype ( SASP ) , in culture and in vivo - .
+13						The SASP can disrupt normal mammary differentiation , , promote endothelial cell invasion , and stimulate cancer cell growth and invasion in culture and tumor growth in vivo - .
+14						Additionally , some SASP factors can reinforce the senescence arrest by autocrine or paracrine mechanisms - .
+15						Among the SASP factors , IL-6 and IL-8 are of particular interest .
+16						These cytokines initiate inflammatory responses , such as those associated with normal healing in damaged tissues , as well as many age related pathologies , including cancer .
+17						Normal cells undergo senescence in response to severe or irreparable DNA damage , especially DNA DSBs .
+18						Among the first proteins to respond to DSBs is ATM ( Ataxia Telangiectasia Mutated ) , a member of the phosphoinositide-3 kinase like kinase ( PIKK ) family .
+19					ATM substrates include H2AX , a nucleosomal histone variant , and p53 binding protein-1 ( 53BP1 ) , which facilitates checkpoint activation and repair .	ATM substrates include H2AX , a nucleosomal histone variant , and p53 binding protein-1 ( 53BP1 ) , which facilitates checkpoint activation and repair .
+20			e1,e2	c1,c2,c3	Phosphorylated H2AX ( gammaH2AX ) and 53BP1 rapidly localize to DSBs , forming characteristic foci .	Phosphorylated H2AX ( gammaH2AX ) and 53BP1 rapidly localize to DSBs , forming characteristic foci .
+21			e3,e4	c1,c2,c3	ATM also phosphorylates the DDR kinase CHK2 ( checkpoint kinase-2 )	ATM also phosphorylates the DDR kinase CHK2 ( checkpoint kinase-2 ) , which promotes growth arrest ; NBS1 ( Nijmegen breakage syndrome ) , a member of the MRN ( MRE11-RAD51-NBS1 ) complex that reinforces the DDR and participates in DNA repair ; and p53 , a tumor suppressor and transcriptional regulator that orchestrates repair and cell cycle arrest ( reviewed in ) .
+22						DSBs that can not be repaired ( e.g. , uncapped telomeres ) cause constitutive DDR signaling , prolonged p53 dependent growth arrest , and eventually an essentially irreversible senescence arrest , .
+23						Despite understanding much about how the senescence arrest is initiated and maintained , little is known about how the SASP is regulated .
+24						We recently showed that the SASP is correlated with genotoxic stress , suggesting it is controlled by DDR signaling .
+25						However , p53 , a key DDR effector , was not required for the SASP , raising the possibility that the SASP and DDR are not linked .
+26						Here , we asked whether DDR components upstream of p53 regulate the SASP , focusing on two principal SASP factors , the inflammatory cytokines IL-6 and IL-8 .
+27	uaz:UA-CLine-100115	hca2	c1			We synchronously damaged DNA in HCA2 human diploid fibroblasts using ionizing radiation ( X-ray ) .
+28						A relatively low dose ( 0.5 Gy ) rapidly induced multiple 53BP1 foci in all nuclei and engaged the DDR , as indicated by p53 serine15 phosphorylation and upregulation of p21 , a cell cycle inhibitor and p53 target .
+29						Both indicators returned to near-baseline levels within 10 h , as cells resolved the 53BP1 foci and resumed growth .
+30						A senescence inducing dose ( 10 Gy ) also triggered a rapid DDR ; however , several 53BP1 foci failed to resolve , and increased in size .
+31						These persistent DNA damage foci ( PDDF ) contained gammaH2AX , and remained for days and months ( not shown ) , while cells remained arrested .
+32			e9	c1	( phosphorylated ) ATM	PDDF also contained activated ( phosphorylated ) ATM and ATM and ATR substrates .
+33						Therefore , low dose radiation induced a transient DDR , from which cells recovered , whereas a high dose generated PDDF , localized but constitutive DDR signaling , and senescence .
+34						Low dose radiation did not increase IL-6 secretion , which remained at control levels .
+35						A high dose , in contrast , increased IL-6 and IL-8 secretion 5- to 6-fold within 2-4 d , and to replicatively senescent levels within 3-5 d .
+36	uaz:UA-CLine-888	WI-38	c2			Human WI-38 fibroblasts behaved similarly ( not shown ) .
+37						Thus , DNA damage and the DDR alone do not induce inflammatory cytokine secretion ; rather , secretion develops , after a delay , when the damage is sufficient to generate PDDF and persistent DDR signaling .
+38						To test this idea further , we used lentiviruses to express p16 INK4a , a cyclin dependent kinase inhibitor that causes a senescence arrest .
+39						The infected cells displayed few PDDF and secreted little IL-6 , yet expressed other senescence markers , including increased intracellular reactive oxygen species .
+40						Conversely , > 2 PDDF and high IL-6 secretion was evident in cells induced to senesce by conditions that caused DNA damage .
+41						IL-8 secretion behaved similarly .
+42						HCA2 fibroblasts undergo p53 dependent replicative senescence owing to short ( dysfunctional ) telomeres , .
+43						Accordingly , early passage cells had few PDDF , while senescent cells had three or more ( p < 10 -9 , two tailed student T-test for unpaired samples , ) .
+44						As the cells proliferated , PDDF accumulated gradually ( , top ) , DNA synthesis declined , and IL-6 ( , bottom ) and IL-8 secretion increased .
+45						IMR-90 human fibroblasts behaved similarly .
+46						We used immunostaining to assess cytokine expression , growth arrest ( absence of DNA synthesis ) and PDDF in single cells within senescing HCA2 populations .
+47						Proliferating cells can acquire dysfunctional telomeres prior to arresting growth .
+48						Indeed , PDDF positive cells did not necessarily fail to synthesize DNA , although they synthesized DNA less frequently than cells without PDDF .
+49	uaz:UA-CLine-7214	IMR90	c3			IMR90 fibroblasts behaved similarly .
+50						Further , in late passage populations , many cells that synthesized DNA also showed robust immunostaining for IL-6 and MMP3 , another SASP factor .
+51						Together with the p16 INK4a results , these findings suggest that PDDF , rather than the senescence arrest per se , correlate with inflammatory cytokine secretion .
+52						To corroborate this idea , we suppressed telomeric PDDF in early passage HCA2 cells by expressing telomerase ( catalytic subunit , hTERT ) for 20 population doublings ( PDs ) .
+53						In contrast to control cells ( ; compare PD25-40 to PD40-60 ) , hTERT expressing cells displayed slightly decreased PDDF but no increase in IL-6 secretion .
+54						Moreover , when hTERT expressing cells exceeded the PD level at which unmodified cells completely senesce ( PD71-75 ) , PDDF and IL-6 secretion were similar to , or lower than , early passage cells .
+55						To confirm that rescued telomere dysfunction , rather than hTERT per se , caused the decline in PDDF and IL-6 secretion , we induced senescence in PD50 hTERT expressing cells by X irradiation .
+56						Radiation generated PDDF and greatly increased IL-6 secretion in these cells .
+57						Thus , hTERT reduced telomeric PDDF , but not radiation induced PPDF ( most of which are presumably non telomeric ) .
+58						These results strengthen the idea that PDDF and persistent DDR signaling are responsible for inflammatory cytokine secretion .
+59	uaz:UA-CLine-100115	hca2	e10,e11,e12,c4	c4	 GSE22 ( a dominant peptide suppressor of p53 activity ) or SV-40 T antigen ( SV40LT , which inactivates p53 and pRb )	To determine whether the tumor suppressors p53 and pRb were required for IL-6 secretion , we used lentiviruses to express either a short-hairpin RNA against p53 ( shp53 ) , GSE22 ( a dominant peptide suppressor of p53 activity ) or SV-40 T antigen ( SV40LT , which inactivates p53 and pRb ) in replicatively senescent HCA2 cells .
+60						As expected for HCA2 , which express low levels of endogenous p16 INK4a , p53 inactivation reversed the senescence growth arrest and drove cells into crisis ( ; not shown ) .
+61						3-4 PDs after infection , IL-6 secretion did not decline , but rather increased .
+62						Thus , neither p53 , pRB nor the senescence arrest was required for IL-6 secretion .
+63						Likewise , we inactivated p53 ( see ) in early passage HCA2 cells using retrovirally delivered GSE22 .
+64						There was no change in either PDDF or IL-6 secretion after 5 PDs .
+65						However , 15 PDs after p53 inactivation , both IL-6 secretion and PDDF increased markedly .
+66						These increases also occurred following p53 depletion by shp53 , although they were more modest ( perhaps owing to residual p53 levels ; ) .
+67						Thus , p53 was not required to initiate PDDF driven cytokine secretion , and loss of p53 function in proliferating cells gradually increased the levels of both PDDF and secreted IL-6 .
+68						To determine the contribution of telomeric PDDF to the increased IL-6 secretion by p53 deficient cells , we expressed hTERT in GSE expressing cells that had developed high levels of IL-6 secretion .
+69						hTERT reduced both PDDF and IL-6 secretion , as it did for cells with wild-type p53 .
+70						Cells expressing hTERT and GSE22 did not grow faster than cells expressing GSE22 only , ruling out the possibility that hTERT enabled the expansion of a few clones with serendipitously low PDDF and IL -6 secretion .
+71						hTERT only partially reduced IL-6 and PDDF levels in p53 deficient cells , suggesting that dysfunctional or near-dysfunctional telomeres account for some , but not all , the PDDF in proliferating p53 deficient cells .
+72						Nevertheless , even in actively dividing p53 deficient cells , reduced PDDF coincided with reduced IL-6 secretion .
+73						ATM is a key responder to DNA damage and prominent component of PDDF .
+74						We tested the idea that PDDF drive cytokine secretion by providing sustained DDR signaling .
+75						We infected HCA2 cells with lentiviruses encoding shRNAs against GFP ( shGFP , control ) or ATM ( shATM ) .
+76						ATM depletion ( 80-90 % ) prevented the increased IL-6 secretion that normally occurs 9-10 d following 10 Gy X irradiation .
+77						We obtained similar results using WI-38 fibroblasts .
+78						Additionally , ATM depletion in already ( replicatively ) senescent cells effectively abolished IL-6 secretion .
+79						Finally , primary A-T fibroblasts , from patients carrying an inactivating mutation in ATM ( ataxia telangiectasia ) , had low but detectable basal IL-6 secretion levels and completely lacked the 2-3 d and 9-10 d cytokine responses following 10 Gy X irradiation .
+80						ATM shares many substrates with ATR , another PIKK , which is preferentially activated when cells are damaged during S-phase .
+81						To determine whether ATR was also important for the DNA damage cytokine response , we measured IL-6 secretion by primary fibroblasts from a Seckel syndrome patient .
+82						These cells have almost undetectable ATR levels owing to a splicing mutation .
+83						They also had relatively high basal levels of IL-6 secretion , but , nonetheless , IL-6 secretion increased after X irradiation ( 10 Gy ) .
+84						The magnitude of the increase was smaller than the extent to which IL-6 secretion increased in wild-type cells , possibly because IL-6 secretion is already high in these cells or because ATR partly contributes to the cytokine response .
+85						Whatever the case , these findings support the idea that persistent DDR signaling drives IL-6 secretion , and that , while ATR might contribute to this response , ATM is essential .
+86						To determine whether other DDR components were necessary for the DNA damage cytokine response , we depleted cells of either NBS1 , an MRN component required for optimal ATM activity , or CHK2 , another DDR kinase and downstream target of ATM .
+87						Similar to the effects of ATM depletion , NBS1 or CHK2 depletion essentially prevented the increased IL-6 secretion following 10 Gy X irradiation and abolished the high IL-6 secretion by already senescent cells .
+88						Thus , three major DDR components ( ATM , NBS1 and CHK2 ) are essential for both establishing and maintaining the cytokine response to DNA damage .
+89						To identify which SASP components respond to DDR signaling , we used antibody arrays to interrogate 120 cytokines and other factors secreted by senescent HCA2 cells .
+90						We focused on 16 factors that were significantly modulated by X irradiation , the majority being upregulated .
+91						We compared the secretion levels of these 16 factors in control and ATM depleted cells induced to senesce by X irradiation ( 10 Gy ) .
+92						ATM depletion reduced the secretion of 7 of these 16 SASP factors , reducing IL-6 secretion 50-fold and IL-8 secretion 10-fold .
+93						Nine factors were unchanged by ATM depletion ( < = 1.4-fold the secretion level of non depleted cells ) .
+94						Thus , ATM signaling does not regulate the entire SASP , but is required for a subset of SASP components , including the major inflammatory cytokines .
+95						The SASP can promote cancer cell invasion , largely due to secreted IL-6 .
+96						To determine the biological significance of the DDR dependent cytokine response , we used conditioned medium ( CM ) from control and senescent ( X irradiated ) ATM depleted cells in invasion assays .
+97						As expected , human breast cancer cells ( T47D ) were stimulated to invade a basement membrane when exposed to CM from control senescent cells .
+98						This stimulatory activity was deficient , however , in CM from ATM depleted senescent cells , but was largely restored by supplementing this CM with recombinant IL-6 .
+99						Thus , DDR dependent SASP factors can have a significant biological consequence .
+100						Persistent DDR signaling has been detected in vivo in premalignant and malignant lesions in human breast , lung , skin , bladder and colon , .
+101						To model premalignant cells , we used p53 defective HCA2-GSE22 fibroblasts after they spontaneously developed PDDF and increased IL-6 secretion .
+102						ATM depletion in these cells reduced IL-6 secretion by 70 % , supporting the idea that DDR signaling can drive inflammatory cytokine secretion during neoplastic transformation .
+103						To determine whether IL-6 secretion and DDR signaling are linked in vivo , we used immunostaining to assess DDR and ATM activity and IL-6 expression in human breast cancer specimens .
+104						Both phosphorylated ATM and ATR substrates and IL-6 levels were significantly elevated in invasive ductal carcinomas compared to normal human breast tissue .
+105						Thus , DDR signaling and inflammatory cytokine secretion correlated in vivo .
+106						Inflammatory cytokine secretion is also a feature of cells that senesce due to oncogene activation ( oncogene induced senescence ; OIS ) in culture , , , and of preneoplastic lesions in human colon , which presumably harbor activated oncogenes in vivo .
+107						To determine whether DDR signaling is required for OIS induced IL-6 secretion , we used lentiviral vectors to simultaneously express oncogenic RAS and shATM in HCA2 cells .
+108						ATM deficient cells undergo rapid replicative senescence but react to OIS depending on the oncogene and context - .
+109						As previously observed , oncogenic RAS expressing fibroblasts underwent OIS regardless of their ATM status .
+110						Additionally , the RAS expressing ATM deficient cells developed a typical OIS morphology ( enlargement , vacuolization ) and 53BP1 foci that lacked detectable activated ATM .
+111						Oncogenic RAS also caused OIS and 53BP1 foci in primary A-T cells ( ; not shown ) .
+112						Therefore , ATM depletion had no discernible effects on OIS phenotypes , including growth arrest and PDDF .
+113						However , ATM depletion effectively prevented OIS driven IL-6 secretion in both A-T and HCA2 cells .
+114						Thus , ATM controls IL-6 secretion caused by multiple forms of damage induced senescence , including OIS , which is known to occur in vivo ( reviewed in ) .
+115						Our findings identify a novel response to persistent DNA damage - the secretion of factors that allow damaged cells to communicate with their microenvironment .
+116						This response is associated with cellular senescence , but also occurs in damaged cycling cells that are near , or have bypassed , senescence .
+117						Our results suggest a model in which mild genotoxic stress ( e.g. , 0.5 Gy X-ray , which generates ~ 17 DSBs and nucleus ) causes a DDR , damage foci , transient cell cycle arrest and repair , but does not induce inflammatory cytokine secretion .
+118						More severe genotoxic stress ( e.g. , dysfunctional telomeres , 10 Gy X-ray ) produces PDDF and persistent DDR signaling , which establishes and maintains the p53 dependent senescence growth arrest .
+119						After several days , this DDR signaling also initiates the p53 independent cytokine response via ATM , NBS1 and CHK2 .
+120						p53 deficient cells can initiate the cytokine response in the absence of growth arrest .
+121						By contrast , cells induced to senesce by p16 INK4a expression , but in the absence of DNA damage , do not initiate a cytokine response .
+122						Thus , the DDR can independently control at least two important phenotypes : the p53 dependent growth arrest and senescence associated extracellular inflammatory signaling .
+123						Our results suggest that functions previously attributed to growth arrested senescent cells , specifically their ability to perturb the local microenvironment , can be acquired by damaged cells , whether or not they are senescent or competent to proliferate .
+124						DDR signaling drives only a subset of SASP factors , but those include the potent inflammatory cytokines IL-6 and IL-8 .
+125						IL-6 was particularly important for the ability of senescent cells to promote cancer cell invasion .
+126						Hallmarks of persistent DNA damage are seen in pre-cancerous and malignant lesions , , which are presumed to harbor activated oncogenes , and in aging mammalian tissues , .
+127						Our results suggest DDR signaling drives the inflammation that is also a hallmark of premalignant , malignant and aging tissues .
+128						During aging , damaged cells might cause or contribute to tissue dysfunction , including dysfunctional stem cell niches .
+129						In cancer , such cells might promote inflammation , angiogenesis or other phenotypes of cancer progression .
+130						Why do damaged cells mount a cytokine response ?
+131						One demonstrated possibility is to reinforce a growth arrest - .
+132						Presenescent levels of cytokines receptors are apparently sufficient to contribute to the rapid DDR growth arrest .
+133						However , early experiments showed that senescent cells do not secrete factors that strongly inhibit the growth of nearby presenescent cells .
+134						Thus , cytokines might reinforce a senescence arrest only when cells are moderately damaged or near senescent .
+135						The cytokine response might also act in a paracrine manner - to suppress or promote the proliferation of neighboring cells in damaged tissues , allowing damaged cells to communicate their compromised state to surrounding cells , and perhaps mobilize the immune system for their clearance .
+136						In support of this idea , tumors induced to senesce by genetic manipulation or chemotherapy regress , with evidence of activated innate immune cells , and senescent cells in injured liver appear to limit fibrosis before being cleared by the immune system .
+137						In this context , the delayed cytokine response to severe DNA damage could allow cells to attempt DNA repair before generating potent immune mobilizing signals .
+138						AUTHOR CONTRIBUTIONS
+139						FR designed , performed and analyzed the experiments , JPC and CP performed antibody arrays , JPC and WAMH performed ELISAs , SRR analyzed immunofluorescence , AF analyzed tissue arrays , ARD , DPM and EC generated and tested p53 and ATM RNAi constructs , JC analyzed data , FR and JC wrote the paper .
+140						MATERIAL AND METHODS
+141						Cells
+142						HCA2 foreskin fibroblasts were obtained from J. Smith ( University of Texas , San Antonio ) and cultured under ambient oxygen levels in Dulbecco 's modified Eagle 's media ( DMEM ) supplemented with 10 % fetal bovine serum , 2.5 mug and ml fungizone and 100 U and ml streptomycin and penicillin .
+143						Early passage is defined as having completed < 35 PD and having a 24 h BrdU labeling index of > 75 % .
+144						Cell populations were considered replicatively senescent when they had 24 h labeling indices of < 5 % .
+145						Primary A-T ( AT2SF ) and Seckel syndrome ( GM09812 ) fibroblasts were obtained from the Coriell Institute and used at early passages ( 24 h BrdU labeling index > 75 % ) .
+146						Cumulative PDs of primary cells were determined as follows : current PD = last PD + log 2 ( cell number and cells seeded ) .
+147						293FT packaging cells ( Invitrogen ) were used to generate lentiviruses and PT67 cells ( Clontech ) were used to generate retroviruses .
+148						Viruses and infections
+149						Retroviruses or lentiviruses encoding dominant negative TIN2 ( TIN2-15C ) , GSE22 , SV40LT , p16 INK4A , oncogenic RAS V12 and hTERT were described , .
+150						TIN2DN-ires-eGFP , eGFP , p16 INK4A and RAS V12 were subcloned into a lentiviral vector with puromycin selection ( 670-1 ) .
+151						Custom RNAi short hairpins were subcloned into vectors 749-3 ( shp53 , zeocin selection ) and W17-1 ( shGFP2 and shATM2 , hygromycin selection ) ( Campeau et al. , submitted ; for transgene expression see ) .
+152						Lentiviruses encoding shRNAs against GFP , ATM , CHK2 and NBS1 were purchased from Open Biosystems .
+153						shRNA target sequences are provided in .
+154						Virus titers were adjusted to infect 95 % -99 % of cells .
+155						Irradiation
+156						Cells were X irradiated with total doses of either 0.5 or 10 Gy at rates equal to or above 0.75 Gy and min using a Pantak X-ray generator ( 320 kV and 10 mA with 0.5 mm copper filtration ) .
+157						Immunofluorescence
+158						Cells were cultured in 4 well chamber-slides ( Nunc ) , fixed in Formalin for 10 min at room temperature and permeabilized in PBS-0 .2 % Triton for 10 min .
+159						Slides were blocked for 1 h in PBS containing 1 % BSA and 4 % normal donkey serum .
+160						Primary antibodies were diluted in blocking buffer and incubated with fixed cells overnight at 4degrees C .
+161						The cells were washed , incubated with secondary antibodies for 1 h at room temperature , washed , and mounted with slow-fade gold ( Molecular Probes ) .
+162						Images were acquired on an Olympus BX60 fluorescence microscope with the spotfire 3.2.4 software ( Diagnostics Instruments ) and processed with Photoshop CS2 ( Adobe ) .
+163						Frozen section tissue arrays
+164						Tissue arrays were purchased from Biochain Institute Inc. ( arrays #T 6235700 and #B 112136 ) .
+165						Frozen slides were brought to room temperature and processed as described for immunofluorescence , except primary antibodies were diluted in blocking buffer and slides were mounted in vectashield with DAPI ( Vector laboratories ) .
+166						Details regarding quantification of the immunofluorescence signals are provided in .
+167						Antibodies
+168						Primary antibodies targeted 53BP1 ( Bethyl , BL182 ) , gamma-H2AX ( upstate , JBW301 ) , p53 ( Oncogene Research Products , DO-1 ) , Ras ( BD Biosciences , 610001 ) , p16 ( Neomarkers , JC8 ) , p21 ( BD Biosciences , 556430 ) , actin ( Chemicon , MAB3128 ) , tubulin ( Sigma , T5168 ) , IL-6 ( R&D Systems , MAB2061 ) , IL-8 ( R&D systems , MAB208 ) , ATM ( Abcam Y-170 ) , phospho-ATM ( Upstate , # 05-740 ) , phospho-p53 ( Cell signaling # 9284 ) or phospho-ATM and ATR STK substrates ( Cell signaling # 2851 ) .
+169						Donkey secondary antibodies conjugated to Alexa Fluors were purchased from Molecular Probes ( Alexa 350 , 488 and 594 ) .
+170						Where noted , DAPI was used to label nuclear DNA .
+171						Labeling indexes
+172						Cells were seeded in 4 well chamber-slides , allowed to recover at least 48 h , and labeled with BrdU for 24 h in complete culture media .
+173						BrdU incorporation was measured using a kit and manufacturer 's protocol ( Roche BrdU labeling kit I - immunofluorescence detection ) .
+174						ELISA
+175						Conditioned media ( CM ) were prepared by washing cells 3 times in PBS and incubating them in serum-free DMEM containing antibiotics for 24 h. CM were filtered and stored at -80 degrees C. Cell number was determined in every experiment .
+176						ELISAs were performed using kits and procedures from R&D ( IL-6 #D 06050 and IL-8 #D 8000C ) .
+177						The data were normalized to cell number and reported as 10 -6 pg secreted protein per cell per day .
+178						Invasion assays
+179						Assays were performed as described using modified Boyden chambers with 8-micron pore filter inserts for 24-well plates ( BD Bioscience ) .
+180						Filters were coated with 12 mul ice-cold 20 % basement membrane extract ( Matrigel , BD Bioscience ) .
+181						Epithelial cells ( 5 x10 4 ) were added to the upper chamber in 200 mul serum-free medium , while the lower chamber was filled with 300 mul CM ( collected over 24 h at 1x10 5 cells and ml ) .
+182						After 16-24 h , epithelial cells on the under side of the filter were fixed with 2.5 % glutaraldehyde in PBS and stained with 0.5 % toluidine blue in 2 % Na 2 CO 3 .
+183						Cells on the underside of the filter were counted using light microscopy .
+184						Antibody arrays
+185						Cultures were washed and incubated in serum-free DMEM for 24 h to generate CM , which was collected , and cells were counted .
+186						CM was filtered ( 0.2 mm pore ) , stored at -80 degrees C , and analyzed using antibody arrays ( Chemicon , Human Arrays VI and VII , cat #AA 1001CH-8 ) essentially as per the manufacturer 's instructions , but with modifications that yielded a numerical intensity for each protein detected by the array and allowed comparisons among arrays .
+187						Western blots
+188						Cells were lysed in 50 mM Tris-HCl pH 6.8 , 100 mM DTT , 2 % SDS , 10 % glycerol .
+189						The mixture was briefly sonicated ( 30 sec ) followed by boiling ( 10 min ) and centrifugation .
+190						Samples were loaded on 5 % or 4-15 % gradient tris-glycine SDS-polyacrylamide gels and separated by electrophoresis .
+191						Proteins were electroblotted overnight onto PVDF membranes and probed overnight at 4degrees C in PBS 5 % milk .
+192						Secondary antibodies conjugated to horseradish peroxidase were used at a dilution of 1:15000 ( Jackson Immunoresearch ) .
+193						Blots were developed using the supersignal pico reagent ( PIERCE ) .
+194						Statistics
+195						Error bars on all graphs represent the standard deviation of 3 independent measurements , except where indicated otherwise in the figures .
+196						Supplementary Material
+197						1
+198						Figures
+199						Figure 1
+200						Persistent DNA damage signaling correlates with IL-6 secretion
+201						HCA2 fibroblasts were untreated , irradiated with 0.5 Gy , or irradiated with 10 Gy and allowed to recover .
+202						Cells were fixed and stained for 53BP1 foci ( red ) at the indicated intervals after irradiation .
+203						( b ) Whole cell lysates were prepared at the indicated intervals after irradiation and analyzed by western blotting for the indicated proteins .
+204						P-p53 , serine 15 phosphorylated p53 .
+205						( c ) HCA2 cells were irradiated with 0.5 or 10 Gy and allowed to recover for the indicated intervals before being fixed and stained for 53BP1 foci .
+206						Nuclei with 3 or more foci were quantified .
+207						HCA2 cells were irradiated with 10 Gy and analyzed 6 d later for gamma-H2AX ( red ) and the Ser and Thr phosphorylated ATM and ATR substrate motif ( p-STK Sub ; green ) ( top panels ) , or 53BP1 ( red ) and activated ( phosphorylated ) ATM ( p-ATM ; green ) ( bottom panels ) .
+208						The merged red and green channels display co-localization in yellow .
+209						( e ) HCA2 cells were irradiated with 0.5 or 10 Gy , and IL-6 secretion was assessed using ELISA over 10 d for the indicated 24 h windows .
+210						The data are reported as the fold increase in secretion relative to untreated control cells .
+211						( f ) Cells were infected with lentiviruses or treated as indicated ( expression of p16 INK4A , p16 ; replicative senescence , SEN-REP ; telomere uncapping using a dominant negative TIN2 protein,TIN2-DN ; X irradiation , X-Ray ; hydrogen peroxide , H 2 O 2 ; expression of activated RAS V12 , RAS ) .
+212						Ten days later , cells were analyzed by immunofluorescence to quantify the fraction of cells with 3 or more 53BP1 foci .
+213						For representative images of 53BP1 damage foci and for other senescence markers see .
+214						( g ) Conditioned media from the cell populations described in Fig. 1F were collected over a 24 h interval , and analyzed for IL-6 by ELISA .
+215						The data are reported as fold increase in secretion relative to untreated control cells , and are plotted on a log scale ( n = number of cell populations analyzed ) .
+216						Figure 2
+217						Telomeric PDDF promotes increased IL-6 secretion
+218						HCA2 populations were cultured until replicative senescence ( PD > 71 ) .
+219						Top panel : Populations were sampled at the indicated PDs ( lower panel X axis ) .
+220						Single cells were analyzed for DNA synthesis ( BrdU incorporation over 24 h ) and 53BP1 foci ( cells with 3 or more foci ) .
+221						Lower panel : Conditioned media were collected over a 24 h interval from the populations analyzed in the top panel .
+222						IL-6 was measured by ELISA , and is reported as 10 -6 pg/cell/day ( n = number of cell populations analyzed ) .
+223						( b ) HCA2 cells at the indicated PDs were fixed and single cells analyzed simultaneously for 53BP1 foci ( green ) and BrdU incorporation over a 24 h interval ( red ) .
+224						Arrows mark nuclei that simultaneously harbor 53BP1 foci and BrdU staining .
+225						( c ) Cells at PD35 were pulsed with BrdU for 1 h and fixed .
+226						Single cells were analyzed simultaneously for 53BP1 foci and BrdU incorporation .
+227						BrdU incorporation was scored independent of 53BP1 foci ( Total cells ) or only in cells with 53BP1 foci ( 53BP1+ ) .
+228						Cells at the indicated PD levels were pulsed with BrdU for 24 h and fixed .
+229						Single cells were analyzed by immunofluorescence for intracellular IL-6 ( green ) and BrdU incorporation ( red ) .
+230						( e ) Cells were infected with a retrovirus expressing hTERT , selected and cultured for the indicated doublings ( PD after hTERT ) .
+231						At the indicated PDs , cells were analyzed for 3 or more 53BP1 foci ( top panels ) or IL-6 secretion ( lower panels ) , as described for Fig. 2a .
+232						( f ) Early passage HCA2 or HCA2 cells expressing hTERT were irradiated with 10 Gy , allowed to recover for 8 d , and analyzed for 53BP1 foci ( top panel ) and IL-6 secretion as described for Fig. 2a .
+233						IL-6 secretion is reported as the fold increase compared to unirradiated control cells .
+234						There was a non significant reduction in 53BP1 foci and slight reduction in IL-6 levels ( p = 0.036 , two tailed student T-test for unpaired samples ) in hTERT cells .
+235						Figure 3
+236						Loss of p53 accelerates PPDF formation and IL-6 secretion
+237						Replicatively senescent HCA2 cells were infected with the indicated lentiviruses and IL-6 secretion was analyzed 3-4 PDs following reversal of the senescence arrest .
+238						IL-6 secretion is reported as 10 -6 pg/cell/day on a log scale ( n = number of cell populations analyzed ) .
+239						( b ) Early passage HCA2 cells were infected with a GSE22 expressing retrovirus , selected for 4 d ( ~ 3 PDs ) and IL-6 secretion was measured ~ 2 PDs later .
+240						Cells were cultured for the indicated PDs and assessed for 53BP1 foci ( top panel ) and IL-6 secretion ( lower panel ) ( 10 -6 pg/cell/day on a log scale ) ( n = number of cell populations analyzed ) .
+241						Because GSE22 prevents p53 tetramerization , which is required for transactivation and rapid degradation , GSE22 expressing cells contained abundant inactive p53 protein ( see ) .
+242						( c ) Early passage HCA2 cells ( PD35 ) were infected with lentiviruses expressing either shp53 or eGFP , selected and cultured until PD55 , and analyzed for IL-6 secretion ( 10 -6 pg/cell/day on a log scale ) .
+243						Two HCA2-GSE22 populations were infected with a retrovirus expressing hTERT and analyzed for 53BP1 foci and IL-6 secretion as described above .
+244						Figure 4
+245						DDR signaling is required for the cytokine response to PDDF
+246						HCA2 cells were infected with lentiviruses expressing shRNAs against GFP ( control , shGFP3 ) or ATM ( shATM-11 , -12 , or -13 ) and allowed to recover for 5 d. Whole cell lysates were analyzed by western blotting for the indicated proteins .
+247						Ponceau staining shows the total proteins .
+248						( b ) HCA2 cells were infected as above and irradiated with 10 Gy X-Ray .
+249						After 9 d , CM were collected over 24 h and assessed for IL-6 by ELISA .
+250						IL-6 secretion is reported as fold change over unirradiated shGFP control .
+251						ND = not detected .
+252						( c ) Replicatively senescent HCA2 were infected as above and allowed to recover for 6 d. Conditioned media CM were collected over 24 h and assessed for IL-6 secretion ( reported as fold change over shGFP control ) .
+253						A-T cells were irradiated with 10 Gy and allowed to recover for 2 or 10 d. CM were collected over 24 h , and analyzed for IL-6 by ELISA ( reported as fold increase compared to unirradiated A-T cells ; numerical values are given above the bars ) .
+254						( e ) Seckel syndrome cells were irradiated and analyzed for IL-6 as described above for A-T cells .
+255						( f-g ) HCA2 cells were infected with lentiviruses expressing shRNAs against GFP ( control , shGFP3 ) , NBS1 ( shNBS1-1 , -2 , -6 , or -7 ) ) or CHK2 ( shCHK2-2 , -12 , or -13 ) , selected and allowed to recover for 7 d. Whole cell lysates were analyzed by western blotting for the indicated proteins .
+256						The arrow indicates CHK2 ; NS indicates a non specific band detected by the antibody .
+257						( h ) HCA2 cells from ( Fig4f-g ) with the indicated shRNA expressing lentiviruses were irradiated with 10 Gy X-Ray .
+258						After 2 d , CM were collected over 24 h and assessed for IL-6 using ELISA ( reported as fold change over unirradiated shGFP control ; numerical values are given above the bars ) .
+259						( i ) Replicatively senescent HCA2 cells were infected with indicated shRNA expressing lentiviruses and allowed to recover for 6 d. CM were collected over 24 h and assessed for IL-6 ( reported as fold change over shGFP control ; numerical values are given above the bars ) .
+260						Figure 5
+261						ATM modulates a SASP subset
+262						Factors secreted by presenescent ( PRE ) or senescent HCA2 ( 10 d following 10 Gy ) were analyzed using antibody arrays .
+263						Signals above the PRE baseline are in yellow , signals below baseline in blue .
+264						Factors that differed significantly between PRE and XRA cells are displayed ( p < 0.05 , student unpaired T-Test ) .
+265						( b ) SASP factors in ( A ) were analyzed in X irradiated ATM depleted cells ( XRA ( shATM ) ) and compared to irradiated-senescent HCA2-shGFP cells ( XRA ) .
+266						Changes are reported as XRA ( shATM ) divided by XRA levels .
+267						Signals below the XRA baseline are in blue , factors not substantially modulated by ATM-deficiency in gray .
+268						( c ) T47D invasion stimulated by presenescent ( PRE ) HCA2 CM was given a value of 1 .
+269						Compared to PRE and serum-free ( SF ) media , invasion was significantly ( p < 0.05 ) stimulated by 10 % serum ( FBS ) , and CM from irradiated HCA2 ( XRA ) , HCA2-shGFP ( XRA-shGFP ) , and HCA2-shATM plus IL-6 ( XRA-shATM+ IL-6 ) , but not by CM from HCA2-shATM ( XRA-shATM ) ( n = number of samples analyzed ) .
+270						Recombinant IL-6 was added to levels detected by ELISA in XRA-shGFP ( 3ng and ml ) .
+271						Human breast tissues were analyzed for ATM and ATR serine threonine kinase substrates ( p-STK Sub ) or IL-6 by immunofluorescence .
+272						Data are reported as arbitrary units , with the average normal signal = 1 ( Signal Intensity ) .
+273						Significance was determined by two tailed student T-test for unpaired samples using representative fields from 21 normal and 37 cancer tissues .
+274						( e ) HCA2 cells were untreated or infected with lentiviruses expressing RAS and shRNAs against GFP ( shGFP2 ) or ATM ( shATM2 ) , and pulsed with BrdU for 24 h 9-10 d after infection .
+275						( f ) HCA2 or A-T cells were untreated or infected as in ( e ) and photographed 6 d later .
+276						( g ) HCA2 cells infected as in ( e ) were fixed 10 d later and analyzed for 53BP1 ( red ) , phospho-ATM ( green ) and DNA ( DAPI , blue ) .
+277						Top panel = merge ; bottom panels = grayscale for 53BP1 or p-ATM .
+278						( h ) A-T fibroblasts were untreated or infected as in ( e ) .
+279						CM was collected for 24 h 9-10 d after infection and analyzed for IL-6 ( fold increase relative to untreated cells ; magnitude is given over the bars ) .
+280						( i ) HCA2 cells were untreated or infected as in ( e ) and IL-6 secretion analyzed as above .

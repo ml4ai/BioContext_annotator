@@ -1,0 +1,291 @@
+0 
+1 
+1 10-11-epithelial_cell-tissuelist:TS-0288
+2 
+3 
+4 20-21-tight_junction-uniprot:SL-0265
+5 7-8-cell-cell_junctions-go:GO:0005911
+6 
+7 
+8 
+8 
+9 
+10 
+11 12-13-cell_junctions-go:GO:0030054
+12 8-9-adherens_junctions-go:GO:0005912 26-26-cytoskeleton-go:GO:0005856
+13 9-10-tight_junctions-uniprot:SL-0265
+14 
+15 
+15 
+16 20-20-human-taxonomy:9606 21-23-intestinal_epithelial_cell-tissuelist:TS-0487 25-25-Caco-2-uaz:UA-CLine-750 29-29-human-taxonomy:9606 33-33-HCE-uaz:UA-CLine-8216
+17 
+18 
+19 7-8-tight_junction-uniprot:SL-0265 16-17-adherens_junction-go:GO:0005912 30-31-tight_junctions-uniprot:SL-0265
+20 
+20 
+21 13-13-HCE-uaz:UA-CLine-8216
+22 
+22 17-18-adherens_junction-go:GO:0005912
+23 3-4-epithelial_cell-tissuelist:TS-0288 6-6-Caco-2-uaz:UA-CLine-750
+24 3-3-HCE-uaz:UA-CLine-8216
+25 11-12-tight_junction-uniprot:SL-0265
+26 10-11-tight_junction-uniprot:SL-0265
+27 
+28 
+28 4-4-Caco-2-uaz:UA-CLine-750
+29 
+30 
+31 18-19-tight_junctions-uniprot:SL-0265
+32 
+32 
+33 
+34 
+35 
+36 
+37 9-9-HCE-uaz:UA-CLine-8216
+38 
+39 
+39 
+40 
+41 
+42 
+42 
+43 7-7-Caco-2-uaz:UA-CLine-750 14-14-MDCK-uaz:UA-CLine-5690
+44 3-4-epithelial_cell-tissuelist:TS-0288
+45 
+46 
+46 
+47 
+48 17-18-cell-cell_junctions-go:GO:0005911
+49 13-14-cell_junctions-go:GO:0030054
+50 
+51 5-5-HCE-uaz:UA-CLine-8216 7-7-Caco-2-uaz:UA-CLine-750 27-28-cell_junctions-go:GO:0030054
+52 
+52 
+53 
+54 22-22-membrane-go:GO:0016020
+55 
+56 5-6-cell_junctions-go:GO:0030054
+57 
+58 
+59 11-11-Caco-2-uaz:UA-CLine-750 19-19-HCE-uaz:UA-CLine-8216
+60 
+61 19-20-cell-cell_junctions-go:GO:0005911
+62 
+62 
+63 
+64 
+65 
+66 
+67 3-3-MDCK-uaz:UA-CLine-5690 17-18-cell_junctions-go:GO:0030054
+68 
+69 9-9-HCE-uaz:UA-CLine-8216 32-32-Caco-2-uaz:UA-CLine-750
+70 
+71 4-4-human-taxonomy:9606 14-14-MDCK-uaz:UA-CLine-5690 25-25-HCE-uaz:UA-CLine-8216
+72 
+73 
+74 
+74 
+75 
+76 3-4-tight_junction-uniprot:SL-0265
+77 
+78 
+79 
+79 
+80 
+81 
+82 
+83 
+83 12-13-tight_junctions-uniprot:SL-0265
+84 
+85 1-1-HCE-uaz:UA-CLine-8216 8-9-tight_junction-uniprot:SL-0265 39-40-adherens_junctions-go:GO:0005912
+86 
+87 
+88 12-12-HCE-uaz:UA-CLine-8216 21-22-cell_junctions-go:GO:0030054 24-24-Caco-2-uaz:UA-CLine-750 26-26-HCE-uaz:UA-CLine-8216
+89 17-18-cell_junctions-go:GO:0030054
+90 
+90 
+91 23-24-cell_junctions-go:GO:0030054
+92 
+93 
+94 
+94 
+95 
+96 13-14-cell_junctions-go:GO:0030054
+97 
+97 
+98 
+99 
+100 
+101 
+102 
+103 
+103 4-4-cytoskeleton-go:GO:0005856
+104 
+105 
+106 
+107 
+107 
+108 31-32-cell_junctions-go:GO:0030054
+109 
+109 
+110 
+110 
+111 
+111 
+112 
+112 
+113 
+113 
+114 
+114 4-4-human-taxonomy:9606
+115 
+116 
+117 
+118 
+119 
+120 
+121 
+122 
+123 
+124 1-1-MDCK-uaz:UA-CLine-5690 33-33-mouse-taxonomy:10090
+125 
+126 
+127 0-0-Caco-2-uaz:UA-CLine-750 10-10-HCE-uaz:UA-CLine-8216 12-12-MDCK-uaz:UA-CLine-5690
+128 
+129 
+130 
+131 
+131 
+132 
+132 27-27-mouse-taxonomy:10090 35-35-mouse-taxonomy:10090 43-43-rabbit-taxonomy:9986 67-67-rabbit-taxonomy:9986 77-78-guinea_pig-taxonomy:10141 89-89-rabbit-taxonomy:9986 108-108-mouse-taxonomy:10090 161-161-rabbit-taxonomy:9986
+133 4-4-rabbit-taxonomy:9986 26-26-human-taxonomy:9606
+134 3-3-mouse-taxonomy:10090 14-14-mouse-taxonomy:10090 22-22-rabbit-taxonomy:9986 33-33-mouse-taxonomy:10090 50-50-mouse-taxonomy:10090
+135 
+135 
+136 
+136 0-0-Human-taxonomy:9606 2-2-colon-tissuelist:TS-0158 5-5-Caco-2-uaz:UA-CLine-750 8-8-human-taxonomy:9606 13-13-HCE-uaz:UA-CLine-8216 40-40-Kidney-tissuelist:TS-0510 43-43-MDCK-uaz:UA-CLine-5690 60-60-Caco-2-uaz:UA-CLine-750
+137 1-1-MDCK-uaz:UA-CLine-5690
+138 5-5-MDCK-uaz:UA-CLine-5690 15-15-Caco-2-uaz:UA-CLine-750
+139 
+139 
+140 
+140 0-0-Caco-2-uaz:UA-CLine-750
+141 
+142 
+143 49-49-FL-uaz:UA-CLine-7510
+144 
+145 
+146 
+146 
+147 
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+155 
+156 
+157 
+157 
+158 
+158 27-27-needle-tissuelist:TS-0665
+159 
+160 6-6-horseradish-taxonomy:3704
+161 
+162 
+163 
+164 
+165 
+166 
+167 42-42-Cytoskeleton-go:GO:0005856
+168 
+169 
+170 
+170 
+171 
+171 
+172 
+173 
+174 
+174 
+175 
+175 13-14-actin_cytoskeleton-go:GO:0015629
+176 0-0-Caco-2-uaz:UA-CLine-750 2-2-HCE-uaz:UA-CLine-8216
+177 
+178 
+179 5-5-HCE-uaz:UA-CLine-8216 7-7-Caco-2-uaz:UA-CLine-750
+180 
+181 15-16-z_line-uniprot:SL-0314
+182 9-9-HCE-uaz:UA-CLine-8216
+183 
+184 5-5-Caco-2-uaz:UA-CLine-750 7-7-HCE-uaz:UA-CLine-8216
+185 3-3-Caco-2-uaz:UA-CLine-750
+186 3-3-HCE-uaz:UA-CLine-8216
+187 3-4-tight_junction-uniprot:SL-0265
+188 
+189 
+189 
+190 
+190 
+191 3-3-Caco-2-uaz:UA-CLine-750
+192 
+193 
+194 23-24-b,-uaz:UA-CLine-100007
+195 
+196 
+197 
+198 
+199 
+200 
+201 
+201 
+202 
+202 
+203 7-7-Caco-2-uaz:UA-CLine-750 15-15-MDCK-uaz:UA-CLine-5690
+204 
+205 31-32-b,-uaz:UA-CLine-100007 40-41-b,-uaz:UA-CLine-100007
+206 
+207 
+208 
+209 
+209 
+210 
+210 5-6-cell_junctions-go:GO:0030054
+211 
+212 
+213 
+214 
+215 15-15-cytoplasm-go:GO:0005737 36-36-Caco-2-uaz:UA-CLine-750 48-48-HCE-uaz:UA-CLine-8216
+216 3-3-Caco-2-uaz:UA-CLine-750 9-9-HCE-uaz:UA-CLine-8216
+217 1-1-Caco-2-uaz:UA-CLine-750 22-22-HCE-uaz:UA-CLine-8216
+218 28-28-MDCK-uaz:UA-CLine-5690
+219 
+220 
+221 2-3-z_line-uniprot:SL-0314
+222 
+223 12-12-HCE-uaz:UA-CLine-8216 19-19-Caco-2-uaz:UA-CLine-750
+224 
+225 3-3-HCE-uaz:UA-CLine-8216 34-34-human-taxonomy:9606
+226 
+227 
+228 
+228 
+229 
+229 
+230 9-9-Caco-2-uaz:UA-CLine-750
+231 
+232 
+233 
+234 22-22-Caco-2-uaz:UA-CLine-750
+235 
+236 
+237 5-5-Caco-2-uaz:UA-CLine-750 7-7-HCE-uaz:UA-CLine-8216
+238 
+239 3-3-HCE-uaz:UA-CLine-8216
+240 
+241 
+242 

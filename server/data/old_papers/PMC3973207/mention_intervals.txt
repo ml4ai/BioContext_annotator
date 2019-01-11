@@ -1,0 +1,317 @@
+0 2-3-thyroid_cancer-tissuelist:TS-1226
+1 
+1 8-8-thyroid-tissuelist:TS-1047
+2 
+3 
+4 17-18-thyroid_cancer-tissuelist:TS-1226 26-26-BCPAP-uaz:UA-CT-15 36-36-8505c-uaz:UA-CLine-2081 38-38-SW1736-uaz:UA-CLine-100078
+5 8-8-8505c-uaz:UA-CLine-2081 50-50-8505c-uaz:UA-CLine-2081 52-52-thyroid-tissuelist:TS-1047
+6 
+7 10-11-thyroid_cancer-tissuelist:TS-1226 21-22-thyroid_cancer-tissuelist:TS-1226
+8 
+8 5-5-thyroid-tissuelist:TS-1047
+9 7-8-thyroid_cancer-tissuelist:TS-1226 11-12-thyroid_cancer-tissuelist:TS-1226
+10 8-9-thyroid_cancer-tissuelist:TS-1226
+11 28-28-thyroid-tissuelist:TS-1047
+12 
+13 33-34-thyroid_cancer-tissuelist:TS-1226 50-51-thyroid_cancer-tissuelist:TS-1226
+14 11-12-thyroid_tumor-tissuelist:TS-1046
+15 
+15 
+16 58-59-thyroid_cancer-tissuelist:TS-1226
+17 
+18 
+19 22-23-cell_surface-go:GO:0009986
+20 
+21 46-47-thyroid_cancer-tissuelist:TS-1226
+22 
+22 
+23 
+23 1-2-thyroid_cancer-tissuelist:TS-1226
+24 
+24 19-20-thyroid_cancer-tissuelist:TS-1226
+25 
+26 27-27-BCPAP-uaz:UA-CT-15 49-50-colon_cancer-tissuelist:TS-0160
+27 26-26-BCPAP-uaz:UA-CT-15
+28 
+29 
+30 
+31 
+32 1-1-thyroid-tissuelist:TS-1047
+33 
+33 8-8-mouse-taxonomy:10090
+34 
+34 28-28-mice-taxonomy:10090 32-32-BCPAP-uaz:UA-CT-15
+35 1-1-BCPAP-uaz:UA-CT-15 34-34-mice-taxonomy:10090
+36 4-4-BCPAP-uaz:UA-CT-15 11-11-thyroid-tissuelist:TS-1047 12-12-lobe-uaz:UA-ORG-521 15-15-mice-taxonomy:10090
+37 
+38 3-3-mice-taxonomy:10090
+39 
+40 
+41 6-6-lung-tissuelist:TS-0568 10-10-BCPAP-uaz:UA-CT-15
+42 
+42 1-2-thyroid_cancer-tissuelist:TS-1226
+43 
+43 
+44 6-6-SW1736-uaz:UA-CLine-100078
+45 9-9-SW1736-uaz:UA-CLine-100078
+46 
+46 14-15-thyroid_cancer-tissuelist:TS-1226
+47 
+47 
+48 18-18-HTh7-uaz:UA-CLine-100110 22-22-BCPAP-uaz:UA-CT-15 24-24-SW1736-uaz:UA-CLine-100078
+49 2-2-8505c-uaz:UA-CLine-2081
+50 
+50 6-6-HTh7-uaz:UA-CLine-100110 35-35-8505c-uaz:UA-CLine-2081 37-37-SW1736-uaz:UA-CLine-100078
+51 0-0-BCPAP-uaz:UA-CT-15
+52 
+52 10-10-SW1736-uaz:UA-CLine-100078
+53 
+53 33-33-SW1736-uaz:UA-CLine-100078
+54 
+55 
+56 
+56 3-3-8505c-uaz:UA-CLine-2081
+57 
+57 7-7-8505c-uaz:UA-CLine-2081
+58 
+59 29-29-SW1736-uaz:UA-CLine-100078
+60 40-40-8505c-uaz:UA-CLine-2081
+61 
+62 
+62 6-6-8505c-uaz:UA-CLine-2081
+63 
+64 
+64 
+65 
+66 
+67 
+68 
+68 9-9-8505c-uaz:UA-CLine-2081 37-37-8505c-uaz:UA-CLine-2081
+69 
+69 
+70 
+70 
+71 
+72 
+72 
+73 
+73 
+74 
+74 
+75 
+75 45-45-8505c-uaz:UA-CLine-2081
+76 
+77 
+77 15-15-thyroid-tissuelist:TS-1047
+78 
+78 24-24-thyroid-tissuelist:TS-1047 29-30-thyroid_cancer-tissuelist:TS-1226 34-34-lung-tissuelist:TS-0568
+79 
+80 
+81 
+81 
+82 16-16-lung-tissuelist:TS-0568
+83 
+84 17-17-lung-tissuelist:TS-0568
+85 
+86 
+87 
+87 0-0-Human-taxonomy:9606
+88 
+88 11-12-thyroid_cancer-tissuelist:TS-1226 32-33-thyroid_cancer-tissuelist:TS-1226 34-34-patient-taxonomy:9606 40-40-thyroid-tissuelist:TS-1047
+89 8-8-thyroid-tissuelist:TS-1047
+90 17-17-human-taxonomy:9606 23-23-thyroid-tissuelist:TS-1047
+91 
+92 18-18-thyroids-uaz:UA-ORG-997
+93 26-26-patient-taxonomy:9606 30-30-thyroids-uaz:UA-ORG-997
+94 10-10-BCPAP-uaz:UA-CT-15
+95 
+95 
+96 
+96 1-1-thyroid-tissuelist:TS-1047
+97 
+98 
+99 9-10-thyroid_cancer-tissuelist:TS-1226
+100 
+100 26-27-thyroid_cancer-tissuelist:TS-1226 38-38-BCPAP-uaz:UA-CT-15 40-40-8505c-uaz:UA-CLine-2081 42-42-SW1736-uaz:UA-CLine-100078
+101 20-20-BCPAP-uaz:UA-CT-15 31-31-SW1736-uaz:UA-CLine-100078
+102 
+103 
+104 36-37-thyroid_cancer-tissuelist:TS-1226 46-46-BCPAP-uaz:UA-CT-15
+105 
+106 34-34-BCPAP-uaz:UA-CT-15
+107 
+107 12-12-8505c-uaz:UA-CLine-2081
+108 
+109 
+110 10-10-lung-tissuelist:TS-0568
+111 
+112 15-15-8505c-uaz:UA-CLine-2081 27-27-lung-tissuelist:TS-0568
+113 
+114 
+115 1-1-8505c-uaz:UA-CLine-2081
+116 
+117 
+118 
+118 
+119 1-2-colorectal_cancer-tissuelist:TS-0160
+120 1-1-melanoma-tissuelist:TS-0614 3-7-non-small_cell_lung_carcinoma-tissuelist:TS-0572 31-32-thyroid_cancer-tissuelist:TS-1226
+121 4-4-8505c-uaz:UA-CLine-2081
+122 
+123 
+124 
+125 
+125 17-17-SW1736-uaz:UA-CLine-100078
+126 
+127 
+128 
+128 6-7-thyroid_cancer-tissuelist:TS-1226
+129 
+130 
+131 8-9-thyroid_cancer-tissuelist:TS-1226 11-11-mice-taxonomy:10090
+132 
+132 
+133 
+133 
+134 
+134 7-7-Human-taxonomy:9606
+135 
+136 
+136 4-4-8505c-uaz:UA-CLine-2081 11-11-SW1736-uaz:UA-CLine-100078 29-29-BCPAP-uaz:UA-CT-15 47-47-thyroid-tissuelist:TS-1047
+137 
+137 
+138 
+138 
+139 0-0-BCPAP-uaz:UA-CT-15 19-19-8505c-uaz:UA-CLine-2081 21-21-SW1736-uaz:UA-CLine-100078
+140 
+141 
+142 
+142 
+143 
+143 
+144 
+144 
+145 
+146 
+147 
+147 
+148 
+148 7-7-8505c-uaz:UA-CLine-2081 28-28-Fisher-taxonomy:76720
+149 
+150 
+150 
+151 
+151 
+152 
+153 
+153 1-2-thyroid_cancer-tissuelist:TS-1226
+154 
+154 
+155 8-8-mice-taxonomy:10090
+156 7-7-mice-taxonomy:10090
+157 
+158 
+159 
+160 3-3-mice-taxonomy:10090
+161 
+161 
+162 
+162 
+163 
+164 
+165 
+165 
+166 
+166 
+167 
+167 
+168 
+168 
+169 
+169 
+170 
+170 5-6-thyroid_cancer-tissuelist:TS-1226
+171 2-2-BCPAP-uaz:UA-CT-15 6-6-8505c-uaz:UA-CLine-2081 7-7-human-taxonomy:9606 8-9-thyroid_cancer-tissuelist:TS-1226
+172 
+173 39-39-BCPAP-uaz:UA-CT-15
+174 3-4-colon_cancer-tissuelist:TS-0160
+175 0-0-8505c-uaz:UA-CLine-2081
+176 35-35-BCPAP-uaz:UA-CT-15
+177 11-11-BCPAP-uaz:UA-CT-15
+178 2-2-BCPAP-uaz:UA-CT-15
+179 
+180 
+181 
+182 
+182 
+183 
+183 6-6-BCPAP-uaz:UA-CT-15 8-9-thyroid_cancer-tissuelist:TS-1226
+184 3-3-human-taxonomy:9606 5-6-thyroid_cancer-tissuelist:TS-1226 13-13-thyroid-tissuelist:TS-1047 17-17-mouse-taxonomy:10090
+185 5-5-mice-taxonomy:10090
+186 
+187 
+188 
+189 
+190 
+190 
+191 
+191 20-20-SW1736-uaz:UA-CLine-100078
+192 0-0-8505c-uaz:UA-CLine-2081 2-2-SW1736-uaz:UA-CLine-100078
+193 19-19-8505c-uaz:UA-CLine-2081 39-39-SW1736-uaz:UA-CLine-100078
+194 3-3-8505c-uaz:UA-CLine-2081
+195 
+196 
+197 
+198 8-8-SW1736-uaz:UA-CLine-100078
+199 
+200 32-32-thyroid-tissuelist:TS-1047 36-36-BCPAP-uaz:UA-CT-15 40-40-HTh7-uaz:UA-CLine-100110
+201 
+202 
+202 
+203 
+203 24-24-8505c-uaz:UA-CLine-2081 26-26-SW1736-uaz:UA-CLine-100078
+204 0-0-8505c-uaz:UA-CLine-2081 2-2-SW1736-uaz:UA-CLine-100078
+205 5-5-8505c-uaz:UA-CLine-2081 11-11-SW1736-uaz:UA-CLine-100078
+206 20-20-8505c-uaz:UA-CLine-2081
+207 19-19-SW1736-uaz:UA-CLine-100078
+208 14-14-8505c-uaz:UA-CLine-2081
+209 
+210 
+211 
+212 
+212 
+213 
+213 4-4-8505c-uaz:UA-CLine-2081
+214 
+215 
+216 
+217 
+218 
+218 
+219 
+219 15-15-8505c-uaz:UA-CLine-2081 18-18-thyroid-tissuelist:TS-1047
+220 9-9-thyroid-tissuelist:TS-1047 13-13-mouse-taxonomy:10090
+221 6-6-mice-taxonomy:10090 9-9-mice-taxonomy:10090
+222 3-3-mice-taxonomy:10090
+223 
+224 0-0-Mice-taxonomy:10090
+225 
+226 7-7-thyroid-tissuelist:TS-1047 11-11-lung-tissuelist:TS-0568
+227 
+228 
+229 
+229 
+230 
+230 14-14-patient-taxonomy:9606 26-26-thyroid-tissuelist:TS-1047
+231 18-18-thyroid-tissuelist:TS-1047
+232 22-22-thyroid-tissuelist:TS-1047
+233 21-21-thyroid-tissuelist:TS-1047
+234 18-18-thyroid-tissuelist:TS-1047
+235 21-21-thyroid-tissuelist:TS-1047
+236 
+237 
+237 
+238 
+238 6-7-thyroid_cancer-tissuelist:TS-1226
+239 14-14-BCPAP-uaz:UA-CT-15
+240 3-3-8505c-uaz:UA-CLine-2081
+241 

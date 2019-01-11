@@ -1,0 +1,432 @@
+0 
+1 
+1 7-7-MCF10A-uaz:UA-CLine-6278 12-14-mammary_epithelial_cell-tissuelist:TS-0593
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+8 
+9 15-17-mouse_embryonic_fibroblasts-uaz:UA-CT-100028 19-19-MEFs-uaz:UA-CLine-6096
+10 
+11 14-14-fibroblasts-uaz:UA-CLine-100060
+12 
+13 
+14 
+14 
+15 
+15 
+16 10-10-breast-tissuelist:TS-0595
+17 16-16-MCF10A-uaz:UA-CLine-6278 17-17-human-taxonomy:9606 18-20-mammary_epithelial_cell-tissuelist:TS-0593
+18 
+19 
+20 
+21 
+22 
+22 
+23 
+24 1-1-humans-taxonomy:9606
+25 
+26 
+27 
+28 
+29 
+29 5-5-mouse-taxonomy:10090 18-19-mammary_gland-tissuelist:TS-0595
+30 1-1-mice-taxonomy:10090
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 7-7-MECs-uaz:UA-CT-30003
+40 5-5-human-taxonomy:9606 6-6-breast-tissuelist:TS-0595
+41 
+42 6-7-breast_cancer-tissuelist:TS-0591
+43 
+44 39-40-breast_cancer-tissuelist:TS-0591
+45 14-14-MCF10A-uaz:UA-CLine-6278 15-15-MECs-uaz:UA-CT-30003
+46 16-16-MECs-uaz:UA-CT-30003 28-28-MECs-uaz:UA-CT-30003
+47 
+47 
+48 
+49 3-4-transgenic_mice-taxonomy:10090 14-14-skin-tissuelist:TS-0934 18-18-mice-taxonomy:10090
+50 16-16-NIH-3T3-uaz:UA-CLine-7618
+51 
+52 
+53 
+53 
+54 23-23-humans-taxonomy:9606 31-31-mouse-taxonomy:10090
+55 
+56 26-26-serum-tissuelist:TS-0923 30-30-NIH-3T3-uaz:UA-CLine-7618
+57 
+57 
+58 10-10-MCF10A-uaz:UA-CLine-6278
+59 16-16-MCF10As-uaz:UA-CLine-100076
+60 
+61 
+62 
+63 15-15-MCF10As-uaz:UA-CLine-100076
+64 
+65 24-24-human-taxonomy:9606 26-26-fibroblasts-uaz:UA-CLine-100060 28-28-HDFs-uaz:UA-CLine-100087 31-31-WI-38-uaz:UA-CLine-888
+66 
+67 17-17-MCF10As-uaz:UA-CLine-100076 32-32-WI-38-uaz:UA-CLine-888
+68 
+69 
+69 
+70 
+70 17-17-MCF10As-uaz:UA-CLine-100076
+71 
+71 17-17-MCF10As-uaz:UA-CLine-100076
+72 7-7-MCF10As-uaz:UA-CLine-100076
+73 
+74 
+74 10-10-MCF10As-uaz:UA-CLine-100076
+75 
+76 12-12-MCF10A-uaz:UA-CLine-6278
+77 
+78 
+79 
+80 
+81 
+82 
+82 
+83 
+84 
+85 
+86 
+86 
+87 
+88 
+89 
+90 
+90 1-2-breast_cancer-tissuelist:TS-0591
+91 8-9-breast_cancer-tissuelist:TS-0591 14-14-MDA435-uaz:UA-CLine-100083
+92 
+93 
+93 
+94 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+102 
+103 
+103 
+104 11-11-retrovirus-taxonomy:31931
+105 
+106 
+107 
+108 13-13-MCF10A-uaz:UA-CLine-6278
+109 
+110 
+111 
+111 13-13-WI-38-uaz:UA-CLine-888 15-15-HDFs-uaz:UA-CLine-100087
+112 
+112 26-26-MEFs-uaz:UA-CLine-6096 28-28-HDFs-uaz:UA-CLine-100087
+113 
+114 
+115 28-28-HDFs-uaz:UA-CLine-100087
+116 
+117 20-20-WI-38-uaz:UA-CLine-888
+118 
+118 5-5-WI-38-uaz:UA-CLine-888
+119 
+119 18-18-fibroblasts-uaz:UA-CLine-100060
+120 8-8-WI-38-uaz:UA-CLine-888 11-11-WI-38-uaz:UA-CLine-888
+121 27-27-WI-38-uaz:UA-CLine-888
+122 
+122 15-15-WI-38-uaz:UA-CLine-888 20-20-WI-38-uaz:UA-CLine-888
+123 28-28-WI-38-uaz:UA-CLine-888
+124 
+124 6-7-WI-38_fibroblasts-uaz:UA-CLine-888
+125 
+125 11-11-HDFs-uaz:UA-CLine-100087
+126 
+127 
+128 7-7-WI-38-uaz:UA-CLine-888
+129 
+130 
+131 
+132 
+132 16-16-WI-38-uaz:UA-CLine-888 17-17-HDFs-uaz:UA-CLine-100087
+133 
+133 
+134 0-0-WI-38-uaz:UA-CLine-888
+135 26-26-WI-38-uaz:UA-CLine-888
+136 
+137 20-20-WI-38-uaz:UA-CLine-888
+138 
+139 
+140 
+141 
+141 
+142 0-0-WI-38-uaz:UA-CLine-888
+143 11-11-WI-38-uaz:UA-CLine-888
+144 
+144 
+145 
+145 8-8-MCF10As-uaz:UA-CLine-100076
+146 10-10-MCF10As-uaz:UA-CLine-100076
+147 10-10-MCF10A-uaz:UA-CLine-6278
+148 
+149 19-19-MECs-uaz:UA-CT-30003 24-25-breast_cancer-tissuelist:TS-0591
+150 7-7-breast-tissuelist:TS-0595
+151 7-8-breast_cancer-tissuelist:TS-0591 13-13-MDA435-uaz:UA-CLine-100083
+152 
+153 12-13-breast_cancer-tissuelist:TS-0591
+154 
+154 
+155 
+156 
+157 
+158 
+159 
+160 
+161 
+162 8-8-MECs-uaz:UA-CT-30003
+163 
+164 31-31-E3-uaz:UA-CLine-2883
+165 
+165 
+166 1-1-fibroblasts-uaz:UA-CLine-100060 5-5-WI-38-uaz:UA-CLine-888 6-6-HDFs-uaz:UA-CLine-100087
+167 16-16-MEFs-uaz:UA-CLine-6096
+168 19-19-HDFs-uaz:UA-CLine-100087
+169 
+170 
+171 
+172 
+173 
+174 15-16-WI-38_fibroblasts-uaz:UA-CLine-888
+175 
+176 9-10-WI-38_fibroblasts-uaz:UA-CLine-888
+177 8-8-WI-38-uaz:UA-CLine-888
+178 
+179 
+180 
+180 
+181 
+182 
+183 
+184 21-21-MCF10As-uaz:UA-CLine-100076
+185 8-9-breast_cancer-tissuelist:TS-0591
+186 
+187 
+188 
+189 
+190 8-8-HDFs-uaz:UA-CLine-100087
+191 
+191 
+192 
+193 16-16-MCF10A-uaz:UA-CLine-6278
+194 8-8-MCF10As-uaz:UA-CLine-100076
+195 
+196 
+197 15-15-macrophages-uaz:UA-CT-16 20-20-mouse-taxonomy:10090
+198 9-9-mice-taxonomy:10090
+199 
+200 1-1-macrophages-uaz:UA-CT-16 4-4-mice-taxonomy:10090 39-39-HDFs-uaz:UA-CLine-100087
+201 
+201 
+202 
+203 
+204 
+205 
+206 
+207 
+207 
+208 
+208 
+209 
+209 2-2-MCF10A-uaz:UA-CLine-6278 7-7-MDA435-uaz:UA-CLine-100083
+210 1-1-WI-38-uaz:UA-CLine-888 30-30-serum-tissuelist:TS-0923
+211 
+212 
+212 
+213 
+213 
+214 
+215 
+216 
+217 
+218 
+219 
+220 
+221 
+222 
+223 
+224 
+225 
+226 
+227 
+228 
+229 
+229 
+230 
+230 
+231 
+232 
+233 
+234 
+235 
+235 
+236 
+236 
+237 
+238 
+239 
+240 
+240 
+241 
+241 
+242 
+242 
+243 
+243 
+244 
+244 
+245 
+245 
+246 
+246 14-14-MCF10A-uaz:UA-CLine-6278 15-17-mammary_epithelial_cell-tissuelist:TS-0593 29-29-MCF10A-uaz:UA-CLine-6278 36-36-MCF10A-uaz:UA-CLine-6278
+247 
+248 
+249 12-12-MCF10A-uaz:UA-CLine-6278
+250 
+251 
+252 
+253 
+254 1-1-MCF10A-uaz:UA-CLine-6278
+255 13-13-retrovirus-taxonomy:31931
+256 
+257 
+258 13-13-mouse-taxonomy:10090
+259 
+260 1-1-MCF10A-uaz:UA-CLine-6278
+261 
+262 
+263 
+264 
+265 27-27-MCF10A-uaz:UA-CLine-6278
+266 
+266 
+267 
+267 
+268 
+269 
+270 
+271 
+272 
+273 
+274 
+275 
+276 2-3-breast_cancer-tissuelist:TS-0591
+277 
+278 
+279 8-8-mouse-taxonomy:10090
+280 
+281 
+282 
+283 
+284 
+285 
+286 
+287 
+288 3-3-MCF10A-uaz:UA-CLine-6278
+289 
+289 
+290 
+290 
+291 
+292 
+293 
+294 
+295 
+296 
+297 
+298 
+299 
+300 
+301 7-7-mouse-taxonomy:10090
+302 
+303 
+304 13-13-human-taxonomy:9606
+305 
+306 
+307 3-3-MCF10A-uaz:UA-CLine-6278
+308 
+308 
+309 
+309 12-12-WI-38-uaz:UA-CLine-888 14-14-fibroblasts-uaz:UA-CLine-100060 25-25-WI-38-uaz:UA-CLine-888
+310 
+311 4-4-WI-38-uaz:UA-CLine-888
+312 
+313 
+314 
+315 
+316 16-16-WI-38-uaz:UA-CLine-888 17-17-human-taxonomy:9606 19-19-fibroblasts-uaz:UA-CLine-100060
+317 
+318 
+319 
+320 
+321 
+322 23-23-WI-38-uaz:UA-CLine-888
+323 
+324 1-1-WI-38-uaz:UA-CLine-888 2-2-human-taxonomy:9606 4-4-fibroblasts-uaz:UA-CLine-100060
+325 
+326 
+327 
+328 
+329 
+330 
+331 
+332 
+333 23-23-WI-38-uaz:UA-CLine-888
+334 
+335 
+336 
+336 
+337 
+337 7-7-WI-38-uaz:UA-CLine-888 8-8-human-taxonomy:9606 9-9-fibroblasts-uaz:UA-CLine-100060
+338 
+339 
+340 
+341 
+342 12-12-WI-38-uaz:UA-CLine-888
+343 
+344 
+345 
+346 15-15-WI-38-uaz:UA-CLine-888
+347 3-3-WI-38-uaz:UA-CLine-888
+348 4-4-WI-38-uaz:UA-CLine-888
+349 
+350 
+351 
+352 
+353 22-22-human-taxonomy:9606
+354 
+355 
+356 
+356 
+357 
+357 16-16-WI-38-uaz:UA-CLine-888 17-17-human-taxonomy:9606 18-18-fibroblasts-uaz:UA-CLine-100060
+358 
+359 
+360 
+361 
+362 34-34-WI-38-uaz:UA-CLine-888
+363 
+364 1-1-WI-38-uaz:UA-CLine-888
+365 
+366 
+367 
+368 
+369 

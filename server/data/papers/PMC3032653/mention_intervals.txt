@@ -1,0 +1,112 @@
+0 
+1 10%11%epithelial_cell%tissuelist:TS-0288
+2 
+3 
+4 20%21%tight_junction%uniprot:SL-0265
+5 7%8%cell-cell_junctions%go:GO:0005911
+6 
+7 
+8 
+9 
+10 
+11 1%2%epithelial_cells%uaz:CL:0000066 12%13%cell_junctions%go:GO:0030054
+12 8%9%adherens_junctions%go:GO:0005912 26%26%cytoskeleton%go:GO:0005856
+13 9%10%tight_junctions%uniprot:SL-0265
+14 
+15 
+16 20%23%human_intestinal_epithelial_cell%cellosaurus:CVCL_6C15 25%25%Caco-2%cellosaurus:CVCL_0025 29%29%human%taxonomy:9606
+17 
+18 
+19 7%8%tight_junction%uniprot:SL-0265 16%17%adherens_junction%go:GO:0005912 30%31%tight_junctions%uniprot:SL-0265
+20 
+21 
+22 17%18%adherens_junction%go:GO:0005912
+23 3%4%epithelial_cell%tissuelist:TS-0288 6%6%Caco-2%cellosaurus:CVCL_0025
+24 
+25 11%12%tight_junction%uniprot:SL-0265
+26 10%11%tight_junction%uniprot:SL-0265
+27 
+28 4%4%Caco-2%cellosaurus:CVCL_0025
+29 
+30 
+31 18%19%tight_junctions%uniprot:SL-0265
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 7%7%Caco-2%cellosaurus:CVCL_0025
+44 3%4%epithelial_cell%tissuelist:TS-0288
+45 
+46 
+47 
+48 17%18%cell-cell_junctions%go:GO:0005911
+49 13%14%cell_junctions%go:GO:0030054
+50 
+51 7%7%Caco-2%cellosaurus:CVCL_0025 27%28%cell_junctions%go:GO:0030054
+52 
+53 
+54 22%22%membrane%go:GO:0016020
+55 
+56 5%6%cell_junctions%go:GO:0030054
+57 
+58 
+59 11%11%Caco-2%cellosaurus:CVCL_0025
+60 
+61 19%20%cell-cell_junctions%go:GO:0005911
+62 
+63 
+64 
+65 
+66 
+67 17%18%cell_junctions%go:GO:0030054
+68 
+69 32%32%Caco-2%cellosaurus:CVCL_0025
+70 
+71 4%4%human%taxonomy:9606
+72 
+73 
+74 
+75 
+76 3%4%tight_junction%uniprot:SL-0265
+77 
+78 
+79 
+80 
+81 
+82 
+83 12%13%tight_junctions%uniprot:SL-0265
+84 
+85 8%9%tight_junction%uniprot:SL-0265 39%40%adherens_junctions%go:GO:0005912
+86 
+87 
+88 21%22%cell_junctions%go:GO:0030054 24%24%Caco-2%cellosaurus:CVCL_0025
+89 17%18%cell_junctions%go:GO:0030054
+90 
+91 24%25%cell_junctions%go:GO:0030054
+92 
+93 
+94 13%14%epithelial_cells%uaz:CL:0000066
+95 
+96 13%14%cell_junctions%go:GO:0030054
+97 
+98 
+99 
+100 
+101 
+102 
+103 4%4%cytoskeleton%go:GO:0005856 22%22%tissue%uberon:UBERON:0000479
+104 
+105 
+106 
+107 
+108 31%32%cell_junctions%go:GO:0030054
+109 
+110 
+111 

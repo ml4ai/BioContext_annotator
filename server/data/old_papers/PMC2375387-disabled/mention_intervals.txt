@@ -1,0 +1,287 @@
+0 14-14-lung-tissuelist:TS-0568
+1 
+1 6-7-cell_surface-go:GO:0009986 13-14-breast_cancer-tissuelist:TS-0591
+2 1-2-lung_cancer-tissuelist:TS-0571
+3 5-5-lung-tissuelist:TS-0568
+4 32-33-squamous_cell-tissuelist:TS-1249
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 10-11-lung_cancer-tissuelist:TS-0571
+13 
+13 
+14 
+15 
+15 
+16 
+16 0-1-Lung_cancer-tissuelist:TS-0571 11-11-men-taxonomy:9606 13-13-women-taxonomy:9606
+17 
+18 
+19 1-1-human-taxonomy:9606 9-9-chromosome-go:GO:0005694
+20 
+20 15-15-human-taxonomy:9606 16-16-breast-tissuelist:TS-0595
+21 17-18-breast_cancer-tissuelist:TS-0591
+22 10-11-breast_cancer-tissuelist:TS-0591 19-20-breast_cancer-tissuelist:TS-0591
+23 19-20-breast_cancer-tissuelist:TS-0591
+24 
+24 11-11-lung-tissuelist:TS-0568
+25 17-17-lung-tissuelist:TS-0568
+26 
+27 
+28 
+29 8-8-human-taxonomy:9606 9-9-lung-tissuelist:TS-0568
+30 0-3-In_breast_cancer,-uaz:UA-CLine-100026
+31 31-32-lung_cancer-tissuelist:TS-0571
+32 
+32 13-13-lung-tissuelist:TS-0568
+33 21-21-lung-tissuelist:TS-0568
+34 
+34 
+35 
+35 
+36 
+36 
+37 
+38 
+39 
+40 26-26-lung-tissuelist:TS-0568
+41 
+42 
+42 
+43 
+44 17-18-squamous_cell-tissuelist:TS-1249
+45 8-9-breast_cancer-tissuelist:TS-0591
+46 5-5-lung-tissuelist:TS-0568
+47 
+47 
+48 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+60 
+61 
+61 
+62 
+63 35-35-chromosome-go:GO:0005694 37-37-centromere-uniprot:SL-0047
+64 
+65 
+66 
+67 
+68 8-8-lung-tissuelist:TS-0568 20-20-breast-tissuelist:TS-0595 38-38-lung-tissuelist:TS-0568
+69 
+69 
+70 
+71 
+72 
+72 
+73 17-17-chromosome-go:GO:0005694 19-19-centromere-uniprot:SL-0047
+74 
+75 
+76 
+76 
+77 
+77 12-13-lung_cancer-tissuelist:TS-0571
+78 
+79 
+80 
+81 
+82 
+83 2-3-lymph_node-tissuelist:TS-0579
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+93 
+94 
+94 
+95 
+96 37-37-needle-tissuelist:TS-0665
+97 
+98 27-27-needle-tissuelist:TS-0665
+99 
+100 8-8-needle-tissuelist:TS-0665
+101 
+102 1-1-lung-tissuelist:TS-0568
+103 
+104 
+105 
+106 
+107 
+108 
+109 
+110 
+110 
+111 
+111 29-29-chromosome-go:GO:0005694
+112 29-30-lung_cancer-tissuelist:TS-0571
+113 13-14-lung_cancer-tissuelist:TS-0571
+114 
+115 
+116 
+116 
+117 
+117 
+118 
+118 
+119 
+119 
+120 
+120 14-14-epithelium-tissuelist:TS-0288
+121 15-15-membrane-go:GO:0016020
+122 4-4-membrane-go:GO:0016020
+123 2-2-membrane-go:GO:0016020
+124 
+124 
+125 
+126 
+127 
+128 
+129 
+130 
+130 
+131 
+131 
+132 
+133 
+134 
+135 
+136 
+136 
+137 
+137 12-12-lung-tissuelist:TS-0568
+138 12-12-chromosome-go:GO:0005694
+139 
+140 5-5-Chromosome-go:GO:0005694
+141 8-8-Chromosome-go:GO:0005694 20-20-patient-taxonomy:9606 22-23-squamous_cell-tissuelist:TS-1249 24-24-carcinoma-tissuelist:TS-0114
+142 5-5-Chromosome-go:GO:0005694 14-14-patient-taxonomy:9606
+143 
+143 35-35-chromosome-go:GO:0005694
+144 
+145 22-22-chromosome-go:GO:0005694
+146 
+146 18-18-chromosome-go:GO:0005694
+147 5-5-chromosome-go:GO:0005694
+148 38-38-chromosome-go:GO:0005694
+149 
+150 
+151 
+152 
+153 15-15-chromosome-go:GO:0005694
+154 36-36-chromosome-go:GO:0005694
+155 
+155 3-3-lung-tissuelist:TS-0568 36-36-chromosome-go:GO:0005694
+156 7-8-breast_cancer-tissuelist:TS-0591
+157 
+158 16-16-chromosome-go:GO:0005694
+159 
+159 32-32-lung-tissuelist:TS-0568
+160 
+161 
+162 7-8-lung_tumour-tissuelist:TS-0577
+163 3-4-lung_cancer-tissuelist:TS-0571
+164 
+165 
+165 
+166 
+167 
+168 
+169 
+169 
+170 
+170 
+171 
+172 
+173 
+174 
+175 
+175 
+176 
+177 
+178 
+179 
+180 
+181 
+182 
+182 
+183 
+183 
+184 
+185 
+186 
+187 
+187 8-9-lung_cancer-tissuelist:TS-0571
+188 17-18-breast_cancer-tissuelist:TS-0591
+189 0-0-Lung-tissuelist:TS-0568 11-11-breast-tissuelist:TS-0595
+190 5-5-lung-tissuelist:TS-0568 22-22-membrane-go:GO:0016020
+191 4-4-membrane-go:GO:0016020
+192 
+193 
+194 
+195 
+195 11-11-lung-tissuelist:TS-0568
+196 24-24-centromere-uniprot:SL-0047
+197 
+198 8-8-chromosome-go:GO:0005694
+199 15-16-breast_cancer-tissuelist:TS-0591
+200 20-20-lung-tissuelist:TS-0568 40-40-chromosome-go:GO:0005694
+201 
+202 
+202 
+203 
+204 
+204 11-11-chromosome-go:GO:0005694
+205 
+206 3-3-chromosome-go:GO:0005694
+207 24-24-chromosome-go:GO:0005694 29-29-chromosome-go:GO:0005694
+208 7-8-cell_surface-go:GO:0009986 28-28-chromosome-go:GO:0005694 33-33-lung-tissuelist:TS-0568
+209 
+209 29-29-lung-tissuelist:TS-0568
+210 8-8-breast-tissuelist:TS-0595 25-25-breast-tissuelist:TS-0595 28-28-lung-tissuelist:TS-0568
+211 26-26-breast-tissuelist:TS-0595 29-30-lung_cancer-tissuelist:TS-0571
+212 3-3-lung-tissuelist:TS-0568 26-26-breast-tissuelist:TS-0595
+213 2-2-lung-tissuelist:TS-0568 19-19-chromosome-go:GO:0005694
+214 
+215 
+215 
+216 
+217 19-19-breast-tissuelist:TS-0595
+218 
+219 
+220 
+221 
+221 
+222 11-11-lung-tissuelist:TS-0568
+223 
+224 
+224 24-25-cell_surface-go:GO:0009986
+225 0-3-In_breast_cancer,-uaz:UA-CLine-100026
+226 5-6-lung_cancer-tissuelist:TS-0571
+227 1-2-lung_cancer-tissuelist:TS-0571
+228 
+229 7-8-breast_cancer-tissuelist:TS-0591
+230 
+231 25-26-breast_cancer-tissuelist:TS-0591
+232 
+233 5-6-lung_cancer-tissuelist:TS-0571
+234 

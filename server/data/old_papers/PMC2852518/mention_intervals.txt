@@ -1,0 +1,330 @@
+0 6-6-breast-tissuelist:TS-0595
+1 
+1 2-2-breast-tissuelist:TS-0595
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+11 
+12 
+12 6-7-breast_cancer-tissuelist:TS-0591 39-39-breast-tissuelist:TS-0595
+13 24-24-breast-tissuelist:TS-0595
+14 
+14 6-6-breast-tissuelist:TS-0595 16-16-breast-tissuelist:TS-0595
+15 
+16 7-7-women-taxonomy:9606 15-15-women-taxonomy:9606
+17 
+18 2-2-women-taxonomy:9606
+19 
+20 
+20 
+21 
+22 
+23 
+23 
+24 
+25 
+26 
+27 
+27 
+28 
+28 
+29 
+29 
+30 
+31 
+32 
+33 
+34 7-7-needle-tissuelist:TS-0665
+35 
+36 
+37 9-9-patient-taxonomy:9606
+38 
+38 
+39 
+39 
+40 
+41 
+41 
+42 
+42 17-18-Breast_Cancer-tissuelist:TS-0591
+43 
+44 
+45 
+46 26-26-human-taxonomy:9606
+47 
+48 
+49 
+49 
+50 
+50 
+51 
+51 
+52 
+53 
+54 
+55 
+55 
+56 
+56 
+57 
+58 
+59 
+60 
+61 
+61 
+62 
+63 
+64 
+64 
+65 
+66 
+67 
+67 
+68 
+68 
+69 
+70 
+71 
+72 
+72 
+73 
+73 
+74 
+75 8-8-Axon-go:GO:0030424
+76 
+77 
+78 
+78 
+79 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+86 
+87 
+87 15-15-serum-tissuelist:TS-0923
+88 
+89 
+90 
+90 
+91 
+91 8-9-breast_cancer-tissuelist:TS-0591
+92 
+92 
+93 
+93 
+94 
+94 
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+101 
+102 
+102 
+103 
+104 
+105 
+105 
+106 
+107 
+108 
+108 
+109 17-18-breast_cancer-tissuelist:TS-0591
+110 
+111 
+112 
+112 
+113 
+113 
+114 
+115 
+116 
+117 
+118 
+119 
+119 6-6-breast-tissuelist:TS-0595 9-10-breast_cancer-tissuelist:TS-0591
+120 
+120 
+121 
+122 0-0-Fisher-taxonomy:76720
+123 
+124 
+124 6-7-breast_cancer-tissuelist:TS-0591
+125 
+126 0-0-MFM223-uaz:UA-CLine-831
+127 8-8-MFM223-uaz:UA-CLine-831
+128 19-19-MFM223-uaz:UA-CLine-831
+129 1-1-MFM223-uaz:UA-CLine-831 3-3-SUM52-uaz:UA-CLine-100102
+130 
+130 
+131 
+131 
+132 7-7-MFM223-uaz:UA-CLine-831
+133 
+134 
+135 
+136 
+136 
+137 
+137 14-14-Fibroblast-uaz:UA-CLine-100060
+138 11-11-serum-tissuelist:TS-0923
+139 10-10-serum-tissuelist:TS-0923
+140 35-35-MFM223-uaz:UA-CLine-831
+141 
+142 17-17-MCF7-uaz:UA-CLine-6345 19-19-SKBR3-uaz:UA-CLine-8182 21-21-HCC1143-uaz:UA-CLine-8443
+143 
+143 2-2-MFM223-uaz:UA-CLine-831
+144 
+144 9-9-MFM223-uaz:UA-CLine-831
+145 18-18-MCF7-uaz:UA-CLine-6345 33-33-MFM223-uaz:UA-CLine-831
+146 19-19-MCF7-uaz:UA-CLine-6345 21-21-MFM223-uaz:UA-CLine-831
+147 19-19-MCF7-uaz:UA-CLine-6345 44-44-MFM223-uaz:UA-CLine-831
+148 
+148 12-12-MFM223-uaz:UA-CLine-831 14-14-serum-tissuelist:TS-0923
+149 4-4-serum-tissuelist:TS-0923 5-5-MFM223-uaz:UA-CLine-831 18-18-serum-tissuelist:TS-0923
+150 4-4-serum-tissuelist:TS-0923 5-5-MFM223-uaz:UA-CLine-831
+151 
+151 
+152 
+152 8-8-MFM223-uaz:UA-CLine-831
+153 28-28-MFM223-uaz:UA-CLine-831
+154 13-13-human-taxonomy:9606
+155 
+156 2-2-MFM223-uaz:UA-CLine-831
+157 
+158 
+159 0-0-SUM52-uaz:UA-CLine-100102 22-22-SUM52-uaz:UA-CLine-100102
+160 
+161 
+161 
+162 
+162 
+163 
+163 
+164 
+165 
+166 
+167 34-34-breast-tissuelist:TS-0595
+168 
+169 
+169 
+170 24-24-breast-tissuelist:TS-0595
+171 
+172 
+173 
+173 43-43-breast-tissuelist:TS-0595
+174 23-24-mitotic_spindle-go:GO:0072686
+175 
+175 13-14-breast_cancer-tissuelist:TS-0591
+176 16-17-breast_cancer-tissuelist:TS-0591 25-26-breast_cancer-tissuelist:TS-0591
+177 
+178 
+179 7-8-endometrial_cancer-tissuelist:TS-1222 16-17-breast_cancer-tissuelist:TS-0591
+180 
+180 
+181 
+182 3-3-MFM223-uaz:UA-CLine-831
+183 1-1-SUM52-uaz:UA-CLine-100102 23-24-endometrial_cancer-tissuelist:TS-1222
+184 3-3-HCC1143-uaz:UA-CLine-8443
+185 0-0-HCC1143-uaz:UA-CLine-8443
+186 
+186 
+187 
+188 
+189 
+190 
+191 
+192 
+192 
+193 
+193 
+194 
+194 
+195 
+195 
+196 
+196 
+197 
+197 
+198 
+198 
+199 
+199 
+200 
+200 
+201 
+201 
+202 
+202 
+203 
+203 
+204 
+204 
+205 
+205 
+206 
+206 5-5-breast-tissuelist:TS-0595
+207 
+208 24-24-axis-uaz:UA-ORG-75 36-36-axis-uaz:UA-ORG-75
+209 20-20-axis-uaz:UA-ORG-75 32-32-axis-uaz:UA-ORG-75
+210 
+211 
+211 
+212 
+212 
+213 
+214 
+215 
+216 
+217 
+218 
+219 
+219 
+220 
+220 
+221 9-10-breast_cancer-tissuelist:TS-0591 20-20-MFM223-uaz:UA-CLine-831
+222 
+223 2-2-Chromosome-go:GO:0005694 7-7-MFM223-uaz:UA-CLine-831
+224 4-4-chromosome-go:GO:0005694 6-6-centromere-uniprot:SL-0047 16-16-MFM223-uaz:UA-CLine-831
+225 0-0-MFM223-uaz:UA-CLine-831
+226 
+227 4-5-breast_cancer-tissuelist:TS-0591 15-15-MFM223-uaz:UA-CLine-831
+228 
+229 
+230 
+231 
+232 
+233 4-5-breast_cancer-tissuelist:TS-0591
+234 
+234 
+235 
+235 
+236 9-9-serum-tissuelist:TS-0923 12-12-serum-tissuelist:TS-0923
+237 
+238 7-7-MFM223-uaz:UA-CLine-831 12-12-serum-tissuelist:TS-0923 14-14-serum-tissuelist:TS-0923 24-24-SKBR3-uaz:UA-CLine-8182
+239 
+239 
+240 
+240 5-5-MFM223-uaz:UA-CLine-831
+241 7-7-MCF7-uaz:UA-CLine-6345 9-9-MFM223-uaz:UA-CLine-831
+242 8-8-MCF7-uaz:UA-CLine-6345 10-10-MFM223-uaz:UA-CLine-831
+243 22-22-MCF7-uaz:UA-CLine-6345 40-40-MFM223-uaz:UA-CLine-831
+244 
+245 
+246 
+247 

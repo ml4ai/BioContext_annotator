@@ -1,0 +1,5 @@
+Binding	46	TissueType	2505
+Binding	46	Species	1941
+Binding	47	Species	1941
+Positive_activation	208	TissueType	2505
+Positive_activation	208	Species	1941

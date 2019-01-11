@@ -1,0 +1,538 @@
+0 
+1 
+1 
+2 
+3 28-29-cell_surface-go:GO:0009986
+4 
+5 5-5-membrane-go:GO:0016020
+6 
+7 
+7 
+8 
+8 
+9 
+10 8-9-cell_surface-go:GO:0009986
+11 
+12 
+13 14-14-mice-taxonomy:10090
+14 
+14 
+15 
+16 6-7-cell_surface-go:GO:0009986
+17 8-9-extracellular_matrix-go:GO:0031012
+18 6-7-cell_surface-go:GO:0009986
+19 
+20 2-2-mice-taxonomy:10090 40-40-mice-taxonomy:10090
+21 
+21 
+22 
+23 
+24 
+25 
+26 6-6-human-taxonomy:9606 7-8-airway_epithelium-tissuelist:TS-0023
+27 7-8-lung_carcinoma-tissuelist:TS-0572
+28 13-13-human-taxonomy:9606
+29 
+29 
+30 
+31 28-29-cell_surface-go:GO:0009986
+32 6-7-lung_cancer-tissuelist:TS-0571
+33 
+34 
+34 
+35 
+35 
+36 
+36 
+37 
+38 17-17-RGE-uaz:UA-CLine-4267
+39 
+40 32-33-b,-uaz:UA-CLine-100007
+41 15-15-HT1080-uaz:UA-CLine-8015
+42 
+43 
+44 
+45 
+46 
+47 13-13-RGE-uaz:UA-CLine-4267
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+54 
+55 
+55 
+56 9-9-HT1080-uaz:UA-CLine-8015
+57 
+58 
+59 13-13-14E5-uaz:UA-CLine-6936 20-20-L230-uaz:UA-CLine-6102 25-25-14E5-uaz:UA-CLine-6936
+60 
+61 
+62 
+63 
+64 
+65 36-36-RGE-uaz:UA-CLine-4267
+66 
+67 19-19-RGE-uaz:UA-CLine-4267
+68 
+69 
+70 
+71 
+72 10-10-HT1080-uaz:UA-CLine-8015
+73 
+74 
+75 
+76 
+76 7-8-cell_surface-go:GO:0009986
+77 2-2-HT1080-uaz:UA-CLine-8015 26-26-HT1080-uaz:UA-CLine-8015
+78 
+79 
+80 
+81 
+81 
+82 
+82 
+83 16-16-TMLC-uaz:UA-CLine-100112 20-20-HepG2-uaz:UA-CLine-6371
+84 4-4-TMLC-uaz:UA-CLine-100112
+85 1-1-TMLC-uaz:UA-CLine-100112 6-6-lung-tissuelist:TS-0568
+86 0-0-TMLC-uaz:UA-CLine-100112
+87 0-0-TMLC-uaz:UA-CLine-100112
+88 
+88 2-2-HT1080-uaz:UA-CLine-8015 4-4-SW480-uaz:UA-CLine-4399 7-7-H647-uaz:UA-CLine-5683 25-26-cell_surface-go:GO:0009986
+89 21-21-HT1080-uaz:UA-CLine-8015 23-23-SW480-uaz:UA-CLine-4399
+90 15-15-HT1080-uaz:UA-CLine-8015 17-17-SW480-uaz:UA-CLine-4399
+91 
+92 
+92 9-9-HT1080-uaz:UA-CLine-8015 11-11-SW480-uaz:UA-CLine-4399 22-22-TMLC-uaz:UA-CLine-100112 28-28-HepG2-uaz:UA-CLine-6371
+93 
+94 9-9-SW480-uaz:UA-CLine-4399 11-11-HT1080-uaz:UA-CLine-8015
+95 2-2-H647-uaz:UA-CLine-5683 21-21-H647-uaz:UA-CLine-5683
+96 5-5-H647-uaz:UA-CLine-5683 20-20-H647-uaz:UA-CLine-5683
+97 
+98 28-28-SW480-uaz:UA-CLine-4399 30-30-HT1080-uaz:UA-CLine-8015 35-35-H647-uaz:UA-CLine-5683
+99 
+99 
+100 
+100 0-1-Cell_surface-go:GO:0009986
+101 0-0-HT1080-uaz:UA-CLine-8015 7-7-SW480-uaz:UA-CLine-4399 13-13-H647-uaz:UA-CLine-5683 24-24-TMLC-uaz:UA-CLine-100112
+102 8-8-TMLC-uaz:UA-CLine-100112
+103 
+104 
+105 
+105 
+106 
+106 
+107 
+108 
+109 15-15-cytoskeleton-go:GO:0005856
+110 
+111 
+112 28-28-FL-uaz:UA-CLine-7510
+113 
+114 0-0-SW480-uaz:UA-CLine-4399 13-13-SW480-uaz:UA-CLine-4399 21-21-FL-uaz:UA-CLine-7510 48-48-FL-uaz:UA-CLine-7510
+115 3-3-SW480-uaz:UA-CLine-4399 8-8-SW480-uaz:UA-CLine-4399
+116 
+116 
+117 
+117 
+118 
+119 4-4-FL-uaz:UA-CLine-7510
+120 8-8-SW480-uaz:UA-CLine-4399 12-12-FL-uaz:UA-CLine-7510
+121 13-14-cell_surface-go:GO:0009986
+122 
+123 
+124 14-15-cell_surface-go:GO:0009986 20-20-FL-uaz:UA-CLine-7510
+125 
+126 
+127 21-21-FL-uaz:UA-CLine-7510 27-27-SW480-uaz:UA-CLine-4399
+128 14-14-FL-uaz:UA-CLine-7510
+129 
+130 3-3-SW480-uaz:UA-CLine-4399
+131 23-23-SW480-uaz:UA-CLine-4399
+132 
+133 0-0-SW480-uaz:UA-CLine-4399 2-2-HT1080-uaz:UA-CLine-8015 13-13-TMLC-uaz:UA-CLine-100112
+134 
+135 
+136 
+136 0-0-SW480-uaz:UA-CLine-4399 2-2-HT1080-uaz:UA-CLine-8015 6-6-FL-uaz:UA-CLine-7510
+137 9-9-SW480-uaz:UA-CLine-4399 29-29-FL-uaz:UA-CLine-7510
+138 20-20-FL-uaz:UA-CLine-7510
+139 
+140 
+141 
+142 
+142 
+143 
+144 
+144 9-10-cell_surface-go:GO:0009986
+145 
+145 29-30-extracellular_space-go:GO:0005615 34-35-cell_surface-go:GO:0009986
+146 
+147 
+148 3-4-cell_surface-go:GO:0009986
+149 
+149 
+150 37-37-SW480-uaz:UA-CLine-4399 39-39-HT1080-uaz:UA-CLine-8015
+151 22-22-SW480-uaz:UA-CLine-4399 25-25-HT1080-uaz:UA-CLine-8015
+152 
+153 16-17-cell_surface-go:GO:0009986
+154 
+154 
+155 
+155 
+156 27-27-SW480-uaz:UA-CLine-4399
+157 
+158 
+159 36-36-SW480-uaz:UA-CLine-4399
+160 
+161 
+162 
+162 0-1-Cell_surface-go:GO:0009986
+163 
+163 
+164 7-8-cell_surface-go:GO:0009986
+165 19-19-HT1080-uaz:UA-CLine-8015
+166 1-1-HT1080-uaz:UA-CLine-8015
+167 
+168 14-14-HT1080-uaz:UA-CLine-8015
+169 
+170 22-22-HT1080-uaz:UA-CLine-8015
+171 4-4-HT1080-uaz:UA-CLine-8015
+172 
+173 49-49-HT1080-uaz:UA-CLine-8015
+174 4-4-HT1080-uaz:UA-CLine-8015 29-29-SW480-uaz:UA-CLine-4399 42-42-E1-uaz:UA-CLine-1041
+175 27-28-cell_surface-go:GO:0009986
+176 
+176 
+177 
+177 
+178 7-8-cell_surface-go:GO:0009986 19-19-HT1080-uaz:UA-CLine-8015 29-29-14E5-uaz:UA-CLine-6936
+179 15-15-TMLC-uaz:UA-CLine-100112
+180 20-20-HT1080-uaz:UA-CLine-8015
+181 
+182 
+183 
+184 
+184 
+185 
+185 15-16-lung_carcinoma-tissuelist:TS-0572 20-20-H1264-uaz:UA-CLine-100085 31-32-cell_surface-go:GO:0009986
+186 3-3-H1264-uaz:UA-CLine-100085 43-43-E1-uaz:UA-CLine-1041 61-61-E1-uaz:UA-CLine-1041
+187 6-7-cell_surface-go:GO:0009986 25-25-H1264-uaz:UA-CLine-100085
+188 9-9-H1264-uaz:UA-CLine-100085
+189 9-10-cell_surface-go:GO:0009986 22-22-Yu-taxonomy:37334
+190 26-26-H1264-uaz:UA-CLine-100085
+191 5-5-H1264-uaz:UA-CLine-100085
+192 12-12-H1264-uaz:UA-CLine-100085
+193 11-11-H1264-uaz:UA-CLine-100085
+194 17-17-H1264-uaz:UA-CLine-100085
+195 5-5-H1264-uaz:UA-CLine-100085 20-20-H1264-uaz:UA-CLine-100085
+196 
+197 
+197 
+198 
+198 9-9-human-taxonomy:9606 10-11-lung_carcinoma-tissuelist:TS-0572 14-14-H1264-uaz:UA-CLine-100085
+199 15-15-H1264-uaz:UA-CLine-100085
+200 
+201 14-14-H1264-uaz:UA-CLine-100085
+202 7-7-H1264-uaz:UA-CLine-100085 19-19-H1264-uaz:UA-CLine-100085
+203 
+204 
+205 12-12-H1264-uaz:UA-CLine-100085
+206 
+207 
+208 4-4-H1264-uaz:UA-CLine-100085
+209 
+210 
+210 0-0-H1264-uaz:UA-CLine-100085 35-35-14E5-uaz:UA-CLine-6936
+211 3-3-H1264-uaz:UA-CLine-100085
+212 0-0-H1264-uaz:UA-CLine-100085 31-31-E1-uaz:UA-CLine-1041
+213 
+214 
+215 
+216 35-36-cell_surface-go:GO:0009986
+217 
+217 
+218 
+218 8-8-H1264-uaz:UA-CLine-100085
+219 12-12-H1264-uaz:UA-CLine-100085 27-27-14E5-uaz:UA-CLine-6936
+220 
+221 5-5-H1264-uaz:UA-CLine-100085 31-31-TMLC-uaz:UA-CLine-100112
+222 
+223 
+224 9-9-TMLC-uaz:UA-CLine-100112
+225 22-22-TMLC-uaz:UA-CLine-100112 46-46-TMLC-uaz:UA-CLine-100112
+226 
+227 
+227 
+228 
+228 17-18-cell_surface-go:GO:0009986
+229 16-16-membrane-go:GO:0016020
+230 
+231 
+232 5-6-cell_surface-go:GO:0009986 10-10-HT1080-uaz:UA-CLine-8015
+233 
+234 
+235 
+235 
+236 
+236 
+237 11-12-cell_surface-go:GO:0009986 15-15-HT1080-uaz:UA-CLine-8015
+238 17-17-HT1080-uaz:UA-CLine-8015 24-24-HT1080-uaz:UA-CLine-8015
+239 
+240 14-14-HT1080-uaz:UA-CLine-8015
+241 
+242 
+243 
+244 4-4-HT1080-uaz:UA-CLine-8015 14-14-HT1080-uaz:UA-CLine-8015 22-22-HT1080-uaz:UA-CLine-8015
+245 
+246 
+247 
+248 
+249 
+249 
+250 44-44-HT1080-uaz:UA-CLine-8015
+251 
+252 21-21-H1264-uaz:UA-CLine-100085
+253 33-33-HT1080-uaz:UA-CLine-8015
+254 22-22-HT1080-uaz:UA-CLine-8015
+255 27-27-HT1080-uaz:UA-CLine-8015
+256 
+257 
+257 
+258 
+258 24-24-H1264-uaz:UA-CLine-100085
+259 8-8-H1264-uaz:UA-CLine-100085
+260 14-14-H1264-uaz:UA-CLine-100085
+261 
+262 18-18-human-taxonomy:9606
+263 2-2-H1264-uaz:UA-CLine-100085
+264 21-21-RGE-uaz:UA-CLine-4267
+265 4-4-H1264-uaz:UA-CLine-100085
+266 
+267 
+267 
+268 
+268 0-1-Cell_surface-go:GO:0009986
+269 15-15-H1264-uaz:UA-CLine-100085
+270 23-23-H1264-uaz:UA-CLine-100085 35-35-H1264-uaz:UA-CLine-100085 47-47-H1264-uaz:UA-CLine-100085
+271 
+272 
+273 
+274 
+275 8-8-H1264-uaz:UA-CLine-100085
+276 10-10-H1264-uaz:UA-CLine-100085
+277 
+278 8-8-H1264-uaz:UA-CLine-100085
+279 18-18-H1264-uaz:UA-CLine-100085 23-23-TMLC-uaz:UA-CLine-100112
+280 7-7-TMLC-uaz:UA-CLine-100112
+281 
+282 
+283 
+283 7-7-human-taxonomy:9606 8-9-lung_cancer-tissuelist:TS-0571
+284 
+284 15-15-H647-uaz:UA-CLine-5683 16-17-lung_carcinoma-tissuelist:TS-0572
+285 15-15-human-taxonomy:9606
+286 11-11-H647-uaz:UA-CLine-5683 19-19-H647-uaz:UA-CLine-5683
+287 22-22-H647-uaz:UA-CLine-5683
+288 8-8-H647-uaz:UA-CLine-5683
+289 23-23-H647-uaz:UA-CLine-5683
+290 3-3-H647-uaz:UA-CLine-5683 15-15-H647-uaz:UA-CLine-5683 23-23-H647-uaz:UA-CLine-5683 35-35-H647-uaz:UA-CLine-5683
+291 29-29-H647-uaz:UA-CLine-5683
+292 
+293 
+293 
+294 
+294 16-17-lung_cancer-tissuelist:TS-0571
+295 7-7-H647-uaz:UA-CLine-5683
+296 
+297 9-10-nude_mice-taxonomy:10090 19-19-H647-uaz:UA-CLine-5683
+298 
+299 
+300 14-15-lung_tumor-tissuelist:TS-0577
+301 
+302 
+303 
+303 18-18-H647-uaz:UA-CLine-5683 25-26-nude_mice-taxonomy:10090
+304 
+305 
+306 
+307 24-24-TMLC-uaz:UA-CLine-100112 41-41-H647-uaz:UA-CLine-5683
+308 
+309 20-20-H647-uaz:UA-CLine-5683
+310 
+311 
+312 
+312 
+313 
+313 9-10-epithelial_cell-tissuelist:TS-0288
+314 
+315 
+316 
+317 
+317 
+318 
+319 
+320 
+321 
+322 
+323 
+323 17-18-cell_surface-go:GO:0009986
+324 52-52-H1264-uaz:UA-CLine-100085 103-104-lung_cancer-tissuelist:TS-0571 132-132-H1264-uaz:UA-CLine-100085 144-144-H1264-uaz:UA-CLine-100085
+325 
+326 
+326 
+327 49-49-H1264-uaz:UA-CLine-100085
+328 
+329 
+329 
+330 23-24-cell_surface-go:GO:0009986
+331 1-2-cell_surface-go:GO:0009986
+332 7-8-cell_surface-go:GO:0009986
+333 
+334 
+335 
+336 
+336 
+337 22-23-cell_surface-go:GO:0009986
+338 
+339 
+340 
+341 
+342 
+342 20-21-cell_surface-go:GO:0009986
+343 
+344 
+345 
+345 5-6-cell_surface-go:GO:0009986 20-21-cell_surface-go:GO:0009986
+346 14-15-cell_surface-go:GO:0009986 43-44-cell_surface-go:GO:0009986
+347 
+348 
+348 
+349 
+350 
+351 5-6-airway_epithelium-tissuelist:TS-0023
+352 9-10-cell_surface-go:GO:0009986
+353 
+354 26-26-circulation-uaz:UA-ORG-92
+355 
+355 
+356 
+357 
+357 
+358 
+358 
+359 
+359 4-4-SW480-uaz:UA-CLine-4399 6-6-HT1080-uaz:UA-CLine-8015 8-8-H1264-uaz:UA-CLine-100085 10-10-HepG2-uaz:UA-CLine-6371 25-25-H647-uaz:UA-CLine-5683 40-40-lung-tissuelist:TS-0568 53-53-TMLC-uaz:UA-CLine-100112
+360 3-3-H1264-uaz:UA-CLine-100085
+361 5-5-baculovirus-taxonomy:10469 13-13-RGE-uaz:UA-CLine-4267
+362 
+363 0-0-Human-taxonomy:9606
+364 49-49-human-taxonomy:9606
+365 
+365 27-27-rabbit-taxonomy:9986 46-46-Hybridoma-tissuelist:TS-0463
+366 31-31-mouse-taxonomy:10090 33-33-rabbit-taxonomy:9986 41-41-mouse-taxonomy:10090 52-52-donkey-taxonomy:9793 73-73-sheep-taxonomy:9940
+367 7-7-human-taxonomy:9606 8-8-plasma-tissuelist:TS-0800
+368 
+369 
+370 
+371 
+371 
+372 
+372 
+373 
+374 
+375 
+376 
+377 
+378 
+379 
+380 
+381 
+382 
+383 
+384 
+385 
+386 
+387 
+388 
+388 
+389 
+389 
+390 
+391 
+392 
+393 
+394 
+395 
+396 
+397 
+398 
+399 
+400 
+400 
+401 
+401 3-3-mice-taxonomy:10090
+402 8-8-myeloma-tissuelist:TS-0649
+403 
+404 
+405 14-14-rabbits-taxonomy:9986
+406 
+406 
+407 
+407 
+408 
+409 
+410 0-0-HT1080-uaz:UA-CLine-8015
+411 
+412 
+413 13-13-sheep-taxonomy:9940
+414 
+415 
+416 
+416 
+417 
+417 
+418 
+419 34-34-H1264-uaz:UA-CLine-100085
+420 
+421 13-13-TMLC-uaz:UA-CLine-100112
+422 
+423 
+424 
+425 
+426 
+427 
+428 
+428 
+429 
+429 9-9-TMLC-uaz:UA-CLine-100112
+430 
+431 
+432 
+433 16-16-TMLC-uaz:UA-CLine-100112
+434 
+435 20-20-TMLC-uaz:UA-CLine-100112
+436 11-11-HT1080-uaz:UA-CLine-8015 13-13-SW480-uaz:UA-CLine-4399
+437 20-20-TMLC-uaz:UA-CLine-100112
+438 
+439 13-13-TMLC-uaz:UA-CLine-100112
+440 5-5-TMLC-uaz:UA-CLine-100112
+441 19-19-TMLC-uaz:UA-CLine-100112
+442 
+442 4-5-lung_tumor-tissuelist:TS-0577
+443 
+443 
+444 
+445 0-0-H647-uaz:UA-CLine-5683 6-7-nude_mice-taxonomy:10090
+446 
+446 
+447 
+447 
+448 
+449 
+450 
+451 
+452 

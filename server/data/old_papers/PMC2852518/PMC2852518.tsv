@@ -1,0 +1,246 @@
+1						integrative molecular profiling of triple negative breast cancer identify amplicon driver and potential therapeutic target
+2						triple negative breast cancer ( tnbc ) have a relatively poor prognosis and can not be effectively treat with current target therapy .
+3						we search for gene that have the potential to be therapeutic target by identify gene consistently over-express when amplify .
+4						fifty-six tnbc be subject to high-resolution microarray base comparative genomic hybridisation ( acgh ) , of which 24 be subject to genome-wide gene expression analysis .
+5						tnbc be genetically heterogeneous ; no individual focal amplification be present at high frequency , although 78.6 % of tnbc harbour at least one focal amplification .
+6						integration of acgh and expression datum reveal 40 gene significantly overexpress when amplify , include the known oncogene and potential therapeutic target , fgfr2 ( 10q26 .3 ) , bub3 ( 10q26 .3 ) , rab20 ( 13q34 ) , pkn1 ( 19p13 .12 ) , and notch3 ( 19p13 .12 ) .
+7						we identify two tnbc cell line with fgfr2 amplification , which both have constitutive activation of fgfr2 .
+8						amplify cell line be highly sensitive to fgfr inhibitor pd173074 , and to RNAi silencing of fgfr2 .
+9			E1	C1,C2	treatment with pd173074 induce apoptosis result partly from inhibition of pi3k-akt signalling .	treatment with pd173074 induce apoptosis result partly from inhibition of pi3k-akt signalling .
+10						Independent validation use publicly available acgh dataset reveal fgfr2 gene be amplify in 4 % ( 6 and 165 ) of TNBC , but not in other subtype ( 0 and 214 , p = 0.0065 ) .
+11						we analysis demonstrate that tnbc be heterogeneous tumour with amplification of fgfr2 in a subgroup of tumour .
+12						introduction
+13						the identification of distinct subgroup of breast cancer have lead to the development of therapeutic strategy that exploit the underlying biology of the subtype , with hormonal therapy and her2 target agent for hormone receptor positive and her2 positive breast cancer , respectively .
+14						Tumours lack expression of hormone receptor ( oestrogen receptor ( er ) and progesterone receptor ( pr ) ) and her2 ( triple negative breast cancer , tnbc ) , on the other hand , pose a significant clinical challenge due to a poor understanding of the genetic alternation that underlie the development of tnbc and this be reflect in a lack of subtype specific target therapy .
+15						tnbc comprise a heterogeneous group of breast cancer and account for 10-15 % of all invasive breast cancer .
+16						Histologically , the majority of tnbc be grade iii invasive ductal carcinoma of no special type ( idc-nst ) , although the majority of medullary , metaplastic and adenoid cystic carcinoma also display a triple negative phenotype .
+17						these tumour be more prevalent in young woman ( < 50 year ) and in woman of african and hispanic descent .
+18						tnbc have a poor prognosis characterise by early relapse , potentially reflect the high proliferative rate of tnbc .
+19						similarly , woman with tnbc have a significantly shorter survival follow recurrence when compare to those with non triple negative cancer .
+20						therefore , the identification of novel therapeutic target for tnbc be important if the outcome of patient with these tumour be to be improve .
+21						base on the concept of oncogene addiction , we and other have demonstrate that gene that be consistently overexpress when amplify may be selectively require for the survival of cancer cell harbour they amplification , and can be exploit as potential therapeutic target .
+22						previous study have examine tnbc with expression profiling and microarray base comparative genomic hybridisation ( acgh ) .
+23						these study have find tnbc to be heterogeneous , with complex genomic profile and infrequent amplification .
+24						to identify amplicon driver and gene that have the potential to be therapeutic target in tnbc , we integrate acgh and gene expression datum from a large series of tnbc .
+25						we aim be to characterise the genomic and transcriptomic profile of tnbc and identify and validate gene that be recurrently amplify and consistently overexpress when amplify in tnbc .
+26						we find more frequent high level , focal amplification than previously describe , and identify potential therapeutic target that be consistently overexpress when amplify .
+27						we validate the fibroblast growth factor receptor 2 ( fgfr2 ) gene as one of these target and provide functional datum to suggest that this tyrosine kinase receptor may be a novel therapeutic target in a subset of tnbc harbour fgfr2 gene amplification .
+28						MATERIALS/METHODS
+29						MATERIALS/METHODS
+30						MATERIALS/METHODS
+31						MATERIALS/METHODS
+32						MATERIALS/METHODS
+33						MATERIALS/METHODS
+34						MATERIALS/METHODS
+35						MATERIALS/METHODS
+36						MATERIALS/METHODS
+37						MATERIALS/METHODS
+38						MATERIALS/METHODS
+39						MATERIALS/METHODS
+40						MATERIALS/METHODS
+41						MATERIALS/METHODS
+42						MATERIALS/METHODS
+43						MATERIALS/METHODS
+44						MATERIALS/METHODS
+45						MATERIALS/METHODS
+46						MATERIALS/METHODS
+47						MATERIALS/METHODS
+48						MATERIALS/METHODS
+49						MATERIALS/METHODS
+50						MATERIALS/METHODS
+51						MATERIALS/METHODS
+52						MATERIALS/METHODS
+53						MATERIALS/METHODS
+54						MATERIALS/METHODS
+55						MATERIALS/METHODS
+56						MATERIALS/METHODS
+57						MATERIALS/METHODS
+58						MATERIALS/METHODS
+59						MATERIALS/METHODS
+60						MATERIALS/METHODS
+61						MATERIALS/METHODS
+62						MATERIALS/METHODS
+63						MATERIALS/METHODS
+64						MATERIALS/METHODS
+65						MATERIALS/METHODS
+66						MATERIALS/METHODS
+67						MATERIALS/METHODS
+68						MATERIALS/METHODS
+69						MATERIALS/METHODS
+70						MATERIALS/METHODS
+71						MATERIALS/METHODS
+72						MATERIALS/METHODS
+73						MATERIALS/METHODS
+74						MATERIALS/METHODS
+75						MATERIALS/METHODS
+76						MATERIALS/METHODS
+77						MATERIALS/METHODS
+78						MATERIALS/METHODS
+79						MATERIALS/METHODS
+80						MATERIALS/METHODS
+82						MATERIALS/METHODS
+83						MATERIALS/METHODS
+84						MATERIALS/METHODS
+85						MATERIALS/METHODS
+86						MATERIALS/METHODS
+87						MATERIALS/METHODS
+88						MATERIALS/METHODS
+89						MATERIALS/METHODS
+90						MATERIALS/METHODS
+91						MATERIALS/METHODS
+92						MATERIALS/METHODS
+93						MATERIALS/METHODS
+94						result
+95						tnbc display complex genomic profile
+96						we establish the genomic array cgh profile of 56 tnbc with a array cgh platform with a previously validate effective resolution of 50kb .
+97						this reveal a high level of genetic instability , with gain or loss affect a median of 44.4 % of the genome ( range 9.3 % -76.7 % ) .
+98						use the genomic pattern classification propose by 15 of the tnbc ( 27 % ) be classify as ' simplex ' and 41 ( 73 % ) be consider to have ' complex ' genomic pattern , of which 28 ( 50 % ) be ' sawtooth ' and 13 ( 23 % ) be ' firestorm ' .
+99						give that the majority of tnbc display ' sawtooth ' pattern , it be not surprising that multiple region of recurrent gain and loss be identify .
+100						in agreement with previous study , loss of 1p36-p34 , 5q11-q35 , 8p23.3-p12 and 17p13-q21 and gain of 3q22-q26 , 6p25-p21 , 7q32-q36 , 8p11-q24 , 10p15.3-p11 .21 and 12p13-p11 be find in > 30 % of tnbc .
+101						recurrent high level gain and amplification be find in tnbc .
+102						at least one focal amplification ( < 10mb ) be find in 78.6 % ( 44 and 56 ) of case ; however , the prevalence of each amplification be relatively low , range from 4 % to 27 % .
+103						integrative acgh and expression analysis reveal pathway and network that be enrich for gene whose expression correlate with copy number
+104						to determine the gene whose expression level correlate with copy number , we overlay acgh and expression datum in a unbiased , genome-wide fashion .
+105						this analysis reveal that the expression of 4972 out of 24565 gene ( 20.2 % ) correlate with copy number change ( Pearson 's correlation adjust p < 0.05 , ) .
+106						this analysis suggest that a large proportion of the gene express in tnbc be at least in part regulate by copy number change .
+107						within this list we determine the gene whose expression be significantly upregulate or downregulate in the presence of copy number gain or loss respectively ( mann-whitney U adjust p < 0.05 , ) .
+108						we identify 324 gene whose mrna expression level be significantly higher in tumour harbour dna copy number gain and 39 gene whose mrna expression level be significantly lower in tumour display dna copy number loss .
+109						the lower number of gene down regulate when lose may stem from the slightly lower sensitivity of array cgh to detect loss of a single copy of a genomic region in highly aneuploid tumour , couple with the limitation of expression array to accurately determine the expression of gene express at low level .
+110						ingenuity pathway analysis ( ipa ) of gene express at higher level when gain reveal that 5 network and 27 canonical pathway be significantly enriched .
+111						importantly , the canonical pathway of growth factor that have be show to play a role in breast cancer development and progression , or to be potential therapeutic target , be significantly enrich with gene upregulate when gain .
+112						copy number gain of the tyrosine kinase receptor be rare , and the growth factor pathway enrichment reflect frequent copy number gain and over-expression of key adapter molecule and down-stream signal transduction kinase .
+113						the p53 signalling pathway be enrich for gene that be upregulate when gain , include survivin ( birc5 ) .
+114						recurrent amplify region and potential amplicon driver
+115						we next analyse the datum to identify the gene that be significantly overexpress when amplify in tnbc , compare to non amplify cancer .
+116						this analysis reveal only 40 gene ( mann-whitney U test adjust p < 0.05 , ) but include multiple gene that have be show to either have oncogenic property or to be potential therapeutic target , such as fgfr2 ( 10q26 ) , bub3 ( 10q26 ) , rab20 ( 13q34 ) , notch3 ( 19p13 ) and pkn1 ( 19p13 ) .
+117						it should be note that this analysis , with a non parametric rank sum test correct for false discovery , be intentionally conservative and will identify gene that be robustly over-express when amplify .
+118						such a analysis be not intend to be exhaustive .
+119						of the 40 gene , 38 also display expression level that correlate with copy number as assess by Pearson correlation .
+120						gene that be robustly over-express when amplify potential amplicon driver , and therapeutic target , as have be suggest for notch3 , and bub3 .
+121						fgfr2 be amplify in triple negative breast cancer and breast cancer cell line
+122						we select , for further investigation , fgfr2 amplification from the list amplify and over-expressed , as there be a number of drug in early phase clinical trial that target the fgfr .
+123						a re-analysis of datum from publicly available acgh dataset , include we current datum set , reveal fgfr2 amplification in 4 % ( 6 and 165 95 % ci 1.4-7 .8 % ) of tnbc , with no case of fgfr2 amplification in other subtype ( 0 and 214 , p = 0.0065 .
+124						Fisher 's exact test ) .
+125						exclude we datum set , the frequency be similar ( tnbc 4 % ( 4 and 109 ) vs other subtype 0 % ( 0 and 214 ) , p = 0.0125 ) .
+126						we screen a panel of 51 breast cancer cell line use a combination of acgh and western blotting of cell lysate to identify cell line with fgfr2 gene amplification and protein overexpression .
+127						we identify two cell line with fgfr2 amplification one of which , sum52pe , have be describe previously .
+128						mfm223 be find to express high level of fgfr2 protein and to harbour fgfr2 gene amplification by acgh .
+129						fgfr2 amplification be confirm by fgfr2 fish in mfm223 , and by copy number pcr .
+130						both amplified cell line express substantially higher fgfr2 mrna than all other cell line ( sum52pe 67 fold and mfm223 26 fold higher than median expression of non amplify line , ) .
+131	uaz:UA-CLine-831,uaz:UA-CLine-100102	MFM223, SUM52	C1,C2			both mfm223 and sum52 be find to be triple negative , with neither cell line express er or pr by western blotting nor harbour her2 gene amplification .
+132						fgfr2 expression and tyrosine kinase activity be require for the survival of cell line with fgfr2 gene amplification
+133						we transfect a panel of cell line with fgfr2 sirna .
+134						fgfr2 silencing selectively reduce the survival of mfm223 cell , fgfr2 amplify cell line , compare to all transfectable non amplify cell line .
+135						silencing of fgfr2 by siRNA have confirm by western blot .
+136						we then examine the sensitivity of the cell line panel to pd173074 , a highly potent selective pan-fgfr tyrosine kinase inhibitor .
+137						the fgfr2 amplify cell line be substantially more sensitive to pd173074 than all comparator cell line , indicate that fgfr kinase activity be selectively require for the growth and survival of cell line harbour fgfr2 gene amplification .
+138						ligand independent signalling in fgfr2 amplify cell line
+139			E2,E3,E4,E5	C1,C2	signalling through the fgfr family of growth receptor be reliant on the adapter protein fibroblast receptor substrate 2 alpha ( frs2 ) , which bind directly to phosphorylate fgfr form a frs2-sos-grb2 complex to activate mapk signalling and a frs2-sos-gab1 complex to activate pi3k-akt signalling .	signalling through the fgfr family of growth receptor be reliant on the adapter protein fibroblast receptor substrate 2 alpha ( frs2 ) , which bind directly to phosphorylate fgfr form a frs2-sos-grb2 complex to activate mapk signalling and a frs2-sos-gab1 complex to activate pi3k-akt signalling .
+140			E6	C1,C2	 pd173074 to inhibit fgfr2	we examine the signal transduction pathway activate downstream of fgfr2 in serum starve condition with and without pd173074 to inhibit fgfr2 kinase activity .
+141			E7,E8	C1,C2	frs2 exhibit a mobility shift , reflect phosphorylation , in serum starve amplify cell line , which be abolish by treatment with pd173074	frs2 exhibit a mobility shift , reflect phosphorylation , in serum starve amplify cell line , which be abolish by treatment with pd173074 , indicate ligand independent constitutive activation of the receptor .
+142	uaz:UA-CLine-831	MFM223	E9,E10,C3	C3	frs2 exhibit a mobility shift , reflect phosphorylation , in serum starve amplify cell line , which be abolish by treatment with pd173074	in both cell line harbour fgfr2 gene amplification , akt ser473 be phosphorylate in a fgfr kinase dependent manner , with erk1 and 2 thr202 and tyr204 phosphorylate in a fgfr kinase dependent fashion in mfm223 .
+143	uaz:UA-CLine-100102	SUM52	C4,E11	C4	phosphorylate erk 	sum52pe express low level of phosphorylate erk , which presumably be reflect in the low proliferative rate of this cell line ( datum not show ) .
+144	uaz:UA-CLine-6345,uaz:UA-CLine-8182,uaz:UA-CLine-8443	MCF7, SKBR3, HCC1143	E12,E13,C5,C6,C7	C5,C6,C7	phosphorylation of akt and erk1 	phosphorylation of akt and erk1 and 2 be independent of fgfr kinase activity in control cell line mcf7 , skbr3 and hcc1143 .
+145						fgfr2 amplify MFM223 die by apoptosis follow fgfr inhibition
+146						we investigate the mechanism of loss of survival in mfm223 on pd173074 treatment .
+147						after 48 hr treatment with pd173074 there be no significant alteration of the cell cycle profile of the mcf7 control cell line , but there be a substantial increase in subg1 cell in mfm223 .
+148						to investigate whether the increase in subg1 reflect increase apoptosis , we assess annexin v and pi staining in mcf7 and mfm223 cell treat for 48hr with pd173074 .
+149						there be no difference in the proportion of apoptotic , annexin v positive and pi negative , cell in mcf7 without and with pd173074 ( 4.8 % vs 3.5 % , p = n ) , but a substantial increase in apoptotic cell in mfm223 ( 2.3 % vs 11.4 % respectively , p < 0.001 ) .
+150						to confirm that these observation represent ligand independent signalling , we grow mfm223 in serum free medium .
+151						in the absence of serum mfm223 proliferate at a similar rate compare to cell grow in 10 % serum .
+152						in the absence of serum mfm223 be dependent on fgfr for proliferation , and undergo apoptosis in the presence of pd173074 .
+153						fgfr2 amplify cell line also have pi3 kinase pathway aberration
+154	uaz:UA-CLine-831	MFM223	E15,E14,C8	C8	AKT be highly phosphorylate in mfm223 , but that this be substantially decrease in pd173074 treat cell .	we note that AKT be highly phosphorylate in mfm223 , but that this be substantially decrease in pd173074 treat cell .
+155						to investigate whether this reflect a activate mutation in pik3ca , we sequence the helical and kinase domain of pik3ca and identify a classical h1047r kinase mutation in mfm223 .
+156						the h1047r mutation have be describe to active pi3 kinase function and transform human mammary epithelial cell .
+157						we therefore examine the effect of dual targeting of pi3 kinase and fgfr .
+158	uaz:UA-CLine-831	MFM223	C9,E16,E17,E18,E19	C9	dual pi3 kinase and mtor inhibitor bez235	treatment of mfm223 with the dual pi3 kinase and mtor inhibitor bez235 abolish akt phosphorylation and substantially increase the subg1 fraction .
+159						treatment with combination of bez235 and pd173074 increase the subg1 fraction to a greater extent than either drug give individually .
+160						similarly , dual treatment with both inhibitor have a additive effect as assess by combination index ( ci ) assay ( , ci 1.02 ) .
+161	uaz:UA-CLine-100102	SUM52	C10,E20,E21	C9,C10	 pd173074 and bez235 ( ci 0.985 ) .	sum52 have wild-type pik3ca , but do not express pten protein , and a similar additive ci be observe in sum52 cell between pd173074 and bez235 ( ci 0.985 ) .
+162					these datum suggest that dual targeting of fgfr2 and pik3ca	these datum suggest that dual targeting of fgfr2 and pik3ca may be of benefit in cancer with fgfr2 amplification .
+163						take together , we datum provide strong circumstantial evidence that fgfr2 may be a therapeutic target for a subset of TNBC harbour fgfr2 gene amplification , and that we method of integrated analysis of transcriptomic and genomic datum , focus on gene that be over-express when amplify , identify potential treatment target .
+164						discussion
+165						tnbc be genetically unstable and often harbour complex pattern of genetic aberration .
+166						use high resolution array cgh and gene expression platform , tumour with > 70 % of neoplastic cell , and only invasive ductal cancer of no special type , we have demonstrate that a substantial proportion of gene have expression level that significantly correlate with copy number in tn cancer .
+167						functional annotation of these gene use IPA reveal that the canonical pathway of several tyrosine kinase receptor involve in tumourigenesis and cancer progression be enrich for the gene upregulate by copy number gain be enrich .
+168						interestingly , copy number gain of the tyrosine kinase receptor be rare ; instead , upregulation of signal transduction kinase downstream of the receptor ( e.g. raf1 , ptk2 , pik3c2g , csnk1d , mapk9 ) and adaptor protein ( e.g. , grb2 , gab1 ) be observe .
+169						it be possible that these recurrent copy number gain , of multiple component of the canonical pathway of tyrosine kinase receptor , could create a permissive context for activation of these pathway in tn breast cancer .
+170						in addition this observation suggest that in tnbc it may be possible to identify commonly activate signal transduction pathway that could be target effectively for tnbc therapy .
+171						the majority of tnbc show loss on 1p , 2q , 3p , 4p , 5q , 8p 9q , 16q , 17p , 19p , and 23p ; and gain on 1p , 3q , 6p , 9p , 7q , 8p , 10p , and 12p .
+172						only 11 % of the tumour in we cohort show concurrent 1q gain and 16q loss , the typical change of low-grade er positive breast cancer , in agreement with we previous result suggest that progression from grade I to grade iii be a uncommon phenomenon in tnbc .
+173						it should be note that many of the region that be affect by genetic aberration in tnbc such as gain of 1q , 3q , 7q , 8q , and 10p and loss of 4p , 5q , 17p , and 8p , have also be find in tumour arise in brca1 mutation carrier .
+174						these result highlight the similarity between sporadic tnbc and tumour arise in brca1 mutation carrier and provide yet another line of evidence to suggest that , as a group , tnbc phenocopy familial brca1 tumour .
+175						similar to the her2 amplicon , whose smallest region of amplification encompass 13 gene , of which only 7 be express at significantly higher level when amplify , we analysis demonstrate that only a few gene map to region recurrently amplify in tn breast cancer be consistently overexpress when amplify .
+176						importantly , gene identify in this study as overexpress when amplify may constitute potential therapeutic target , include fgfr2 ( 10q26 ) , mitotic spindle checkpoint protein bub3 ( 10q26 ) , ra oncogene family member rab20 ( 13q34 ) , notch family member notch3 ( 19p13 ) and the protein kinase c super family member pkn1 ( 19p13 ) .
+177						we datum add to the body of evidence link aberrant fgf signaling to breast cancer pathogenesis .
+178						interestingly , a snp in fgfr2 intron 2 be a common low risk predisposition gene for breast cancer , that predispose selectively for er positive breast cancer .
+179						in contrast we datum suggest that amplification of fgfr2 be find in er negative tnbc .
+180						most tnbc exhibit high level of genomic instability , which potentially reflect a underlying defect in the process that maintain genome stability , and this defect could theoretically provide a mechanism through which some tnbc acquire fgfr2 amplfication , couple with the survival advantage confer by activate fgfr2 signalling .
+181						activate mutation in fgfr2 be find in endometrial cancer , but be rare in breast cancer .
+182			E22	C9,C10	oncogene addiction in cell line with fgfr2 gene amplification be activation of pi3k-akt signallin	we confirm that a mechanism underlie oncogene addiction in cell line with fgfr2 gene amplification be activation of pi3k-akt signalling , and result inhibition of apoptosis .
+183			E23	C9,C10	activate AKT in a fgfr kinase dependent manner	signalling in cell line harbour fgfr2 amplification appear to be ligand independent , with both cell line activate AKT in a fgfr kinase dependent manner .
+184	uaz:UA-CLine-831	MFM223	C11,E25,E24	C11	phosphorylation be predominantly under control of upstream fgfr signalling despite the presence of a activate pi3kca kinase mutation	interestingly , in mfm223 , akt phosphorylation be predominantly under control of upstream fgfr signalling despite the presence of a activate pi3kca kinase mutation , suggest that in this cell line pi3kca kinase domain mutation predominantly amplify upstream signal .
+185						likewise sum52 remain sensitive to fgfr inhibition , despite lack pten expression , concur with previous result find in fgfr2 mutant endometrial cancer cell line .
+186						we note that hcc1143 have be show to harbour a fgfr2 mutation .
+187						hcc1143 show no evidence of fgfr dependent signalling , nor dependence on fgfr for proliferation , suggest the mutation identify ( r203c ) do not active the receptor .
+188						here , we have identify a higher number of recurrent amplification in tn cancer than previously report , possibly due to the use of sample with > 70 % of tumour cell , which reduce the bias introduce by the contamination with diploid non neoplastic cell ( i.e. stromal cell and inflammatory infiltrate ) .
+189						in fact , 76.8 % of the tumour analyse in this study harbour at least one focal ( < 10mb ) amplification .
+190						however , the majority of these amplification be show to occur at low frequency , confirm that at the genomic level tnbc be genomically heterogeneous .
+191						to develop therapeutic strategy direct at driver of the recurrent amplicon in TNBC will be challenging , require comprehensive molecular pathology analysis of primary tumour to select the appropriate target therapy for the individual tumour .
+192						a novel approach to clinical trial design would also be require if rare oncogenic target be to be validate .
+193						a alternative approach to the therapy of tnbc would be to identify shared signal transduction pathway that could be target for tumour treatment without target the oncogene directly .
+194						Supplementary Table 1
+195						Supplementary Table 7
+196						Supplementary Table 8
+197						Supplementary Table 9
+198						Supplementary Table 10
+199						Supplementary Figure Legends , method
+200						Supplementary figure
+201						Supplementary Table 2
+202						Supplementary Table 3
+203						Supplementary Table 4
+204						Supplementary Table 5
+205						Supplementary Table 6
+206						Figure 1
+207						genomic alteration in triple negative breast cancer .
+208						a ) frequency of gain and loss in 56 tnbc profile with acgh .
+209						the proportion of tumour in which each clone be gain ( green bar ) or lose ( red bar ) be plot ( y axis ) for each bac clone accord to genomic location ( x axis ) .
+210						b ) the proportion of tumour in which each clone be amplify ( green bar ) be plot ( y axis ) for each bac clone accord to genomic location ( x axis ) .
+211						bac clone be categorise as amplify if the ( log2 ratio ) cb ratio be > 0.45 .
+212						figure 2
+213						match heatmap of expression and acgh within region of recurrent amplification in 24 tnbc .
+214						a ) 19p13 .12 amplicon ; b ) 13q34 amplicon ; c ) 10q26 .13 amplicon ; d ) 10p14 amplicon .
+215						for each amplicon , gene within the amplified region be recover and median acgh value and state be assign .
+216						sample be separate into those harbour a amplification within the region and those that do not .
+217						expression and cb value be depict in two match heatmap ( acgh state on the left and expression value on the right ) in which the gene be order accord to they chromosomal position and the tumour order accord to the sum of they acgh value .
+218						in the correlation box , red bar indicate correlate gene whose expression significantly correlate with amplification ( mann-whitney U test adjust p < 0.05 ) , whereas blue bar indicate non significant gene ( mann-whitney U test adjust p < 0.05 ) .
+219						acgh : green : copy number loss ; black : no copy number change ; dark red : copy number gain ; bright red : gene amplification ; gene expression : green : downregulation , red : upregulation .
+220						Figure 3
+221						fgfr2 amplify cell line be sensitive to fgfr2 silencing and fgfr inhibition .
+222						a ) western blot of cell line of 15 breast cancer cell line , demonstrate over-expression of fgfr2 protein in mfm223 .
+223						fgfr2 be frequently observe as a doublet , that reflect different glycosylation state of the extracellular domain .
+224						b ) chromosome 10 acgh profile of mfm223 and sum52pe with a gray box indicate the smallest region of amplification of the fgfr2 amplicon .
+225						c ) fish for chromosome 10 centromere ( red ) and fgfr2 ( green ) on mfm223 cell .
+226						mfm223 demonstrate unquantifiable high number of fgfr2 signal .
+227						the fgfr2 probe be specific for the fgfr2 locus .
+228						d ) sensitivity of breast cancer cell line to fgfr2 sirna , demonstrate sensitivity of mfm223 ( red ) to fgfr2 silencing .
+229						cell line be transfect with fgfr2 sirna , or sicon non target control , and survival assess at 5-7 day post transfection with cell Titre-Glo ( r ) cell viability assay ( Promega ) .
+230						survival of fgfr2 sirna transfect cell be express relative to that of sicon transfect .
+231						e ) graph : select cell line be grow for 96 hr in media supplement with a range of concentration of pd173074 pan fgfr tyrosine kinase inhibitor , and survival express relative to that of untreated cell .
+232						fgfr2 amplify cell line in Red .
+233						error bar represent sem .
+234						Table : ic50 of breast cancer cell line to 96hr treatment with pd173074 .
+235						Figure 4
+236						a ) signalling downstream of fgfr2 in amplify cell line .
+237						indicate cell line be grow either in 10 % serum , or serum starve for 24 hr , and lysate be make after 1hr exposure to 1mum pd173074 ( + ) , or no exposure ( - ) , as indicate .
+238						lysate be subject to sds-page and western blotting with antibody against fgfr2 , phosphorylate frs2-tyr196 , phosphorylate akt1-ser473 , phosphorylate erk1 and 2-thr 202 and tyr204 , ccnd1 , and beta-actin .
+239						b ) side-by-side comparison of lysate from mfm223 grow in 10 % serum or serum starve , with or without 1mum pd173074 , with skbr3 lysate for comparison .
+240						Figure 5
+241						fgfr inhibition induce apoptosis in mfm223 partly through loss of AKT signalling .
+242						a ) pi cell cycle profile in mcf7 and mfm223 treat with vehicle or 1mum pd173074 for 48 hr .
+243						b ) annexin v / pi staining in mcf7 and mfm223 treat with vehicle or 1mum pd173074 for 48 hr .
+244						example plot from one experiment , with proportion of apoptotic annexin v positive and pi negative cell from three independent experiment : mcf7 without and with pd173074 ( 4.8 % vs 3.5 % respectively , p = n ) , mfm223 without and with pd173074 ( 2.3 % vs 11.4 % respectively , p < 0.001 student 's t test ) .
+245						c ) fraction of cell in subg1 , as assess by pi fac , after 24 hour exposure to 1mum pd173074 , bez235 250nm , or combination of both inhibitor .
+246						display mean of three independent experiment .
+247						error bar sem and * p < 0.01 ( student 's t test ) .

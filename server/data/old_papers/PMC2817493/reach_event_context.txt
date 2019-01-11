@@ -1,0 +1,3 @@
+Positive_activation	74	Species	1694
+Positive_activation	74	TissueType	3121
+Positive_activation	74	CellType	11755

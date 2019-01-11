@@ -1,0 +1,248 @@
+1						p107 in the public eye : a rb understudy and more
+2						p107 and its related family member rb and p130 be critical regulator of cellular proliferation and tumorigenesis .
+3						due to the extent of functional overlap within the rb family , it have be difficult to assess which function be exclusive to individual member and which be share .
+4						like its family member , p107 can bind a variety of cellular protein to affect the expression of many target gene during cell cycle progression .
+5						unlike rb and p130 , p107 be most highly express during the g1 to s phase transition of the cell cycle in actively divide cell and accumulate evidence suggest a role for p107 during dna replication .
+6						the specific role for p107 during differentiation and development be less clear , although emerge study suggest that it can cooperate with other rb family member to control differentiation in multiple cell lineage .
+7						as a tumor suppressor , p107 be not as potent as rb , yet study in knockout mouse have reveal some tumor suppressor function in mouse , depend on the context .
+8						in this review , we identify the unique and overlap function of p107 during the cell cycle , differentiation , and tumorigenesis .
+9						review
+10						introduction
+11						the rb tumor suppressor be first identify as the gene whose loss cause hereditary retinoblastoma in child [ - ] .
+12						further study identify a variety of cancer with mutation in the rb gene or deregulation of the rb pathway , lead to the hypothesis that rb be a major tumor suppressor whose loss of function be a common factor in most human tumor .
+13						independent study with viral oncogene such as sv40 large t antigen , adenovirus e1a , and human papilloma virus e7 show that rb could be bind and inactivate by these oncoprotein , lead to the transformation of various cell type [ - ] .
+14						these discovery have pave the way for over 20 year of study on the mechanism of cell cycle control and tumor suppression .
+15						but rb be not the only protein that could bind to these viral oncoprotein , and the exact region necessary for bind to rb could also bind two other cellular protein , eventually identify as p107 and p130 [ - ] .
+16						together , the rb gene family make up a critical component of the cell cycle machinery and be conserve across many species [ review in ] .
+17						however , we still do not have the answer to many essential question about how these gene function and in what cellular context they be require for cell cycle control and tumor suppression .
+18						additionally , the overlap function of each of the three gene further complicate we understanding of how they control critical cellular function such as exit from and entry into the cell cycle , differentiation , and cell death .
+19						we will focus this review on we understanding of p107 and what be know about its function in the cell cycle , cellular differentiation , and tumor suppression .
+20						evolution of the rb gene family
+21						rb related gene can be find across multiple species , include human , mouse , chicken , reptile , fly , and even some plant .
+22						most unicellular and lower organism have only one rb related gene , while higher organism tend to have two or three family member , perhaps reflect a increase complexity of cell cycle control in these species .
+23						for example , the unicellular alga chlamydomona reinhardtius only contain one rb like gene ( mat3 ) , whose loss lead to a deregulation of proliferation and a reduced cell size .
+24						in yeast , the gene whi5 appear to play a functionally similar role to rb , despite a lack of sequence homology [ - ] .
+25						most plant species seem to contain only one rb related gene , although recently a second rb related gene be identify in maize and rice .
+26						caenorhabditis elegan also contain one rb like gene , lin-35 , which in sequence homology be more similar to p107 than to rb .
+27						further up the evolutionary scale , a independent gene duplication be think to have create two rb related gene in drosophilum , rbf1 and rbf2 [ - ] .
+28						like lin35 in C. elegan , these two gene be more similar to mammalian p107 and p130 than they be to rb itself .
+29						interestingly , the gene duplication event in plant and fly be only two example of many duplication event within the rb family over the course of evolution as additional duplication event have occur in Gallus gallus ( chicken ) , danio rerio ( zebrafish ) , and Anolis carolinensis ( lizard ) .
+30						Figure 1
+31						phylogenetic tree illustrate the evolutionary relationship among rb family homolog in several different species .
+32						Branch length correspond to the estimate evolutionary distance between protein sequence .
+33						the protein sequence homology be show in block on the right .
+34						tree be construct use the alignment analyzer from the Sol Genomics Network .
+35						these observation suggest that the ancestral rb family gene be closer to p107 or p130 than to rb itself .
+36						base on the sequence similarity , many of the rb related gene in non mammal resemble p107 or p130 more so than rb , suggest that rb be likely to be the more recent addition to the family .
+37						in other word , p107 and p130 may be closer in sequence to the ancestral rb gene than rb itself .
+38						regardless , it be striking that a ancestral rb like gene exist and have evolve across numerous species , often independently undergo duplication multiple time throughout evolution .
+39						furthermore , once duplicated , these rb related gene independently evolve complex regulatory system in which one rb related gene can be transcriptionally regulate by the other , as be observe in fly , plant , and mammal [ - ] .
+40						this repeat and independent evolution of the gene family and its associated regulatory network emphasize the critical role the rb related gene share in control the cell cycle across many different species .
+41						but why be there such a strong selection for multiple rb gene across so many species ?
+42						if two or more gene perform identical function , then there would be no selection to keep all of they throughout evolution .
+43						one explanation for the selection to keep multiple rb family member be that they have evolve unique function in addition to they overlap function , which would allow for individual member to be essential in different cellular process or cell type .
+44						another explanation be that they may individually become more specialize after duplication , with one gene lose some function in favor of other .
+45						finally , it be also possible that the regulatory region surround the rb family gene become mutate instead of the coding sequence itself .
+46						this type of mutation would allow the protein to retain redundant function , but be regulate in different way or express in different pattern throughout the organism .
+47						give the wide variety of way in which the individual rb family member be express and they unique and overlap cellular function in different organism , it be likely that the rb gene family undergo multiple round of subfunctionalization and neofunctionalization over time .
+48						these observation raise the question of why p107 be retain throughout the evolution of higher organism , and what specific function it perform in mammalian cell .
+49						characterization and expression
+50						p107 , or rb like 1 ( rbl1 ) as it be originally name , be identify through its interaction with sv40 large t antigen and adenovirus e1a .
+51						structurally , p107 contain a bipartite pocket structure similar to rb , but it share more sequence homology with p130 .
+52						both p107 and p130 contain the a and b region of the pocket domain separate by a spacer region .
+53						both p107 and p130 also contain insertion in the c-terminal b pocket that be absent from rb , as well as a distinct cyclin binding domain in the spacer region between the a and b pocket domain .
+54						additionally , p107 and p130 also contain a cdk inhibitor domain in the n-terminus that be not present in rb .
+55						figure 2
+56						schematic diagram of the shared domain for p107 , p130 , and rb .
+57						p107 and p130 be more similar to each other than to rb due to more extensive sequence homology and the shared cyclin binding and cdk inhibitory domain .
+58						region of p107 know to be important for specific protein interaction be show above in block line .
+59						the minimal sequence require for bind sp1 and b-myb have not yet be identify , however the region n-terminal from the pocket domain have be show to be critical for bind to both protein .
+60						unlike rb and p130 , p107 level be generally , but not always , low in quiescent and differentiate cell and higher when cell proliferate [ - ] .
+61						p107 molecule can be detect in both the cytoplasm and the nucleus in various cell type .
+62						it be think that p107 bind to repressor e2f family member such e2f4 in the cytoplasm to bring these repressor to they target gene in the nucleus .
+63						during g1 and in early s phase of the cell cycle , high-resolution deconvolution microscopy have reveal that p107 and its family member can be find in perinuclear focus , where they co-localize with e2f and hdac protein .
+64						these complex be largely find in interchromatin region , where active transcription be think to occur .
+65						whereas p130 and e2f4 complex be mainly find in g0 and g1 phase , p107 and e2f4 complex increase after g1 and be largely find in s phase .
+66						these datum suggest that p107 can recruit transcription factor from the cytoplasm and the nucleus to regulate transcription at the promoter of actively transcribe gene .
+67						of the three rb family member , p107 be think to be the most heavily regulate at the transcriptional level .
+68						p107 itself be a known e2f target gene , contain two e2f consensus site in its promoter .
+69						upon rb ablation , increase e2f activity be think to cause a increase in p107 expression , which may be able to compensate for the loss of rb in certain context [ - ] .
+70						indeed , many cell type express increase level of p107 in the absence of rb [ - ] .
+71						one hypothesis be that rb directly control p107 expression through direct binding to e2f at the p107 promoter .
+72						interestingly , in the absence of p107 , no significant increase be see in rb or p130 , suggest that one of the main function of p107 may be to serve as a backup for loss of rb .
+73						cell cycle function
+74						p107 , like p130 and rb , be a substrate for cyclin and cdk kinase activity during cell cycle progression , which be think to cause p107 to release e2f transcription factor and relieve repression of target gene promoter [ - ] .
+75						in quiescent cell , p107 be usually express at low level and be generally hypophosphorylate similarly to rb ; p107 become phosphorylate as cell progress towards s phase , with the first phosphorylation event occur roughly when cyclin d and cdk4 be activate .
+76						thus , the highest expression level of p107 in s phase correlate to a time when the protein be functionally deactivate by phosphorylation .
+77						after s phase , p107 remain phosphorylate throughout the rest of the cell cycle until the next g1 phase , when it be rapidly dephosphorylate , presumably by phosphatase 2a , and can bind e2f target gene in late g1 and s phase before it be hyperphosphorylate again [ - ] .
+78						once bind to e2f , rb family member repress transcription through a variety of method .
+79						the rb family can directly recruit chromatin modify enzyme such as histone deacetylase hdac1 , which alter chromatin structure around the e2f site to repress transcription at e2f target gene [ - ] ; alternatively , rb family member may interfere with pre and initiation complex assembly at the promoter of e2f target gene .
+80						while rb mainly associate with e2f1 , e2f2 , e2f3 , and e2f4 in vivo , p107 preferentially bind to e2f4 and e2f5 at the promoter of e2f target gene in cycling cell [ - ] .
+81						in quiescent cell , p107 level be generally low , and not detect at target gene promoter .
+82						in the absence of rb , however , p107 may play a compensatory role and can be find in complex with e2f1-3 , and transcription of e2f target can be regulate normally , at least in certain context .
+83						interestingly , in the combined absence of p107 and p130 , some e2f target gene be deregulate such as those code for e2f1 , cyclin a2 , b-myb , dhfr , and cdc2 , and these target be different than the one deregulate in the absence of rb .
+84						this evidence suggest that rb can not compensate for the loss of p107 and p130 at certain promoter , and that certain e2f target gene rely on either rb or p107 and p130 for normal expression and regulation .
+85						while the basis for this specificity be unknown , it point to some unique function of p107 and p130 that be distinct from rb .
+86						a remain question be whether p107 and p130 themselves share the same target , or whether they each bind to a distinct set of e2f target gene in vivo .
+87						future experiment should aim to identify more extensive set of target gene bind by individual rb family member in various cellular context .
+88						experiment such as genome-wide chromatin immunoprecipitation follow by sequencing ( chip-seq ) with antibody specific to p107 , p130 , and rb in different cell type or at different phase of the cell cycle may help to shed light on this question .
+89						in addition to its role as a transcriptional repressor of e2f activity , p107 may also control entry into s phase by regulate the level of the f-box protein skp2 within a cycling cell .
+90						p107 can down-regulate skp2 level , cause the stabilization of the cell cycle inhibitor p27 .
+91						stabilize p27 can then bind and inhibit cyclin e and cdk2 complex , which be essential for the progression into s phase .
+92						recent evidence further point to a unique role for p107 during s phase , in addition to its function in late g1 .
+93						while saos-2 cell transiently transfect with physiologic level of rb arrest in g1 , the same cell transfect with physiologic level of p107 arrest in both g1 and s phase .
+94						a small pool of under-phosphorylated p107 persist throughout s-phase , and this pool may interact with other cell cycle regulator such as smad3 to repress transcription of cell cycle gene like c-myc .
+95						in response to dna damaging agent such as uv irradiation or addition of cisplatin , p107 can be rapidly dephosphorylate in cell progress though s phase , and the phosphatase responsible for the de-phosphorylation of p107 may be protein phosphatase 2a .
+96						this increase in hypophosphorylate p107 in response to dna damage be independent of p53 or p21 activity , as cell with a null mutation in either inhibitor can still dephosphorylate p107 after dna damage .
+97						this evidence suggest a model in which massive dephosphorylation of p107 in response to genotoxic stress can contribute to the dna damage response by invoke cell cycle arrest , although the exact mechanism for how p107 induce a s-phase arrest be still unknown .
+98						p107 and p130 bind to and inhibit cyclin e and cdk2 and cyclin a and cdk2 kinase through a unique spacer region in between the a and b pocket that be not present in rb [ , , - ] .
+99						this region be phosphorylate when bind by cyclin and cdk complex .
+100						in addition to the spacer region , there be a domain in the amino-terminus of both pl07 and p130 that can inhibit cyclin and cdk kinase activity similarly to the cyclin-dependant kinase inhibitor p21 and p27 .
+101						p107/cyclin/cdk complex can be find in two distinct population within a cell : those that contain e2f4 and dp complex and those that do not .
+102						recent evidence suggest that cyclin d1 itself can bind to the promoter of many gene , and it would be interesting to determine whether cyclin d binding have any correlation to know p107 or e2f target gene .
+103						through its n-terminus region , p107 bind the transcription factor sp1 and repress sp1 transcriptional activation , and this interaction may be unique to p107 among rb family member .
+104						in transient transfection assay , p107 can repress sp1 transcription activation , and endogenous sp1/p107/e2f4 complex have be identify at the promoter of the fgfr1 gene in chick myoblast .
+105						additionally , the n-terminal domain of p107 can bind to the transcription factor b-myb , which compete with binding of cyclin and cdk complex and prevent they sequestration by p107 .
+106						the n-terminus of p107 can also bind to smad3 in response to tgfbeta signaling , and in this context p107 serve as a adaptor that be require to bring both e2f4-5 / dp complex and smad3 to the nucleus .
+107						once in the nucleus , p107 and e2f4 -5 / smad3 complex bind to the promoter of c-myc and repress its transcription .
+108						this interaction can explain how tgfbeta signaling be able to selectively repress c-myc transcription upstream of cyclin and cdk inactivation , and it be a unique function of p107 , as rb and p130 be unable to bind to smad3 .
+109						interestingly , p107 can also directly bind c-myc through the pocket domain and prevent its transactivation in transient transfection assay .
+110						these experiment provide additional evidence for the many way in which p107 be able to inhibit cell cycle progression through multiple interaction with various transcription factor and other protein in addition to e2f ( summarize in Table ) .
+111						in vivo phenotype for loss of p107 function in mouse
+112						proper development require the tight integration of cell cycle control , differentiation signal , migration , and cell death .
+113						interestingly , numerous study have demonstrate that rb can not only affect cell cycle arrest in multiple cell lineage , but it can also interact with tissue specific differentiation factor to promote the transcription of differentiation gene [ review in [ - ] ] .
+114						like rb , p107 have also be implicate in the regulation of numerous cell type during development , however its specific function in different cell type be much less well define .
+115						do p107 affect differentiation largely though its influence on cell cycle control ?
+116						or can it , like rb , integrate control of classical cell cycle gene and tissue specific differentiation gene ?
+117						p107 deficient mouse in a mixed 129 and Sv : c57 and bl6 background be viable and fertile , and mouse embryonic fibroblast ( mef ) derive from these animal display no significant cell cycle defect .
+118						interestingly , p107 deficient mouse in a balb and c background show a severe postnatal growth deficiency , as well as myeloid hyperplasium in the spleen and liver .
+119						mef and myoblast derive from these animal exhibit increase proliferation that be associate with constitutive expression of cyclin e .
+120						these mouse have a significant decrease in white adipose tissue differentiation , although this decrease in differentiation be show to be due to the fact that p107-/- pre-adipocyte could not upregulate rb , which be require to initiate differentiation in vivo through interaction with pgc1alpha .
+121						p107 and p130 seem to play overlap role during embryonic development in the mouse , and one reason for the lack of severe phenotype in the p107-/- mouse may be due to compensation from p130 or rb .
+122						p107-/-_NN ; p130-/- embryo die at birth with multiple defect in tissue development .
+123						interfollicular keratinocyte from p107-/-_NN ; p130-/- newborn show impaired terminal differentiation in the epidermis , decrease number of hair follicle , and a developmental delay in hair , whisker , and tooth formation .
+124						these defect may be due to a general decrease in the amount of critical signal molecule such as bmp and p63 in the double knockout epidermis , and imply that p107 can contribute to epithelial development along with p130 .
+125						p107 have also be implicate in the control of bone and cartilage development .
+126						double knockout p107-/-_NN ; p130-/- embryo as well as p107-/-_NN ; p27-/- embryo display defect in ossification of the long bone and chondrocyte proliferation .
+127						during chondrogenesis , fgf signaling induce a potent cell cycle arrest , and dephosphorylation of p107 be one of the earliest distinguishing event during this process , occur 10-11 hour sooner than dephosphorylation of rb and p130 .
+128	tissuelist:TS-0138	developing chondrocytes	e1,c1	c1	overexpression of cyclin and cdk complex in develop chondrocyte prevent the dephosphorylation of p107 	overexpression of cyclin and cdk complex in develop chondrocyte prevent the dephosphorylation of p107 and completely abolish the growth suppression affect mediate by fgf signaling .
+129			e2,e3	c1	interaction between the protein phosphatase pp2a and p107	biochemical study in these cell have identify a interaction between the protein phosphatase pp2a and p107 , suggest a model in which fgf signaling stimulate pp2a to rapidly dephosphorylate p107 , which result in a robust cell cycle arrest .
+130						interestingly , fgf signaling in most other cell type have the opposite affect on cell growth ; fgf signaling in these tissue trigger rapid phosphorylation of rb family member and cell proliferation .
+131						Figure 3
+132						propose mechanism for how p107 can control neuronal differentiation and endochondral bone formation .
+133						p107 can bind to e2f and potentially inhibit the transcription of hes1 and fgf2 , two gene involve in cell cycle control , survival , and cell fate decision during neurogenesis ( leave panel ) .
+134						during endochondral bone formation in mesenchymal progenitor , fgf signaling can induce the direct binding and de-phosphorylation be p107 by pp2a , which then lead to p107 mediate repression of target gene .
+135						although the direct target of p107 in this context have yet to be identify , candidate such as e2f1 and cbfa1 have both show to be critical mediator of bone and chondrocyte development and be deregulate in the absence of p107 and p130 .
+136						in the adult mouse brain , p107 expression be unique from the other rb family member in that it be restricted to cycling progenitor cell in the ventricular zone , and its expression decrease as these cell begin to differentiate into cortical neuron .
+137						rb itself remain fairly consistently express throughout the transition from progenitor to neuron , and p130 expression increase with neuronal differentiation .
+138						in the develop cortex of the mammalian brain , p107 may regulate the decision for a progenitor cell to exit the cell cycle and commit to a neuronal fate .
+139						p107 have be show to negatively regulate neural precursor cell self-renewal both in vitro and in vivo .
+140						newly commit neuron that lack p107 die in the ventricular zone ( vz ) before they can begin migrate out of the vz or express marker associate with neuronal differentiation .
+141						this apoptosis in the ventricular zone cause mouse without p107 to have decrease number of neuron in the develop frontal cortex .
+142						the mechanism for how p107 can control cell cycle exit and fate decision in neural progenitor be still relatively unknown .
+143			e4	c2,t1	 p107 act through the repression of hes1	one potential explanation be that p107 act through the repression of hes1 , a key downstream target of the notch signaling pathway , since p107 deficient animal display increase hes1 signaling .
+144	uaz:UA-ORG-623,tissuelist:TS-0095	neural progenitors, brain	e5,c2,t1	c2,t1	several e2f binding site have be locate in the hes1 promoter	several e2f binding site have be locate in the hes1 promoter , and loss of one allele of hes1 be enough to partially restore the number of neural progenitor to wild type level in p107-/- brain .
+145						this interaction seem to be specific to p107 , as rb can not repress the expression of the hes1 promoter in luciferase assay .
+146						to date , however , hes1 have yet to be prove to be a direct target of p107 .
+147						p107 may also be act through the fgf growth factor signaling pathway to control the number of neural precursor in embryonic and adult brain .
+148						fgf be a critical factor to promote the proliferation and survival of neural precursor in the develop embryonic brain [ - ] .
+149						like hes1 , the expression of fgf2 ( but not fgf1 , fgfr1 , or fgfr2 ) be increase in neural progenitor of p107 deficient brain .
+150	uaz:UA-ORG-623,tissuelist:TS-0095	neural precursors, brain	e6,t2,c3	t2,c3	 p107 be show to repress e2f3 activity at the promoter of fgf2 	recently , p107 be show to repress e2f3 activity at the promoter of fgf2 , a essential growth factor that modulate the population of neural precursor in the develop brain .
+151						however , this model for p107 regulation of neural precursor do not explain why the increase in cell death observe in p107-/- brain , as increase fgf2 would be expect to promote survival .
+152						therefore , the mechanism drive apoptosis in p107-/- progenitor may be independent of fgf2 signaling , and have yet to be identify .
+153	tissuelist:TS-0138,uaz:UA-ORG-623	chondrocytes,neurons	c4,c5,e7,e8	c4,c5	 fgf signaling can indirectly activate p107 , which could then repress fgf signaling through direct promoter binding .	the two example in chondrocyte and neuron suggest a scenario in which fgf signaling can indirectly activate p107 , which could then repress fgf signaling through direct promoter binding .
+154						although this feedback loop between p107 and fgf have yet to be identify within one specific cell type , it suggest the potential for a complex regulatory system for p107 and growth signaling during development .
+155						recent study have uncover function of p107 that overlap with rb during development .
+156						additional loss of p107 shorten the lifespan of rb-/- embryo from birth to e14 .5 , and further increase the abnormal level of proliferation and apoptosis that be present in the central nervous system and the ocular lens of rb deficient embryo .
+157						mutation of p107 in a rb deficient background also cause heart development defect that be not see in the rb deficient or p107 deficient embryo alone .
+158						these heart defect be likely the result of blood vessel endothelium and endocardial cell proliferation in the absence of both rb and p107 .
+159						additionally , the cerebellar architecture be severely disrupt in adult mouse lack both rb and p107 in the dorsal mid-hind brain junction , and these mouse exhibit impaired terminal differentiation and migration defect in granule cell precursor , in addition to increase granule cell apoptosis upon maturation .
+160						while the mechanism underlie these defect be unknown , it be possible that p107 may be act as a co-factor for neuron specific protein such as neurod1 , a basic helix-loop-helix transcription factor know to be important in the development of mature neuron .
+161						thus , p107 can partially or fully compensate for the loss of rb in several tissue during development .
+162						tumor suppression
+163	tissuelist:TS-0871,tissuelist:TS-0723	pediatric retinoblastoma,osteosarcoma	c6,c7			rb be mutate in a variety of sporadic and familiar human cancer , most notably in pediatric retinoblastoma and osteosarcoma .
+164	taxonomy:9606	human	s1			mutation in p107 itself have not be observe in human tumor .
+165						so far , the only observe deletion of p107 have be characterize in myeloproliferative disorder , where a large region of chromosome 20q contain up to 115 gene be delete [ - ] .
+166						despite the lack of mutation or deletion of p107 in human tumor , it still may play a role in tumorigenesis , as mutation in upstream regulator of the rb family be common .
+167			e9,e10,e11,e12,e13,e14	c6,c7,s1	inactivation of inhibitor such as p16 , or activate mutation in cyclin and cdk complex functionally inactivate rb , p107 , and p130 by hyperphosphorylation	inactivation of inhibitor such as p16 , or activate mutation in cyclin and cdk complex functionally inactivate rb , p107 , and p130 by hyperphosphorylation , suggest that inactivation of all three rb family member be necessary for tumorigenesis in multiple setting .
+168						this finding highlight the ability of the rb family protein to fulfill overlap or redundant role in a variety of cellular context .
+169						it be clear that p107 be not a strong tumor suppressor by itself , as mouse with mutation in p107 do not develop spontaneous tumor .
+170						since p107 and p130 have overlap function during development , it be postulate that compound mutation of both gene might give rise to tumor in mouse .
+171						study of heterozygous p107+ / - ; p130-/-_NN and p107-/-_NN ; p130+ /- mouse reveal no spontaneous loss of either p107 or p130 allele and no obvious tumor phenotype .
+172						while cancer development in adult p107-/-_NN ; p130-/- mouse have not be describe , these study suggest that p107 and p130 do not by themselves have tumor suppressor function in the mouse .
+173						however , these observation do not exclude the possibility that p107 and and or p130 may act as tumor suppressor in other context .
+174						interestingly , in the context of rb loss , p107 can contribute some tumor suppressor function within a cell .
+175						mouse with mutation in rb specifically in the epidermis develop epidermal hyperplasium and hyperkeratosis , however these mouse do not develop tumor .
+176						compound mutation of both rb and p107 lead to papillomatous lesion within about 4 week ; these lesion progress to squamous cell carcinoma shortly thereafter .
+177						just one wild-type allele of p107 be enough to confer tumor suppression in this tissue .
+178						interestingly , one allele of p107 be also sufficient to confer tumor suppression in study of myeloproliferation in rb family triple knock out mouse .
+179						the lung epithelium be also sensitive to p107 loss in the absence of rb .
+180						rb-/-_NN ; p107-/- lung show increase proliferation compare to rb-/- lung , and double knockout lung epithelium develop adenoma or adenocarcinoma by 5 to 15 month of age .
+181						in contrast , rb-/-_NN ; p130-/- lung do not develop spontaneous tumor in this setting , indicate that p107 , but not p130 , can enhance rb tumor suppressor activity in the lung epithelium .
+182						while mutation of rb in human patient predispose they to retinoblastoma and osteosarcoma , mouse with mutation in rb develop a entirely different spectrum of tumor ; pituitary and thyroid tumor be the most common malignancy , but not retinoblastoma or osteosarcoma .
+183						this unexpected tumor spectrum in rb deficient mouse may be due to a functional compensation by p107 or p130 .
+184						indeed , some evidence exist for a upregulation of p107 protein in the absence of rb in murine retina , as discuss above .
+185						a critical question , however , be whether p107 and p130 can suppress tumorigenesis similarly to rb , or whether they have different tumor suppressor capability altogether .
+186						p107 be express highly in retinal progenitor as they actively cycle during the late-stage of embryonic development .
+187						p130 , on the other hand , be only express at later postnatal stage of development in post-mitotic neuron .
+188						consistent with this observation , the combined loss of rb and p107 during embryogenesis result in massive retinal dysplasium , whereas compound deletion of rb and p130 have the same affect as delete rb alone .
+189						massive retinal dysplasium be also see in adult chimeric mouse model lack both rb and p107 in the retina .
+190						these result point to a potential role for p107 in suppress retinoblastoma in mouse .
+191						the use of the cre-lox technology and conditional mouse model reveal further insight into the tumor suppressor function of p107 .
+192						Retina specific deletion of rb on a p107-/- background with pax6alpha -cre or chx10-cre mouse lead to predominantly unilateral retinoblastoma with about 60 % penetrance .
+193						interestingly , rb-/-_NN ; p130-/- retina in the same system develop bilateral tumor with half of the tumor latency .
+194						the slower kinetics and partial penetrance of the rb-/-_NN ; p107-/- retina suggest that p107 mutation in this context be not always sufficient for tumorigenesis .
+195						a critical question that remain from these study be whether the rb-/-_NN ; p107-/- tumor still retain functional p130 .
+196						interestingly , mouse retina with triple compound mutation of rb , p107 , and p53 develop much more aggressive bilateral retinoblastoma in only a few month , suggest that indeed , additional mutation be necessary for retinoblastoma formation in this context .
+197						while it appear that p130 be a more potent tumor suppressor than p107 in retinal progenitor , p107 can still function as a tumor suppressor in specific cell type in the mouse retina .
+198						study of post-mitotic differentiate neuron of the inner nuclear layer ( inl ) of the retina show that rb expression be redundant with p130 .
+199						in the absence of both rb and p130 in this cell type , presence of p107 be sufficient to prevent retinoblastoma .
+200						however , in the absence of even one copy in this context , p107 be show to be haploinsufficient for retinoblastoma development .
+201						aggressive retinoblastoma arise from chx10-cre ; Rblox and lox ; p130-/-_NN ; p107+ /- horizontal neuron several week faster than retinoblastoma from chx10-cre ; Rblox and lox ; p130-/- retina .
+202						thus , it appear that in the INL of the retina , one copy of p107 be not enough to prevent tumorigenesis , whereas in other context , such as in hematopoietic progenitor , one copy of p107 be strong enough to prevent tumorigenesis .
+203						the mechanism underlie these contextual difference have yet to be identify .
+204						rb-heterozygosity result in retinoblastoma with 100 % penetrance in human but be not sufficient to cause retinoblastoma in mouse .
+205						this difference in mouse may be due to the ability for other family member , namely p107 , to compensate for the loss of rb in this context .
+206						interestingly , human retinal cell do not upregulate p107 in response to rb loss , whereas mouse retinal cell do .
+207	uaz:UA-ORG-805,taxonomy:10090,taxonomy:9606	retinas,mouse,human	t3,s2,s3,e15	t3,s2,s3	p107 promoter contain two tandem e2f binding site .	this difference may be due to different transcriptional regulation of p107 expression in mouse and human retina ; both mouse and human p107 promoter contain two tandem e2f binding site .
+208						the mouse promoter have a single point mutation in the proximal 3 ' e2f site that may affect the binding of e2f or other transcriptional machinery that be recruit there .
+209						alternatively , difference in the surrounding promoter region may be able to explain why one species can upregulate p107 in response to rb loss in specific context , while the other can not .
+210						these difference in p107 transcriptional regulation may also be see within the different tissue of the same organism .
+211						for example , if deregulation of the rb pathway can be find in almost all human tumor , why , then , do rb heterozygous patient primarily only develop a narrow spectrum of tumor , mainly retinoblastoma and osteosarcoma ?
+212						this discrepancy may be explain by the fact that some tissue can upregulate p107 in response to rb loss , whereas other can not .
+213	uaz:UA-ORG-805,tissuelist:TS-0500,tissuelist:TS-0454,uaz:UA-CT-30006,taxonomy:10090,tissuelist:TS-0568	retinal progenitors,keratinocytes,hepatocytes,epithelial cells, mouse, lung	e16,c8,c9,c10,c11,s4,t4	c8,c9,c10,c11,s4,t4	upregulation of p107 be see in several cell type upon rb loss	indeed upregulation of p107 be see in several cell type upon rb loss , include mouse retinal progenitor , keratinocyte , hepatocyte , and lung epithelial cell .
+214						interestingly , p107 seem to be the main rb family member that can perform this function , as upregulation of p130 be generally not see in response to rb or p107 or both .
+215						conclusion
+216						to fully understand the tumor suppressor function of rb in human tumor , it be important to understand the function of each of the family member , both individually and as a group .
+217						in particular , p107 function in cell cycle control and tumor suppression have remain elusive .
+218						during cell cycle progression , p107 function may be divide into two category ; those that require e2f and those that do not .
+219						ChIP-Seq for rb family member and e2f family member in normal cell would shed light on the normal binding pattern of these protein and may identify promoter that be regulate by individual rb family member or by several at once .
+220						expand upon this , one could then compare the binding profile of the rb family member in normal cell to that of tumor cell , cell in different phase of the cell cycle , or cell from different tissue .
+221						p107 can also interact with several other key transcription factor such as sp1 , b-myb , c-myc , and smad3 .
+222						the significance of these interaction be not well understand , and several question remain .
+223						for example , be p107 's ability to regulate the cell cycle mainly exert through e2f repression or can the interaction with other transcription factor also arrest the cell cycle independently of e2falpha one way to answer these question would be to take advantage of the fact that e2f bind different region of p107 than do the other transcription factor .
+224						evidence for p107 function during s phase suggest that it may play a critical role outside of the control of g1 .
+225						rb and p130 have both be implicate in the control of g0 and g2 [ - ] , so in some way it be not surprising that p107 would also play a role outside of g1 .
+226						however , evidence for a rb family role during s phase have so far be scarce .
+227						it be striking that the highest protein level of p107 be see in s phase , a time when p107 should largely be inactivate by phosphorylation .
+228						what would be the advantage to have large pool of p107 sequester within a cell after the transition into s phase ?
+229						one hypothesis would be that in response to genotoxic stress , p107 would be rapidly dephosphorylate by pp2a and serve as a reservoir of a potent transcriptional repressor .
+230						large pool of p107 may also be able to stabilize p27 , which could inhibit the activity of the cyclin and cdk complex .
+231						the identification of downstream target of p107 in this context will shed light on the exact mechanism for this s-phase arrest .
+232						it have yet to be determine whether p107 can serve as a tumor suppressor in the context of other mutation outside of the rb pathway .
+233						to date , there have be no study cross mouse with p107 mutation to mouse carry mutation in other known cancer cause gene outside of the rb pathway .
+234						furthermore , no study have examine whether p107 mutation and dna damaging agent can contribute to faster or more aggressive tumor .
+235						future study should clarify the specific context in which p107 can act as a tumor suppressor , with or without compound mutation of rb .
+236						although much have be uncover since the discovery of the rb family , the complexity in functional overlap , regulation , and tumor suppressor ability of each of the rb family member be only just begin to be explore .
+237						the use of transgenic , knock-in , and knock-out mouse study , as well as in vitro cell culture system will be critical to increase we understanding of the role of these gene during multiple cellular function , and these technique will continue to reveal the subtle and distinct way in which these protein can interact with each other as well as the hundred of other protein know to associate with they .
+238						more analysis of how the rb family normally function be need to understand they function within a single cell , in addition to they tumor suppressor capability .
+239						list of abbreviation
+240						rb : retinoblastoma ; Cdk : cyclin dependent kinase ; hdac : histone deacetylase ; DHFR : dihydrofolate reductase ; bmp : bone morphogenetic protein ; fgf : fibroblast growth factor ; VZ : ventricular zone ; chip : chromatin immunoprecipitation .
+241						compete interest
+242						the author declare that they have no compete interest .
+243						author ' contribution
+244						sw and j design and write the manuscript together .
+245						both author have read and approve the final manuscript .
+246						acknowledgement
+247						the author would like to thank Jamie Conklin , Louis Saddic , Ruth Tennen , and Deborah Burkhart for thoughtful discussion and critical reading of the manuscript .
+248						this work be support by the Lucile Packard Foundation for Children 's Health and NIH-NCI ro1 ca114102 ( J.S. ) , as well as a fellowship from the National Science Foundation ( S.W. ) .

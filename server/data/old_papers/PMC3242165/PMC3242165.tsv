@@ -1,0 +1,372 @@
+1						Retinyl ester hydrolase and they role in vitamin a homeostasis *
+2						in mammal , dietary vitamin a intake be essential for the maintenance of adequate retinoid ( vitamin a and metabolite ) supply of tissue and organ .
+3						retinoid be take up from animal or plant source and subsequently store in form of hydrophobic , biologically inactive retinyl ester ( re ) .
+4						accessibility of these re in the intestine , the circulation , and they mobilization from intracellular lipid droplet depend on the hydrolytic action of re hydrolase ( reh ) .
+5						in particular , the mobilization of hepatic re store require reh to maintain steady plasma retinol level thereby assure constant vitamin a supply in time of food deprivation or inadequate vitamin a intake .
+6						in this review , we focus on the role of extracellular and intracellular reh in vitamin a metabolism .
+7						furthermore , we will discuss the tissue specific function of reh and highlight major gap in the understanding of re catabolism .
+8						this article be part of a special issue entitle retinoid and lipid metabolism .
+9						highlight
+10						> for the maintenance of constant vitamin a supply retinyl ester hydrolase be require .
+11						> this review summarize the current knowledge on the role of retinyl ester hydrolys in vitamin a metabolism .
+12						> in addition , it discuss tissue specific function of retinyl ester hydrolase and highlight major gap in the understanding of retinyl ester catabolism .
+13						1
+14						introduction
+15						retinoid ( vitamin a and metabolite ) belong to the class of essential dietary lipid because they be vital for a variety of physiological process include some of the most fascinating and barely understand phenomenon -- growth and development .
+16						vitamin a be primarily transport as retinol bind to its specific transport protein , retinol binding protein 4 ( rbp4 ) and retinyl ester ( re ) , contain in lipoprotein .
+17						intracellularly , vitamin a be store as re in large quantity in specialize cell of the liver .
+18						these transport and storage form of vitamin a be as such biologically inactive .
+19						the major bioactive form of vitamin a be ( i ) retinoic acid ( s ) ( ra ) , which bind to nuclear receptor thereby regulate gene expression and ( ii ) retinaldehyde , which represent the photoactive component of rhodopsin .
+20						furthermore , retinol and retinaldehyde have also be recognize as signal molecule ( s ) and transcriptional regulator .
+21						mammal take up retinoid mostly from plant as pro-vitamin beta-carotene and from animal tissue as re .
+22						within the body , excessive retinoid be store as re mainly in the liver and to a lesser extent in adipose tissue .
+23						accessibility and distribution of dietary re as well as the mobilization of intracellular re store require enzymatic activity from re hydrolase ( reh ) .
+24						the accessibility of dietary re necessitate extracellular reh in the intestine .
+25	uaz:UA-CT-30005	enterocytes	t1,e1,e2	t1		after uptake in enterocyte , retinol be re-esterified to re and pack into nascent chylomicron ( cm ) together with other dietary lipid such as triacylglycerol ( tg ) .
+26	uaz:UA-ORG-92	circulation	t2,e3	t2		in the circulation , these cm be deplete from lipid by lipoprotein lipase ( LPL ) mediated hydrolysis provide fatty acid ( fa ) and retinol for peripheral tissue .
+27	tissuelist:TS-0564	liver	t3			in liver , re-rich cm remnant be mainly take up by hepatocyte .
+28			e4,e5	t3		intracellularly , these re be hydrolyze and either release into the circulation , or re-esterified and store in cytosolic lipid droplet ( ld ) .
+29						yet , the vast majority of re be store in cytosolic ld of specialize liver cell , designate as hepatic stellate cell ( hsc ) , ito cell , or vitamin a storage cell .
+30						these hepatic re store be mobilize by reh to ensure constant supply of peripheral tissue with retinol , also under condition where dietary retinoid be not available .
+31						despite the pivotal role of vitamin a in many physiological process , surprisingly little be know about the enzyme and mechanism how re store be mobilize and how these process be regulate .
+32						2
+33						extracellular retinyl ester hydrolase
+34						2.1
+35	tissuelist:TS-0490	intestinal	t4,e6	t4		intestinal retinyl ester hydrolase
+36						dietary lipid constitute a complex mixture of lipid species , some of which be highly water insoluble in nature .
+37						this hydrophobicity necessitate a breakdown into more hydrophilic lipid species prior to they uptake by the intestine .
+38	tissuelist:TS-0490	intestinal	e7,e8,t5	t5		the bile-salt activate carboxyl ester lipase ( cel ; EC 3.1.1.13 ) have long be know to exhibit broad substrate specificity ( review in ) and be consider as key enzyme in intestinal retinol uptake .
+39						cel show activity against tg , cholesteryl ester ( ce ) , phospholipid ( pl ) , and re in vitro and require the presence of trihydroxy bile acid for full enzymatic activity .
+40						in mammal , cel be predominantly synthesize in the pancreas and secrete into the intestinal luman .
+41						study in mutant mouse lack CEL ( cel-ko ) reveal unaltered intestinal dietary retinol uptake .
+42						on the other hand , the uptake of a non cleavable retinyl ether substrate be completely blunt confirm earlier study and indicate that the hydrolysis of re be a essential step prior to uptake by enterocyte .
+43	taxonomy:10090	mice	s1			analysis of reh activity in homogenate of pancreas show similar activity in cel-ko mouse compare to wild-type ( wt ) control .
+44	tissuelist:TS-0739	pancreatic	t6,e9,e10	t6,s1		importantly , pancreatic reh activity be stimulate in the presence of di- and trihydroxy bile-salt in both genotype .
+45						together , these datum imply that at least one additional bile-salt dependent reh must exist in the murine intestine .
+46	tissuelist:TS-0739,taxonomy:10090,taxonomy:10116	pancreatic, mouse, rat	t7,s2,s3			the pancreatic triglyceride lipase ( PTL ; EC 3.1.1.21 ) have be identify as intestinal reh in mouse and in rat .
+47			e11	t7,s2,s3		PTL preferentially hydrolyze tg and its catalytic activity depend on the presence of a co-lipase and millimolar concentration of dihydroxy bile acid such as deoxycholate or taurodeoxycholate ( review in ) .
+48						the characteristic of in vitro activity of PTL and CEL allow distinguish between these enzyme .
+49						under optimal assay condition for PTL ( dihydroxy bile-salt ) and cel ( trihydroxy bile-salt ) a substantial co-lipase-dependent reh activity be detect in pancreatic homogenate of wt and cel-ko mouse suggest a role of PTL as intestinal reh .
+50						the in vivo role of PTL and CEL in RE catabolism be investigate in mouse lack PTL ( ptl-ko ) and lack both enzyme , PTL and CEL ( ptl-ko and cel-ko ) .
+51						these mouse be feed a high-fat and high-cholesterol diet and receive radiolabele retinyl palmitate .
+52						subsequently , the appearance of the radiolabel in the circulation be monitor .
+53						ptl-ko mouse exhibit a ~ 30 % reduction in re clearance .
+54						this defect be exacerbate to ~ 50 % when mouse lack PTL and CEL suggest that both enzyme be involve in intestinal retinoid hydrolysis .
+55						notably , re absorption be ~ 6 time higher in wt , ptl-ko , cel-ko , and ptl-ko and cel-ko mouse when retinyl palmitate be administer in pl-vesicle as compare to olive oil emulsion implicate that dietary tg content have a great impact on intestinal re catabolism .
+56						moreover , the absorption pattern of retinyl palmitate and tg be similar in all four genotype investigate suggest that efficient re clearance may depend on tg absorption .
+57	taxonomy:10090	mice	s4			in contrast to tg and re catabolism , ce absorption be normal in ptl-ko animal whereas it be almost completely blunt in cel-ko mouse .
+58	tissuelist:TS-0490	intestinal	e12,t8	s4,t8		thus , cel be the major ce hydrolase in the intestinal luman .
+59						take together , these in vivo study clearly demonstrate that PTL and CEL affect intestinal retinol uptake .
+60	taxonomy:10090	mice	s5			however , the rate of re absorption in double ko mouse be still around ~ 50 % of that of wt mouse implicate the existence of other yet uncharacterized intestinal reh .
+61						one possible candidate for this catalytic activity be pancreatic lipase related protein 2 ( plrp2 , EC 3.1.1.26 ) .
+62						this protein belong to the lipase family and share high sequence similarity to PTL .
+63						plrp2 be express in newborn of various species and its expression persist into adulthood .
+64			e13,e14,e15,e16	s5		plrp2 cleave various substrate such as tg , pl , galactolipid , and re , but substrate specificity strongly depend on the species investigate .
+65						plrp2 hydrolyze re in mixed micelle independent of a co-lipase , whereas re present in tg rich ld be not catalyze .
+66			e17	s6		interestingly , plrp2 mediate re hydrolysis be more efficient in the presence of PTL , probably due to better substrate presentation for plrp2 through PTL activity .
+67	taxonomy:10090	mice	s6			notably , suckle plrp2 deficient mouse display severe fat malabsorption result in steatorrhea and reduce weight gain .
+68						these datum confirm that plrp2 play a key role in dietary lipid absorption in the absence of PTL , which be express close to the end of the suckling period .
+69						yet , the in vivo role of plrp2 in intestinal re catabolism have not be study so far .
+70	taxonomy:10116,taxonomy:9606	rats,humans	e18,e19,e20,s8,s7	s7,s8		brush-border phospholipase b ( bpl-b ) have also be identify as a reh in rat and in human .
+71						this enzyme exhibit highest activity toward naturally occur long-chain re and be stimulate by di- and trihydroxy bile-salt .
+72						interestingly , bpl-b be express and active at the distal end of the intestine , where enzymatic activity derive from pancreas be decline imply that this enzyme ensure efficient hydrolysis and absorption of vitamin a. however , its in vivo function have not be elucidate to date .
+73						2.2
+74						Retinyl ester hydrolase in the circulation
+75	uaz:UA-CT-30005	enterocytes	e21,e22,t9	t9		once dietary retinol enter enterocyte , it be re-esterified to re and pack together with tg and ce into nascent cm , which be finally release into circulation .
+76						two third of cm associate re be clear by the liver , where retinol be subsequently store primarily in ld of hsc .
+77	tissuelist:TS-0013,tissuelist:TS-0933,tissuelist:TS-0440,tissuelist:TS-0510	adipose tissue, skeletal muscle, cardiac muscle, kidney	t10,t11,t12,t13			the remain third of cm associate re be take up by peripheral tissue such as adipose tissue , skeletal muscle , cardiac muscle , and kidney .
+78			e23,e24	t10,t11,t12,t13		thus , peripheral tissue be directly supply by dietary vitamin a although the majority of retinoid be acquire from circulate retinol , complex to serum rbp4 ( review in ) .
+79	tissuelist:TS-0564	liver	t14			in liver , cm remnant be rapidly sequester in the space of Disse , where several protein be involve in they remodeling , capture , and internalization .
+80						acquisition of apoe , surface pl alteration , low-density lipoprotein-receptor protein 1 ( lrp-1 ) , lpl-anchor glycosylphosphatidylinositol anchor high-density lipoprotein binding protein 1 ( gpihbp1 ) , the recently discover primary hepatocyte heparan sulphate proteoglycan ( hspg ) syndecan-1 , and also the degree of sulfation of hspg be major determinant of cm remnant removal and hence also of cm associate re clearance ( recently review in ) .
+81			e25,e26,e27,e28,e29,e30	t14		LPL ( EC 3.1.1.34 ) and hepatic lipase ( hl , EC 3.1.1.3 ) , abundant protein in the space of Disse , bind to hspg , gpihbp1 , and lrp-1 and exhibit a important non enzymatic bridge function in the removal of cm remnant .
+82						in contrast , hydrolytic activity which be involve in cm associate re clearance be not equally understand .
+83						hl be primarily involve in enzymatic remodeling of very low-density lipoprotein ( vldl ) and high-density lipoprotein , but a reh activity for hl have not be demonstrate so far .
+84						in contrast to hl , LPL have be show to exhibit reh activity against artificial lipid emulsion and its physiologically relevant substrate cm .
+85			e31,e32	t14		like for its tg hydrolytic activity , reh activity of LPL be also activate several-fold by its co-activator apolipoprotein cii and heparin .
+86			e33,e34	t14		but , LPL primarily hydrolyze tg and hydrolyze re only after the majority of TGs have be cleave .
+87			e35,e36	t14		a study in perfused rat liver show that not only the lipolytic activity of LPL but also of other tg hydrolase be important for removal of 3h-re and 14c-tg .
+88						a in vitro study perform in hepatocyte use cm associate 3h-re reveal that the uptake of the radiolabel be increase in the presence of LPL .
+89			e37	t14		however , and in contradiction to previous finding , the uptake of 3H-label be decrease in the presence of heparin , a glycosaminoglycane which be know to stabilize LPL but prevent its binding to cell surface .
+90						these finding indicate that both hydrolytic activity and non enzymatic bridge of LPL be important for the uptake of cm associate re .
+91	tissuelist:TS-0012	adipocytes	c1,e38	c1		in adipocyte , reh activity of LPL be necessary for retinol uptake .
+92						Accumulation of retinol be increase 2-fold in the presence of LPL , when retinyl palmitate be present in a tg emulsion .
+93						this increase be even higher when heparin be add .
+94						hence , in adipocyte enzymatic lpl activity rather than a non enzymatic bridge function be important for retinoid uptake .
+95						this be support by in vivo datum use 14c label non cleavable retinyl ether along with 3h-retinyl palmitate .
+96						a increased 3h-label be observe in adipose tissue indicate that cm associate re hydrolysis be important prior to retinoid uptake .
+97						furthermore , retinoid uptake be strongly influence by genetically and nutritionally altered level of lpl expression .
+98						this be in line with its well-known regulation at transcriptional and post-transcriptional level : lpl mrna level be up regulate by insulin in differentiate and mature adipocyte and lpl activity be high in adipose tissue after feed and low during fast ( recently review in ) .
+99						mechanism for re uptake as observe in adipose tissue be also describe in skeletal muscle and heart .
+100						furthermore , lpl expression level and activity differ depend on the energy status of the organism .
+101	tissuelist:TS-0933,tissuelist:TS-0440	skeletal, cardiac muscle	t15,t16			in time of high energy demand , such as fasting period , lpl activity be elevated in skeletal and cardiac muscle .
+102			e39	t15,t16		these elevated lpl activity level facilitate adequate fa supply to ensure tissue 's energy requirement .
+103						in addition , LPL mediate clearance of cm also provide tissue with cholesterol and retinol , which be necessary for normal tissue function under condition of nutritional deprivation .
+104						in skeletal muscle , the retinoid uptake from cm be increase when level of lpl expression be high .
+105						strikingly , experiment with 3h-retinyl palmitate and non cleavable 14c-retinyl ether reveal a tremendous accumulation of 3H-label in skeletal muscle compare to adipose tissue and heart .
+106						ratio of 3h-_NN to 14c-label be 19:1 for skeletal muscle , 3:1 for adipose tissue , and 1:52 for heart .
+107						these result imply that the reh activity of LPL be more important for retinoid supply in skeletal muscle than in adipose tissue and heart .
+108						yet , retinoid content in skeletal muscle do not correlate with postprandial uptake , which would be expect if dietary retinoid internalization be the major determinant for skeletal muscle retinoid homeostasis .
+109						this suggest that retinoid be continuously mobilize from skeletal muscle and transport to the liver or other tissue .
+110						in cardiac muscle the dual label experiment with 3h-retinyl palmitate and non cleavable 14c-retinyl ether result in a 3h :14 c ratio of 1:52 .
+111						this indicate that LPL reh activity in heart be less important than in skeletal muscle ( ratio 19:1 ) and adipose tissue ( ratio 3:1 ) .
+112						recently , it be show that in the absence of LPL , specifically in the heart , the uptake of tg and also of re from cm be drastically reduce .
+113						this be not the case in mouse lack the FA transporter cd36 .
+114						ce uptake from vldl be also affect by the loss of heart lpl but not cd36 .
+115						hence , next to the hydrolytic function of LPL for cardiac retinoid uptake , these datum strongly support that non enzymatic lpl bridge facilitate the internalization of the core lipid re and ce .
+116						author suggest various possible mechanism : a ) whole particle uptake , b ) remnant uptake , or c ) core lipid shed during LPL mediate lipolysis result in a selective lipid uptake .
+117						yet , retinoid concentration as well as retinoid modulate gene expression in cardiac muscle be not alter , confirm that alternative mechanism ( s ) compensate for the loss of LPL in order to ensure tissue retinoid supply .
+118						such a compensatory mechanism for retinoid supply , in addition to circulate rbp4 , be confirm by a in vivo study on retinoid delivery to milk .
+119	taxonomy:10090	mice	s9			milk from serum rbp4 deficient ( rbp4-ko ) mouse show drastically reduce long chain and poly-unsaturated fa , but no difference in retinoid concentration .
+120						use a lipase inhibitor , the author demonstrate that postprandial delivery of retinoid by the enzymatic action of LPL fully ensure retinoid supply to milk and hence to the offspring .
+121						take the importance of fa , ce , and re for growth and development , it be conceptual that multiple mechanism have evolve to facilitate delivery of these essential lipid class to the newborn .
+122						in kidney , lung , and spleen , the dual label experiment use 14c label non hydrolyzable retinyl ether along with 3h-retinyl palmitate show that these tissue take up equal amount of 14c-_NN and 3h-label indicate that reh activity of LPL be not essential for retinoid uptake in these tissue .
+123						yet , it be not know to which extent the bridge function of LPL account for internalization of non cleavable 14c-retinyl ether .
+124						the question whether cm associate re can act directly as precursor for ra be currently not know .
+125			e40	s9		essentially all tissue have the capability to store retinol prior to its oxidation to metabolic active ra .
+126			e41,e42	s9		hence , it can be speculate that cm associate re must first be hydrolyze , re-esterified , and then store within cytosolic ld in order to be release upon demand .
+127						consider the importance of retinoid , a futile cycle as know for intracellular tg metabolism would enable tissue to respond quickly to change physiological demand , in addition to the continuous cycling of retinoid between liver and extra-hepatic tissue .
+128						in conclusion , in vivo datum provide compelling evidence for PTL , CEL and LPL as important reh in the intestine and in the circulation , respectively .
+129						yet , further investigation be need to delineate retinoid hydrolysis in the extracellular space .
+130						in vivo study be important to understand the physiological relevance of participate enzyme and animal model lack specific reh will help to clarify these lipolytic process .
+131						3
+132						intracellular retinyl ester hydrolase
+133						3.1
+134	tissuelist:TS-0454	hepatocytes	c2,e43	c2		Retinyl ester hydrolase of hepatocyte
+135	tissuelist:TS-0564	liver	t17,e44,e45	t17		in liver , retinoid be deliver either as free retinol bind to rbp4 or esterify as re associate with cm remnant .
+136						circulate retinol and rbp4 complex be likely to be internalize by receptor mediate endocytosis via the recently discover rbp4 receptor stimulate by retinoic acid gene 6 ( stra6 ) .
+137						yet , this pathway do not require any hydrolytic activity .
+138						in contrast , catabolism of re associate with cm remnant rely on intracellular reh activity as remnant lipoprotein be internalize as whole particle .
+139						early work from the mid 1970 show that hsc be not involve in cm remnant clearance .
+140						this be later confirm by in vivo study show that the majority of radiolabele re associate with cm be first take up by hepatocyte and then transfer to hsc for storage .
+141						in mouse set on a vitamin a deficient diet , however , 3h-retinol from cm be not channel from hepatocyte to hsc for storage but rather secrete into the circulation .
+142						these finding indicate that hepatocyte represent a first check-point in vitamin a metabolism in the body and hence control whether retinol be re-secreted into the circulation or transport to hsc for storage .
+143						early work by Blomhoff et al. .
+144						use subcellular fractionation and density gradient centrifugation show that endocytose cm remnant label with 3h-re first appear within early endosome .
+145						subsequently , they be transfer to the endoplasmic reticulum ( er ) but not to the lysosome .
+146						thus , the retinoid pathway contrast the fate of ce and tg , which be degrade in lysosome .
+147						although all of these lipid be transport in cm remnant and internalize via receptor mediate endocytosis , re be clear already in the endosome .
+148						several study have confirm the first step of intracellular transport of retinoid .
+149						it be show that fraction of early endosome and plasma membrane be enrich in bile-salt independent neutral reh ( nreh ) and acidic reh ( areh ) activity .
+150						together these datum imply that cm associate re be hydrolyze within endosome .
+151						yet , whether hydrolysis of endocytose re in endosome be a prerequisite for transport to the er , or if internalize re be transport directly to the er for hydrolysis be not fully understand .
+152						in any case , er associate reh be think to represent a switch-point between retinol and rbp4 release and retinol esterification and subsequent re storage in cytosolic ld .
+153	tissuelist:TS-0564	liver	t18			much research have focus on the characterization of member of the mammalian non specific carboxylesterase super-gene family ( EC 3.1.1.1 ) with regard to they involvement in hepatic re catabolism because of several reason : First , carboxylesterase be highly express in liver as well as in some extrahepatic tissue .
+154						second , many carboxylesterase harbor er retention signal ( hxel ) at the c-terminus indicative for er localization .
+155			e46,e47,e48	t18		and third , carboxylesterase have be show to hydrolyze re and other lipid substrate as well as xenobiotic .
+156	taxonomy:10116	rat	s10,e49,e50,e51,e52	c3,s10		in vitro reh activity have be show for four protein of this gene family -- rat esterase 2 ( es2 ) , esterase 3 ( es3 ) , esterase 4 ( es4 ) , and esterase 10 ( es10 ) .
+157	tissuelist:TS-0454	hepatocytes	c3			these enzyme be the most promising candidate to date to be involve in re catabolism of hepatocyte .
+158						hepatic carboxylesterase identify as reh and they ortholog in mouse , rat , and human be show in .
+159						a potential reh in early endosome be identify to be es2 .
+160						rat es2 be solely express in the liver and lack the consensus er retention sequence hxel .
+161						immunoblotting experiment reveal that es2 be secrete by primary rat hepatocyte and into serum , which be in line with its lack of er retention signal and the high glycosylation grade obtain during transport via the golgus apparatus .
+162						moreover , a nreh activity catalyze re and also tg but not ce be isolate from rat microsome .
+163						this protein be show to be identical to rat es2 .
+164						together , these datum imply that es2 play a role in re catabolism in early endosome or even extracellularly in the space of Disse .
+165						another possible reh in endosome be es10 .
+166						purify es10 from hepatic rat microsome exhibit highest activity versus micellar retinyl palmitate at neutral and acidic ph , whereas tg and ce be only poor or no substrate for es10 .
+167						in vitro reh activity be neither influence by bile-salt nor binding protein such as rbp4 , cellular retinol binding protein 1 ( crbp1 ) or albumin .
+168						interestingly , es10 possess a er retention signal ( hxel ) and a low glycosylation pattern indicate that the enzyme may retain at the er and be not transport via the golgus apparatus .
+169						analysis of es10 mrna and protein level reveal high expression in liver , lung , and testis .
+170						these datum suggest that es10 be involve in re breakdown in endosome and and or er .
+171						recently , we describe a very prominent role for esterase 22 ( es22 ) in hepatic re catabolism .
+172	tissuelist:TS-0564	liver	t19			detailed analysis of mrna and protein expression reveal that murine es22 be highly express in liver , specifically in hepatocyte but not in hsc .
+173	tissuelist:TS-0454	hepatocytes	c4			es22 carry a hxel sequence at the c-terminus and overexpression of gfp label es22 confirm that this protein exclusively localize to the er .
+174						importantly , es22 exhibit specific activity toward re but only low or no activity for ce and tg , respectively .
+175	uaz:UA-CLine-100020	Cos-7	c5			most strikingly , es22 overexpression in cos-7 cell attenuate re accumulation in living cell underpin the pivotal role of es22 in re catabolism .
+176			e53	t19,c4,c5		together , these datum argue for a role of es22 at the er where it possibly counteract the esterification of retinol .
+177						interestingly , the availability of retinol be show to alter rbp4 secretion .
+178			e54	t19,c4,c5		hence , it can be hypothesize that es22 reh activity promote retinol and rbp4 secretion .
+179						despite promising result for a role of es22 in re catabolism , the physiological role of this enzyme be unclear and await to be investigate in animal model .
+180						es4 from rat , pig , and human have be show to possess reh activity .
+181						differential centrifugation analysis suggest that es4 localize to the er .
+182						no further insight for a potential role of es4 in re catabolism be available so far .
+183						in summary , several attempt have be undertake to understand the role of carboxylesterase in hepatic re catabolism .
+184						a comparison of relative mrna level show that es10 be the most abundant carboxylesterase in liver and in hepatocyte , follow by es4 and es3 .
+185						Sanghani and colleague estimate that es10 and es4 account for 60 % and 40 % of total nreh activity , respectively .
+186						however , the physiological relevance of these enzyme be currently unclear and remain to be investigate .
+187						hormone sensitive lipase ( hsl ) , a multifunctional enzyme exhibit reh activity , have be demonstrate to be rate limit in the mobilization of adipose tissue re store .
+188						in contrast to adipose tissue , the expression level of hsl in liver be very low .
+189						interestingly , a recent report have show that hsl be particularly enrich in hepatocyte .
+190						while the author demonstrate altered ce metabolism in hepatocyte derive from hsl deficient ( hsl-ko ) mouse , no datum be available in regard to re catabolism .
+191						thus , the role of hsl in liver re metabolism and in particular in hepatocyte be unknown and remain to be examine .
+192						3.2
+193	tissuelist:TS-0564	hepatic stellate cells	e55,c6	c6		Retinyl ester hydrolase in hepatic stellate cell
+194						hsc ( also refer to as ito cell , fat store cell , or lipocyte ) play a pivotal role in retinoid metabolism and homeostasis as they store the majority of all re present within the entire body .
+195						hsc be scarce and small in size , represent only 5-8 % of the total number of hepatic cell and account for ~ 1 % of total protein present in the liver .
+196						stellate cell not only exist in liver but also in small number throughout the body , in tissue such as pancreas , brain , kidney , and other .
+197						accordingly , extrahepatic stellate cell may as well function as vitamin a storage site .
+198						hsc contain distinctive cytosolic ld .
+199						a characteristic of these organelle be they unique lipid composition : unlike ld find in cell of other tissue , hsc ld comprise equal amount of re and tg account together for more than 75 % of total lipid content .
+200						the prominent re species be retinyl palmitate ( 70-75 % ) , follow by retinyl stearate , retinyl oleate , and retinyl linoleate .
+201	uaz:UA-CT-30000	HSCs	c7,e56	c7		accord to the physiological function of hsc as major re storage site , these cell contain high level of lecithin : retinol acyltransferase ( lrat ) and crbp1 which be the major protein in liver retinol esterification and intracellular retinoid transport , respectively .
+202						the mobilization of hsc re store have be demonstrate to play a major role in the supply of retinol to extrahepatic tissue for conversion to biologically active metabolite , particularly under condition of retinoid insufficiency .
+203						also , liver fibrosis be directly link to hsc re store : hsc be usually inactive or quiescent , but in case of liver injury they undergo a activation process in which they become highly proliferative .
+204						the result activate hsc take on a fibrogenic myofibroblast like phenotype and lose they re-containing ld .
+205						depletion of hsc re store be a distinctive characteristic of activate hsc and hepatic fibrosis .
+206						however , it be not clear whether re mobilization be require for hsc activation or whether this loss be part of the progression of fibrosis .
+207						yet , mouse deficient of LRAT lack hsc ld and thus re store , but do not develop liver fibrosis .
+208						this suggest that the absence of ld from hsc per se be not causative for pathogenesis of liver fibrosis .
+209						despite the immense physiological importance of re mobilization from intracellular ld of hsc , the limit enzyme ( s ) in this metabolic pathway have not be identify so far .
+210						early work by the pioneer in vitamin a metabolism demonstrate that hsc enriched fraction from rat liver contain extremely high level of reh activity .
+211						in fact , use retinyl palmitate emulsify with cholate , reh activity be ~ 15-fold higher than in hepatocyte .
+212	tissuelist:TS-0564	hepatic	t20,e57	t20		the hepatic bile-salt activate reh have long be consider to be cel .
+213						although cel be mainly secrete to the intestine , it be also report to act intracellularly in the liver .
+214						therefore , it have be speculate that cel may be responsible for re mobilization in hsc .
+215						however , in vivo study use cel-ko mouse have convincingly demonstrate that cel play only a minor role in hepatic re catabolism .
+216						next to bile-salt dependent reh activity , bile-salt independent nreh and areh activity be identify in hsc enriched fraction but be not preferentially enriched compare to hepatocyte .
+217						in addition , areh activity have also be describe in the rat hsc-line pav-1 .
+218						the same research group also describe a lysosomal areh catalyze re contain in isolate ld from rat non parenchymal cell .
+219						moreover , it be show that ld be capable to fuse with primary lysosome in hsc suggest that this lysosomal areh may be physiologically relevant in hepatic retinol mobilization .
+220						in any case , the identity and physiological relevance of this areh be not know .
+221						in proteomic analysis of rat hsc , es10 be the only carboxylesterase associate with hsc ld .
+222						however , es10 protein be find to be down regulate in activate hsc and in hepatocyte of fibrotic liver question a essential role of es10 in re mobilization during hsc activation .
+223						furthermore , recent study by Mello et al. .
+224						report that the expression of several carboxylesterase ( rat es3 , es4 , and es10 ) be not detectable in hsc , but be rather exclusive in hepatocyte .
+225						several other well describe lipase such as hsl and PTL be not find to be express in hsc .
+226	taxonomy:10116,uaz:UA-CT-30000	rat,HSCs	s11,c70			interestingly , adipose triglyceride lipase ( atgl ) be find to be express in rat hsc .
+227			e58	s11,c70		as atgl have be report to specifically hydrolyze tg but not re or ce it render a role for atgl as reh unlikely .
+228						despite the fact that a number of reh have be show to be express in hsc , the preferred localization in the extracellular space ( see CEL ) , in hepatocyte rather than hsc ( see es10 ) , and they substrate specificity ( see atgl ) challenge they potential role in re mobilization in hsc .
+229						importantly , enzyme ( s ) involve in intracellular mobilization of re from hsc require ( s ) ld localization and lipid and water interphase activation .
+230						most likely , more sophisticated approach be need to identify the so far unknown reh ( s ) in hsc .
+231						3.3
+232						Retinyl ester mobilization in adipose tissue
+233						early study identify fat tissue as significant retinoid store .
+234						in fact , these store reach level of up to 20 % of total body ' retinoid store .
+235						the majority of these retinoid ( 50-70 % ) be re deposit in ld of adipocyte .
+236						depend on the fat depot , those tissue also contain rbp4 mrna level of up to ~ 1 and 5 of those in the liver suggest that fat tissue significantly contribute to retinoid metabolism .
+237						furthermore , adipose tissue readily take up dietary retinoid , a process which be dependent on lpl activity ( see also extracellular retinyl ester hydrolase ) .
+238						furthermore , differentiate adipocyte have be show to accumulate re and secrete rbp4 , thus provide direct evidence that accumulation and mobilization and secretion of re be intrinsic property of adipocyte .
+239						interestingly , adipose re store be find to be mobilize in time of dietary retinoid undersupply .
+240						during such period of retinoid deficiency , adipose re store be deplete faster than hepatic reserve indicate that these store may represent a nutritionally regulate and flexible reservoir to maintain plasma retinol and rbp4 level .
+241						over a long period little be know about the enzyme which be responsible for the mobilization of adipose re store .
+242						of the three lipase involve in the consecutive breakdown of tg in adipocyte ( atgl , hsl , and monoglyceride lipase -- mgl ) ( recently review in ) , only hsl have be report to exhibit reh activity .
+243						the important role of hsl in re turnover in white and brown adipose tissue have be examine use hsl-ko mouse .
+244						adipose tissue of these mouse accumulate re and exhibit only very low residual reh activity .
+245						as a consequence and secondary to increase re store , retinol , ra , and retinaldehyde level as well as expression level of enzyme involve in the oxidation of retinol and retinaldehyde such as alcohol dehydrogenase 1 and 3 and retinaldehyde dehydrogenase 1 be decrease .
+246						this deranged retinoid metabolism in hsl-ko mouse be also evident from low expression level of nuclear receptor -- the retinoic acid receptor alpha ( raralpha ) , retinoid x receptor alpha ( rxralpha ) , and peroxisome proliferator activate receptor gamma , as well as the transcription factor sterol regulatory element binding protein 1 , all of which be know to regulate adipogenesis and differentiation ( recently review in ) .
+247						the important role of hsl in differentiation and development be also evident from the observation that male hsl-ko mouse suffer sterility cause by oligospermium .
+248						these mouse show extensive vacuolization in epithelial cell in the seminiferous tubule which might be cause by accumulation of tg and ce .
+249						thus , impaired cholesterol and and or fa mobilization might cause defective spermatogenesis .
+250						however , it be also reasonable to conclude that male sterility in hsl-ko mouse arise from a disturbance of retinoid metabolism .
+251						this assumption be support by the well establish vital role of vitamin a in reproduction .
+252						for example , rat on a vitamin a deficient diet develop a wide variety of phenotype include male sterility .
+253						in addition , male sterility be the major phenotype of raralpha-_NN and rxrbeta-_NN deficient mouse .
+254						atgl , the rate limit enzyme in tg catabolism , have also be implicate in retinoid homeostasis .
+255						mutant mouse lack atgl exhibit lower plasma rbp4 level suggest that rbp4 level may be directly or indirectly related to lipolysis .
+256						interestingly , these animal be more insulin sensitive whereas the opposite , insulin-resistance , have in fact be associate with elevated plasma rbp4 level .
+257						however , currently it be unknown whether atgl be involve in re hydrolysis and if the reduction in rbp4 level be directly link to defective lipid hydrolysis .
+258						3.4
+259						Retinyl ester hydrolase in skin
+260	tissuelist:TS-0934	skin	t21			in skin , the body ' largest organ , proliferation , differentiation , and development of the epidermal permeability barrier be greatly dependent on retinoid .
+261						for example , abnormally low ra level lead to defective epidermal differentiation and , as a consequence , to impaired permeability barrier function with increase water loss -- a disease state commonly know as xerosis cuti .
+262			e59,e60	t21		several study have establish that lrat and acyl-coa : retinol acyltransferase ( arat ) activity exist in skin which lead to the esterification and storage of re .
+263						recently , a murine skin arat activity be find to be identical to the neutral lipid synthesize enzyme acyl-coa : diacylglycerol acyltransferase 1 ( dgat1 ) .
+264						in contrast to acyltransferase , only little information be available about the identity and regulation of reh in skin .
+265						recently , human homolog of murine non specific carboxylesterase , es1 and es2 , as well as a splice variant of hsl be show to be express in the transform epidermal keratinocyte line scc13 .
+266						for these enzyme or they homolog , in vitro reh activity be know .
+267						yet , reh activity in scc13 homogenate be not alter in the presence of the inhibitor bis-p-nitrophenyl-phosphate to which carboxylesterase and hsl be sensitive , argue against a substantial contribution of these enzyme in keratinocyte re mobilization .
+268						follow a random and directional screen of keratinocyte cdna library , Gao and colleague identify human gene sequence 2 ( gs2 , also know as pnpla4 or ipla2eta ) as a potential keratinocyte reh .
+269						"gs2 be a member of the "" patatin like phospholipase domain contain "" ( pnplum ) family consist of nine gene altogether , with tg hydrolase atgl be the most prominent ."
+270						in human , gs2 be ubiquitously express include adipose tissue , liver , kidney , muscle , lung , placenta , and brain .
+271						gs2 be absent in the mouse but not in the rat genome .
+272						interestingly , human gs2 not only exhibit reh but also have arat activity .
+273						these two enzymatic activity be , however , inversely regulate by ph. thus , it can be hypothesize that the intracellular free fa concentration ( ph ) in keratinocyte may be a physiological regulator switching between anabolic and catabolic activity of human gs2 .
+274						recently , it be also show that reh activity of human gs2 be inhibit by ld associate protein tail interact protein of 47kda ( tip47 ) suggest that gs2 may act as reh on ld in keratinocyte .
+275						gs2 exhibit high structural homology to atgl and the latter enzyme be activate by the protein comparative gene identification 58 ( cgi-58 ) .
+276						Noteworthy , mutation in the cgi-58 gene in human and mouse lead to severe skin defect .
+277						this be not observe in human or mouse with defective atgl function implicate a atgl independent function of cgi-58 in the skin .
+278						so far , it have not be test whether cgi-58 be capable of activate gs2 .
+279						however , gs2 be not express in mouse and no phenotypic difference exist in human with deletion in the gs2 gene along with deletion in the steroid sulfatase ( st ) gene suggest that gs2 might be dispensable .
+280						altogether , the physiological role of human gs2 in keratinocyte re mobilization remain elusive .
+281						3.5
+282						Retinyl ester hydrolase in the eye
+283						"in the eye , the retinal pigment epithelium ( rpe ) , a functionally polarize monolayer of cell located between cone and rod photoreceptor cell and the choriocapillary , operate as a "" reloading point "" for retinoid ."
+284						at the apical side of the rpe circulate retinol and at its basolateral side all-trans retinol release by the photoreceptor cell be take up and esterify by lrat to all-trans re ( recently review in ) .
+285						these re be store in er membrane and in morphologically unique ld , so call retinosome .
+286						thus , re storage depot participate in the regeneration of light sensitive visual pigment after photoisomerization -- a process term visual cycle ( recently review in ) .
+287						the regeneration of the chromophore require firstly the mobilization of re from they depot , and secondly the isomerization of all-trans retinol into 11-cis retinol .
+288						interestingly , a single key enzyme be consider to catalyze both process in microsome of rpe cell ( recently review in ) .
+289						the iron ( ii ) - dependent isomerohydrolase rpe65 hydrolyze and isomerize all-trans re into 11-cis retinol and fa .
+290						Gollapalli et al. .
+291						and Moiseyev et al. .
+292						demonstrate independently that rpe65 use re as substrate .
+293						re accumulate in retinosome when rpe65 be absent suggest a essential role of this enzyme in re hydrolysis .
+294						the importance of rpe65 in the visual cycle be demonstrate in rpe65 deficient and -mutant mouse .
+295						these mouse show a lack of 11-cis retinol production and a massive accumulation of all-trans re associate with a slowly progressive degeneration of photoreceptor cell .
+296						in human , mutation in the rpe65 gene cause Leber congenital amaurosis , a rare autosomal inheritary disease which lead to blindness ( recently review in ) .
+297						however , rpe65 be a er enzyme and do not co-localize with re store of retinosome .
+298						Radu et al. .
+299						observe re mobilization in mouse lack rpe65 , which be dependent on the presence of rpe-retinal g protein receptor-opsin and light .
+300						this observation may indicate the existence of a distinct retinosome associate reh , which remain to be identify .
+301						3.6
+302						Retinyl ester hydrolase in other tissue
+303						only limit information exist about potential reh in various tissue throughout the body .
+304						the uptake of dietary retinoid in skeletal muscle be show to be dependent on lpl expression level ( see also ) .
+305						yet , intracellular retinoid concentration do not correlate with postprandial uptake suggest that acquire free retinol be either immediately release into the circulation or first re-esterified and only then mobilize again .
+306						the latter step require action of intracellular reh ( s ) .
+307						hsl be know to play a important role in skeletal neutral lipid metabolism and have be show to hydrolyze re .
+308						hence , it may be speculate that hsl mobilize RE store in skeletal muscle .
+309						however , direct datum for this hypothesis and the physiological importance of skeletal muscle re mobilization be lack .
+310						kidney have be demonstrate to contribute significantly to retinoid metabolism .
+311						kinetic study in vivo use 14c label cm show that initially 14c-retinol accumulate due to retinol uptake from plasma which be then esterify to re .
+312						interestingly , re composition in kidney be markedly different to liver comprise equal amount of retinyl palmitate and stearate .
+313						in addition , Nagy et al. .
+314						show that extrahepatic stellate cell exist also in kidney which increase in size upon excess of dietary retinoid .
+315						however , LPL be not important in dietary retinoid uptake in kidney .
+316						Goodman et al. .
+317						suggest that retinol uptake from plasma and subsequent esterification reflect equilibrium between plasma and renal pool .
+318						moreover , kidney have be identify as a major determinant for plasma retinol turnover and recycling which make intracellular reh ( s ) inevitable .
+319	taxonomy:10116,tissuelist:TS-0510	rat, kidney	e600,s12,t22	s12,t22		in fact , cholate independent re hydrolysis be identify in rat kidney homogenate of which the majority be associate with membrane and microsome .
+320						use kidney fraction from gel permeation chromatography , hydrolysis of re and to a lesser extent tg but not ce be demonstrate with a optimum at neutral ph. more detailed analysis apply anion-exchange chromatography reveal that at least three different reh exist in kidney .
+321						yet , they identity and physiological relevance be unknown .
+322						in mammal , lung comprise a enormous epithelial surface area prone to infectious disease .
+323						hence , a intact barrier be important for health .
+324						the fundamental work of Goodman et al. .
+325						in regard to tissue distribution of cm associate re show that , as describe for kidney , retinol be the dominant retinoid species within the first hour after cm administration which be esterify thereafter .
+326						stellate cell for re storage also exist in lung .
+327						interestingly , steady state retinoid level find in rat lung be rather high compare to other tissue .
+328						study by Napoli et al. .
+329						also demonstrate considerable reh activity in lung in the absence of cholate .
+330						spleen have be discuss as a interesting organ to study the metabolism of cm associate re .
+331	tissuelist:TS-0956	spleen	e61,t23	t23		shortly after in vivo administration of a intralipid emulsion , supplement with 3h-re , more than 40 % of internalize re be hydrolyze within the spleen whereas only ~ 20 % of internalize re be find as retinol in the liver suggest that spleen be even more active in dietary re catabolism than liver .
+332	tissuelist:TS-0956	spleen	t24,e62	t24		spleen also express the rbp4-receptor stra6 .
+333						any further information for spleen re catabolism be lack .
+334						in testis , retinoid be essential for spermatogenesis .
+335						sertoli cell build the blood-testis barrier and be show to internalize retinol via a rbp4 receptor mediate process , which have be identify to be stra6 .
+336						lrat activity be further demonstrate to catalyze esterification of retinol .
+337						the potential role of hsl in intracellular re mobilization and its implication in spermatogenesis have be discuss above ( see Retinyl ester mobilization in adipose tissue ) .
+338						ra be important modulator for neurogenesis , neuronal survival , and neuronal plasticity in post-embryonic and adult brain .
+339						vitamin a deficiency as well as hypervitaminosis a result in neuronal defect .
+340						the importance of ra become evident from mutant mouse model lack rarbeta or rxrgamma exhibit impaired performance in spatial learning and memory task .
+341						the blood-brain barrier ( BBB ) seclude the brain from the circulation and only selective transport of molecule take place .
+342						stra6 have be show to be express in brain .
+343						furthermore , crbp level and rbp4 binding site in epithelial cell of choroid plexus be detect argue for retinol transport via BBB .
+344						in mouse feed a vitamin a enriched diet , retinol and re be find in essentially all brain tissue .
+345						very recently , a novel enzyme 13-cis isomerohydrolase ( 13cimh ) be identify and characterize in zebra fish .
+346						13cimh exhibit high sequence homology to the well characterize human isomerohydrolase rpe65 in the eye which generate 11-cis retinol ( see Retinyl ester hydrolase in the eye ) .
+347						in contrast to rpe65 , 13cimh exclusively produce 13-cis retinol from its substrate all-trans re .
+348						13cimh mrna transcript and protein level be detect in human brain indicate a possible role for 13cimh for brain re catabolism .
+349						interestingly , administration of exogenous 13-cis ra impair cognitive function in mouse .
+350						furthermore , 13-cis ra have be relate to depression in mouse , however conflict datum exist in human .
+351						4
+352						conclusion and perspective
+353						during the last decade a number of REHs have be identify , some of which have be demonstrate to be crucial for retinoid turnover .
+354						illustrate the current model of re mobilization , depict reh , re storage site , and retinoid flux .
+355						in particular , enzyme involve in the intestinal uptake of re and mobilization of cm associate re have be well characterize .
+356						to date , PTL and CEL be consider to be major reh in the intestine which facilitate tg absorption but be also require for efficient re uptake .
+357						in the circulation , LPL be indispensable for neutral lipid turnover and also affect re metabolism .
+358						virtually all tissue have be demonstrate to exhibit intracellular reh activity .
+359						liver be the largest re storage site of the body .
+360						numerous study have be undertake to elucidate the mechanism of re mobilization and to identify enzyme involve in this process .
+361						intriguingly , to date no enzyme have be identify which be responsible for the mobilization of the largest re store .
+362						however , it be inevitable that efficient catabolic mechanism exist which be involve in the control of plasma and cellular retinoid level .
+363						in fact , hsl have be show to affect re metabolism in adipose tissue and in that be the only known physiologically relevant intracellular reh .
+364						state-of-the-art technique use knock-out and and or overexpression and silencing system in animal model and culture cell will hopefully help to identify the mechanism and enzyme control re storage and mobilization .
+365						fig. 1
+366						retinoid flux and re hydrolyzing enzyme .
+367						depiction of major retinoid flux between tissue and organ , which be involve in the uptake , transport , storage , and utilization of retinoid .
+368						identify reh of respective organ , tissue , and cell type be give in parenthesis .
+369						"reh activity of unidentified protein be indicate as "" ? """
+370						.
+371						percent of total body re store be give for major storage tissue and cell-type .
+372						abbreviation : cel , carboxylester lipase ; es2/3/4 / 10 and 22 , esterase2/3/4 / 10 and 22 ; gs2 , gene sequence 2 ; hsl , hormone sensitive lipase ; LPL , lipoprotein lipase ; plrp2 , pancreatic lipase related protein 2 ; PTL , pancreatic triglyceride lipase ; rpe65 , retinal pigment epithelium 65 .

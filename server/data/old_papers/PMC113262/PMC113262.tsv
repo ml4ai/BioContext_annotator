@@ -1,0 +1,139 @@
+1			  			expression of p53 , inducible nitric oxide synthase and vascular endothelial growth factor in gastric precancerous and cancerous lesion : correlation with clinical feature
+2						background
+3						the growth and metastasis of tumor depend on the development of a adequate blood supply via angiogenesis .
+4						recent study indicate that the inducible nitric oxide synthase ( ino ) , vascular endothelial growth factor ( vegf ) and the tumor suppressor p53 be fundamental play-marker of the angiogenic process .
+5						overexpression of ino and vegf have be show to induce angiogenesis in tumor .
+6			E1,E2	T1,S1	p53 suppress angiogenesis by down regulate vegf and ino .	p53 suppress angiogenesis by down regulate vegf and ino .
+7	tissuelist:TS-0978,taxonomy:9606	gastric,patients	T1,S0			the correlation of expression of p53 , vegf and ino and clinical feature in gastric carcinogenesis , however , have not be well characterize .
+8						method
+9	taxonomy:9606	patient	S1			the expression of p53 , ino and vegf in gastric precancerous and cancerous lesion and its relation with the clinical feature be determine with immunohistochemistry ( avidin-biotin-peroxidase complex method ) on 55 randomly select gc patient and 60 symptom-free subject from the mass survey in the high-incidence area for gc in Henan , northern China .
+10						result
+11						the positive immunostainig rate for p53 , ino and vegf in gastric carcinoma be 51 % , 44 % and 51 % , respectively , and correlate well with tnm stage , but do not show significant difference among the group with different degree of gastric wall invasion depth by gc .
+12						a positive immunostaining reaction for the ino protein be significantly correlate with lymph node metastasis ( p = 0.019 ; Spearman correlation coefficient ) .
+13						p53 protein accumulation be higher in the poorly differentiate gastric carcinoma than in well differentiate one .
+14						in gastric biopsy , no positive immunosatining be observe for p53 , ino and vegf in the histologically normal tissue and chronic superficial gastritis ( CSG ) .
+15						however , p53 , ino and vegf positive immunostaining be observe in the tissue with different severity of lesion of chronic atrophic gastritis ( cag ) , intestinal metaplasium ( im ) and dysplasium ( dy ) , and the positive rate increase with the lesion progression from cag to im to DYS .
+16						a high coincidental positive and negative immunostaining rate for p53 , ino and vegf be observe both in biopsy sample with cag , im and dy from the symptom-free subject and in gastric cancer tissue from the gc patient .
+17						conclusion
+18						the present result indicate that p53 protein accumulation and increase expression of ino and vegf might be responsible for gastric carcinogenesis and tumor aggressiveness of gastric cancer .
+19						gastric adenocarcinoma ( gc ) be one of the most common malignant disease in China .
+20						although the gc have be decline in its mortality rate , it remain the lead cause of cancer related death in this country ( Parkin et al. , 1992 ; World Health Organization , 1994 ; Nomura A , 1996 ) .
+21						gastric carcinogenesis be consider as a multistage progressive process .
+22						the early indicator for the subject predispose to gc be abnormal hyperproliferation of gastric epithelial cell , such as chronic atrophic gastritis ( cag ) , dy and intestinal metaplasium ( im ) , which have be consider as precancerous lesion of gc ( you et al. , 1993 ; Correa p , 1992 ) .
+23						however , the information for the mechanism of gastric carcinogenesis be very limited .
+24						the growth and metastasis of tumor depend on the development of a adequate blood supply via angiogenesis .
+25						recent study indicate that the inducible nitric oxide synthase ( ino ) , vascular endothelial growth factor ( vegf ) and tumor suppressor p53 be fundamental play-maker of the angiogenic process ( Ambs et al. , 1994 ; Jekins et al. , 1995 ; Forrester et al. , 1996 ; Chiarugi et al. , 1998 ) .
+26			E3	C1	ino be one of the isoform of nitric oxide synthase that catalyze the formation of nitric oxide	ino be one of the isoform of nitric oxide synthase that catalyze the formation of nitric oxide , a regulator of vascular permeability .
+27	tissuelist:TS-0278	endothelial cells	C1			vegf be a dimeric glycoprotein and have specific mitogenic activity for endothelial cell .
+28						over-expression of ino and vegf could induce angiogenesis in tumor .
+29			E4,E5	C1	p53 suppress angiogenesis by down regulate vegf and ino .	p53 suppress angiogenesis by down regulate vegf and ino .
+30			E6	C1	mutant p53 potentiate protein kinase c induction of vegf expression	mutant p53 potentiate protein kinase c induction of vegf expression ( Zhang et al. , 2000 ) .
+31	uaz:UA-CLine-100060	fibroblast cells	C2,E7	C1,C2	 loss of wild-type p53 and transfection of activate ra lead to increase vegf expression	in a tumorigenicity model use human fibroblast cell , the loss of wild-type p53 and transfection of activate ra lead to increase vegf expression ( Devavrata et al. , 1995 ) .
+32	taxonomy:9606,tissuelist:TS-0417,tissuelist:TS-0342	human, glioblastoma, human fetal kidney cells	E8,S2,T2,C3	S2,T2,C3	transient transfection of wild-type p53 and of v-src have be find to exert opposing effect on human vegf gene promoter activity	transient transfection of wild-type p53 and of v-src have be find to exert opposing effect on human vegf gene promoter activity in human glioblastoma and transform human fetal kidney cell ( devavrata et al. ,1995 ) .
+33						however , because wild-type p53 do not repress hypoxium induce transcription of the vegf gene in stably transfect human colorectal carcinoma and human hepatoblastoma cell with a inducible p53-estrogen-receptor fusion protein expression system ( Ambs et al. , 1998 ) , it have be propose that there be a need for caution in interpret p53 function on the basis of cell transiently overexpress this protein .
+34	taxonomy:9606,tissuelist:TS-0568,tissuelist:TS-20003	human, lung, colorectal	E9,S3,T3,T4	S3,T3,T4	nevertheless , mutant p53 have be correlate with increase vegf expression 	nevertheless , mutant p53 have be correlate with increase vegf expression in human lung cancer ( Ambs et al. , 1994 ) , and colorectal cancer ( Ambs et al. ,1999 ) by immunohistochemical staining of surgical specimen .
+35						it have be report that dysfunction of the p53 and mdm -2 pathway can be find in more than two-third of angiosarcoma ; thus , mutant p53 influence the development of angiosarcoma not only by affect growth and apoptosis control but also by up regulate vegf ( Chinrugi et al. , 1998 ) .
+36						we hypothesize that alteration of p53 , ino and vegf expression may contribute to gastric carcinogenesis and influence the clinical behavior of gc via angiogenesis .
+37						the correlation of expression of p53 , vegf and ino and clinical feature in gastric carcinogenesis , however , have not be well characterize .
+38						to characterize the change of p53 , ino and vegf expression in human gastric carcinogenesis , the present study be undertake to determine the protein level of p53 , ino and vegf in normal tissue and the tissue with different severity of lesion of CSG , cag , dy , im and gc with and without lymph node metastasis from surgically resected human gc and gastric biopsy from symptom-free subject .
+39						the subject be from Linzhou and nearby county Huixian in Henan province , the high-incidence area for gc in northern China .
+40						Materials and method
+41						patient
+42						the present investigation include 55 randomly select gc patient and 60 symptom-free subject from the mass survey in the high-incidence area for gc .
+43						fifty-five gc patient be perform gastric cancer surgery at the Linzhou People 's hospital ( n = 26 ) and the second Affiliated Hospital of Henan Medical University ( n = 29 ) from 1996 to 1998 .
+44						before surgery , none of the patient receive any kind of chemical or radiation therapy .
+45						the median age of the patient be 61 year ( 30 ~ 77 year ) .
+46						cancer specimen be classify base on TNM as stage t1 ( 19 patient , 35 % ) , t2 ( 14 patient , 25 % ) , t3 ( 12 patient , 22 % ) and t4 ( 10 patient , 18 % ) .
+47						the tumor be histologically grade as well differentiate ( 15 patient , 27 % ) , moderate differentiate ( 14 patient , 25 % ) and poorly differentiate ( 26 patient , 47 % ) .
+48						of the 55 patient , 35 occur local lymph node metastasis ( 64 % ) .
+49						gastric biopsy be take from 60 symptom-free subject who volunteer to participate in a routine endoscopic screening for esophageal and gastric cancer in Huixian , China .
+50						no selection process be involve .
+51						of the 60 subject examine , there be 35 male and 25 female .
+52						the median age of the subject be 59 year ( 28 ~ 70 year ) .
+53						the biopsy be take each from the pylorus of the stomach from each subject .
+54						tissue processing
+55						all the surgically resected specimen and biopsy sample be fix with 10 % neutral formalin , embed with paraffin , and serially section at 5 mum .
+56						the section be mount onto the histostick coated slide .
+57						four or five adjacent ribbon be collect for histopathological analysis ( hematoxylin and eosin stain ) and for immunohistochemical staining .
+58						histopathological analysis
+59						histopathological diagnosis for gastric epithelium be make accord to cellular morphological change and tissue architecture use previously establish criterion ( Wang , et al. , 1994 ; you , et al. , 1993 ) .
+60						in brief , CSG : a inflammation manifest by mild lymphocyte and plasma-cell infiltration ; cag : glandular morphology disappear partially or completely absent in the mucosa and replace by connective tissue , inter-glandular space be infiltrate mainly by plasma cell and lymphocyte ; DYS : characterize by nuclear atypium with or without architectural abnormality in the gastric epithelium , but without invasion ; IM : confirm by the presence of goblet cell in gastric mucosa ; adenocarcinoma ( ac ) : invasion of neoplastic gastric cell through the basement membrane .
+61						immunohistochemical staining
+62						anti-p53 antibody be a monoclonal mouse anti-serum against p53 of human origin , and recognize both wild-type and mutant p53 ( ab-6 , oncogene science , Manhasset , NY ) .
+63						anti-inos antibody be a monoclonal mouse anti-serum against the c-terminal domain of ino of human origin ( sc-7271 , Santa Cruz Biotechnology , Inc. , Santa Cruz , CA ) .
+64						Anti-VEGF antibody be a polyclonal rabbit anti-serum against vegf of human origin and recognize a amino-terminal epitope find in vegf121 , 165 , 189 and 206 ( ab-2 , oncogene science , Manhasset , NY ) .
+65						the avidin-biotin-peroxidase complex method be use for the immunostaining of p53 , ino and vegf .
+66						in brief , after dewax , inactivate endogenous peroxidase activity and block cross-reactivity with normal serum ( Vectastain Elite kit ; Vector , Burlingame , CA ) , the section be incubate overnight at 4 * with a diluted solution of the primary antibody ( 1:1000 for p53 , 1:200 for ino and 1:100 for vegf ) .
+67						Location of the primary antibody be achieve by subsequent application of a biotinylate anti-primary antibody , a avidin and biotin complex conjugate to horseradish peroxidase , and diaminobenzidine ( Vectastain Elite kit , Vector , Burlingame , CA ) .
+68						the slide be counter stain by hematoxylin .
+69						negative control be establish by replace the primary antibody with PBS and normal mouse or rabbit serum .
+70						know immunostaining positive slide be use as positive control .
+71						specific staining for each protein be categorize as either positive or negative base on the presence of brown-color staining .
+72						more than 10 % cell positively stain be grade as positive .
+73						clear staining for nucleus ( p53 ) , cytoplasm and cell membrane ( vegf and ino ) be the criterion for a positive reaction ( Wang et al. ,1994 ) .
+74						all the immunostaining slide be observe by two pathologist ( l d Wang and L H Jiao ) .
+75						the slide with different diagnosis by two pathologist be read again ( less than 5 % ) , until the agreed diagnosis be make .
+76						statistical analysis
+77						the x2 test be use for the percentage of sample with positive stain .
+78						Spearman correlation test and linear tendency test be use for the correlation between positive rate and different severity of lesion ( p < 0.05 be consider significant ) .
+79						result
+80						Histopathologically , all the 55 surgically resected gastric specimen be confirm as adenocarcinoma .
+81						of the 55 gc patient , 11 case occur the invasion within sub-mucosa , 44 with whole-muscle layer .
+82						of the 60 biopsy-sample examine , 10 be diagnose as normal , 15 as CSG , 9 as cag , 16 as im with cag , and 10 as dy .
+83						the positive immunostaining for p53 , ino and vegf be observe in the gastric epithelial cell and cancer cell with different rate in the lesion of cag , dy , im and gc .
+84						but , the positive immunostaining for p53 , ino and vegf be not observe in normal gastric epithelial tissue and CSG .
+85						Figure , and show the representative of p53 , ino and vegf immunostaining in gc .
+86						p53 immunoreactivity be located in the nucleus , vegf and ino immunoreactivity be located mainly in the cytoplasm and cell membrane .
+87						ino immunostaining be confirm by western blot on part of ino positive and negative slide ( three slide for each ) , and consistent result be obtain for ino immunohistochemistry and western blot ( datum not show ) .
+88						the positive immunostaining rate for p53 be very low in cag , and slightly increase in im and dy , and significantly increase in gc .
+89						similar result be observe in ino and vegf .
+90						p53 positive immunosatining rate in well differentiate gc be lower than that in poorly differentiate gc ( p = 0.012 , Table ) .
+91						ino positive staining be similar among the gc with different degree of differentiation .
+92						although vegf immunostaining rate in poorly differentiate gc be higher than in well differentiate gc , the difference be not significant .
+93						Figure 1
+94						immunostaining of p53 in gastric carcinoma .
+95						immunoreactivity be located in cell nucleus ( arrow ) .
+96						20x
+97						figure 2
+98						immunostaining of ino in gastric carcinoma .
+99						immunoreactivity be located mainly in cytoplasm and cell nuclear membrane .
+100						10x
+101						Figure 3
+102						immunostaining of vegf in gastric carcinoma .
+103						immunoreactivity be located in cytoplasm and cell membrane .
+104						10x
+105						ino positive immunostaining rate in the case with deep invasion of gc ( through muscle layer ) be higher than in those with superficial invasion ( within submucosa ) , but , the difference be not significant .
+106						p53 and vegf immunostaining be similar in gc patient with superficial and deep invasion .
+107						ino immunosatining rate in the case with lymph node metastasis be higher than that in those without lymph node metastasis ( p = 0.014 , Table ) .
+108						however , there be no difference observe for p53 and vegf between the case with and without lymph node metastasis .
+109						p53 immunostaining rate in the case with tnm grade t1 be lower than that in those with tnm grade t2 , t3 and t4 ( t1 : t3 , p = 0.023 ; t1 : t4 , p = 0.012 ) .
+110						similar result be observe in vegf ( t1 : t2 and t2 : t3 , p = 0.015 ; t1 : t4 , p = 0.014 ; t2 : t4 , p = 0.01 , Table ) .
+111						however , there be no difference for ino immunostaining between the case with different tnm stage .
+112						a higher coincidental expression of p53 , ino and vegf in gc be observe .
+113						of the 55 case examine , there be 20 case show positive staining both for p53 and ino ( 36 % ) , 23 case show negative staining for both p53 and ino ( 42 % ) ( p = 0.005 , Table ) , 19 case show positive staining both for p53 and vegf ( 35 % ) and 18 case show negative for both p53 and vegf ( 33 % ) ( p = 0.01 , Table ) .
+114						the correlation be significant .
+115						discussion
+116						a interesting observation in this study be that the immunoreactivity of p53 , ino and vegf occur in the early stage of gastric carcinogenesis .
+117						the positive immunostaining cell be invariably associate with cell proliferate activity .
+118						with the lesion progress from normal to CSG to cag to im to DYS , and to gc , the positive immunostaining rate for p53 , ino and vegf increase significantly , the increase tendency for p53 , ino and vegf have a good linear correlation with lesion progression .
+119						the present result indicate that p53 protein accumulation and increase expression of ino and vegf may be important molecular event involve in the early stage of gastric carcinogenesis .
+120						another interesting observation be that , a high coincidental positive immunostaining rate for p53 and ino ( 36 % ) and p53 and vegf ( 35 % ) be observe .
+121						this result be consistent with the finding in human lung and colon carcinoma ( Ambs et al. , 1999 ) .
+122						although p53 antibody use in this study could not differentiate wild-type p53 from mutant p53 , previous study have indicate that p53 protein detect by immunohistochemistry seem to representative most mutant p53 .
+123						Accumulation of p53 be a indicator for a loss of p53 tumor suppressor function .
+124						both mutation and protein protein interaction can cause a p53 accumulation ( Wang , et al. , 1994 ) .
+125			E10	T5	p53 protein accumulation in this study may lead to the loss of cell proliferation control and inhibition for ino and vegf	consider that p53 protein accumulation be correlate with poorly differentiation and t2 , t3 and t4 tnm stage of gc , we conclude that p53 protein accumulation in this study may lead to the loss of cell proliferation control and inhibition for ino and vegf , possibly because of p53 gene mutation .
+126	tissuelist:TS-0978	gastric	T5			thus , the high coincidental expression of ino and vegf and p53 protein accumulation may be important event to enhance gastric carcinogenesis and poorly clinical feature and may be useful biomarker to assess risk for the development of gc .
+127						recent study on japanese gc patient have show that increase expression of vegf and p53 protein accumulation be associate with intra-tumoral angiogenesis ( Takeuchi , et al. , 2000 ; Saito , et al. , 1999 ) and poor prognosis ( Skatani , et al. , 2000 ; Ikeguchi , et al. , 2000 ; Maeda , et al. , 1998 ) .
+128						rajnkova report that increase expression of ino may promote gastric cancer progression by provide a selective growth advantage to tumor cell with non function p53 .
+129						( rajnkova , et al. , 2001 )
+130						the third observation in this study be that increase expression of ino and vegf and p53 protein accumulation occur with a high frequency in gastric biopsy sample with im .
+131						IM , which may be define as the replacement of gastric mucosa by gland which have the histological , histochemical , and physiological characteristic of the small intestine , have be strongly associate with stomach cancer .
+132						the present result demonstrate that im be a unstable stage with active molecular change , and further analysis to compare these change with normal small intestine will provide more information for the significance of im in gastric carcinogenesis .
+133						finally , the present study demonstrate that the positive immunostaining rate of ino be correlate well with gc lymph node metastasis , increase expression of vegf and p53 protein accumulation be relate with tnm stage and gc differentiation .
+134						these finding indicate that p53 , ino and vegf may be useful biomarker for gc aggressiveness .
+135						the molecular basis for the observed expression of ino and vegf and p53 protein accumulation and they role in the progression of gastric pre-cancerous lesion and angeogenesis require to be carefully investigate in the laboratory and follow-up study .
+136						abbreviation
+137						the abbreviation use be : CSG , chronic superficial gastritis ; cag , chronic atrophic gastritis ; DYS , dysplasium ; gc , gastric adenocarcinoma ; ino , inducible nitric oxide synthase ; IM , intestinal metaplasium ; vegf , vascular endothelial growth factor .
+138						pre-publication history
+139						the pre-publication history for this paper can be access here :

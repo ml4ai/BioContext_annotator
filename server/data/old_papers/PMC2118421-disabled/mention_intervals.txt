@@ -1,0 +1,445 @@
+0 6-7-mast_cell-tissuelist:TS-0603
+1 
+1 
+2 16-17-T_cell-uaz:UA-CLine-100050
+3 16-17-mast_cell-tissuelist:TS-0603
+4 2-2-mice-taxonomy:10090
+5 3-3-mast-uaz:UA-CLine-100061
+6 
+7 
+8 
+9 7-7-mast-uaz:UA-CLine-100061
+10 9-10-mast_cell-tissuelist:TS-0603
+11 
+11 7-7-mast-uaz:UA-CLine-100061 18-19-mast_cell-tissuelist:TS-0603
+12 
+13 
+14 11-12-T_cells-uaz:UA-CLine-100050
+15 
+15 
+16 
+17 
+18 
+19 
+20 
+21 2-3-mast_cell-tissuelist:TS-0603 15-15-mast-uaz:UA-CLine-100061
+22 
+22 
+23 
+24 5-5-mast-uaz:UA-CLine-100061
+25 14-15-plasma_membrane-go:GO:0005886
+26 5-5-platelet-tissuelist:TS-0803
+27 24-24-membrane-go:GO:0016020
+28 
+29 2-2-mast-uaz:UA-CLine-100061 22-23-mast_cell-tissuelist:TS-0603
+30 4-4-cytoskeleton-go:GO:0005856 21-22-mast_cell-tissuelist:TS-0603
+31 15-16-plasma_membrane-go:GO:0005886 19-19-membrane-go:GO:0016020
+32 15-15-membrane-go:GO:0016020
+33 
+33 
+34 9-10-plasma_membrane-go:GO:0005886
+35 19-20-T_cell-uaz:UA-CLine-100050
+36 0-1-T_cell-uaz:UA-CLine-100050 15-15-mice-taxonomy:10090
+37 3-3-mice-taxonomy:10090
+38 17-18-plasma_membrane-go:GO:0005886
+39 6-6-leukemia-tissuelist:TS-0547 9-9-platelet-tissuelist:TS-0803
+40 5-6-B_cells-uaz:UA-CLine-100005
+41 
+42 6-6-DT40-uaz:UA-CLine-6143
+43 
+44 9-9-mast-uaz:UA-CLine-100061
+45 8-8-mast-uaz:UA-CLine-100061
+46 
+46 23-23-mast-uaz:UA-CLine-100061
+47 18-19-mast_cell-tissuelist:TS-0603
+48 
+48 
+49 
+49 4-4-mast-uaz:UA-CLine-100061
+50 
+50 8-8-mast-uaz:UA-CLine-100061 22-22-mast-uaz:UA-CLine-100061
+51 0-1-Bone_marrow-tissuelist:TS-0087 3-3-mast-uaz:UA-CLine-100061 6-6-BMMCs-uaz:UA-CLine-100011 12-13-bone_marrow-tissuelist:TS-0087 21-21-mice-taxonomy:10090
+52 
+53 23-24-mast_cell-tissuelist:TS-0603
+54 1-1-mast-uaz:UA-CLine-100061
+55 12-12-mast-uaz:UA-CLine-100061
+56 
+57 
+58 11-11-BMMCs-uaz:UA-CLine-100011
+59 
+60 4-4-mast-uaz:UA-CLine-100061
+61 
+61 
+62 
+62 
+63 14-14-BMMCs-uaz:UA-CLine-100011
+64 9-9-mast-uaz:UA-CLine-100061
+65 0-1-Mast_cell-tissuelist:TS-0603
+66 11-11-BMMCs-uaz:UA-CLine-100011
+67 
+68 0-0-BMMCs-uaz:UA-CLine-100011
+69 
+70 
+71 
+71 4-5-mast_cell-tissuelist:TS-0603
+72 
+72 
+73 0-0-BMMCs-uaz:UA-CLine-100011
+74 14-14-BMMCs-uaz:UA-CLine-100011
+75 25-25-BMMCs-uaz:UA-CLine-100011
+76 11-11-mast-uaz:UA-CLine-100061 16-16-mast-uaz:UA-CLine-100061
+77 
+78 
+79 
+79 7-7-BMMCs-uaz:UA-CLine-100011
+80 
+80 5-5-mast-uaz:UA-CLine-100061
+81 
+82 12-12-BMMCs-uaz:UA-CLine-100011
+83 5-5-mast-uaz:UA-CLine-100061
+84 
+85 23-23-BMMCs-uaz:UA-CLine-100011
+86 
+87 
+88 
+89 
+89 
+90 
+90 
+91 14-14-BMMCs-uaz:UA-CLine-100011
+92 1-1-BMMCs-uaz:UA-CLine-100011
+93 
+94 
+95 
+96 
+97 
+98 5-5-mice-taxonomy:10090
+99 
+100 4-4-blood-tissuelist:TS-0079 20-20-mice-taxonomy:10090
+101 
+102 6-6-mast-uaz:UA-CLine-100061 10-10-peritoneum-uaz:UA-ORG-701 13-13-skin-tissuelist:TS-0934 17-17-dermis-uaz:UA-ORG-215
+103 
+103 8-8-mice-taxonomy:10090
+104 
+104 25-25-mice-taxonomy:10090
+105 6-6-mice-taxonomy:10090
+106 6-6-blood-tissuelist:TS-0079 11-11-mice-taxonomy:10090
+107 7-7-blood-tissuelist:TS-0079
+108 17-17-mice-taxonomy:10090 23-23-mice-taxonomy:10090
+109 
+109 16-16-mast-uaz:UA-CLine-100061 22-22-mice-taxonomy:10090 29-29-mast-uaz:UA-CLine-100061 35-35-mice-taxonomy:10090
+110 3-3-mast-uaz:UA-CLine-100061 12-12-skin-tissuelist:TS-0934 13-13-dermis-uaz:UA-ORG-215 25-25-mice-taxonomy:10090
+111 3-3-mast-uaz:UA-CLine-100061
+112 3-3-mast-uaz:UA-CLine-100061 9-9-mice-taxonomy:10090 17-18-mast_cell-tissuelist:TS-0603 32-33-mast_cell-tissuelist:TS-0603
+113 28-28-BMMCs-uaz:UA-CLine-100011
+114 19-20-mast_cell-tissuelist:TS-0603
+115 
+115 8-8-BMMCs-uaz:UA-CLine-100011
+116 
+116 
+117 14-14-mast-uaz:UA-CLine-100061
+118 0-0-BMMCs-uaz:UA-CLine-100011
+119 
+120 
+121 
+122 9-9-BMMCs-uaz:UA-CLine-100011
+123 15-15-BMMCs-uaz:UA-CLine-100011
+124 20-20-BMMCs-uaz:UA-CLine-100011
+125 
+126 
+126 
+127 
+127 10-10-BMMCs-uaz:UA-CLine-100011
+128 
+129 6-6-BMMCs-uaz:UA-CLine-100011
+130 
+131 
+132 
+133 
+134 1-1-mast-uaz:UA-CLine-100061
+135 
+136 
+137 
+138 
+138 6-6-mast-uaz:UA-CLine-100061
+139 
+139 
+140 
+141 5-5-mast-uaz:UA-CLine-100061
+142 25-25-BMMCs-uaz:UA-CLine-100011
+143 
+144 
+145 
+146 
+147 16-16-BMMCs-uaz:UA-CLine-100011
+148 
+149 
+150 
+150 
+151 
+151 10-11-mast_cell-tissuelist:TS-0603
+152 11-12-mast_cell-tissuelist:TS-0603
+153 
+154 
+155 3-3-mast-uaz:UA-CLine-100061
+156 1-1-BMMCs-uaz:UA-CLine-100011
+157 8-8-BMMCs-uaz:UA-CLine-100011
+158 7-7-membrane-go:GO:0016020
+159 
+160 12-12-BMMCs-uaz:UA-CLine-100011 30-30-membrane-go:GO:0016020
+161 4-4-gatekeeper-taxonomy:111938 6-7-mast_cell-tissuelist:TS-0603
+162 22-22-mast-uaz:UA-CLine-100061
+163 
+164 
+164 
+165 
+165 7-7-BMMCs-uaz:UA-CLine-100011
+166 17-17-BMMCs-uaz:UA-CLine-100011
+167 
+168 
+169 
+170 
+171 
+172 
+173 
+174 
+175 
+176 7-8-mast_cell-tissuelist:TS-0603
+177 
+178 
+178 
+179 5-6-cell_membrane-uniprot:SL-0039
+180 
+181 
+182 
+183 15-15-BMMCs-uaz:UA-CLine-100011
+184 14-14-BMMCs-uaz:UA-CLine-100011
+185 
+186 
+187 
+188 
+189 
+190 
+191 
+191 
+192 
+192 
+193 
+194 
+195 
+196 
+197 
+197 
+198 
+198 
+199 11-11-BMMCs-uaz:UA-CLine-100011
+200 
+201 
+202 
+203 5-5-BMMCs-uaz:UA-CLine-100011
+204 
+205 10-11-mast_cell-tissuelist:TS-0603
+206 0-0-Mast-uaz:UA-CLine-100061 6-6-B.-uaz:UA-CLine-100008 7-8-Mast_cell-tissuelist:TS-0603
+207 
+207 38-38-BMMCs-uaz:UA-CLine-100011
+208 
+209 
+210 
+211 
+212 
+213 
+214 8-8-mast-uaz:UA-CLine-100061
+215 11-11-BMMCs-uaz:UA-CLine-100011
+216 15-15-mast-uaz:UA-CLine-100061
+217 
+217 7-7-BMMCs-uaz:UA-CLine-100011
+218 
+218 
+219 6-7-plasma_membrane-go:GO:0005886 14-15-plasma_membrane-go:GO:0005886
+220 13-13-BMMCs-uaz:UA-CLine-100011
+221 8-8-mast-uaz:UA-CLine-100061
+222 6-8-mast_cell_granules-go:GO:0042629 21-21-cytosol-go:GO:0005829
+223 12-13-plasma_membrane-go:GO:0005886 16-16-BMMCs-uaz:UA-CLine-100011
+224 13-13-cytosol-go:GO:0005829
+225 6-7-plasma_membrane-go:GO:0005886 15-16-cell_surface-go:GO:0009986
+226 
+227 
+228 11-11-mast-uaz:UA-CLine-100061
+229 3-3-mast-uaz:UA-CLine-100061 12-13-plasma_membrane-go:GO:0005886
+230 
+230 
+231 
+231 14-14-BMMCs-uaz:UA-CLine-100011
+232 13-13-BMMCs-uaz:UA-CLine-100011
+233 0-0-BMMCs-uaz:UA-CLine-100011
+234 
+235 5-5-cytoskeleton-go:GO:0005856
+236 1-1-BMMCs-uaz:UA-CLine-100011
+237 
+238 
+239 
+240 
+241 
+242 
+242 0-0-Cytoskeleton-go:GO:0005856 6-6-BMMCs-uaz:UA-CLine-100011
+243 
+243 3-3-cytoskeleton-go:GO:0005856
+244 
+245 11-11-BMMCs-uaz:UA-CLine-100011 26-26-BMMCs-uaz:UA-CLine-100011
+246 5-5-mast-uaz:UA-CLine-100061 20-20-cytosol-go:GO:0005829
+247 
+248 5-5-BMMCs-uaz:UA-CLine-100011 16-17-plasma_membrane-go:GO:0005886
+249 
+250 
+250 
+251 16-16-mast-uaz:UA-CLine-100061
+252 
+253 
+254 
+255 
+256 
+257 
+257 
+258 
+258 
+259 24-24-mast-uaz:UA-CLine-100061
+260 3-3-mast-uaz:UA-CLine-100061
+261 
+262 
+263 
+264 
+265 0-0-Mast-uaz:UA-CLine-100061
+266 5-5-mast-uaz:UA-CLine-100061 24-25-plasma_membrane-go:GO:0005886
+267 10-10-mast-uaz:UA-CLine-100061
+268 4-5-mast_cell-tissuelist:TS-0603
+269 
+269 
+270 8-8-mast-uaz:UA-CLine-100061
+271 9-9-BMMCs-uaz:UA-CLine-100011 19-20-T_cells-uaz:UA-CLine-100050
+272 14-14-mast-uaz:UA-CLine-100061
+273 3-3-mice-taxonomy:10090
+274 
+275 1-1-mice-taxonomy:10090 22-23-mast_cell-tissuelist:TS-0603 31-31-mice-taxonomy:10090
+276 10-10-mast-uaz:UA-CLine-100061 15-16-T_cells-uaz:UA-CLine-100050
+277 
+278 1-1-mast-uaz:UA-CLine-100061
+279 21-22-plasma_membrane-go:GO:0005886
+280 
+280 9-10-mast_cell-tissuelist:TS-0603
+281 
+282 
+283 14-14-membrane-go:GO:0016020 21-21-mast-uaz:UA-CLine-100061
+284 14-14-membrane-go:GO:0016020
+285 
+286 
+287 
+288 4-4-platelet-tissuelist:TS-0803
+289 
+290 
+291 20-20-membrane-go:GO:0016020
+292 5-6-T_cell-uaz:UA-CLine-100050 13-14-Golgi_apparatus-go:GO:0005794
+293 
+294 12-12-mast-uaz:UA-CLine-100061 20-21-plasma_membrane-go:GO:0005886
+295 
+295 
+296 
+296 
+297 14-14-membrane-go:GO:0016020
+298 
+299 
+300 
+300 
+301 
+302 
+303 
+304 
+305 
+305 
+306 10-11-plasma_membrane-go:GO:0005886
+307 
+308 
+309 
+310 
+311 
+312 
+313 
+314 
+315 
+315 
+316 
+317 
+318 28-28-mast-uaz:UA-CLine-100061
+319 
+320 
+320 
+321 
+321 0-0-Mice-taxonomy:10090
+322 
+322 3-3-mice-taxonomy:10090
+323 0-0-Mice-taxonomy:10090 12-12-mice-taxonomy:10090
+324 
+324 
+325 
+326 
+327 6-6-rabbits-taxonomy:9986
+328 
+328 0-1-Mast_cell-tissuelist:TS-0603
+329 
+329 0-1-Bone_marrow-tissuelist:TS-0087 7-7-femurs-uaz:UA-ORG-303 14-14-mice-taxonomy:10090
+330 12-12-mast-uaz:UA-CLine-100061
+331 
+332 
+332 0-1-Mast_cell-tissuelist:TS-0603
+333 9-9-mice-taxonomy:10090
+334 0-0-Blood-tissuelist:TS-0079 12-12-blood-tissuelist:TS-0079
+335 
+335 
+336 
+336 
+337 13-13-membranes-go:GO:0016020
+338 8-8-membranes-go:GO:0016020
+339 0-0-Membranes-go:GO:0016020
+340 
+341 
+341 2-2-mast-uaz:UA-CLine-100061
+342 
+342 
+343 2-2-mast-uaz:UA-CLine-100061 6-6-peritoneum-uaz:UA-ORG-701 10-11-mast_cell-tissuelist:TS-0603
+344 0-0-Skin-tissuelist:TS-0934 5-5-skin-tissuelist:TS-0934 8-8-dermis-uaz:UA-ORG-215
+345 0-1-Mast_cell-tissuelist:TS-0603 22-22-mouse-taxonomy:10090
+346 
+347 
+347 
+348 
+348 
+349 
+350 
+351 
+352 
+353 
+353 
+354 
+354 10-10-mast-uaz:UA-CLine-100061
+355 
+356 
+357 
+358 
+359 
+360 
+360 
+361 
+361 
+362 10-10-retrovirus-taxonomy:31931
+363 1-1-BMMCs-uaz:UA-CLine-100011
+364 
+365 
+365 
+366 
+366 
+367 3-3-BMMCs-uaz:UA-CLine-100011 13-14-bone_marrow-tissuelist:TS-0087
+368 8-8-BMMCs-uaz:UA-CLine-100011
+369 
+370 
+371 
+372 
+373 

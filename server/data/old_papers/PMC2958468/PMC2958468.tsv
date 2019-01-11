@@ -1,0 +1,354 @@
+1						family-wide characterization of the denn domain Rab GDP-GTP exchange factor
+2						target or substrate rab gtpase be identify for 17 protein with denn domain .
+3	taxonomy:9606	human	s1			"a key requirement for rab function in membrane trafficking be site specific activation by gdp-gtp exchange factor ( gef ) , but the majority of the 63 human rab have no known gef ."
+4						we have perform a systematic characterization of the 17 human denn domain protein and demonstrate that they be specific gef for 10 rab .
+5			"e1,e2,e3,e4"	"s1,c1,c2"	dennd1a and 1b localize to clathrin patch at the plasma membrane and activate rab35 in a endocytic pathway trafficking shiga toxin to the trans-golgi network .	dennd1a and 1b localize to clathrin patch at the plasma membrane and activate rab35 in a endocytic pathway trafficking shiga toxin to the trans-golgi network .
+6			e5	"s1,c1,c2"	dennd2 gef target to actin filament and control rab9 dependent trafficking of mannose-6-phosphate receptor to lysosome .	dennd2 gef target to actin filament and control rab9 dependent trafficking of mannose-6-phosphate receptor to lysosome .
+7			"e6,e7,e8,e9,e10,e11,e12"	"s1,c1,c2"	"dennd4 gef target to a tubular membrane compartment adjacent to the golgus , where they activate rab10 , which suggest a function in basolateral polarize sorting in epithelial cell that compliment the non DENN GEF sec2 act on rab8 in apical sorting ."	"dennd4 gef target to a tubular membrane compartment adjacent to the golgus , where they activate rab10 , which suggest a function in basolateral polarize sorting in epithelial cell that compliment the non DENN GEF sec2 act on rab8 in apical sorting ."
+8			"e13,e14,e15,e16,e17,e18,e19,e20,e21,e22,e23,e24,e25e26,e27,e31"	"s1,c1,c2"	"dennd1c , dennd3 , dennd5a and 5b , mtmr5 and 13 , and MADD activate rab13 , rab12 , rab39 , rab28 , and rab27a and 27b , respectively ."	"dennd1c , dennd3 , dennd5a and 5b , mtmr5 and 13 , and MADD activate rab13 , rab12 , rab39 , rab28 , and rab27a and 27b , respectively ."
+9						"together , these finding provide a basis for future study on rab regulation and function ."
+10						introduction
+11						Rab gtpase be use to encode information about the state of a membrane or membrane domain in order to control specific membrane trafficking event .
+12						rab be activate by specific guanine nucleotide exchange factor ( gef ) promote the release of GDP and binding of gtp .
+13						"accord to the prevail model , gef together with other regulatory factor localize to and act at specific membrane surface , and thus provide a means to locally activate they target rab ."
+14						"this system allow vesicle derive from a particular organelle to be tag with a specific Rab gtpase , and they movement along the cytoskeleton and tethering to a specified domain on a target membrane to be control ."
+15						effector protein complex that be either activate or recruit to the membrane surface by the presence of the gtp bind Rab mediate these cytoskeletal and membrane tethering function .
+16						gtp hydrolysis trigger either by additional gtpase activate protein ( gap ) or spontaneously because of intrinsic activity of the Rab end the cycle .
+17						gef and gap therefore play a key role in the specific activation and inactivation of Rab gtpase .
+18						the known Rab gef and gap typically fall into discrete family define by conserve protein domain .
+19			e29	s2	Rab gap characteristically contain a tbc domain that catalyze nucleotide hydrolysis by a arginine-glutamine two-finger mechanism .	"with the exception of the rab3gap1 and 2 protein , Rab gap characteristically contain a tbc domain that catalyze nucleotide hydrolysis by a arginine-glutamine two-finger mechanism ."
+20	taxonomy:9606	human	"s2,e290"	s2	"in human , the tbc domain family have over 40 member , and it be likely that these regulate all 63 human rab , with some tbc domain protein act on several closely related rab ."	"in human , the tbc domain family have over 40 member , and it be likely that these regulate all 63 human rab , with some tbc domain protein act on several closely related rab ."
+21						"Rab gef be more diverse , and several conserve , yet structurally unrelated protein and protein complex have be show to have specific Rab gef activity ."
+22	taxonomy:7215	drosophila	"e30,e32,e33,e34,e35,e36,s3"	"s2,s3"	"the TRAPP and I complex activate ypt1p and rab1 , vps9 domain protein activate rab5 and ypt51p subfamily gtpase , sec2p and rabin protein activate sec4p gtpase , the ric1p and rgp1p complex activate ypt6p and possibly rab6 , the mon1p and ccz1p complex act on ypt7p and rab7 | the rcc1 domain protein claret , which may act as a gef for the unique rab lightoid in drosophila ."	"these be : the TRAPP and I complex activate ypt1p and rab1 , vps9 domain protein activate rab5 and ypt51p subfamily gtpase , sec2p and rabin protein activate sec4p gtpase , the ric1p and rgp1p complex activate ypt6p and possibly rab6 , the mon1p and ccz1p complex act on ypt7p and rab7 , and the rcc1 domain protein claret , which may act as a gef for the unique rab lightoid in drosophila ."
+23						"apart from claret , these gef and they target Rab gtpase act in trafficking pathway conserve from mammal to yeast ."
+24						"however , mammalian cell possess > 60 rab , compare with the 11 of bud yeast , and therefore require additional gef to activate these extra rab ."
+25						"at present , most of the 60 mammalian rab lack a defined gef activity , and it be therefore unclear how they would be specifically activate ."
+26						additional rab gef be therefore likely to exist .
+27						denn domain protein be first implicate as Rab gef by the biochemical purification of a rab3 gef from bovine brain .
+28						"this be subsequently identify as a denn domain protein , although it remain unclear which domain in the protein be responsible for gef activity ."
+29	"taxonomy:6239"	"caenorhabditis elegan"	"s4,e37,e38"	"s4"	MADD homologue aex-3 be responsible for control the activity of rab3 and rab27	further study reveal that the caenorhabditis elegan MADD homologue aex-3 be responsible for control the activity of rab3 and rab27 at the synapse .
+30						"more recently , a screen for defective receptor mediate yolk protein endocytosis in C. elegan identify another denn domain protein rme-4 , and indicate that it act on rab35 ."
+31						this be confirm by complementary study in mammalian cell show that the rme-4 homologue dennd1a and connecdenn be in fact a rab35 gef .
+32						these finding support the idea that denn domain protein might form a family of Rab gef .
+33						"to investigate this , we have characterize the human denn domain protein , and identify they target or substrate rab gtpase ."
+34						result
+35						identification of human denn domain protein
+36						sequence search of the human genome use the denn domain of the rab3 gef MADD reveal the presence of 17 protein share this domain .
+37						"all these protein carry a full denn domain comprise the three upstream ( u-denn ) , core ( DENN ) , and downstream ( d-denn ) subregion ."
+38						"systematic search of the genome sequence database reveal that although widely conserve in metazoan and protozoan , these DENN domain protein be absent from the bud yeast saccharomyces cerevisiae use as a model for trafficking study ."
+39	taxonomy:9606	humans	"e40,s6"	s6	denn domain protein may act as gef for some of the many additional rab	this suggest that denn domain protein may act as gef for some of the many additional rab find in human and other metazoan .
+40						"further analysis indicate that in addition to these protein , there be a group of related protein contain partial denn homology ."
+41						some of these such as avl9 and its homologue be conserve to bud yeast and other fungus .
+42						"because avl9 may be a gef for the non Rab ra family gtpase gtr2 in late golgus trafficking , these be unlikely to be Rab gef and they be not pursue further in this study ."
+43						Figure 1 .
+44						denn protein form a large family in human cell .
+45						"a schematic show the human denn domain protein , with the upstream ( u-denn ) , core DENN , and downstream ( d-denn ) region indicate ."
+46						additional domain likely to be of relevance for DENN target or regulation be marked and color code .
+47						"sequence alignment of denn be do with clustalx or muscle , and the result be visualize and manipulate with jalview ."
+48						linear sequence motif be browse in the elm database .
+49						Accession number use for this analysis be list in Table s1 .
+50						dennd1 regulate rab35 dependent shiga toxin trafficking to the TGN
+51						"as a first step in the systematic characterization of Rab nucleotide exchange activity , it be important to ensure that a known Rab GEF would give the expected pattern of specificity ."
+52						the vps9 domain gef rabex-5 be use for this purpose .
+53			"e41,e42,e43,e44"	s6	"rabex-5 promote GDP release from rab5a-c , and display some activity toward the rab5 subfamily gtpase rab17 , rab21 , and rab22a "	"as expect , rabex-5 promote GDP release from rab5a-c , and display some activity toward the rab5 subfamily gtpase rab17 , rab21 , and rab22a ."
+54						other rab fall below the background value set at twice the median .
+55						the short form of dennd1b encode only a denn domain be then test for gef activity use the GDP release assay .
+56			e45	s6	dennd1b-s promote GDP release from rab35	this reveal that dennd1b-s promote GDP release from rab35 but not the other rab test .
+57						"for true gef activity , gtp binding rapidly follow GDP release , and it be therefore important to test this ."
+58						DENND1B-S specifically promote gtp binding to rab35 but not the other rab test .
+59						similar result be obtain for dennd1a and the long form of dennd1b .
+60						dennd1c in contrast be most active toward rab13 and show no activity to rab35 .
+61			"e47,e48"	s6	dennd1a and dennd1b be rab35 specific gef 	"together , these finding show that dennd1a and dennd1b be rab35 specific gef , and that this activity be cause by the denn domain ."
+62						figure 2 .
+63						dennd1a and 1b be gef for rab35 .
+64						( a ) human rabex-5 be test against a representative panel of human rab protein use the GDP release assay .
+65						"in brief , 10 microg of each gst tag Rab to be test be incubate in 50 mm hepes-naoh , ph 6.8 , 0.1 mg and ml bsa , 125 microm edta , 10 microm mg-gdp , and 5 microcus [ 3h ] - GDP ( 10 mci and ml ; 5,000 ci and mmol ) in a total volume of 200 microl for 15 min at 30degreesC to load the rab with the radioactive gdp probe ."
+66						"for standard GDP release gef assay , 100 microl of the load reaction be then mix with 10 microl of 10 mm mg-gtp and 10 nm his6 tag rabex-5 purify from bacterium or a buffer control , then adjust to 120 microl final volume with assay buffer ."
+67						the gef reaction occur for 20 min at 30degreesC .
+68						"after this , 2.5 microl be take for a specific activity measurement ; the remainder be split into two tube , then incubate with 500 microl of ice-cold assay buffer contain 1 mm mgcl2 and 20 microl of packed glutathione-sepharose for 60 min at 4degreesc to separate rab-gdp complex from free "" release "" GDP ."
+69						"after wash three time with 500 microl of ice-cold assay buffer , the sepharose be transfer to a vial contain 4 ml of scintillation fluid and count ."
+70						the amount of nucleotide exchange be calculate in pmole of GDP release .
+71						( b and c ) a representative panel of human rab protein be test against 10 nm of his6 tag dennd1b-s in the GDP release ( b ) or gtp binding assay ( c ) .
+72						"for gtp binding assay , the follow modification be make : only unlabeled gdp be use in the load reaction ; in the gef reaction , 0.5 microl of 10 mm gtp and 1 microcus [ 35 ] - gtpgamma ( 10 mci and ml ; 5000 Ci and mmol ) be use ."
+73						the amount of nucleotide exchange be calculate in pmole of gtp bind .
+74						"( d and e ) human dennd1a ( d ) , dennd1b-l ( d ) , and dennd1c ( e ) be test against a subset of rab35 related rab use the gtp binding assay ."
+75						"for these assay , 10 nm of flag tag dennd1a or dennd1c purify from helum cell , or 10 nm of his6 tag dennd1b-l purify from bacterium be use ."
+76						error bar show the standard error from the mean .
+77						the red line mark double the median value take as a threshold .
+78	taxonomy:9606	human	s7			human rab35 have previously be identify in a screen for regulator of shiga toxin trafficking from the plasma membrane to the trans-golgi network .
+79			e49	s7	dennd1a and dennd1b be specific gef for rab35	"if dennd1a and dennd1b be specific gef for rab35 , then they might be expect to localize to a membrane compartment of this trafficking pathway ."
+80	tissuelist:TS-0136	HeLa cells	c3			"dennd1a localization be therefore examine in helum cell , where it be find to target to small punctate structure overlap with clathrin and the plasma membrane ap-2 clathrin adaptor ."
+81						the ap-1 and ap-3 clathrin adaptor associate with other trafficking step do not overlap with dennd1a .
+82						analysis of dennd1a complex use mass spectrometry show that they contain clathrin and component of the ap and 2 complex but not other clathrin adaptor .
+83			"e50,e51"	c3	 dennd1a specifically interact with clathrin and the ap and 2 complex	western blotting confirm that dennd1a specifically interact with clathrin and the ap and 2 complex but not other adaptor .
+84						the other dennd1 family member dennd1b and dennd1c do not interact with clathrin or clathrin adaptor .
+85						"depletion of clathrin cause loss of the punctate dennd1a plasma membrane staining and overlap with ap-2 , and result in a diffuse cytoplasmic and reticular pattern ."
+86						"dennd1a therefore target to clathrin and the ap-2-positive patch at the plasma membrane , which support the idea that it function in some form of endocytic trafficking ."
+87						"to test this idea , helum cell be deplete of dennd1a , dennd1b , and clathrin , then test for receptor mediate uptake of the growth factor egf or the transport of shiga toxin b subunit ( stxb ) to the trans-golgi network ."
+88						cell deplete of dennd1a fail to transport stxb to the trans-golgi network .
+89						"in the same cell , the uptake of egf into punctate endosomal structure be not alter ."
+90						depletion of clathrin strongly reduce egf uptake and cause the transferrin receptor to accumulate at the cell surface rather than show its normal punctate recycle endosome distribution .
+91						"although clathrin depletion do not block stxb uptake , uptake efficiency be reduce and it fail to overlap with the trans-golgi network marker tgn46 after 60 min ."
+92						"together , these finding support the idea that dennd1a be a rab35 gef regulate a endocytic trafficking pathway use by the Shiga toxin to reach the trans-golgi network , but that dennd1a be not essential for the receptor mediate uptake of egf ."
+93						Figure 3 .
+94						localization of dennd1a be clathrin dependent .
+95						"( a ) helum cell express egfp tag dennd1a ( green ) be fix and then stain with antibody to clathrin heavy chain , and the ap-1 , ap-2 , and ap-3 clathrin adaptor complex ( red ) ."
+96						dna be stain with dapus ( blue ) .
+97						( b ) dennd1a and dennd1b complex be analyze by mass spectrometry .
+98						the protein score highest by the Sequest search algorithm be list in the table .
+99						"( c ) helum cell be transfect with construct encode flag tag dennd1a , dennd1b-l , dennd1b-s , and dennd1c for 48 h ."
+100						"the cell be wash from the dish use PBS with 1 mm edta , and the cell pellet be lyse for 20 min on ice in 1 ml cell of lysis buffer ( 50 mm tris-hcl , ph 7.4 , 1 mm edta , 150 mm nacl , 0.5 % Triton x-100 , and protease inhibitor cocktail ) ."
+101						the flag tag protein be immunoprecipitate from the clarified lysate use 20 microl of anti-flag m2 affinity gel ( Sigma-Aldrich ) for 4 h at 4degreesc .
+102						"the pellet be wash three time in 1 ml of cell lysis buffer , and bind protein be elute with 1 ml of 200 microg and ml flag peptide in tb and then precipitate for 60 min on ice use 10 % trichloroacetic acid ."
+103						"the flag tag dennd1a , dennd1b-l , dennd1b-s , and dennd1c complex be analyze by sds-page on 4-12 % gradient gel and Coomassie blue staining , or western blot for clathrin heavy chain ( CHC ) and the ap-1 and ap-2 clathrin adaptor on 10 % gel ."
+104						Asterisks mark protein that nonspecifically bind to flag-agarose and be find in negative control condition .
+105						molecular mass standard be indicate in kilodalton .
+106						"( d ) helum cell express egfp tag dennd1a ( green ) be transfect for 72 h with sirna duplex target the clathrin heavy chain , fix , and then stain with antibody for clathrin and the ap-2 clathrin adaptor ( red ) ."
+107						dna be stain with dapus ( blue ) .
+108						"enlargement be show to the right to more clearly demonstrate the overlap between dennd1a ( green ) , and clathrin or ap2 ( red ) in control cell , and the loss of punctate dennd1 staining after clathrin heavy chain depletion ."
+109						"bar , 10 microm ."
+110						Figure 4 .
+111						dennd1a be require for rab35 dependent shiga toxin trafficking to the trans-golgi network .
+112						"( a ) helum cell express egfp tag dennd1a and the long or short form of dennd1b be transfect with sirna duplex to dennd1a , dennd1b , clathrin heavy chain ( CHC ) , or a nonspecific control for 72 h , then western blot as indicate ."
+113						molecular mass standard be indicate in kilodalton .
+114						the asterisk indicate a nonspecific cross reaction of the clathrin heavy chain antibody .
+115						( b ) dual egf and stxb uptake assay be perform for 60 min as describe previously in cell transfect with control or dennd1a duplex for 72 h. cell be fix and then stain for the golgus marker golgin-160 .
+116						( c ) uptake assay be perform as in b use cell transfect with CHC siRNA duplex .
+117						cell be fix and then stain for the transferrin receptor ( tfr ) to mark recycle endosome or the TGN marker tgn46 .
+118						"bar , 10 microm ."
+119						( d ) the extent of egf and shiga toxin uptake under the various condition be measure and be plot in the graph ( n = 3 ) .
+120						imagej be use to measure colocalization of marker .
+121						error bar indicate standard error of the mean .
+122						the dennd2 family regulate rab9 and lysosome distribution
+123			e52	s7	dennd1 protein be Rab gef	"have successfully show that the dennd1 protein be Rab gef , other denn protein be then investigate start with the dennd2 family ."
+124						"the dennd2 family have four member , and one of these , dennd2d , comprise only a denn domain ."
+125						this be test first .
+126						"dennd2d display specific GDP release activity to both rab9a and rab9b but not any other rab test , which support the view that the denn domain alone be responsible for gef activity ."
+127						this specificity be confirm for the three other dennd2 family member .
+128						"examination of dennd2 family localization reveal that dennd2a and dennd2b be present on filament reminiscent of actin , that dennd2c overexpression cause cell shape change and form large patch in cell protrusion , and that dennd2d be diffusely located throughout the entire cell ( and s1 ) ."
+129						the pronounced actin filament localization of dennd2a be especially intriguing because it be recently show that the rho family protein rhobtb3 be a rab9 effector protein .
+130						"rho family protein be typically associate with process control the actin cytoskeleton , and this suggest there may be a link between rab9 function and the actin cytoskeleton ."
+131						"as expect , rab9 be present on lamp1 positive lysosome define by the marker lamp1 ."
+132						"depletion of rab9 or dennd2a result in a similar phenotype , where lysosome cluster adjacent to the perinuclear region and be lose from the more peripheral region of the cell ."
+133						depletion of other dennd2 family member have no obvious effect in helum cell ( and not depict ) .
+134						"rab9 have a well document function in trafficking of the mannose-6-phosphate receptor ( mpr ) between the TGN and late endosome , and this function be therefore investigate ."
+135						cell deplete of rab9 or dennd2a show reduce intensity of mpr staining relative to control cell and a loss of mpr positive structure in the cell periphery .
+136						fluorescence intensity measurement either integrate the total cell associated signal or take a transection through the perinuclear region indicate that there be a > 60 % reduction in mpr staining intensity in dennd2a-_NN and rab9 deplete cell .
+137						"block rab9 function prevent recycling of mpr from late endosome back to the TGN ; thus , the MPR may become trap in late endosome and may enter the lysosome , where it will be degrade ."
+138						other TGN recycling pathway be not obviously perturb by rab9 or dennd2a depletion because the TGN marker tgn46 be not change by these treatment .
+139						"consistent with the biochemical gef assay datum , loss of rab9 activity either by deplete rab9 or its GEF regulator dennd2a cause a similar phenotype ."
+140						these finding support the idea that the dennd2 family member act as gef for rab9 in trafficking between the late endosome and the TGN .
+141						"interestingly , component of the bloc complex involve in trafficking to lysosome like organelle have be find to associate with actin filament and to interact with rab9 ."
+142						"the diversity of dennd2 family member suggest that this pathway be regulate differently in different tissue , possibly link rab9 regulation at late endosome and lysosome related organelle to the status of the actin cytoskeleton ."
+143						Figure 5 .
+144						the dennd2 family regulate rab9 and lysosome .
+145						( a ) a representative panel of human rab protein be test against 10 nm of his6 tag human dennd2d purify from bacterium use the GDP release assay .
+146						"( b ) human dennd2a , dennd2b , and dennd2c be express as his6 tag protein in bacterium and then test against a subset of rab9 related rab ."
+147						error bar show the standard error of the mean .
+148						the red line mark double the median value .
+149						"( c ) helum cell be transfect with egfp tag dennd2a or rab9a ( green ) , fix after 24 h , and stain with the antibody indicate ( red ) ."
+150						dna be stain with dapus ( blue ) .
+151						"inset enlargement be show to more clearly demonstrate the relationship between rab9 ( green ) and lamp1 ( red ) , which suggest that rab9 be present on the lysosome membrane ."
+152						"( d ) helum cell express egfp tag rab9 or dennd2 construct as indicate be transfect with control , rab9a , rab9b , and dennd2a-d sirna duplex for 72 h. western blotting with egfp antibody confirm depletion of the target protein , whereas tubulin show that load be equal for all sample ."
+153						"helum cell transfect with control , rab9a and rab9b , and dennd2a-d sirna duplex for 72 h be fix , then stain for lamp1 ( red ) and dapus to detect dna ( blue ) ."
+154						molecular mass standard be indicate in kilodalton .
+155						"( e ) helum cell transfect with control , rab9a and rab9b , and dennd2a sirna duplex for 72 h be fix , then stain for MPR ( green ) and tgn46 ( red ) ."
+156						dna be stain with dapus ( blue ) .
+157						"bar , 10 microm ."
+158						( f ) fluorescence intensity for mpr staining from e be measure use imagej by draw a box around the entire cell area and integrate the total signal .
+159						a equivalent area with no cell be subtract for the background .
+160						"this be perform for 24 cell , and the mean and standard error be plot on the bar graph ."
+161						a 20 x 1 microm line measurement be perform across the nuclear region where MPR staining be most cluster .
+162						"the pixel intensity along the line be plot in the graph for control , dennd2a , and rab9a-_NN and rab9b deplete cell ."
+163			e53	c4	dennd4 family protein be specific gef for rab10	dennd4 family protein be specific gef for rab10 in apical sorting
+164						the role of rab8 and rab10 in apical and basolateral sorting be well establish .
+165						"question remain , however , about how these two gtpase be independently regulate ."
+166						"two gef carry the sec2 domain have be report to show activity toward rab8 , but the gef for rab10 be unknown ."
+167			e54	c4	analysis of the dennd4 family protein show that these specifically promote GDP release from and gtp binding to rab10	analysis of the dennd4 family protein show that these specifically promote GDP release from and gtp binding to rab10 and have no activity toward rab8 .
+168						"in contrast , sec2 domain protein rabin3 and rabin8 and rabin3-like and GRAB be specific gef for rab8a and rab8b and have no activity toward rab10 ."
+169			"e56,e57,e58"	c4	" the sec2 domain protein rabin8 and GRAB , and the denn domain protein of the dennd4 family could provide a means to activate rab8 and rab10 "	"thus , the sec2 domain protein rabin8 and GRAB , and the denn domain protein of the dennd4 family could provide a means to activate rab8 and rab10 , respectively , and thus independently control polarize trafficking ."
+170	tissuelist:TS-0136	HeLa cells	c4			"although dennd4a and dennd4c show a diffuse cytoplasmic localization in helum cell , dennd4b be present on a tubular membrane compartment emanate from the perinuclear region ( and s1 ) ."
+171						"strikingly , dennd4b staining be coincident with that of its target rab10 ."
+172						"this compartment do not overlap with marker for early endosome , recycle endosome , or lysosome , but do show partial overlap with the golgus marker gm130 ."
+173						Figure 6 .
+174						dennd4 family protein be specific gef for rab10 .
+175						( a ) a representative panel of human rab protein be test against 10 nm of human dennd4b express as a flag tag protein in helum cell use the GDP release assay .
+176						"( b ) human dennd4a , dennd4b , and dennd4c be test against a subset of rab10 related rab use the gtp binding assay ."
+177						"again , 10 nm of each flag tag DENN protein purify from helum cell be use for these assay ."
+178						error bar show the standard error of the mean .
+179						the red line mark double the median value .
+180						( c and d ) a representative panel of human rab protein be test against 10 nm of his6 tag human rabin3 and rabin8 ( c ) and rabin3-like and GRAB purify from bacterium use the GDP release assay ( d ) .
+181						error bar indicate standard error of the mean .
+182						"( e ) helum cell express egfp tag dennd4b be transfect with mcherry tag rab10 , or stain for the marker indicate ."
+183						4x enlargement of the rab10 positive tubule be show in the top panel .
+184						"bar , 10 microm ."
+185						family-wide assignment of denn specificity
+186						"to complete the family-wide assignment of denn specificity , the remain denn domain protein dennd3 , dennd5a , and dennd5b ; the myotubularin related protein mtmr5 and mtmr13 ; and MADD be test ."
+187						this reveal that these protein also have specific Rab target .
+188			"e59,e60,e61,e62"	c4	"dennd3 be a rab12 gef , whereas dennd5a and b act on rab39 and mtmr5 and 13 act on Rab 28 ."	"dennd3 be a rab12 gef , whereas dennd5a and b act on rab39 and mtmr5 and 13 act on Rab 28 ."
+189			e63	c4	"in agreement with previous report , MADD show activity toward rab27 and rab27b "	"in agreement with previous report , MADD show activity toward rab27 and rab27b , although it do not have activity toward rab3 family member ."
+190						"this may be cause by the use of bacterially express rab protein , as it have be report that c-terminal prenylation may be important for recognition of rab3 by MADD ."
+191						Figure 7 .
+192						family-wide assignment of denn specificity .
+193						"human dennd3 ( a ) , dennd5a and dennd5b ( b ) , mtmr5 and mtmr13 ( c ) , and MADD ( d ) be test against a representative panel of human rab protein use the GDP release assay ."
+194						all assay use 10 nm of flag tag DENN protein purify from helum cell .
+195						error bar show the standard error of the mean .
+196						the red line mark double the median value .
+197						"in summary , we have assemble a library of full-length human denn domain protein and test they localization and biochemical specificity ."
+198						"this approach have reveal that the different denn protein target to different subcellular compartment , which be consistent with the idea that they may control Rab activation at unique membrane or cytoskeletal domain ."
+199						"critically , it also show that denn domain protein have unique and nonoverlapping rab target ."
+200						these finding will therefore be of relevance for many future study on rab function in membrane trafficking .
+201						Figure 8 .
+202						a summary of Rab gef indicate they target rab .
+203						"human ( homo sapiens , hs ) , fruit fly ( drosophila melanogaster , dm ) , and nematode ( C. elegan , ce ) rab and bud yeast ( saccharomyces cerevisiae , sc ) ypt be align use ClustalX and plot use njplot ."
+204						"the alignment be annotated to show the known Rab gef : trapp , sec2 , the vps9 domain family , ric1-rgp1 , mon1-ccz1 , claret , and the denn domain family ."
+205						image to the right indicate the typical localization of the denn domain family in helum cell .
+206						the pattern of conservation be summarize in the text to the right .
+207						the accession no .
+208						"for human , mouse , zebrafish , fruit fly , and nematode denn domain protein be list in Table s1 ."
+209						"bar , 10 microm ."
+210						discussion
+211						denn form a conserved family of Rab gef
+212						the result present here provide good evidence that denn protein form a family of highly specific Rab GEF regulator control specific intracellular transport pathway .
+213						"denn protein be conserve in primitive unicellular eukaryote such as protozoan of the Naegleria genus , fission yeast , filamentous fungus , and plant ; however , they be absent from bud yeast ."
+214						"consistent with this , none of the DENN target rab identify by this study be present in bud yeast ."
+215						"as report previously , MADD act on rab27a , which function in melanosome transport ."
+216	taxonomy:6239	c. elegans	"s8,e64"	s8	 rme-4 act on rab35	dennd1 and the C. elegan equivalent rme-4 act on rab35 in endocytic trafficking pathway absent from bud yeast .
+217						previous investigation of the dennd1 and connecdenn protein in human cell have show that rab35 and dennd1a and connecdenn 1 play a role in recycling of mhc class i at a early endosomal compartment .
+218						"these author have also show that connecdenn protein interact with clathrin , and we finding confirm this for dennd1a and connecdenn 1 ."
+219						"we find that clathrin be require for shiga toxin delivery to the TGN , but not its endocytosis ."
+220						"this fit with the idea that the stxb traffic through a early endosomal sorting compartment , where it undergo a clathrin dependent sort event , before delivery to the TGN ."
+221						"dennd3 and dennd1c , like they target rab12 and rab13 , respectively , be present in vertebrate but be absent in invertebrate ."
+222						"in mammalian polarize epithelial cell , rab13 function in trafficking between recycle endosome and the TGN ."
+223						"together with the datum present here , this suggest that the dennd1 family control endosomal recycling and endosome-tgn trafficking route involve rab13 and rab35 ."
+224						"putative orthologue of dennd5a and rab6-interacting protein 1 and its target rab39 exist in worm , fly , and vertebrate ."
+225						"interestingly , rab39 be localized to the golgus apparatus like its regulator dennd5a and b , and loss-of-function mutation in rab39b cause x link mental retardation ."
+226						"the underlie defect appear to be cause by altered trafficking require for growth cone and synapse formation , which suggest that further study of dennd5 should focus on neuronal system rather than fibroblast like tissue culture cell ."
+227						"a homologue of the Myotubularin phosphatase domain contain denn protein mtmr5 and mtmr13 , and they target rab28 , be present in protozoan , which suggest this have a trafficking function conserve at the cellular level rather than in a tissue specific pathway ."
+228						"contradict this view somewhat , mutation in human mtmr13 and disruption of mmr13 in mouse result in a autosomal recessive neuropathy , which suggest a function important for nervous system function ."
+229						"finally , dennd4 family gef and rab10 be also always find together in multicellular organism with polarize epithelial cell layer ."
+230						rab of the rab8 and rab10 family have be implicate in trafficking to polarize membrane domain at the cell surface .
+231						"in bud yeast sec4p , the rab8 homologue be require for polarize transport from the late-golgus into the grow bud ."
+232						"in higher eukaryote , rab8 have be find to function in transport to actin rich membrane protrusion , the cilium , and apical surface of polarize epithelial cell ."
+233						"in contrast , rab10 be report to function in basolateral transport ."
+234						"it seem obvious that rab8 and rab10 would require activation by specific gef , and this appear to be the case ."
+235						"sec4p and rab8 be activate by sec2 domain gef , whereas dennd4 family gef activate rab10 ."
+236						"this be support by observation that mutation in CRAG , the presumed drosophilum orthologue of human dennd4 , result in missorting of cargo such as perlecan and laminin destine for the basolateral surface of cell ."
+237						"however , the fruit fly pose a problem for this simple idea because it lack a documented gene encode a sec2 domain protein ."
+238						"at present , it be only possible to speculate how rab8 be activate in fruit fly , but the two most likely possibility be either that there be a novel rab8 gef or that a known gef family have acquire activity toward rab8 ."
+239						"dennd2 specificity raise similar issue because rab9 be present in fly , although a readily discernable dennd2 be not ."
+240						"fly may have some unique feature with regard to Rab regulation , and further study will be necessary to address these issue ."
+241						"interestingly , dennd2b , also know as suppressor of tumorigenicity 5 ( st5 ) , be mutate in human patient suffer from mental retardation and multiple congenital abnormality that can result in deafness , cleft palate , and circulatory and kidney function defect ."
+242						"we result suggest that these defect may be cause by defective regulation of rab9 , and hence trafficking between late endosome and lysosome ."
+243						"this be reminiscent of lysosomal storage disorder , which be long know to cause mental retardation and other developmental abnormality ."
+244						there appear to be no obvious characteristic distinguish DENN modulate rab from those control by other class of gef and rab with as yet unknown gef .
+245						in a sequence alignment partition into these three group there be no position that clearly differentiate rab under DENN regulation from other ( unpublished datum ) .
+246						"furthermore , when sequence conservation among DENN modulate Rabs be map onto the surface of the structure of one of they , no additional conserve surface patch -- putative denn-interaction site -- be observe when a comparison be make to Rabs not under DENN control ( unpublished datum ) ."
+247						"this suggest that denn bind to site that overlap those see for other gef , perhaps because of shared functional necessity such as switch i displacement ."
+248						this and a apparent lack of signature feature of DENN modulate rab suggest that only small change and and or change at different position may have be responsible for alter GEF class specificity during Rab evolution .
+249						this conclusion be support by the close relationship between rab that be regulate by unrelated gef class .
+250						be denn related protein Rab gef ?
+251						"as show here and elsewhere , denn domain protein be specific Rab gef ."
+252						"it be interesting to note that some of the DENN related protein be find throughout the eukaryotic kingdom and be therefore likely to function in conserve cellular process , include membrane trafficking event ."
+253						this suggest that the DENN related protein might also have Rab GEF activity .
+254						"however , the only characterize member of this family , bud yeast avl9p , be possibly a regulator of gtr2p , a ra superfamily gtpase outside the Rab subfamily ."
+255						we preliminary evidence also indicate that human avl9 do not act on any of the human rab .
+256						"although this support the idea that DENN and DENN related domain specify gef activity toward gtpase of the ra superfamily , these finding suggest they may not all be Rab gef ."
+257						further study will be need to investigate they specificity and define the cellular process they act in .
+258						many conserve rab lack gef regulator
+259						"despite the advance present here in assign the specificity of 17 rab gef , several key rab involve in membrane trafficking , lipid droplet , and cilium formation be still leave without gef activator ."
+260						it be intriguing that these often cluster into related group .
+261						"for example , see rab2/4/14 in , which may indicate that these share a family of related but as yet unknown regulator ."
+262						"here , we argue that because Rabs form a large closely related family , they regulator might do the same and share a common domain ."
+263						this lead we to more closely investigate the denn domain protein .
+264						"follow this line of argument , it may therefore be worthwhile to test conserve domain widely associate with protein function in trafficking for gef activity ."
+265						"this might include the DENN related protein , although there be caveat as discuss , the SNX and bar domain family , and rcc1 domain protein ."
+266						"however , it be possible that common domain do not unite the remain Rab gef , and thus other unbiased biochemical and genetic strategy will need to be follow if they be to be identify ."
+267						"although the work present here will be useful in inform many future study on membrane trafficking , we be still some way from define the full complement of Rab GEF and GAP regulator and effector protein necessary for a full understanding of rab function ."
+268						Materials and method
+269						reagent and antibody
+270						General laboratory chemical be obtain from Sigma-Aldrich and Thermo Fisher Scientific .
+271						antibody to egfp be raise in sheep against the entire coding region of egfp and affinity purify .
+272						rabbit anti-golgin-160 antibody be raise and affinity purify against the entire coding region of rat golgin-160 express as a his6 tag protein in bacterium .
+273						"mouse anti-clathrin clone x22 be a gift from S. Royle ( University of Liverpool , Liverpool , England , UK ) ."
+274						"commercially available antibody be use to alpha-tubulin ( mouse dm1a ; Sigma-Aldrich ) , actin ( mouse 2q1055 ; Abcam ) , alpha-adaptin ( clone 8 ; bd ) , gamma-adaptin ( mouse clone 88 ; bd ) , delta-adaptin ( mouse clone 18 ; bd ) , eea1 ( rabbit 2411 ; cell signaling technology ) , flag antibody ( mouse m2 ; Sigma-Aldrich ) , GM130 ( mouse clone 35 ; bd ) , human lamp1 ( mouse clone 25 ; bd ) , tgn46 ( sheep ahp500 ; Serotec ) , tfr ( rabbit cbl47 ; Millipore ) , and ci-mpr ( mouse 2g11 ; Abcam ) ."
+275						"secondary antibody raise in donkey to mouse , rabbit , sheep and goat , and human conjugate to HRP , Alexa Fluor 488 , Alexa Fluor 555 , Alexa Fluor 568 , and Alexa Fluor 647 be obtain from Invitrogen and Jackson ImmunoResearch Laboratories ."
+276						molecular biology and protein purification from bacterium and insect cell
+277						human denn be amplify from image clone ( source Bioscience Geneservice ) or human fetal cdna ( Marathon ready cdna ; Takara Bio Inc. ) use kod polymerase ( emd ) .
+278						mutagenesis be perform use the QuikChange method accord to the protocol ( Agilent Technologies ) .
+279						Duplexes for siRNA be obtain from QIAGEN or Thermo Fisher Scientific .
+280						mammalian expression construct be make use pcdna4 and to and pcdna5/frt/to vector ( Invitrogen ) .
+281						"bacterial expression construct be make use pqe32 ( QIAGEN ) , pmal ( New England Biolabs , Inc. ) , and pfat2 encode the his6 tag , his6-maltose-binding protein , and his6-glutathione s-transferase , respectively ."
+282						"his6-glutathione s-transferase-tagged rab protein in pfat2 be express in bl21 ( de3 ) pril or bl21 ( de3 ) pg-kge8 ( Takara Bio Inc. ) at 18degreesC for 12-14 h , then purify use ni-nta agarose as describe previously ."
+283						"in brief , cell pellet be lyse for 20 min in 10 ml imac5 ( 20 mm tris-hcl , ph 8.0 , 300 mm nacl , 5 mm imidazole , 0.2 % Triton x-100 , and protease inhibitor cocktail ; Roche ) contain 0.5 mg and ml lysozyme , and then sonicate at 70 % power four time for 30 s with a 30-s rest period ."
+284						"lysate be clarify by centrifugation at 14,000 rpm in a ja-17 rotor for 30 min ."
+285						"to purify the tagged protein , 0.5 ml of nickel charge nta-agarose ( QIAGEN ) be add to the clarified lysate and rotate for 2 h ."
+286						"the agarose be wash three time with imac20 ( imac5 with 20 mm imidazole ) , then the bound protein be elute in imac200 ( imac5 with 200 mm imidazole ) , collect 0.5 ml fraction ."
+287						all manipulation be perform on ice or in a 8degreesc cold room .
+288						"his6 tag rabex5 , rabin3 and 8 , rabin3-like and GRAB , dennd1b-s , dennd1b-l , and dennd2a-d in pqe32 be express in jm109 at 18degreesC for 12-14 h , then purify use nickel charge NTA agarose use the same procedure as the Rabs ."
+289						"rab12 and rab39 be express use the pachis-gst vector encode as his6-glutathione s-transferase tag , which be equivalent to that in pfat2 in the baculovirus and sf9 cell expression system ( bd ) ."
+290						"for virus infection , 10 x 15-cm dish of contain 1.5 x 108 at 5 x 105 cell and ml of sf9 cell be infect with a virus moiety of infection of 1.0 for 48 h ."
+291						"the infected cell be harvest , wash once in PBS , and then lyse in imac5 for 20 min on ice ."
+292						"lysate be clarify by centrifugation at 14,000 rpm in a ja-17 rotor ( Beckman Coulter ) for 30 min ."
+293						"protein be purify with the same protocol use for bacterial expression with minor modification : 100 microl of nickel charge NTA agarose be use for the purification , and 100-microl fraction of the elution be collect ."
+294						"purify protein be dialyze against tb ( 50mm tris-hcl , ph 7.4 , and 150 mm nacl ) and then snap freeze in liquid nitrogen for storage at -80 degreesc ."
+295						protein concentration be measure use the Bradford assay .
+296						recombinant stxb be express untagged from ptrc99a in escherichia coli bl21 ( de3 ) grow in lysogeny broth for 14 h at 37degreesc .
+297						all subsequent step be perform at 4degreesc .
+298						"the bacterial cell pellet from a 1 liter culture be resuspend in 20 ml of 20 mm tris-hcl , ph 7.5 , 150 mm nacl , and 0.1 mg and ml polymyxin b ."
+299						"after mix for 30 min on a roller , the sample be sonicate twice at 70 % power for 10 s ."
+300						"a periplasmic lysate be prepare by remove the cell debris by centrifugation , first at 13,000 g for 15 min then again at 90,000 g for 35 min ."
+301						"this lysate be dilute by the addition of two volume of 20 mm tris-hcl , ph 7.5 , then load on to a 5 ml hitrapq column ( GE Healthcare ) ."
+302						"the column be wash with 20 ml of 20 mm tris-hcl , ph 7.5 , then elute with a 50-ml linear gradient from 0-600 mm nacl in the same buffer ."
+303						the flow rate be 2 ml and min throughout .
+304						"fraction of 2.5 ml be collect and analyze by sds-page , and the peak of stxb pool to give a 15-ml solution at 1 mg and ml ."
+305						"this be then concentrate to 5 mg and ml use Centricon 10k unit ( Millipore ) centrifuge at 3,000 g ."
+306						"a 500 microl aliquot be then apply at 0.15 ml and min to a superose 12 gel filtration column equilibrate in PBS , and 1-ml fraction be collect ."
+307						the peak fraction of pentameric stxb be pool to give a 1.1 mg and ml solution .
+308						a 1-ml aliquot of this solution be label by the addition of one vial of monoreactive n-hydroxysuccinimidyl cy3 ( GE Healthcare ) .
+309						"after 5 min at room temperature , 100 microl of 1 m tris-hcl , ph 8.0 , be add to stop the reaction ."
+310						excess dye be remove by desalt over pd10 column ( GE Healthcare ) .
+311						"fraction of 500 microl be collect , and absorption be measure at 280 and 552 nm ."
+312						"use molar extinction coefficient of 150,000 m-1cm-1 for cy3 and 170,000 m-1cm-1 for pentameric stxb , dye labeling be calculate as 1 cy3 per toxin subunit with a concentration of 0.7 mg and ml ."
+313						cell culture and protein purification from mammalian cell
+314	"uaz:UA-CLine-5369,uaz:UA-CLine-100085"	"Hela, hek293"	"c1,c2"			helum and hek293 cell be culture in dme contain 10 % bovine calf serum ( Invitrogen ) at 37degreesc and 5 % co2 .
+315						"for plasmid transfection and sirna transfection , Mirus lt1 ( Mirus Bio LLC ) , and oligofectamine ( Invitrogen ) , respectively , be use accord to the manufacturer ' instruction ."
+316						"flag tag form of dennd1a , dennd1c , dennd3 , dennd4a , dennd4b , dennd4c , dennd5a , dennd5b , mtmr5 , mtmr13 , and MADD in pcdna5/frt/to be transiently express in 10 x 15-cm dish of 70 % confluent helum cell ."
+317						"after 48 h of growth , the cell pellet be lyse for 20 min on ice in 5 ml of cell lysis buffer ( 50 mm tris-hcl , ph 7.4 , 1 mm edta , 150 mm nacl , 0.5 % Triton x-100 , and protease inhibitor cocktail ) ."
+318						"cell lysate be split into 1.0 ml aliquot and clarify by centrifugation at 20,000 g in a microcentrifuge ( 5417r microfuge ; Eppendorf ) for 20 min ."
+319						the flag tag protein be immunoprecipitate from the clarified lysate use 100 microl of anti-flag m2 affinity gel ( Sigma-Aldrich ) for 4 h at 4degreesc .
+320						"the pellet be wash 10 time in 1 ml of cell lysis buffer , 10 time in 1 ml of high-salt buffer ( 50 mm tris-hcl , ph 7.4 , and 500 mm nacl ) , and 10 time in tb , and finally the protein be elute with 100 microl of 200 microg and ml flag-peptide in tb contain 2 mm dithiothreitol ."
+321						"the eluted protein be analyze on 7.5-10 % sds-page gel stain with Coomassie brilliant blue , and concentration be estimate by comparison to a series of bsa standard in the range of 0.1-1 mg ."
+322						the peak fraction be snap freeze in liquid nitrogen for storage at -80 degreesc without dialysis .
+323						nucleotide binding and gef assay
+324						"nucleotide loading be perform as follow : 10 microg of gst tag Rab be incubate in 50 mm hepes-naoh , ph 6.8 , 0.1 mg and ml bsa , 125 microm edta , 10 microm mg-gdp , and 5 microcus [ 3h ] - GDP ( 10 mci and ml ; 5,000 ci and mmol ) in a total volume of 200 microl for 15 min at 30degreesC ."
+325						"for standard GDP release gef assay , 100 microl of the load reaction be mix with 10 microl of 10 mm mg-gtp and 10-100 nm gef protein to be test or a buffer control , and adjust to 120 microl final volume with assay buffer ."
+326						the gef reaction occur for 20 min at 30degreesC .
+327						"after this , 2.5 microl be take for a specific activity measurement ; the remainder be split into two tube , then incubate with 500 microl of ice-cold assay buffer contain 1 mm mgcl2 and 20 microl of packed glutathione-sepharose for 60 min at 4degreesc ."
+328						"after wash three time with 500 microl of ice-cold assay buffer , the sepharose be transfer to a vial contain 4 ml of scintillation fluid and count ."
+329						the amount of nucleotide exchange be calculate in pmole of GDP release .
+330						"for gtp binding assay the following modification be make : only unlabeled gdp be use in the load reaction ; in the gef reaction , 0.5 microl of 10 mm gtp and 1 microcus [ 35 ] - gtpgamma ( 10 mci and ml ; 5,000 ci and mmol ) be use ."
+331						the amount of nucleotide exchange be calculate in pmole of gtp bind .
+332						microscopy
+333						fix sample on glass slide be image use a 60x 1.35 na oil immersion objective lens on a standard upright microscope equip with a coolsnap hq2 camera ( Roper Industries ) under the control of MetaMorph 7.5 software ( md Analytical Technologies ) .
+334						image be crop in Photoshop CS3 ( Adobe ) or imagej and place into illustrator cs3 ( Adobe ) without perform any other contrast adjustment of image manipulation to produce the figure .
+335						mass spectrometry
+336						"protein sample for mass spectrometry be separate on 4-12 % gradient nupage gel ( Invitrogen ) , then stain use a colloidal Coomassie blue stain ."
+337						"gel lane be typically cut into 12 slice , and then digest with trypsin use publish method ."
+338						the result tryptic peptide mixture in 0.05 % trifluoroacetic acid be then analyze by online liquid chromatography tandem mass spectrometry with a nanoacquity uplc ( Waters ) and Orbitrap XL ETD mass-spectrometer ( Thermo Fisher Scientific ) fit with a nano-electrospray source ( Thermo Fisher Scientific ) .
+339						"peptide be load on to a 5 cm x 180 microm beh-c18 symmetry trap column ( part no. 186003514 ; Waters ) in 0.1 % formic acid at 15 microl and minute , and then resolve use a 25 cm x 75 microm beh-c18 column ( part no. 186003815 ; Waters ) in 99-37 .5 % acetonitrile in 0.1 % formic acid at a flow rate of 400 nl and min ."
+340						"the mass spectrometer be set to acquire a mass spectrometry survey scan in the Orbitrap ( r = 30,000 ) and then perform tandem mass spectrometry on the top five ion in the linear quadrupole ion trap after fragmentation use collision ionization ( 30 m , 35 % energy ) ."
+341						a 90-s rolling exclusion list with n = 3 be use to prevent redundant analysis of the same ion .
+342						maxquant and mascot ( Matrix Science ) be then use to compile and search the raw datum against the human International protein index database .
+343						protein group and peptide list be sort and analyze in Excel ( Microsoft ) and maxquant .
+344						mass spectrometry and tandem mass spectrometry spectrum be manually inspect use Xcalibur Qualbrowser ( Thermo Fisher Scientific ) .
+345						bioinformatic
+346						"sequence alignment of denn and rab be do with clustalx or muscle , and the result be visualize and manipulate with jalview ."
+347						clustalx be also use to produce a dendrogram illustrative of sequence relationship .
+348						"region of intrinsic disorder be predict use the metaprdo server , and portion of they with energetic property appropriate for form protein protein interaction be highlight with anchor ."
+349						linear sequence motif be browse in the elm database .
+350						online supplemental material
+351						fig .
+352						s1 show the pattern of localization for all human denn domain protein when transfect as egfp tag construct in helum cell .
+353						"Table s1 list the denn domain protein identify in human , mouse , zebrafish , fruit fly , and nematode ."
+354						online supplemental material be available at http://www.jcb.org/cgi/content/full/jcb.201008051/dc1 .

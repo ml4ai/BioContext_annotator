@@ -1,0 +1,272 @@
+0 
+1 
+1 
+2 10-10-germ-tissuelist:TS-0410
+3 
+4 4-4-sperm-tissuelist:TS-0949 28-28-bladder-tissuelist:TS-1090
+5 
+6 18-18-testis-tissuelist:TS-1030
+7 
+7 5-5-humans-taxonomy:9606
+8 
+9 
+10 
+11 
+12 
+12 24-24-stem-tissuelist:TS-0971 27-27-spermatogonia-uaz:UA-CT-200012 51-51-sperm-tissuelist:TS-0949
+13 
+14 18-18-sperm-tissuelist:TS-0949 22-22-men-taxonomy:9606
+15 
+16 24-24-spermatogonia-uaz:UA-CT-200012
+17 8-8-testes-tissuelist:TS-1030
+18 3-3-sperm-tissuelist:TS-0949 5-5-testes-tissuelist:TS-1030
+19 
+19 5-5-spermatogonia-uaz:UA-CT-200012 33-33-carcinoma-tissuelist:TS-0114
+20 9-9-testis-tissuelist:TS-1030
+21 11-12-germ_cell-tissuelist:TS-0411 32-32-men-taxonomy:9606
+22 12-13-germ_cell-tissuelist:TS-0411
+23 
+24 
+24 
+25 6-6-testis-tissuelist:TS-1030
+26 33-33-bladder-tissuelist:TS-1090 42-42-myeloma-tissuelist:TS-0649
+27 
+28 
+29 
+29 
+30 31-31-sperm-tissuelist:TS-0949
+31 
+32 
+33 
+34 22-22-spike-tissuelist:TS-1331
+35 
+35 39-39-blood-tissuelist:TS-0079
+36 
+37 
+37 17-17-sperm-tissuelist:TS-0949 20-20-blood-tissuelist:TS-0079
+38 11-11-blood-tissuelist:TS-0079 34-34-sperm-tissuelist:TS-0949
+39 12-12-sperm-tissuelist:TS-0949
+40 20-20-sperm-tissuelist:TS-0949
+41 27-27-bladder-tissuelist:TS-1090
+42 
+43 
+44 
+44 
+45 6-6-sperm-tissuelist:TS-0949
+46 26-26-sperm-tissuelist:TS-0949
+47 21-21-bladder-tissuelist:TS-1090
+48 
+49 11-11-mouse-taxonomy:10090 28-28-mouse-taxonomy:10090
+50 
+50 105-105-bladder-tissuelist:TS-1090 107-107-thyroid-tissuelist:TS-1047
+51 
+52 
+53 7-7-human-taxonomy:9606
+54 
+55 
+56 
+57 
+57 
+58 
+59 34-34-nucleus-go:GO:0005634 39-39-spermatogonia-uaz:UA-CT-200012 42-42-spermatocytes-tissuelist:TS-0951
+60 
+61 
+62 
+63 
+63 
+64 
+65 8-8-stem-tissuelist:TS-0971
+66 25-25-sperm-tissuelist:TS-0949
+67 9-9-seminoma-tissuelist:TS-1186 22-22-stem-tissuelist:TS-0971
+68 0-0-Men-taxonomy:9606
+69 
+69 21-21-testis-tissuelist:TS-1030
+70 
+71 
+72 
+73 13-13-spermatogonia-uaz:UA-CT-200012 19-19-mice-taxonomy:10090
+74 
+75 
+75 12-12-seminoma-tissuelist:TS-1186
+76 8-8-testis-tissuelist:TS-1030
+77 
+78 8-8-bladder-tissuelist:TS-1090
+79 8-8-sperm-tissuelist:TS-0949 16-16-bladder-tissuelist:TS-1090
+80 
+80 
+81 41-41-mice-taxonomy:10090
+82 
+83 
+84 
+84 
+85 
+86 20-20-seminoma-tissuelist:TS-1186
+87 
+88 10-10-skin-tissuelist:TS-0934 20-20-keratinocytes-tissuelist:TS-0500
+89 3-3-spermatogonia-uaz:UA-CT-200012 22-22-sperm-tissuelist:TS-0949
+90 24-24-testis-tissuelist:TS-1030
+91 18-18-human-taxonomy:9606
+92 
+93 
+93 
+94 
+94 
+95 
+95 
+96 
+96 
+97 
+98 
+98 
+99 
+99 
+100 
+100 20-20-Joint-uaz:UA-ORG-460
+101 
+101 
+102 
+102 
+103 
+104 
+105 
+106 
+106 4-4-men-taxonomy:9606 13-13-blood-tissuelist:TS-0079
+107 18-18-patient-taxonomy:9606 29-29-patient-taxonomy:9606 41-41-spike-tissuelist:TS-1331
+108 
+108 
+109 
+109 
+110 
+111 
+112 
+113 
+114 
+115 
+116 
+116 
+117 
+117 29-29-epididymis-tissuelist:TS-0285 31-31-prostate-tissuelist:TS-0828 34-34-seminoma-tissuelist:TS-1186 36-37-embryonal_carcinoma-tissuelist:TS-0234
+118 
+119 
+120 7-7-mouse-taxonomy:10090 67-67-rabbit-taxonomy:9986
+121 20-20-serum-tissuelist:TS-0923
+122 
+123 
+124 
+125 
+125 8-8-sperm-tissuelist:TS-0949 10-10-blood-tissuelist:TS-0079
+126 
+126 4-4-blood-tissuelist:TS-0079 23-23-human-taxonomy:9606 46-46-chromosome-go:GO:0005694
+127 
+127 
+128 14-14-spike-tissuelist:TS-1331 23-23-spike-tissuelist:TS-1331
+129 
+130 
+131 
+131 
+132 
+133 
+134 
+134 
+135 
+135 31-31-blood-tissuelist:TS-0079 105-105-sperm-tissuelist:TS-0949 107-107-blood-tissuelist:TS-0079
+136 8-8-blood-tissuelist:TS-0079 10-10-sperm-tissuelist:TS-0949
+137 
+137 
+138 
+138 
+139 
+140 
+140 
+141 
+141 
+142 30-30-spike-tissuelist:TS-1331 39-39-spike-tissuelist:TS-1331
+143 
+144 
+144 
+145 
+146 
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+153 
+154 
+154 
+155 
+155 
+156 
+157 
+158 
+159 
+160 
+161 3-3-spike-tissuelist:TS-1331
+162 10-10-spike-tissuelist:TS-1331
+163 
+164 
+165 
+165 
+166 
+167 
+167 
+168 
+169 
+170 
+171 9-9-sperm-tissuelist:TS-0949 11-11-blood-tissuelist:TS-0079
+172 
+172 
+173 
+173 
+174 
+174 
+175 
+175 
+176 
+176 
+177 
+177 
+178 
+179 
+180 
+181 
+181 
+182 
+182 8-8-sperm-tissuelist:TS-0949 10-10-blood-tissuelist:TS-0079
+183 30-30-blood-tissuelist:TS-0079
+184 15-15-blood-tissuelist:TS-0079 25-25-sperm-tissuelist:TS-0949
+185 13-13-sperm-tissuelist:TS-0949
+186 7-7-tail-tissuelist:TS-1006
+187 17-17-sperm-tissuelist:TS-0949 22-22-blood-tissuelist:TS-0079
+188 7-7-sperm-tissuelist:TS-0949
+189 20-20-sperm-tissuelist:TS-0949 35-35-bladder-tissuelist:TS-1090
+190 9-9-sperm-tissuelist:TS-0949
+191 
+192 
+192 
+193 
+193 
+194 
+195 
+196 
+197 
+197 
+198 
+199 20-21-cell_membrane-uniprot:SL-0039 23-23-cytoplasm-go:GO:0005737 25-25-spermatogonia-uaz:UA-CT-200012 31-32-seminiferous_tubule-tissuelist:TS-1239 40-40-nucleus-go:GO:0005634 44-44-spermatogonia-uaz:UA-CT-200012 48-48-cytoplasm-go:GO:0005737 51-51-spermatocytes-tissuelist:TS-0951 60-60-scale-tissuelist:TS-0895
+200 
+200 
+201 
+201 9-9-testis-tissuelist:TS-1030
+202 
+203 37-37-testes-tissuelist:TS-1030
+204 6-6-MEN-taxonomy:9606
+205 
+206 11-11-stem-tissuelist:TS-0971
+207 24-24-testis-tissuelist:TS-1030
+208 11-11-sperm-tissuelist:TS-0949
+209 14-14-seminoma-tissuelist:TS-1186
+210 
+211 
+212 

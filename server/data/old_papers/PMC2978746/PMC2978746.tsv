@@ -1,0 +1,369 @@
+1						regulation of c and ebpbeta1 by ra in mammary epithelial cell and the role of c and ebpbeta1 in oncogene induce senescence
+2	uaz:UA-CLine-6278	mcf10a	c1			"overexpression of ra ( v12 ) in mcf10a cell , a immortalize mammary epithelial cell line , lead to transformation of these cell ."
+3						we demonstrate that this be accompany by degradation of c and ebpbeta1 .
+4						c and ebpbeta be a transcription factor in which three protein isoform exist due to alternative translation at three in-frame methionine .
+5						"when c and ebpbeta1 be express in mcf10a-ra ( v12 ) cell , immunoblot analysis reveal that c and ebpbeta1 be degrade in these cell ."
+6			"e1,e2"	c1	upregulation of p107 be see in several cell type upon rb loss	treatment of the mcf10a-ra ( v12 ) - c and ebpbeta1 cell with the cdk inhibitor roscovitine lead to stabilization of c and ebpbeta1 .
+7			e3	c1	cdk2 phosphorylate c and ebpbeta on thr235 .	it have be previously show that cdk2 phosphorylate c and ebpbeta on thr235 .
+8						we demonstrate that mutation of thr235 to alanine in c and ebpbeta1 be sufficient to restore the stability of c and ebpbeta1 expression in the mcf10a-ra ( v12 ) cell .
+9						"overexpression of ra ( v12 ) in primary cell induce senescence rather than transformation , thus suppress tumorigenesis ."
+10						c and ebpbeta be require for ra ( v12 ) - induce senescence in primary mouse embryonic fibroblast ( mef ) .
+11	uaz:UA-CLine-6096	MEFs	"e4,c2"	c2	upregulation of il6 by c and ebpbeta	"upregulation of il6 by c and ebpbeta have be show to be necessary for oncogene induce senescence , but the specific isoform of c and ebpbeta have not be investigate ."
+12	uaz:UA-CLine-100060	fibroblasts	"e5,c3"	c3	 c and ebpbeta1 isoform upregulate il6	we show that the c and ebpbeta1 isoform upregulate il6 when introduce into normal fibroblast .
+13						"additionally , we show that c and ebpbeta1 induce senescence ."
+14			e6	c2	degradation of c and ebpbeta1 by ra activation	"take together , degradation of c and ebpbeta1 by ra activation may represent a mechanism to bypass OIS ."
+15						introduction
+16						ra signaling lead to proliferation and cell survival and be activate in many cancer .
+17						"aberrant function of the ra pathway be very common in breast cancer ( review in , ) ."
+18						"introduction of activate ra ( v12 ) into most immortalize cell line , include the immortalized mcf10a human mammary epithelial cell ( hmec ) line , lead to transformation ."
+19						"however , when ra ( v12 ) be express in primary cell , these cell senesce instead of undergo transformation ."
+20						this oncogene induce senescence ( oi ) display by primary cell represent a tumor suppressive mechanism inherent in these cell .
+21						Research be ongoing to determine the protein and pathway involve in ra transformation and ra induce senescence .
+22						"it be important to determine the different molecular player necessary for ra transformation versus ra induce senescence , as these could be critical target for cancer therapy ."
+23						"c and ebpbeta , a essential downstream mediator of both ra transformation and activate ra and raf ( a downstream mediator of ra signaling ) - induce senescence , be a member of the ccaat and enhancer binding protein ( c and ebp ) family of basic leucine-zipper transcription factor ."
+24						three protein isoform of c and ebpbeta exist due to alternative translation initiation at three in-frame methionine .
+25						"in human , full-length c and ebpbeta1 begin at the first in-frame atg and have a apparent molecular weight of 52kda ."
+26						"c and ebpbeta2 begin at the second in-frame methionine , 23 amino acid downstream from the first and appear as a doublet on immunoblot at 45kda and 48kda ."
+27						c and ebpbeta3 begin at the last in-frame atg at amino acid 198 and have a apparent molecular weight of 20kda .
+28						"c and ebpbeta1 and c and ebpbeta2 both contain the c-terminal dna binding and dimerization domain and a n-terminal transactivation domain , allow they to function as transcriptional activator ."
+29						c and ebpbeta3 lack the n-terminal transactivation domain and thus repress transcription .
+30						the c and ebpbeta knockout mouse demonstrate that c and ebpbeta be essential for proper development of the mammary gland .
+31						these mouse display a dual phenotype : a defect in MEC proliferation and differentiation .
+32						the production of multiple isoform of c and ebpbeta may explain how a single transcription factor can regulate both differentiation and proliferation .
+33						the functional difference between the transactivator isoform of c and ebpbeta have not be study in great detail .
+34						c and ebpbeta1 be oftentimes mistake for the 48 kda ( top band ) of the c and ebpbeta2 doublet on immunoblot largely because c and ebpbeta1 be not express in transform cell line ( see below ) .
+35						"because of this difficulty in decipher between c and ebpbeta1 and -2 and because both isoform be transcriptional activator , many consider they to be functionally redundant ."
+36						"however , recent study indicate c and ebpbeta1 and -2 both play unique and important role ."
+37	uaz:UA-CT-200006	myeloid cells	"c4,e7"	c4	"the ability of c and ebpbeta1 , but not -2 , to recruit the SWI and SNF chromatin remodel complex ."	"for example , c and ebpbeta1 but not c and ebpbeta2 cooperate with c-myb to transactivate differentiation gene in myeloid cell via the ability of c and ebpbeta1 , but not -2 , to recruit the SWI and SNF chromatin remodel complex ."
+38						"additionally , c and ebpbeta1 but not c and ebpbeta2 can be modify by the post-translational modification sumo-2 / 3 ."
+39						"furthermore , a striking difference exist in the expression profile of c and ebpbeta1 and -2 in normal versus tumorigenic hmec ."
+40						"c and ebpbeta1 be find in normal mec from reduction mammoplasty , whereas c and ebpbeta2 be not ."
+41						"moreover , a majority of human breast tumor express significant level of c and ebpbeta2 ."
+42						.
+43	tissuelist:TS-0591	breast cancer cell lines	c5			"c and ebpbeta2 be express in breast cancer cell line , while p52-c and ebpbeta1 be not ."
+44						further investigation indicate that these distinct expression profile have functional significance .
+45			"e8,e9"	c5	"c and ebpbeta2 , but not c and ebpbeta1 , can transactivate cyclin d1 and plac1"	"c and ebpbeta2 , but not c and ebpbeta1 , can transactivate cyclin d1 and plac1 ( Koslwski et al. , 2009 ) , two gene whose protein product be involve in proliferation and commonly upregulate in breast cancer ."
+46						"furthermore , c and ebpbeta2 , but not c and ebpbeta1 , over-expression in MCF10A MECs transform this cell line ."
+47						"take together , these datum suggest that c and ebpbeta1 and -2 be functionally distinct in mec , with c and ebpbeta1 play a role in non proliferate mec and c and ebpbeta2 promote proliferation and other transform characteristic ."
+48						"since c and ebpbeta be a essential downstream mediator of ra signaling , the production of multiple isoform of c and ebpbeta may be a potential mechanism to explain the functional difference observe upon expression of ra ( v12 ) ."
+49						c and ebpbeta be crucial for both ra transformation and ra induce senescence .
+50						report that v-ha-ra transgenic mouse deficient for c and ebpbeta have smaller and fewer skin tumor than v-ha-ras mouse that express c and ebpbeta .
+51						they also demonstrate that c and ebpbeta cooperate with ra ( v12 ) in transformation of nih-3t3 cell .
+52						"recently , c and ebpbeta have be show to be necessary for ra induce senescence ."
+53						"additionally , activation of interleukin-6 ( il6 ) by c and ebpbeta be essential for activate raf ( e600 ) - induce senescence ."
+54			e10	"s1,s2,s3"	c and ebpbeta be phosphorylate in response to ra signaling	"c and ebpbeta be phosphorylate in response to ra signaling , and this phosphorylation be oftentimes critical for the ra induce phenotype observe ."
+55	"taxonomy:9606,taxonomy:10116,taxonomy:10090"	"human,rat,mouse"	"e11, s1,s2,s3"	"s1,s2,s3"	a residue in c and ebpbeta that be frequently phosphorylate upon ra ( v12 ) introduction be threonine 235 ( thr235 )	"a residue in c and ebpbeta that be frequently phosphorylate upon ra ( v12 ) introduction be threonine 235 ( thr235 ) in human ( thr189 in rat , thr188 in mouse ) ."
+56	uaz:UA-CLine-7618	nih-3t3	"e12,c6"	c6	ra ( v12 ) expression in nih-3t3 enhance phosphorylation of thr189 in c and ebpbeta by cyclin dependent kinase-2 ( cdk2 ) .	reveal that ra ( v12 ) expression in nih-3t3 enhance phosphorylation of thr189 in c and ebpbeta by cyclin dependent kinase-2 ( cdk2 ) .
+57	uaz:UA-CLine-7618	nih-3t3	"e13,c7"	c7	this site in c and ebpbeta2 be necessary for the ra stimulate interaction of c and ebpbeta2 and serum response factor for transactivation of serum response element in nih-3t3 cell and be show to be phosphorylate by erk-2	"additionally , this site in c and ebpbeta2 be necessary for the ra stimulate interaction of c and ebpbeta2 and serum response factor for transactivation of serum response element in nih-3t3 cell and be show to be phosphorylate by erk-2 ."
+58						"as mention earlier , transform cell line typically do not express p52-c and ebpbeta1 ."
+59						"however , the immortal but non transform hmec line , mcf10a , express all three c and ebpbeta isoform ."
+60						"in the current study , we demonstrate that when ra ( v12 ) be introduce into mcf10a , transformation be accompany by degradation of p52-c and ebpbeta1 ."
+61	uaz:UA-CLine-6278	mcf10a	"c8,e14"	c8	cdk inhibitor roscovitine stabilize p52-c and ebpbeta1 .	treatment of mcf10a-ras cell force to express c and ebpbeta1 with the cdk inhibitor roscovitine stabilize p52-c and ebpbeta1 .
+62			e15	c6	 cdk2 phosphorylate c and ebpbeta on thr235 .	it have be previously show that cdk2 phosphorylate c and ebpbeta on thr235 .
+63	uaz:UA-CLine-6278	mcf10a	"e16"	c7	 mutation of thr235 to alanine in c and ebpbeta1 be sufficient to restore stability of p52-c and ebpbeta1 expression	we demonstrate that mutation of thr235 to alanine in c and ebpbeta1 be sufficient to restore stability of p52-c and ebpbeta1 expression in mcf10a-ra cell .
+64	uaz:UA-CLine-6278	mcf10a	"e17,c80"	c80	ra ( v12 ) negatively regulate c and ebpbeta1	"since we observe that ra ( v12 ) negatively regulate c and ebpbeta1 in immortalize mcf10a , a cell line that escape senescence upon introduction of ra ( v12 ) , and we know that ra ( v12 ) induce senescence in a c and ebpbeta-dependent manner in normal cell , we decide to examine whether c and ebpbeta1 be able to induce senescence ."
+65						induction of il6 by c and ebpbeta be critical for activate raf ( e600 ) - induce senescence .
+66	uaz:UA-CLine-888	wi-38	"e18,c9"	c9	 full length c and ebpbeta1 strongly upregulate il6 when introduce into the normal human diploid fibroblast ( hdf ) 	"when c and ebpbeta -1 and -2 be compare , only full length c and ebpbeta1 strongly upregulate il6 when introduce into the normal human diploid fibroblast ( hdf ) , wi-38 ."
+67						additionally we show that c and ebpbeta1 be a more potent inducer of senescence in these cell .
+68	"uaz:UA-CLine-6278,uaz:UA-CLine-888"	"mcf10a, wi-38"	"e19,c10,e20,c11"	"c10,c11"	c and ebpbeta1 be negatively regulate by ra ( v12 ) |  full length c and ebpbeta isoform be able to induce senescence in wi-38 cell by induce il6	we result indicate that c and ebpbeta1 be negatively regulate by ra ( v12 ) in immortalize mcf10a and this full length c and ebpbeta isoform be able to induce senescence in wi-38 cell by induce il6 .
+69					degradation of c and ebpbeta1 by ra activation	"take together , degradation of c and ebpbeta1 by ra activation may represent a mechanism to bypass OIS ."
+70						result
+71	uaz:UA-CLine-6278	mcf10a	"e22,e23,c12"	c12	ra ( v12 ) negatively regulate c and ebpbeta1 by cause degradation of c and ebpbeta1	ra ( v12 ) negatively regulate c and ebpbeta1 by cause degradation of c and ebpbeta1 in mcf10a
+72						"expression of all three isoform of c and ebpbeta be observe via immunoblot of cell lysate from mcf10a , a immortalize yet untransformed mec line ( , lane 1 ) ."
+73						introduction of ra ( v12 ) into mcf10a ( mcf10a-ras ) transform this cell line .
+74						"examination of c and ebpbeta expression in mcf10a-ra cell indicate there be a striking loss of c and ebpbeta1 expression ( , lane 2 ) ."
+75						"after observe that introduction of ra ( v12 ) into mcf10a lead to loss of endogenous c and ebpbeta1 expression , we express t7-tagged-c and ebpbeta1 with the retroviral vector lzrs-t7-c / ebpbeta1-ires-egfp ."
+76						infected cell be sort by fluorescence activate cell sorting ( fac ) use green fluorescent protein ( gfp ) as a marker .
+77						"immediately after sort , p52-t7-c / ebpbeta1 be express in both the mcf10a and mcf10a-ra cell ."
+78						"however , t7-c and ebpbeta1 expression three week post-sorting be show in ."
+79						"the mcf10a-c and ebpbeta1 cell still express p52-t7-c / ebpbeta1 ( , lane 1 and 3 ; , lane 1-7 ) , but the mcf10a-ras-c and ebpbeta1 cell largely lose p52-t7-c / ebpbeta1 expression ( , lane 2 and 4 ; , lane 8-14 ) ."
+80						"a 31kda band be observe in the mcf10a-ras-c and ebpbeta1 cell in the anti-t7 tag immunoblot , indicative of proteolysis ( , Lane 2 ) ."
+81						"this be confirm by the presence of 31kda and 23kda band in the anti-c-terminal c and ebpbeta immunoblot ( , Lane 3 ) ."
+82						"these smaller molecular weight band be not present in the mcf10a-c and ebpbeta1 cell ( , Lanes 1 and 3 ) ."
+83						"to determine whether t7-c and ebpbeta1 be be proteolyze by the proteasome in the mcf10a-ra cell , we treat the cell with mg132 , a proteasomal inhibitor ."
+84	uaz:UA-CLine-6278	mcf10a	"c13,e24"	c13	 mg132 stabilize expression of p52-t7-cebpbeta1 (	"treatment of mcf10a-ras-c and ebpbeta1 cell with mg132 stabilize expression of p52-t7-cebpbeta1 ( , compare lane 3 and 4 to 2 ) ."
+85						"a similar effect be observe upon treatment with lactacystin , another proteasomal inhibitor ( datum not show ) ."
+86	uaz:UA-CLine-6278	mcf10a	"c14,e25"	c14	 mg132 stabilize endogenous c and ebpbeta1	"furthermore , treatment of mcf10a-ras cell with mg132 stabilize endogenous c and ebpbeta1 ."
+87						we then want to determine whether degradation of c and ebpbeta1 may be ubiquitin mediate .
+88						MCF10A-Ras-C and ebpbeta1 cell be treat with mg132 and immunoprecipitate with t7-tag antibody bead .
+89						immunoblot analysis with a ubiquitin antibody demonstrate that mcf10a-ras-c and ebpbeta1 cell treat with mg132 exhibit increase reactivity with this antibody compare to control ( lane 5 versus lane 3 and 4 ) .
+90						"immunoblot analysis of the treated cell with the c and ebpbeta antibody demonstrate a ladder of higher molecular weight band that coincide with the molecular weight of band in the ubiquitin immunoblot ( lane 2 and 5 , see arrow ) , indicate ubiquitination of c and ebpbeta1 ."
+91						"most breast cancer cell line exhibit activation of the ra pathway through activation of upstream receptor , upregulation of ra itself , or through activation of downstream signaling molecule ( melaney and Daly , 2001 , , ) ."
+92						therefore we express t7-c and ebpbeta1 in the breast cancer cell line mda231 and mda435 in which the ra pathway be activate .
+93	"uaz:UA-CT-30010,uaz:UA-CLine-100083"	"mda231,mda435"	"e26,c15,c16"	"c15,c16"	 p52-t7-c / ebpbeta1 be stabilize when mda231-c and ebpbeta1 and mda435-c and ebpbeta1 cell be expose to mg132	"expression of t7-c and ebpbeta1 in mda231 and mda435 decrease over time , similar to the mcf10a-ras-c and ebpbeta1 cell , and p52-t7-c / ebpbeta1 be stabilize when mda231-c and ebpbeta1 and mda435-c and ebpbeta1 cell be expose to mg132 ( , lane 3 versus 4 , and datum not show ) ."
+94	uaz:UA-CLine-6278	mcf10a	"e27,c17"	c17	the cdk inhibitor roscovitine or mutation of c and ebpbeta1 thr235 to alanine stabilize expression of t7-c and ebpbeta1	treatment with the cdk inhibitor roscovitine or mutation of c and ebpbeta1 thr235 to alanine stabilize expression of t7-c and ebpbeta1 in mcf10a-ra cell
+95	uaz:UA-CLine-6278	mcf10a	"e28,e29,e30,c18"	c18	ra ( v12 ) expression in the mcf10a-ra cell may lead to phosphorylation of c and ebpbeta1	"ra ( v12 ) expression in the mcf10a-ra cell may lead to phosphorylation of c and ebpbeta1 , which be subsequently cause degradation of c and ebpbeta1 ."
+96						"to further investigate the mechanism by which ra negatively regulate c and ebpbeta1 , mcf10a-ras-c and ebpbeta1 cell be treat with a panel of kinase inhibitor that inhibit kinase know to phosphorylate c and ebpbeta ."
+97			e31	c18	the cdk inhibitor roscovitine stabilize expression of p52-t7-c / ebpbeta1 	"treatment with the cdk inhibitor roscovitine stabilize expression of p52-t7-c / ebpbeta1 ( , compare lane 2 and 4 ) ."
+98			"e32,e33,e34"	c18	c and ebpbeta be phosphorylate on thr235 by cdk2 .	c and ebpbeta be phosphorylate on thr235 by cdk2 .
+99					c and ebpbeta1 can be phosphorylate on thr235 by cdk2 in vitro .	"more specifically , c and ebpbeta1 can be phosphorylate on thr235 by cdk2 in vitro ."
+100					this phosphorylation can be inhibit by treatment with roscovitin	"this phosphorylation can be inhibit by treatment with roscovitine ( , , datum not show ) ."
+101	uaz:UA-CLine-6278	mcf10a	"e35,c19"	c19	treatment with roscovitine be the only treatment that stabilize expression of p52-t7-c / ebpbeta1	treatment with roscovitine be the only treatment that stabilize expression of p52-t7-c / ebpbeta1 in mcf10a-ra cell .
+102	uaz:UA-CT-30010	mda231	"e36,c20"	c20	treatment of mda231-c and ebpbeta1 cell with roscovitine also stabilize expression of p52-t7-c / ebpbeta1	treatment of mda231-c and ebpbeta1 cell with roscovitine also stabilize expression of p52-t7-c / ebpbeta1 ( datum not show ) .
+103						"importantly , cdk2 be activate in mcf10a-ra and mda231 cell ."
+104			"e37,e38"	c21	" phosphorylation by cdk2 on c and ebpbeta1-thr 235 be lead to degradation of c and ebpbeta1 , thr235 be mutate to alanine ( t235a ) so this residue could no longer be phosphorylate ."	"to confirm that phosphorylation by cdk2 on c and ebpbeta1-thr 235 be lead to degradation of c and ebpbeta1 , thr235 be mutate to alanine ( t235a ) so this residue could no longer be phosphorylate ."
+105	uaz:UA-CLine-6278	mcf10a	c21			a lzrs-t7-c / ebpbeta1t235a-ires-egfp retroviral vector be construct and the result retrovirus use to infect mcf10a-ra cell .
+106			"e39,e40"	c21		these cell be sort by fac use gfp as a marker .
+107					"mutation of thr235 to alanine in c and ebpbeta1 , thus prevent phosphorylation of this residue by cdk2 , stabilize the expression of p52-t7-c / ebpbeta1"	"mutation of thr235 to alanine in c and ebpbeta1 , thus prevent phosphorylation of this residue by cdk2 , stabilize the expression of p52-t7-c / ebpbeta1 after three week in culture ( , lane 3 versus 6 ) as compare to t7-c and ebpbeta1 that do not contain this mutation ( , lane 2 versus 5 ) ."
+108						"T7-C and ebpbeta1 and t7-c and ebpbeta1t235a expression do not have a effect on the transformed phenotype of mcf10a-ras cell , as these cell ' ability to form colony in soft agar be unaltered ."
+109						T7-C and ebpbeta1 and t7-c and ebpbeta1t235a be unable to induce senescence in mcf10a cell in part because these cell have the p14arf/p15ink4b/p16ink4a locus delete .
+110						"p16ink4a be a important player in OIS , and c and ebpbeta-induced senescence signal through this tumor suppressor during OIS ."
+111			e41	c9	 c and ebpbeta have be show to induce p15ink4b 	"additionally , c and ebpbeta have be show to induce p15ink4b during OIS ."
+112	uaz:UA-CLine-100087	WI-38 normal HDFs	"e42,c22"	c22	c and ebpbeta1 be not degrade upon ra ( v12 ) introduction 	c and ebpbeta1 be not degrade upon ra ( v12 ) introduction into wi-38 normal hdf
+113						"recently , c and ebpbeta have be show to be essential for ra ( v12 ) - and raf ( e600 ) - induce senescence in mef and hdf , respectively ."
+114						we decide to determine which isoform of c and ebpbeta be responsible for induction of senescence .
+115						"we hypothesize that since ra negatively regulate c and ebpbeta1 by lead to its degradation during ra transformation , that this full length isoform of c and ebpbeta be responsible for induce senescence ."
+116						"first , we want to determine if introduction of ra ( v12 ) , and thus induction of senescence , negatively regulate c and ebpbeta1 expression in normal hdf , cell commonly use to study senescence ."
+117						be a immunoblot with a antibody specific for the n-terminal 23 amino acid present only in c and ebpbeta1 .
+118						"this immunoblot demonstrate that ra ( v12 ) do not lead to degradation of c and ebpbeta1 in the normal wi-38 cell ( , lane 2 and 3 ) ."
+119						c and ebpbeta1 expression in wi-38 cell inhibit growth
+120						"next , we test whether exogenous expression of c and ebpbeta1 have a effect on growth of normal fibroblast ."
+121						we perform a colony formation assay use uninfected wi-38 cell or wi-38 cell infect with lzrs-t7-c / ebpbeta1-ires-egfp or lzrs-egfp and sort by fac use gfp as a marker .
+122						"as show in , there be significantly fewer wi-38-t7-c / ebpbeta1 colony compare to control ( p = 0.007 ) , indicate t7-c and ebpbeta1 expression in wi-38 cell inhibit growth and be potentially cause these cell to senesce ."
+123						"to confirm these finding , we perform a bromodeoxyuridine ( brdu ) assay use uninfected wi-38 cell , or sort wi-38 cell express t7-c and ebpbeta1 and gfp or gfp only , as show in ."
+124						"the wi-38-t7-c / ebpbeta1 cell have significantly less brdu staining than control ( p = 0.027 ) , confirm the result from that c and ebpbeta1 expression in wi-38 cell inhibit they proliferation ."
+125	uaz:UA-CLine-888	wi-38 fibroblasts	"e43,c23"	c23	c and ebpbeta1 induce il6	c and ebpbeta1 induce il6 in wi-38 fibroblast
+126	uaz:UA-CLine-100087	HDFs	c24			report that activate raf ( e600 ) - induce senescence in hdf be due to activation of a inflammatory transcriptome .
+127			e44	c24	 il6 activation by c and ebpbeta .	this elegant study demonstrate that activate raf ( e600 ) - induce senescence be dependent upon il6 activation by c and ebpbeta .
+128						thus we examine if a specific transactivator isoform of c and ebpbeta be induce il6 expression .
+129						"rna be prepare six day posti-infection from wi-38 cell infect with lzrs-t7-c / ebpbeta1-ires-egfp , lzrs-t7-c / ebpbeta2-ires-egfp , lzrs-gfp , or pbabe-ras ( v12 ) - puromycin ."
+130						cdna be prepare from the rna and qpcr be perform use a il6 primer .
+131	uaz:UA-CLine-888	WI-38	"e45,c25"	c25	ra ( v12 ) - express cell highly upregulate il6	"T7-C and ebpbeta1-wus -38 cell and the positive control ra ( v12 ) - express cell highly upregulate il6 rna 6.6 fold and 8 fold , respectively ."
+132			e46	c25	T7-C and ebpbeta2 only induce il6 expression	T7-C and ebpbeta2 only induce il6 expression 2.1 fold compare to uninfected cell despite approximately equal level of t7-c and ebpbeta1 and t7-c and ebpbeta2 protein be express on day 6 .
+133						"c and ebpbeta1 , and to a lesser extent c and ebpbeta2 , induce senescence in wi-38 hdf"
+134			"e47,e48"	c26	c and ebpbeta1 induce il6 to a much greater level than c and ebpbeta2 	"know that c and ebpbeta1 induce il6 to a much greater level than c and ebpbeta2 , we determine if c and ebpbeta1 could cause senescence more effectively ."
+135	uaz:UA-CLine-888	WI-38	c26			"WI-38 cell infect with lzrs-t7-c / ebpbeta1-ires-egfp , lzrs-t7-c / ebpbeta2-ires-egfp , lzrs-gfp , or pbabe-ras ( v12 ) - puromycin be fix and stain for senescence associate beta-galactosidase six day post-infection ."
+136						"on average , over 53 % of the t7-c and ebpbeta1-wus -38 cell and over 55 % of the positive control ra ( v12 ) - wi-38 cell stain a bright blue , compare to 34.5 % of the t7-c and ebpbeta2-expressing cell ."
+137						less than 20 % of control uninfected or lzrs-gfp cell stain a faint blue .
+138						"a statistically significant difference in blue staining exist between the t7-c and ebpbeta1-_NN and ra ( v12 ) - express wi-38 cell versus uninfected , result in p value 0.005 and 0.003 , respectively ."
+139						this be consistent with t7-c and ebpbeta1-expressing cell inhibit growth as show earlier .
+140						"although the t7-c and ebpbeta2 cell induce senescence to a lesser extent than t7-c and ebpbeta1 , the percentage of blue cell be still statistically significant as compare to uninfected cell , with a p value of 0.03 ."
+141						approximately equal level of t7-c and ebpbeta1 and t7-c and ebpbeta2 be express .
+142						"to confirm these finding , p16ink4a protein level be examine , as p16ink4a be upregulate during senescence ."
+143						"WI-38 cell be uninfected , infected with lzrs-t7-c / ebpbeta1-ires-egfp , lzrs-t7-c / ebpbeta2-ires-egfp or lzrs-gfp , cell lysate be prepare 6 day post-infection and immunoblot analysis be perform for p16ink4a expression ."
+144	uaz:UA-CLine-888	WI-38	"e49,c27"	c27	 c and ebpbeta2 expression in wi-38 cell induce p16ink2a expression	"indicate that c and ebpbeta1 and c and ebpbeta2 expression in wi-38 cell induce p16ink2a expression , verify the induction of senescence ."
+145						discussion
+146						introduction of ra ( v12 ) into immortalize mcf10a transform these cell .
+147						we demonstrate here that ra ( v12 ) introduction into mcf10a and subsequent transformation be accompany by degradation of c and ebpbeta1 .
+148	uaz:UA-CLine-6278	mcf10a	c28			"we show that when t7-c and ebpbeta1 be express in mcf10a and mcf10a-ra cell , mcf10a-c and ebpbeta1 cell maintain expression of p52-t7-c / ebpbeta1 , whereas mcf10a-ra cell degrade p52-t7-c / ebpbeta1 ."
+149			e50	c28	stability of c and ebpbeta1 expression may be regulate by ubiquitin dependent degradation .	stability of c and ebpbeta1 expression may be regulate by ubiquitin dependent degradation .
+150						"it have be previously demonstrate that p52-c and ebpbeta1 be express in normal mammary epithelial tissue and culture normal mec , but not in breast cancer cell ."
+151						the ra pathway be activate in most breast cancer .
+152						"expression of t7-c and ebpbeta1 in the breast cancer cell line mda231 and mda435 decrease over time , similar to t7-c and ebpbeta1 expression in mcf10a-ra cell ."
+153	"uaz:UA-CT-30010,uaz:UA-CLine-100083"	"mda231,mda435"	"c29,c30,e51"	"c29,c30"	 a proteasomal inhibitor stabilize expression of p52-t7-c / ebpbeta1 .	"additionally , treatment of mda231-_NN and mda435-c and ebpbeta1 cell with a proteasomal inhibitor stabilize expression of p52-t7-c / ebpbeta1 ."
+154			e52	"c28,c29,c30"	c and ebpbeta1 be negatively regulate in breast cancer through activation of the ra pathway .	therefore it be likely that c and ebpbeta1 be negatively regulate in breast cancer through activation of the ra pathway .
+155			e53	c31	c and ebpbeta be phosphorylate by a number of kinase in the ra pathway .	c and ebpbeta be phosphorylate by a number of kinase in the ra pathway .
+156	uaz:UA-CLine-6278	mcf10a	c31			therefore we treat the mcf10a-ras-c and ebpbeta1 cell with a panel of kinase inhibitor to determine if inhibit phosphorylation could stabilize p52-c and ebpbeta1 expression .
+157			"e54,e55"	c31	 the cdk inhibitor roscovitine stabilize c and ebpbeta1 expression .	we find that treatment with the cdk inhibitor roscovitine stabilize c and ebpbeta1 expression .
+158						ra activation activate cdk2 ( ; review in ) .
+159			"e56,e57"	c31	two independent group have demonstrate that c and ebpbeta can be phosphorylate on thr235 by cdk2 .	two independent group have demonstrate that c and ebpbeta can be phosphorylate on thr235 by cdk2 .
+160			e58	c31	"this phosphorylation be specific to the cdk family member cdk2 , and when cell be treat with roscovitine there be a decrease in phosphorylation of thr235 ."	"this phosphorylation be specific to the cdk family member cdk2 , and when cell be treat with roscovitine there be a decrease in phosphorylation of thr235 ."
+161			e59	c31	"additionally , knockdown of cdk2 decrease phosphorylation of c and ebpbetathr235 ."	"additionally , knockdown of cdk2 decrease phosphorylation of c and ebpbetathr235 ."
+162						the non phosphorylatable c and ebpbeta1t235a could be stably express in mcf10a-ra cell as compare to wild type c and ebpbeta1 .
+163	uaz:UA-CT-30003	MECs	"c32,e60,e61,e62"	c32	ra pathway in mec negatively regulate c and ebpbeta1 by promote phosphorylation of c and ebpbeta1 on thr235 by cdk2 and subsequently lead to degradation of c and ebpbeta1 .	"therefore , activation of the ra pathway in mec negatively regulate c and ebpbeta1 by promote phosphorylation of c and ebpbeta1 on thr235 by cdk2 and subsequently lead to degradation of c and ebpbeta1 ."
+164						loss of t7-c and ebpbeta1 do take several day .
+165			e63	c32	ubiquitin e3 ligase necessary for the degradation of c and ebpbeta1 .	this may be due to a initial compensatory mechanism by the cell lead to increase synthesis of c and ebpbeta1 and and or a requirement for expression of a specific ubiquitin e3 ligase necessary for the degradation of c and ebpbeta1 .
+166						"although introduction of ra ( v12 ) into many immortalize cell line lead to transformation , introduction of ra ( v12 ) into primary cell have a different effect ."
+167						"normal fibroblast , such as wi-38 hdf , undergo senescence when force to express oncogene such as activate ra ( v12 ) or raf ( e600 ) ."
+168						"demonstrate that c and ebpbeta be necessary for ra ( v12 ) - induce senescence in mef , which occur in a prb dependent manner ."
+169						recently have show that c and ebpbeta be require for activate raf ( e600 ) - induce senescence in hdf .
+170						"in the present study we set out to determine which transactivator isoform of c and ebpbeta be responsible for OIS , as there be increase evidence for functional difference between the transactivator isoform ( , , , Kowentz-Leutz and Leutz , 1999 ) ."
+171	uaz:UA-CLine-888	wi-38	c33			first we demonstrate that c and ebpbeta1 be not degrade in senesce wi-38-ras cell .
+172			e64	c33	cdk2 be not activate in these cell due to activation of cdk inhibitor .	this be because cdk2 be not activate in these cell due to activation of cdk inhibitor .
+173			e65	c33	 c and ebpbeta induce senescence through induction of il6 .	demonstrate that c and ebpbeta induce senescence through induction of il6 .
+174			e66	c34	" c and ebpbeta1 , that be able to robustly induce il6 expression ."	"we show that it be the full length isoform , c and ebpbeta1 , that be able to robustly induce il6 expression ."
+175	uaz:UA-CLine-888	wi-38	c34			"accordingly , we demonstrate that c and ebpbeta1 be the strongest inducer of senescence in wi-38 fibroblast ."
+176						c and ebpbeta2 can induce senescence to a lesser extent .
+177						it be interesting that c and ebpbeta2 expression in wi-38 fibroblast do induce senescence .
+178	uaz:UA-CLine-888	wi-38 cells	c35			"because c and ebpbeta1 be express in the wi-38 cell , we can not rule out that c and ebpbeta2 be heterodimerize with the endogenous c and ebpbeta1 to induce il6 and thus senescence , albeit at a lower level ."
+179						"whether as a heterodimer or homodimer , c and ebpbeta2 may be upregulate the expression of other factor involve in OIS ."
+180			e67	c35	c and ebpbeta1 to induce il6	"take together , it be likely that ra ( v12 ) / raf ( e600 ) be work through c and ebpbeta1 to induce il6 and lead to senescence in normal cell ."
+181						we propose that degradation of c and ebpbeta1 by ra ( v12 ) may be a mechanism by which cell bypass oi .
+182						loss of expression of full length c and ebpbeta1 may be necessary for escape from senescence and a step closer to transformation .
+183						further support of this lie in the expression profile of c and ebpbeta1 in normal versus transform cell .
+184						"c and ebpbeta1 be present in normal cell , and be not degrade when ra ( v12 ) be introduce and induce senescence in normal cell ."
+185	uaz:UA-CLine-100076	MCF10As	"e68,c36"	c36	c and ebpbeta be negatively regulate by ra during ra ( v12 ) transformation of mcf10a .	"additionally , this first isoform of c and ebpbeta be negatively regulate by ra during ra ( v12 ) transformation of mcf10a ."
+186						p52-C and ebpbeta1 expression be not observe in breast cancer cell in which the ra pathway be activate .
+187						the expression pattern of c and ebpbeta1 in normal versus transform cell support we current finding that c and ebpbeta1 play a important role in senescence and be negatively regulate during transformation .
+188						"it be not surprising that a protein that play a critical role in OIS , a tumor suppressive mechanism , be down regulate during transformation ."
+189			e69	c36	inhibit cdk2 with roscovitine stabilize expression of c and ebpbeta1	"moreover , recently it have be show that cdk2 suppress cellular senescence , consistent with we finding that inhibit cdk2 with roscovitine stabilize expression of c and ebpbeta1 , a factor involve in senescence ( Campaner et al. , hydbr et al. ) ."
+190						"in further support of we finding , use a c and ebpbeta construct in which the start site for c and ebpbeta2 and -3 be mutate such that only c and ebpbeta1 could be translate ."
+191						"they demonstrate that expression of this construct in hdf lead to cell cycle arrest and induction of il6 , consistent with we result ."
+192						the production of multiple isoform of c and ebpbeta be a possible explanation for which this transcription factor could regulate the functional difference observe upon expression of ra ( v12 ) .
+193						we datum indicate that c and ebpbeta1 be the isoform responsible for mediate ra ( v12 ) - induce senescence .
+194						"in contrast to c and ebpbeta1 , c and ebpbeta2 expression be not negatively regulate in mcf10a cell upon ra ( v12 ) - induce transformation ."
+195						"additionally , overexpression of c and ebpbeta2 in mcf10a lead to the acquisition of tumorigenic characteristic , similarly to ra ( v12 ) expression in these cell ."
+196						"therefore , ra may be signal to this second isoform of c and ebpbeta during transformation ."
+197						"unfortunately it be not possible to knockdown each specific isoform of c and ebpbeta via siRNA technology and determine the role each isoform be play , because all three isoform be translate from a single mrna molecule ."
+198						"importantly , one study have examine the specific role of c and ebpbeta2 in activate macrophage by generate a knock-in mouse in which the second in-frame methionine necessary for translation of c and ebpbeta2 be replace with a alanine ."
+199						this abolish expression of c and ebpbeta2 in these mouse .
+200			e70	c37	" induction of c and ebpbeta target gene , such as il6"	"the induction of c and ebpbeta target gene , such as il6 , be examine in this study ."
+201	uaz:UA-CLine-100087	HDFs	c37			"activate macrophage in the mouse unable to express c and ebpbeta2 be still able to induce il6 expression , consistent with we current finding that c and ebpbeta2 be not the primary isoform responsible for induction of il6 in hdf ."
+202						"c and ebpbeta play many functional role in the cell , even role that seem conflict such as cell survival , cell death , proliferation , senescence , and transformation ."
+203						this may be explain in part by the presence of the different isoform of c and ebpbeta and they functional difference .
+204						future study on c and ebpbeta will need to take into consideration that the different isoform of this transcription factor be likely playing functionally distinct role .
+205						degradation of c and ebpbeta1 by ra ( v12 ) may be a mechanism by which cell bypass oi .
+206						"we study shed light on how ra signaling be alter in ra ( v12 ) - induce senescence versus transformation through the regulation of c and ebpbeta1 , however further investigation of what dictate this transition be necessary to more completely understand this critical switch ."
+207						it will be important to determine the detail of the signaling between ra and c and ebpbeta in normal cell to elucidate mechanism by which this critical signaling that induce OIS can be trigger or maintain to suppress tumorigenesis .
+208						Materials and method
+209						cell line
+210						"hmec , mcf10a , mda231 , and mda435 be maintain as describe previously ."
+211						"the wi-38 cell ( a gift from the Dr. Hal Moses lab , Vanderbilt University ) be maintain in Eagle 's minimal essential medium supplement with 10 % fetal bovine serum ( HyClone Laboratories Logan , UT , USA ) , 100u and ml penicillin , and 100ug and ml streptomycin ( Life Technologies , Inc. , Carlsbad , CA , USA ) ."
+212						"the phoenix-ampho packaging cell line be obtain from the atcc with the permission of gp Nolan ( Stanford University , Palo Alto , CA ) , have be previously describe and be maintain as describe previously ( Bundy and Sealy , et al. ) ."
+213						cloning of recombinant retroviral construct and virus preparation
+214						generation of lzrs-t7-c / ebpbeta1-ires-egfp be as follow : ires-egfp-lzr and t7-c and ebpbeta1-pcdna 3.1-his a be generate as describe previously .
+215						T7-C and ebpbeta1-pcdna 3.1 be digest with ecorus and notus and incubate with dna polymerase I .
+216						"the result t7-c and ebpbeta1 insert be ligate into lzrs-ires-egfp , which have be digest with ecorus and bamhus and incubate with dna polymerase I ."
+217						this generate lzrs-t7-c / ebpbeta1-ires-egfp .
+218						"LZRS-T7-C / ebpbeta1t235a-ires-egfp be generate as follow : nf-il6t235a-cmv , a generous gift from the Akira laboratory , and we c and ebpbeta1-prset-a construct , describe in be digest with mscus and bbsus ."
+219						the t235a fragment be ligate into c and ebpbeta1-prset-a to create c and ebpbeta1t235a-prset-a .
+220						"c and ebpbeta1t235a-prset-a be digest with hindiius , incubate with dna polymerase , and digest with bamhus to isolate c and ebpbeta1t235a ."
+221						pcdna3.1-his-a be digest with bamhus and ecorv and c and ebpbeta1t235a insert be ligate into this to create c and ebpbeta1t235a-pcdna 3.1-his-a .
+222						c and ebpbeta1t235a-pcdna 3.1-his-a be digest with hindiius and xbaus and incubate with dna polymerase to isolate t7-c and ebpbeta1t235a .
+223						LZRS-IRES-eGFP be digest with ecorus and incubate with dna polymerase .
+224						T7-C and ebpbeta1t235a be ligate into lzrs-ires-egfp to create lzrs-t7-c / ebpbeta1-ires-egfp .
+225						LZRS-T7-C / ebpbeta2-ires-egfp be generate similar to describe in .
+226						"the only difference be t7-c and ebpbeta2-ires-egfp - lzr be digest with ecorus , incubate with dna polymerase , and re-ligated ."
+227						recombinant amphotropic retroviral stock generation and retroviral infection be perform as describe in .
+228						"the pbabe-ras ( v12 ) - puromycin retroviral construct be a kind gift from Dr. Scott Lowe , Cold Spring Harbor ."
+229						"cell be infected once and select with 1ug and ml puromycin ( Sigma Chemical Co. , St. Louis , MO , USA ) ."
+230						preparation of cell lysate and immunoblot analysis
+231						cell lysate be prepare from 100 mm dish of 90 % confluent cell as describe previously .
+232						"relative protein concentration be determine use the protein assay reagent ( BioRad Laboratories , Hercules , CA , USA ) as per manufacturer 's instruction ."
+233						protein be transfer from the gel to Immobilon p filter .
+234						immunoblot be process as previously describe .
+235						"the anti-perk , anti-erk , anti-cdk2 ( all Santa Cruz Biotechnology , Santa Cruz , CA , USA ) , and anti-pcdk2 ( cell signaling technology , Beverly , MA , USA ) antibody be use at 1:2000 ."
+236						soft agar colony formation assay
+237						"complete media and 2 % agar ( Difco , spark , md , USA ) be mixed 2:1 to give a 0.7 % agar solution ."
+238						this mixture be pipet into 60mm dish to form the bottom layer .
+239						5ml of media contain 1x105 cell be mix with 2.5 ml 1 % agar and add as the top layer .
+240						cell be feed with media and 1 % agar at a 2:1 ratio .
+241						Supplementary Material
+242						1
+243						2
+244						3
+245						figure
+246						Figure 1
+247						activate ra ( v12 ) negatively regulate c and ebpbeta1 expression in the immortalized mcf10a mammary epithelial cell line a. immunoblot analysis of endogenous c and ebpbeta expression in mcf10a cell ( lane 1 ) and mcf10a that express activate ra ( v12 ) ( mcf10a-ra ) cell ( lane 2 ) .
+248						Equal amount of total protein be load in each lane of a 12 % sodium dodecyl sulfate - polyacrylamide gel electrophoresis ( sds-page ) .
+249						the different isoform of c and ebpbeta be indicate with arrow .
+250						note - expression level of the isoform of c and ebpbeta in mcf10a cell can be somewhat variable depend on passage .
+251						"bar indicate the mobility 's of standard molecular weight marker , in kilo- Daltons ( kda ) , in all figure ."
+252						immunoblotting be perform with a c-terminal c and ebpbeta antibody ( Santa Cruz C-19 ) at a dilution of 1:5000 .
+253						the molecular weight marker use in this figure be the same as those use in previous papers which identify c and ebpbeta1 as a 55kda protein .
+254						the remain figure in this paper use a different molecular weight marker that show c and ebpbeta1 have a apparent molecular weight of 52kda .
+255						b. mcf10a and mcf10a-ra cell infect with lzrs-t7-c / ebpbeta1-ires-egfp and sort by fac for gfp positive cell .
+256						c and ebpbeta1 be the only c and ebpbeta isoform produce by this retrovirus because the second atg necessary to translate c and ebpbeta2 have be mutate along with a small open reading frame ( orf ) require for translation of c and ebpbeta3 .
+257						this immunoblot be three week after sort .
+258						Equal amount of total protein be load in each lane of a 10 % sds-page .
+259						immunoblot analysis of lane 1 and 2 be perform with a t7 tag mouse monoclonal antibody ( novagen ) at 1:10000 whereas lane 3 and 4 be with a anti-c and ebpbeta c-terminal antibody ( Santa Cruz C-19 ) at 1:5000 .
+260						arrow indicate full length p52-t7-c / ebpbeta1 along with smaller degradation product of t7-c and ebpbeta1 .
+261						c. mcf10a ( lane 1-7 ) and mcf10a-ras ( lane 8-14 ) cell infect with lzrs-t7-c / ebpbeta1-ires-egfp and sort by fac for gfp positive cell .
+262						cell lysate be prepare every four day for 24 day .
+263						Equal amount of total protein be load in each lane of a 10 % sds-page .
+264						immunoblot analysis be perform with the t7-tag antibody ( Novagen ) at a dilution of 1:10000 .
+265						arrow indicate full length p52-t7-c / ebpbeta .
+266						"immunoblot analysis with the beta-tubulin antibody be show as a load control ( Sigma t7816 at 1:10000 ) ( beta = c and ebpbeta , 10a = mcf10a )"
+267						figure 2
+268						c and ebpbeta1 be protealyze by the proteasome in cell in which the ra pathway be activate a. mcf10a-ras cell infect with lzrs-t7-c / ebpbeta1-ires-egfp and sort by fac for gfp positive cell .
+269						this immunoblot be three week post-sorting .
+270						"Lane 1 be uninfected mcf10a-ra cell , lane 2 be mcf10a-ras-c and ebpbeta1 cell , lane 3 be mcf10a-ras-c and ebpbeta1 treat with 50um mg132 ( re-suspended in dmso ; Calbiochem ) for 4 hour , and lane 4 be mcf10a-ras-c and ebpbeta1 cell treat with 50um mg132 for 8 hour ."
+271						Equal amount of total protein be load in each lane of a 10 % sds-page .
+272						the Santa Cruz C-19 c-terminal c and ebpbeta antibody be use for immunoblot analysis at 1:5000 .
+273						arrow indicate the different c and ebpbeta isoform .
+274						b. cell lysate be prepare from mcf10a-ras cell untreated ( lane 1 ) or treat with 50um mg132 for 8 hour ( lane 2 ) .
+275						Equal amount of total protein be load into each lane of a 10 % sds-page .
+276						a antibody specific for the n-terminal 21 amino acid specific to c and ebpbeta1 ( Abcam 18F8 ) be use for immunoblot analysis ( 1:2000 ) .
+277						c. mda231 breast cancer cell infect with lzrs-t7-c / ebpbeta1-ires-egfp and sort by fac for gfp positive cell .
+278						"Lane 1 be uninfected mda231 cell , lane 2 be uninfected mda231 cell treat with 50um mg132 , lane 3 be mda231-c and ebpbeta1 , and lane 4 be mda231-c and ebpbeta1 cell treat with 50um mg132 for 8 hour ."
+279						Equal amount of total protein be load in each lane of a 10 % sds-page .
+280						immunoblot analysis be perform with a t7 tag mouse monoclonal antibody ( novagen ) at 1:10000 .
+281						the arrow indicate p52-t7-c / ebpbeta1 .
+282						beta-tubulin be use as the load control for all of the above immunoblot ( Sigma T7816 ) .
+283						d. mcf10a-ra cell infect with lzrs-t7-c / ebpbeta1-ires-egfp and sort by fac for gfp positive cell .
+284						Lane 3 be uninfected mcf10a-ra cell .
+285						"cell be untreated ( lane 1 , 3 and 4 ) or treat with 50um mg132 for 8 hour and 5mm n-ethylmaleimide for 30 minute ( lane 2 and 5 ) ."
+286						lane 1 and 2 be cell lysate whereas lane 3-5 be immunoprecipitation with t7-tag antibody bead ( novagen ) .
+287						immunoprecipitation be perform as describe previously with the follow exception : the immunoprecipitation be for 15 minute and 50um mg132 and 5mm n-ethylmaleimide be include in the immunoprecipitation buffer .
+288						immunoblot analysis be perform with the Santa Cruz C-19 c-terminal c and ebpbeta antibody ( lane 1 and 2 ) or anti-ubiquitin antibody ( Enzo Life Sciences fk2 ) .
+289						"( 10a = mcf10a , beta = c and ebpbeta , 231 = mda231 , mg = mg132 )"
+290						Figure 3
+291						treatment with the cdk inhibitor roscovitine or mutation of c and ebpbeta1 thr235 to alanine stabilize expression of t7-c and ebpbeta1 in mcf10a-ra cell a. mcf10a-ras cell infect with lzrs-t7-c / ebpbeta1-ires-egfp and sort by fac for gfp positive cell .
+292						"Lane 1 be uninfected mcf10a-ra cell and lane 2-7 be mcf10a-ras-c and ebpbeta1 cell three week post-sorting , treat with various kinase inhibitor ."
+293						"the panel of kinase inhibitor include uo126 , a mitogen activate protein kinase and erk kinase ( mek ) inhibitor ( mek be the upstream activator of erk ; from cell signaling ) , roscovitine , a cdk inhibitor ( LC Laboratories ) , sp600125 , a jun n-terminal kinase ( jnk ) inhibitor ( Sigma ) , sb202190 , a p38 inhibitor ( Sigma ) , and tdzd-8 , a glycogen synthase kinase 3 beta ( gsk3beta ) inhibitor ( Sigma ) ."
+294						"Lane 2 be untreated ; lane 3 be treat with 25um of uo126 , lane 4 be treat with 50um of roscovitine , lane 5 be treat with 50um of sp600125 , lane 6 with 20um sb202190 , and lane 7 with 25um tzdz-8 ."
+295						all inhibitor be resuspend in dmso and all treatment be for 12 hour .
+296						Equal amount of total cell protein be load and analyze by sd 10 % polyacrylamide gel elecrophoresis .
+297						immunoblotting be perform with a anti-c and ebpbeta c-terminal antibody ( Santa Cruz C-19 ) at 1:5000 .
+298						arrow indicate the particular isoform of c and ebpbeta .
+299						immunoblot analysis for beta-tubulin be perform as a load control ( Sigma t7816 ) b. mcf10a-ra cell infect with lzrs-t7-c / ebpbeta1-ires-egfp or lzrs-t7-c / ebpbeta1t235a-ires-egfp .
+300						"lane 1 and 4 be uninfected mcf10a-ra cell , lane 2 and 5 be mcf10a-ras-c and ebpbeta1 cell immediately after sort and three week post-sorting respectively , and lane 3 and 6 be mcf10a-ras-c and ebpbeta1t235a cell immediately after sort and three week post-sorting , respectively ."
+301						Equal amount of total cell protein be load and analyze via 10 % sds-page .
+302						immunoblotting be perform with a anti-t7 tag mouse monoclonal antibody ( novagen ) at 1:10000 .
+303						the arrow indicate p52-t7-c / ebpbeta1 .
+304						immunoblot analysis for gapdh ( Santa Cruz ) be perform as a load control .
+305						"c. purify rat c and ebpbeta1 ( lap1 , which be smaller than human c and ebpbeta1 ) be in vitro phosphorylate with purify , active cdk2 and cyclin a2 ( Signalchem ) ."
+306						Equal amount of c and ebpbeta1 alone ( lane 1 ) or in vitro phosphorylate c and ebpbeta1 ( lane 2 ) be run on a 10 % sds-page .
+307						immunoblotting be perform with a anti-phosphothr235 c and ebpbeta antibody ( cell signaling ) at 1:2000 or anti-t7 antibody ( novagen ) at 1:10000 dilution .
+308						"( 10a = mcf10a , beta = c and ebpbeta )"
+309						Figure 4
+310						c and ebpbeta1 be not degrade by introduction of activate ra in wi-38 normal fibroblast and exogenous expression of c and ebpbeta1 inhibit growth in wi-38 cell a. wi-38 cell be infect with pbabe-ra ( v12 ) - puromycin and select with puromycin for 6 day or 3 week .
+311						evidence for ra ( v12 ) expression in these cell include they senescent phenotype and induction of il6 .
+312						"Lane 1 be uninfected wi-38 cell , lane 2 be wi-38-ras ( v12 ) cell after 6 day , and lane 3 be wi-38-ras ( v12 ) cell after 3 week ."
+313						Equal amount of total protein be load in each lane of a 10 % sds-page .
+314						immunoblot analysis be perform with a antibody specific to c and ebpbeta1 as describe in .
+315						the arrow indicate endogenous p52-c and ebpbeta1 .
+316						immunoblot analysis for beta-tubulin be perform as a load control ( Sigma t7816 ) .
+317						"( beta = c and ebpbeta , d = day , wk = week ) b. wi-38 human diploid fibroblast be infect with lzrs-gfp or lzrs-t7-c / ebpbeta1-ires-egfp and sort by fac use gfp as a marker ."
+318						800 cell be plate and after 10 day the cell be fix with 95 % ethanol and stain with Gills hematoxylin ( Sigma ) .
+319						the number of stain colony be count .
+320						T7-C and ebpbeta1 expression be verify by immunoblot ( datum not show ) .
+321						c. quantitative comparison of the colony formation assay .
+322						this experiment be repeat three time with the standard deviation represent by error bar .
+323						quantitative comparison use the student t test indicate that there be a statistically significant difference in colony number in the t7-c and ebpbeta1-expressing wi-38 cell versus uninfected or gfp only .
+324						* p = 0.007 .
+325						d. wi-38 human diploid fibroblast be infect with lzrs-gfp or lzrs-t7-c / ebpbeta1-ires-egfp and sort by fac use gfp as a marker .
+326						13000 cell be seed per well in a 8-well chamber slide 6 day post-infection .
+327						24 hour post-plate the cell be pulsed with 10ug and ml brdu ( Sigma ) for 24 hour .
+328						cell be then fix in formalin for 5 minute .
+329						the Invitrogen streptavidin-biotin system for Brdu stain kit be then follow per manufacturer 's instruction .
+330						the dark nuclear stain indicate replicate cell in which Brdu be incorporate ( example indicate by arrow ) .
+331						Hematoxylin be use as the counterstain .
+332						T7-C and ebpbeta1 expression be verify via immunoblot ( datum not show ) .
+333						e. quantitative comparison of the brdu assay .
+334						quantitative comparison use the student t test indicate that there be a statistically significant difference in Brdu staining in the t7-c and ebpbeta1-expressing wi-38 cell versus uninfected or gfp only .
+335						* p = 0.027 .
+336						standard deviation be represent by error bar .
+337						Figure 5
+338						"c and ebpbeta1 induce il6 expression in wi-38 human fibroblast a. wi-38 cell be infect with lzrs-gfp , pBABE ra ( v12 ) - puromycin , lzrs-t7-c / ebpbeta1-ires-egfp , or lzrs-t7-c / ebpbeta2-ires-egfp ."
+339						six day post-infection rna be prepare .
+340						total rna be isolate use the RNeasy Mini kit and rnase-free dnase kit ( Qiagen ) .
+341						cdna be synthesize with the high capacity cdna reverse transcription kit accord to the manufacturer 's instruction ( Applied Biosystems ) .
+342						"Taqman real-time pcr be perform to determine the relative level of target , use gapdh as the internal control and a il6 primer ( hs00985639_m1 , Applied Biosystems ) ."
+343						result be present as fold induction of il6 as compare to uninfected wi-38 .
+344						this assay be repeat three time with standard deviation represent by the error bar .
+345						p value be calculate use the student t test .
+346						"** p < 0.02 , * p < 0.03 ."
+347						b. immunoblot analysis of t7-c and ebpbeta1 versus t7-c and ebpbeta2 protein level in infected wi-38 cell .
+348						cell lysate from wi-38 cell infect with lzrs-t7-c / ebpbeta1-ires-egfp or lzrs-t7-c / ebpbeta2-ires-egfp be analyze via 10 % sds-page .
+349						"Lane 1 be uninfected wi-38 cell , lane 2 be wi-38-t7-c / ebpbeta1 cell , and lane 3 wi-38-t7-c / ebpbeta2 cell ."
+350						Equal amount of total protein be load in each lane .
+351						immunoblot analysis be perform with a anti-c and ebpbeta c-terminal antibody ( Santa Cruz C-19 ) at 1:5000 .
+352						arrow indicate the particular isoform of c and ebpbeta .
+353						t7-beta indicate the exogenously express protein .
+354						"c and ebpbeta2 be smaller than the endogenous because the t7 tag rat protein be be express , which be smaller than human ."
+355						immunoblot analysis for beta-tubulin be perform as a load control ( Sigma t7816 ) .
+356						( beta = c and ebpbeta )
+357						Figure 6
+358						"c and ebpbeta1 , and to a lesser extent c and ebpbeta2 , induce senescence in wi-38 human fibroblast a. wi-38 cell be infect with lzrs-gfp , lzrs-t7-c / ebpbeta1-ires-egfp , lzrs-t7-c / ebpbeta2-ires-egfp , or pBABE ra ( v12 ) - puromycin ."
+359						six day post-infection 60 % confluent cell be fix in 60mm plate and stain for with the senescence associate beta-galactosidase kit as per manufacturer instruction ( cell signaling technology ) .
+360						five field per plate be image with a light microscope with representative photomicrograph display .
+361						b. quantitative comparison of senescence associate beta-galactosidase stain .
+362						this experiment be repeat three time with standard deviation represent by error bar .
+363						"quantitative comparison use the student t test indicate that there be a statistically significant difference in blue staining between the ra ( v12 ) , t7-c and ebpbeta1 , and t7-c and ebpbeta2 expressing wi-38 cell versus uninfected ."
+364						"** p < 0.006 , * p < 0.03 ."
+365						"c. wi-38 cell be infect with lzrs-gfp , lzrs-t7-c / ebpbeta1-ires-egfp , or lzrs-t7-c / ebpbeta2-ires-egfp ."
+366						six day post-infection cell lysate be make and run on a 10 % sds-page .
+367						Equal amount of protein be load in each lane .
+368						immunoblot analysis be carry out with a anti-p16ink4a antibody ( Santa Cruz ) .
+369						immunoblot analysis for beta-tubulin be perform as a load control ( Sigma t7816 ) .

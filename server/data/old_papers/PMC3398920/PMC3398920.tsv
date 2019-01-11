@@ -1,0 +1,116 @@
+1						rac-ing to the plasma membrane
+2			E1,E2,E3,E4	C1	the functional cycle of the rac1 gtpase involve a large number of step , include post-translational processing , cytosolic sequestration by rhogdi , translocation to specific subcellular localization , activation by GDP and gtp exchange , inactivation by gtp hydrolysis , and re-formation of cytosolic rac1 and rhogdus inhibitory complex .	the functional cycle of the rac1 gtpase involve a large number of step , include post-translational processing , cytosolic sequestration by rhogdi , translocation to specific subcellular localization , activation by GDP and gtp exchange , inactivation by gtp hydrolysis , and re-formation of cytosolic rac1 and rhogdus inhibitory complex .
+3						here , we summarize the current knowledge about the regulation of those step .
+4						in addition , we discuss a recently describe , cytoskeletal dependent feed-back loop that favor the efficient translocation and activation of rac subfamily protein during cell signaling .
+5					this route be mediate by a heteromolecular protein complex compose of the cytoskeletal protein coronin1a , the Dbl family member arhgef7 , the serine and threonine kinase pak1 , and the rac1 and rhogdus dimer .	this route be mediate by a heteromolecular protein complex compose of the cytoskeletal protein coronin1a , the Dbl family member arhgef7 , the serine and threonine kinase pak1 , and the rac1 and rhogdus dimer .
+6			E5,E6,E7	C1	this route promote the translocation of rac1 and RhoGDI to f-actin-rich juxtamembrane area , the pak1 dependent release of rac1 from the rac1 and rhogdus complex , and rac1 activation .	this route promote the translocation of rac1 and RhoGDI to f-actin-rich juxtamembrane area , the pak1 dependent release of rac1 from the rac1 and rhogdus complex , and rac1 activation .
+7	tissuelist:TS-1001	T-cell	C1			this pathway be important for optimal rac1 activation during the signaling of the egf receptor , integrin , and the antigenic t-cell receptor .
+8						rac1 , one of the best characterize member of the rho and rac gtpase subfamily , regulate ubiquitous process such as the formation of membrane ruffle and lamellipodium , cell adhesion , proliferation , intercellular attraction and repulsion , and transcriptomal dynamics .
+9						in addition , it modulate cell-type-specific process such as axon migration and guidance , phagocytosis , or the formation of the immunological synapse .
+10						to trigger most of those function , rac1 have to fulfill two basic condition .
+11						one of they be to be anchor at the plasma membrane to make it possible the subsequent activation of its primary effector in the correct subcellular localization .
+12						the second condition be that it have to be bind to gtp , since this be the only conformational state compatible with the interaction of most downstream effector .
+13						these requirement only change in few signaling scenario , such as the cell cycle regulate transfer of rac1 to the nucleus or the indistinctive binding of gdp-rac and gtp-rac1 to mtor .
+14						like the mythical greek Odysseus , the travel of rac1 from the cytosol to the plasma membrane be a stepwise mechanism subject to multiple regulatory challenge .
+15						the first step require to reach its particular Ithaca be the attachment of a geranyl-geranyl group to the most c-terminal cysteine residue of the translated rac1 protein , a modification catalyze in the cytosol by type i geranyl-geranyl transferase ( ggt1 ) , ( , step 1a ) .
+16						rac1 then move to the endoplasmic reticulum , where it be subject to further processing by the protease rce1 and the methyltransferase icmt .
+17						, rcc1 cleave off the c-terminal rae1 lll tripeptide ( , step 1b ) .
+18						icmt incorporate a methyl group at the alpha-carboxyl group of the c-terminal cysteine that become expose upon the completion of the rcc1 catalyze reaction ( , step 1c ) .
+19						base on datum gather use ra subfamily protein , it have be assume that the prenylation , cleavage and methylation step be conditio sine qua non for the biological activity of rac1 protein .
+20						, , such model be consistent with current experimental evidence , , although some recent report have unexpectedly show that rac1 can be functional in primary gtt1 deficient macrophage and in embryonic fibroblast obtain from rce1-/-_NN and icmt-/- mouse .
+21						figure1 .
+22						depiction of the main step of the functional cycle of rac1 .
+23						enzyme and other cellular factor collaborate in each of those step be show in green .
+24						other symbol be indicate in the figure .
+25						please note that the sequence of the c-terminal lll tripeptide be different in some rac1 ortholog , such as those present in horse ( tvf ) , chimpanzee ( lql ) or drosophila ( all ) .
+26						the status of rac1 inside the nucleus be still poorly characterize so we have not incorporate the activation and inactivation cycle of rac1 in that compartment .
+27						it be also unclear whether the insertion of rac1 in membrane be achieve when in the gdp-_NN or gtp bind state .
+28						the latter case have not be contemplate in the scheme for the sake of simplicity .
+29						abbreviation use be : er , endoplasmic reticulum ; gap , gtpase activate protein ; I , methyl group ; Pi , inorganic phosphate ; pkc , protein kinase c ; PM , plasma membrane ; PRR BP , proline rich region binding protein .
+30						other abbreviation have be describe in the main text .
+31						after its transit through the endoplasmic reticulum , rac1 move back to the cytosol where it stay in a inactive reservoir until the reception of extracellular signal by the cell .
+32						this pool be stabilize by the formation of stoichiometric complex with rhogdi ( , step 2 ) .
+33						rhogdi perform both negative and positive action in this complex .
+34						on the negative side , they inhibit the usually high intrinsic gdp and gtp exchange of rac1 , thus favor the maintenance of the bound gtpase in the inactive conformation in non stimulate cell .
+35						this function be mediate by the direct interaction of the RhoGDI molecule with the rac1 switch region .
+36						in addition , they use a deep hydrophobic cavity to trap the rac1 prenyl group , a mechanism that keep the gtpase away from the membrane in a cytosolic , fully soluble pool .
+37						on the positive side , rhogdi protect the bound rac1 molecule from proteolytic degradation and , in addition , be likely involve in the final transit of rho and rac gtpase to the plasma membrane .
+38						the cytosolic reservoir of rac1 be rapidly mobilize to the plasma membrane upon cell stimulation ( , step 3a ) or , alternatively , to the nucleus in the g2 phase of the cell cycle ( , step 3b ) .
+39						the main factor involve in the former mobilization route be the rac1 gef , a group of enzyme contain either dbl-homology or dock-homology domain that promote the rapid transition of rac1 from the inactive ( gdp bind ) to the active ( gtp bind ) state ( , step 4 ) .
+40						however , alternative physiological activation step exist , such as the transglutaminase dependent serotonylation of rac1 downstream of g couple receptor .
+41						this mobilization step be also facilitate by the c-terminal rac1 polybasic and proline rich region .
+42						the former region favor the formation of hydrophilic interaction with the negatively charge head of lipid only present in the plasma membrane , because rac related protein lack this hydrophilic signal be localized in intracellular vesicle , ( , step 3a ) .
+43						the rac1 proline rich region interact with the sh3 region of arhgef7 ( also know as beta-pix ) , a dbl-homology family protein that can associate with f-actin rich area of the cell ( , step 3a ) .
+44						recent datum indicate that other ancillary signal collaborate in this process , include the post-translational modification of rac1 by phosphorylation , sumoylation and ubiquitination .
+45						, rac1 localization can be also regulate positively by extrinsic signal such as the presence of specific phospholipid ( ptdin ( 4,5 ) p2 , ptdin ( 3,4,5 ) p3 ) , and lipid raft - at the plasma membrane ( , step 3a ) .
+46						at the end of the effector phase ( , step 5 ) , the standard regulatory model hold that rac1 go back to the GDP bind state via the action of rho and rac gtpase activate protein ( , step 6a ) , re-associate with rhogdus molecule ( , step 6b ) and move back to the inactive cytosolic reservoir until a new stimulation cycle start .
+47						in addition to this standard model , recent datum demonstrate that rac1 can undergo activation and inactivation cycle by shuttle between the plasma membrane and endocytic compartment .
+48						, the shuttling of rac1 in and out of the nucleus require the rac1 polybasic region and karyopherin alpha2 , a importin that transfer cargo molecule inside the nucleus ( , step 3b ) .
+49						whether this step require gef , carrier protein , or intracellular docking protein be unknown as yet .
+50						the mechanism by which rac1 be return to the cytosol remain ill define ( , step 6c ) .
+51						whereas the gtpase and rhogdus complex and the catalytic step involve in rac1 gdp and gtp exchange and gtp hydrolysis be well understand in structural term , , the dynamic aspect that modulate the release of rac1 from rhogdi during the activation process be not well understand .
+52						for instance , we do not know whether rac1 dissociate from the rhogdus before contact the upstream gef or , alternatively , whether the gef promote both the dissociation and activation of the gtpase .
+53						in either case , it be unclear the intracellular cue use by either rac1 or the rac1 and rhogdus complex to reach the subcellular region where the stimulated gef be localized .
+54						finally , we do not know whether these rac1 mobilization related step be general and and or cell type specific .
+55						recent inroad in this subject suggest that the release of rac1 be mediate by the direct phosphorylation of rhogdus by either upstream ( src , protein kinase c ) or downstream ( pak1 ) kinase .
+56						- in any case , it be still difficult to explain how the cytosolic rhogdus and rac1 complex manage to get close to those kinase during cell stimulation .
+57						to shed light on this process , we decide to search for protein involve in the regulation of the translocation of rac1 to the plasma membrane use a genome-wide functional screen .
+58						this approach lead to the isolation of coronin1a ( coro1a ) as a protein capable of induce the translocation and activation of rac1 during cell signaling ( , bottom ) .
+59	taxonomy:9606	human	S1			coro1a belong to a large family of cytoskeletal regulator that show a phylogenetic distribution from unicellular eukaryote to human .
+60						these protein control the bundle of f-actin filament , the growth and orientation angle of new f-actin branch , and the disassembly of old actin cable .
+61						such activity suggest to we that coro1a could be possibly involve in a cross-talk between the f-actin cytoskeleton and the process of rac1 translocation and and or activation .
+62			E8	C2,C3,C4,S1	coro1a induce the f-actin-dependent translocation and activation of rac1 in the plasma membrane .	consistent with this idea , we could demonstrate that the overexpression of coro1a induce the f-actin-dependent translocation and activation of rac1 in the plasma membrane .
+63					conversely , its inactivation lead to ineffective activation of rac1 and rac1-downstream route .	conversely , its inactivation lead to ineffective activation of rac1 and rac1-downstream route .
+64	uaz:UA-CLine-100091,uaz:UA-CLine-100002,uaz:UA-CLine-2244	COS1, 293T, Jurkat	C2,C3,C4			this pathway be active in a number of cell type ( cos1 , 293t , jurkat cell ) and cellular stimulation condition ( egf signaling , integrin mediate adhesion , t-cell receptor stimulation ) .
+65						figure2 .
+66						scheme of the cellomic screen use in the work review here .
+67						the first screening be conduct use a expression library of 135,000 independent cdna clone obtain from human t cell .
+68						to this end , we use a reporter hek293t stably express a cytoplasmic egfp-rac1 protein ( step 1 ) .
+69						to increase the efficiency of the screening , this cell line also express anti-apoptotic protein to avoid the loss of clone due to the presence of pro-apoptotic molecule in the transfected cdna pool .
+70						the screening be conduct by transfect separate pool of 90 cdna in the reporter cell line use the calcium phosphate precipitation method ( step 2 ) and the subsequent score of cell show plasma membrane localized egfp-rac1 use epifluorescence microscopy ( step 3 ) .
+71						positive pool be progressively subdivide and transfect in the reporter cell line ( step 4a and 4b ) until the isolation of the cdna clone responsible for the rac1 translocating activity ( step 5 ) .
+72						the crystal structure of coro1a , one of the clone identify in this screening , be show at the bottom .
+73						the structure be compose of wd40 domain arrange in a prototypical beta-propeller conformation .
+74						see inset at the bottom for the shape and color code use for the indicated protein use in these experiment .
+75			E9,E10,E11,E12	C2,C3,C4,S1	coro1a promote the translocation and activation of rac1 via the formation of a f-actin-dependent , heteromolecular complex with arhgef7 , pak1 , rhogdus and rac1 .	mechanistic study reveal that coro1a promote the translocation and activation of rac1 via the formation of a f-actin-dependent , heteromolecular complex with arhgef7 , pak1 , rhogdus and rac1 .
+76						accord to we propose model , the formation of this rac1 translocation complex require upstream signal such as rac1 activity , aggregated lipid raft in the plasma membrane and the presence of f-actin in cell ( , stage 1 ) .
+77			E13,E14	C2,C3,C4,S1	coro1a can only associate in a stable manner with arhgef7 in the cytoplasm ( , stage 2 ) .	in the absence of those upstream signal , coro1a can only associate in a stable manner with arhgef7 in the cytoplasm ( , stage 2 ) .
+78					upon condition trigger f-actin polymerization , this inert complex be tethered to membrane ruffle and lamellipodium , a process make it possible by the intrinsic f-actin binding property of coro1a ( , stage 3 ) .	upon condition trigger f-actin polymerization , this inert complex be tethered to membrane ruffle and lamellipodium , a process make it possible by the intrinsic f-actin binding property of coro1a ( , stage 3 ) .
+79			E15,E16,E17,E18,E19	C2,C3,C4,S1	the f-actin bind complex bind then pak1 and rac1 and rhogdus ( , stage 4 ) , lead to the phosphorylation of rhogdus by pak1 , the release of rac1 from the phosphorylated rhogdus and , finally , to rac1 activation ( , stage 5 ) .	the f-actin bind complex bind then pak1 and rac1 and rhogdus ( , stage 4 ) , lead to the phosphorylation of rhogdus by pak1 , the release of rac1 from the phosphorylated rhogdus and , finally , to rac1 activation ( , stage 5 ) .
+80						several property of this new translocation process be important from a signaling point of view .
+81			E20	C2,C3,C4,S1	 f-actin binding property of coro1a	first , the f-actin binding property of coro1a offer a rather simple explanation for understand how the cytosolic rac1 and rhogdus pool be shuttle toward the plasma membrane during cell stimulation condition .
+82						second , its dependency on upstream rac1 signal suggest that the coro1a route be involve in the generation of secondary wave of rac1 activation rather than be directly involve in the initial burst of rac1 activity that take place upon the reception of the extracellular signal .
+83						thus , accord to we propose regulatory model , cell will have to trigger rac1 or rhog activation in order to engage the downstream coro1a dependent relay mechanism .
+84						finally , the need of pre-formed f-actin cytoskeletal structure to engage the coro1a dependent translocation route suggest that f-actin can induce a positive feed-back mechanism that will allow the generation of additional wave of rac1 activation and f-actin polymerization at the plasma membrane .
+85						figure3 .
+86						schematic representation of the regulatory model for the proposed coro1a mediate translocation and activation of rac1 review here .
+87						the first stimulus trigger the first burst of rac1 activity via a coro1a independent route be show on the leave in gray color and thin lane .
+88						the coro1a base relay mechanism involve in the subsequent amplification of rac1 signal be show with thicker lane .
+89						l , ligand ; x , a putative rac1 gef factor associate to arhgef7 .
+90						phosphorylate residue be show as yellow lollipop .
+91						see further detail in the main text of this work .
+92			E21	C2,C3,C4,S1	 the role of coro1a in the translocation and activation of rac1 be far from be a open and shut case .	despite these advance , the role of coro1a in the translocation and activation of rac1 be far from be a open and shut case .
+93			E22	C2,C3,C4,S1	thus , the mechanism that regulate the assembly of pak1 and the RhoGDI and rac1 pair onto the coro1a and arhgef7 complex have not be fully elucidate yet .	thus , the mechanism that regulate the assembly of pak1 and the RhoGDI and rac1 pair onto the coro1a and arhgef7 complex have not be fully elucidate yet .
+94			E23	C2,C3,C4,S1	physical interaction between arhgef7 and pak1 .	we datum indicate that such assembly require the presence of arhgef7 in the coro1a complex , a result consistent with the known physical interaction between arhgef7 and pak1 .
+95			E24	C2,C3,C4,S1	 the requirement of f-actin for the formation of the entire coro1a/pak1/rhogdi complex	however , the requirement of f-actin for the formation of the entire coro1a/pak1/rhogdi complex also indicate that additional ancillary partner and and or signal must also contribute to this process .
+96						whether these extra element be protein , membrane lipid , and and or other upstream signal remain to be determine .
+97			E25	C2,C3,C4,S1	rac1 gef in charge of activate rac1 upon its release from the coro1a nucleated protein complex	it be also unclear the rac1 gef in charge of activate rac1 upon its release from the coro1a nucleated protein complex .
+98						one option be arhgef7 itself , since it be obvious that its presence in the coro1a complex will ensure its close proximity with the released rac1 molecule .
+99						however , the catalytic activity of arhgef7 be controversial , suggest that other gef could be involve ( , protein label as x ) .
+100						it be possible therefore that such activation step be at the hand of other gef that , due to they localization in f-actin cable or the plasma membrane , could be in close proximity to the coro1a nucleated complex .
+101						the resolution of all those linger issue will need further experimental work in the near future .
+102						it be also worth note that recent datum obtain in we laboratory suggest that coro1a can use alternative mechanism to induce the translocation of rac1 to the plasma membrane .
+103						hence , we have observe that coro1a can trigger the membrane localization of rac1r66e , a mutant protein that can not bind RhoGDI .
+104						this alternative route be mechanistically distinct from that characterize in this reviewed publication , because it can not be inhibit by block pak1 function ( Castro-Castro A , Bustelo XR , unpublished observation ) .
+105			E26	C2,C3,C4,S1	 liberation from the RhoGDI complex by the coro1a/arhgef7/pak1 complex .	although these result be probably not physiologically relevant give the lack of significant amount of rhogdi-free rac1 protein in the cytosol , they be interesting because they reveal a pathway that can further enhance the membrane anchoring of rac1 upon its liberation from the RhoGDI complex by the coro1a/arhgef7/pak1 complex .
+106						"although this alternative translocation mechanism remain to be elucidate , we surmise that it could involve the generation of f-actin-dependent "" permissive "" condition at the plasma membrane ."
+107						consistent with this view , we have observe that the overexpression of coro1a induce lipid raft aggregation in the plasma membrane .
+108						furthermore , we find that the aggregation of lipid raft promote the translocation of the rac1r66e mutant to the plasma membrane ( Castro-Castro A , Bustelo XR , unpublished observation ) .
+109						finally , it should be point out that coro1a and arhgef7 be not ubiquitously express , so it be unlikely that the rac1 translocation and activation mechanism review here will be utilize by all cell type .
+110						in this context , it will be interesting to investigate whether other cytoskeletal protein fulfill coro1a like function in cell that do not express coro1a .
+111						this be a feasible scenario , because we genome-wide functional screen have result in the identification of a second wd40 family protein ( wdr26 ) that can also induce the translocation of rac1 to the plasma membrane ( Castro-Castro A , Bustelo XR , unpublished datum ) .
+112						it be also possible that the increase in the membrane localized pool of rac1 can be achieve by route alternative to those report here .
+113						for example , we cellomic screen have also identify transmembrane protein that favor the membrane localization of rac1 by block the internalization of lipid raft .
+114						unlike the case of coro1a dependent route , this alternative pathway can not be inhibit by either rac1 dominant negative mutant or pak1 interference strategy .
+115						take together , these result suggest that cell can resort to many pathway to regulate the translocation of rac1 during cell signaling .
+116						Castro-CastroAOjedaVBarreiraMSauzeauVNavarro-LeridaIMurielOCoronin 1a promote a cytoskeletal base feedback loop that facilitate rac1 translocation and activationembo j20113039132710 .1038 / emboj .2011.310

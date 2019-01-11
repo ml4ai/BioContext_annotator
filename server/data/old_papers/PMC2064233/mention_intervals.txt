@@ -1,0 +1,349 @@
+0 
+1 
+1 
+2 9-10-Golgi_apparatus-go:GO:0005794
+3 
+4 
+5 2-2-human-taxonomy:9606 3-4-embryonic_kidney-tissuelist:TS-0249
+6 0-0-Human-taxonomy:9606 1-2-endothelial_cells-tissuelist:TS-0278 18-19-plasma_membrane-go:GO:0005886
+7 13-13-human-taxonomy:9606 14-15-endothelial_cells-tissuelist:TS-0278
+8 12-12-human-taxonomy:9606 13-14-endothelial_cells-tissuelist:TS-0278
+9 
+9 
+10 
+10 11-11-endothelium-tissuelist:TS-0278
+11 12-12-endothelium-tissuelist:TS-0278 15-16-blood_vessels-uaz:UA-ORG-93 30-30-blood-tissuelist:TS-0079
+12 4-4-membrane-go:GO:0016020 26-26-membranes-go:GO:0016020
+13 
+14 
+15 19-20-plasma_membranes-go:GO:0005886
+16 
+17 
+17 
+18 
+19 
+20 
+21 
+21 
+22 3-3-yeast-taxonomy:4932 18-18-yeast-taxonomy:4932
+23 
+24 
+25 
+26 1-1-human-taxonomy:9606 5-5-yeast-taxonomy:4932
+27 
+28 11-11-mouse-taxonomy:10090 13-13-human-taxonomy:9606
+29 33-34-Sertoli_cell-tissuelist:TS-0922
+30 
+30 
+31 25-25-human-taxonomy:9606 26-27-umbilical_vein-tissuelist:TS-1082 28-29-endothelial_cells-tissuelist:TS-0278 31-31-HUVECs-uaz:UA-CT-30002 40-41-Golgi_apparatus-go:GO:0005794
+32 17-18-endothelial_cells-tissuelist:TS-0278
+33 
+33 
+34 
+34 
+35 
+35 0-0-Human-taxonomy:9606 1-2-embryonic_kidney-tissuelist:TS-0249 4-4-HEK-uaz:UA-CLine-7847
+36 
+37 
+38 
+39 
+40 16-16-human-taxonomy:9606 21-21-HUVECs-uaz:UA-CT-30002 23-23-human-taxonomy:9606 24-26-aortic_smooth_muscle-tissuelist:TS-0048 32-32-HEK-uaz:UA-CLine-7847 35-36-lung_carcinoma-tissuelist:TS-0572 38-38-A549-uaz:UA-CLine-7361 42-43-prostate_carcinoma-tissuelist:TS-0830 46-46-LnCAP-uaz:UA-CLine-2558
+41 
+42 3-3-HUVEC-uaz:UA-CT-30002
+43 
+44 
+45 
+45 
+46 
+46 
+47 11-11-HEK-uaz:UA-CLine-7847
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 9-9-human-taxonomy:9606
+56 
+57 
+57 16-17-plasma_membrane-go:GO:0005886
+58 
+58 8-8-COS-7-uaz:UA-CLine-100020
+59 
+60 27-28-plasma_membrane-go:GO:0005886
+61 
+62 6-6-membrane-go:GO:0016020
+63 25-25-vesicles-go:GO:0031982
+64 14-14-membranes-go:GO:0016020 20-20-membranes-go:GO:0016020
+65 19-19-membrane-go:GO:0016020
+66 
+66 
+67 
+67 
+68 3-3-COS-7-uaz:UA-CLine-100020
+69 
+70 
+71 
+72 3-3-COS-7-uaz:UA-CLine-100020
+73 
+74 
+75 11-11-membrane-go:GO:0016020
+76 29-30-plasma_membrane-go:GO:0005886
+77 
+77 
+78 
+78 
+79 0-0-COS-7-uaz:UA-CLine-100020
+80 
+81 17-18-plasma_membrane-go:GO:0005886
+82 11-11-membrane-go:GO:0016020
+83 
+84 
+85 
+85 
+86 
+86 
+87 3-3-COS-7-uaz:UA-CLine-100020
+88 
+89 
+90 9-9-COS-7-uaz:UA-CLine-100020
+91 13-14-plasma_membrane-go:GO:0005886 24-24-COS-7-uaz:UA-CLine-100020
+92 18-18-COS-7-uaz:UA-CLine-100020
+93 
+94 
+94 10-11-plasma_membrane-go:GO:0005886
+95 25-26-plasma_membrane-go:GO:0005886
+96 19-20-plasma_membrane-go:GO:0005886
+97 
+97 
+98 
+99 
+100 
+101 
+102 
+102 
+103 
+103 17-17-COS-uaz:UA-CLine-100020
+104 
+105 40-41-perinuclear_region-uniprot:SL-0198
+106 
+107 
+107 
+108 
+108 
+109 
+110 
+111 3-3-COS-7-uaz:UA-CLine-100020
+112 
+113 
+114 
+115 3-3-COS-7-uaz:UA-CLine-100020
+116 
+117 
+118 3-3-COS-7-uaz:UA-CLine-100020
+119 
+120 
+121 
+121 
+122 
+123 
+124 
+125 
+125 
+126 2-2-COS-7-uaz:UA-CLine-100020
+127 
+128 
+128 12-13-endothelial_cells-tissuelist:TS-0278
+129 
+129 16-17-endothelial_cells-tissuelist:TS-0278
+130 10-11-endothelial_cells-tissuelist:TS-0278
+131 6-7-endothelial_cells-tissuelist:TS-0278
+132 
+133 24-25-endothelial_cells-tissuelist:TS-0278
+134 
+135 5-6-endothelial_cells-tissuelist:TS-0278
+136 
+136 
+137 
+137 5-6-endothelial_cells-tissuelist:TS-0278
+138 
+139 
+140 
+141 
+142 
+143 
+144 
+145 
+146 
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+155 
+155 16-17-endothelial_cells-tissuelist:TS-0278
+156 1-2-endothelial_cells-tissuelist:TS-0278
+157 
+158 
+159 
+160 6-7-endothelial_cells-tissuelist:TS-0278
+161 
+162 
+162 
+163 
+163 22-22-membrane-go:GO:0016020
+164 16-16-membrane-go:GO:0016020
+165 
+166 7-8-endothelial_cells-tissuelist:TS-0278
+167 
+167 
+168 5-5-yeast-taxonomy:4932
+169 
+170 
+171 
+172 
+173 
+174 7-8-endothelial_cells-tissuelist:TS-0278
+175 11-12-endothelial_cells-tissuelist:TS-0278 34-35-endothelial_cells-tissuelist:TS-0278
+176 15-16-endothelial_cells-tissuelist:TS-0278
+177 
+178 
+178 
+179 28-29-plasma_membrane-go:GO:0005886
+180 42-43-plasma_membrane-go:GO:0005886
+181 
+181 
+182 
+183 
+184 
+184 
+185 
+186 
+187 
+188 
+188 
+189 
+189 
+190 
+190 0-0-Mouse-taxonomy:10090
+191 0-0-Rabbit-taxonomy:9986
+192 0-0-Mouse-taxonomy:10090
+193 0-0-Rat-taxonomy:10116
+194 0-0-Rabbit-taxonomy:9986
+195 
+196 
+197 
+198 
+198 
+199 
+199 0-0-HEK-uaz:UA-CLine-7847 3-3-COS-7-uaz:UA-CLine-100020 10-10-LnCap-uaz:UA-CLine-2558
+200 0-0-HUVECs-uaz:UA-CT-30002
+201 
+201 
+202 
+202 
+203 
+204 
+205 
+206 9-9-COS-7-uaz:UA-CLine-100020 11-11-HEK-uaz:UA-CLine-7847
+207 
+208 
+208 
+209 
+209 0-0-COS-7-uaz:UA-CLine-100020
+210 29-29-serum-tissuelist:TS-0923
+211 
+212 
+213 
+214 
+215 
+215 
+216 
+216 10-10-COS-7-uaz:UA-CLine-100020
+217 
+218 
+219 
+220 
+221 
+222 
+222 
+223 
+223 1-1-COS-7-uaz:UA-CLine-100020
+224 
+225 
+226 
+227 
+228 
+228 
+229 
+229 3-3-COS-7-uaz:UA-CLine-100020
+230 
+231 
+232 
+233 
+234 8-8-membranes-go:GO:0016020
+235 
+235 
+236 
+236 1-1-HEK-uaz:UA-CLine-7847
+237 
+238 
+239 
+240 
+241 
+242 
+243 
+243 
+244 
+244 
+245 
+246 
+247 
+248 
+249 
+250 
+251 
+252 
+253 
+254 
+255 
+256 
+257 
+257 
+258 
+258 
+259 
+260 
+261 
+262 
+263 
+264 
+265 
+266 
+267 
+268 
+269 
+270 
+271 
+272 
+272 
+273 
+273 
+274 
+275 
+275 
+276 
+276 
+277 
+278 
+279 
+280 
+281 
+281 
+282 
+282 
+283 

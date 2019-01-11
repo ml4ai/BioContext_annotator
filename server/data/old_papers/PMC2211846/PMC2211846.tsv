@@ -1,0 +1,352 @@
+1						negative regulation of mast cell signaling and function by the adaptor lab and ntal
+2	tissuelist:TS-0603	mast cell	c1			engagement of the fcepsilon receptor I ( fcepsilonrus ) on mast cell and basophil initiate signaling pathway lead to degranulation .
+3			"e1,e2"	c1	"tyrosine phosphorylation of two transmembrane adaptor protein , linker for activation of t cell ( lat ) and non t cell activation linker ( ntal ; also call lab ; a product of wbscr5 gene ) ."	"early activation event include tyrosine phosphorylation of two transmembrane adaptor protein , linker for activation of t cell ( lat ) and non t cell activation linker ( ntal ; also call lab ; a product of wbscr5 gene ) ."
+4						previous study show that the secretory response be partially inhibit in bone marrow derive mast cell ( bmmc ) from lat deficient mouse .
+5						"to clarify the role of ntal in mast cell degranulation , we compare fcepsilonrus mediated signaling event in bmmc from ntal deficient and wild-type mouse ."
+6						"although ntal be structurally similar to lat , antigen mediated degranulation response be unexpectedly increase in ntal deficient mast cell ."
+7						the earliest event affect be enhance tyrosine phosphorylation of lat in antigen activate cell .
+8			"e3,e4,e5,e6,e7,e8"	c1	"enhance tyrosine phosphorylation and enzymatic activity of phospholipase c gamma1 and phospholipase c gamma2 , result in elevated level of inositol 1,4,5-trisphosphate and free intracellular ca2+"	"this be accompany by enhance tyrosine phosphorylation and enzymatic activity of phospholipase c gamma1 and phospholipase c gamma2 , result in elevated level of inositol 1,4,5-trisphosphate and free intracellular ca2+ ."
+9						ntal deficient bmmc also exhibit a enhanced activity of phosphatidylinositol 3-oh kinase and src homology 2 domain contain protein tyrosine phosphatase-2 .
+10						"although both lat and ntal be consider to be localized in membrane raft , immunogold electron microscopy on isolate membrane sheet demonstrate they independent clustering ."
+11						the combined datum show that ntal be functionally and topographically different from lat .
+12						introduction
+13	tissuelist:TS-0603	mast cell	c2			mast cell play a pivotal role in initiate acute inflammatory and immediate allergic reaction .
+14			e9	c2	"the binding of multivalent antigen ( ag ) to receptor bind ige | subsequent aggregation of the fcepsilon receptor I ( fcepsilonrus ) provide the trigger for mast cell activation , result in a release of histamine , serotonin , and other preformed inflammatory mediator , as well as de novo synthesis and subsequent secretion of arachidonic acid metabolite and a variety of inflammatory cytokine ."	"the binding of multivalent antigen ( ag ) to receptor bind ige and subsequent aggregation of the fcepsilon receptor I ( fcepsilonrus ) provide the trigger for mast cell activation , result in a release of histamine , serotonin , and other preformed inflammatory mediator , as well as de novo synthesis and subsequent secretion of arachidonic acid metabolite and a variety of inflammatory cytokine ."
+15			"e10,e11,e12,e13"	c2		these signal transduction pathway be initiate by the engagement of protein tyrosine kinase of the src and syk family .
+16			e14	c2	src family kinase lyn phosphorylate immunoreceptor tyrosine based activation motif present on fcepsilonrus beta and gamma subunit .	src family kinase lyn phosphorylate immunoreceptor tyrosine based activation motif present on fcepsilonrus beta and gamma subunit .
+17			e15	c2	"syk kinase , which phosphorylate several downstream signaling molecule , include the linker for activation of t cell ( lat ) ."	"this lead to a recruitment and subsequent activation of syk kinase , which phosphorylate several downstream signaling molecule , include the linker for activation of t cell ( lat ) ."
+18			"e16,e17"	c2	"phosphorylate lat recruit a number of signal molecule contain src homology ( sh ) 2 domain , such as adaptor protein grb2 and phospholipase c ( PLC ) gamma1 and plcgamma2 ."	"phosphorylate lat recruit a number of signal molecule contain src homology ( sh ) 2 domain , such as adaptor protein grb2 and phospholipase c ( PLC ) gamma1 and plcgamma2 ."
+19			"e18,e19"	c2	" phosphatidylinositol ( pi ) 3-oh kinase ( pi3k ) , which catalyze the synthesis of pi 3,4-bisphosphate and pi 3,4,5-trisphosphate ."	"a important intermediate be phosphatidylinositol ( pi ) 3-oh kinase ( pi3k ) , which catalyze the synthesis of pi 3,4-bisphosphate and pi 3,4,5-trisphosphate ."
+20						these phospholipid contribute to recruitment to the plasma membrane of akt and plcgamma and other molecule contain pleckstrin homology domain .
+21			"e20,e21,e22,e23"	c2	"plcgamma catalyze the cleavage of the lipid substrate pi 4,5-bisphosphate into diacylglycerol , a activator of protein kinase c , and inositol 1,4,5-trisphosphate ( ip3 ) , a ligand for the ip3 receptor ca2+ channel in the er membrane"	"plcgamma catalyze the cleavage of the lipid substrate pi 4,5-bisphosphate into diacylglycerol , a activator of protein kinase c , and inositol 1,4,5-trisphosphate ( ip3 ) , a ligand for the ip3 receptor ca2+ channel in the er membrane that initiate a rise in cytoplasmic ca2+ level ."
+22						this be follow by a more sustained influx of extracellular calcium through ca2+ channel in the plasma membrane .
+23						many of these event rely on formation of multimolecular signaling complex that propagate the activation signal from aggregated fcepsilonrus .
+24	tissuelist:TS-0603	mast cell	c3			"recently , we have find that mast cell express a lat related transmembrane adaptor protein , the non t cell activation linker ( ntal ) ."
+25	"tissuelist:TS-0068,uaz:UA-CLine-100036,tissuelist:TS-0638"	"b lymphocyte, nk cell, monocyte"	"c4,c5,c6"			"NTAL , also call lab , be also find to be express in other cell type , such as b lymphocyte , nk cell , and monocyte but not in t lymphocyte ."
+26						"ntal resemble lat in general organization , consist of a short extracellular domain , a single hydrophobic transmembrane domain , and a cytoplasmic tail with multiple tyrosine phosphorylation site and two potential palmitoylation site ."
+27						"the two acylation site be likely responsible for partitioning of ntal into detergent resistant membrane microdomain , also call lipid raft ."
+28			"e24,e25,e26"	"c3,c5,c6"	"ntal be rapidly tyrosine phosphorylated upon engagement of fcepsilonrus , fcgammarus , or b cell receptor ."	"ntal be rapidly tyrosine phosphorylated upon engagement of fcepsilonrus , fcgammarus , or b cell receptor ."
+29						functional similarity between lat and ntal be suggest by experiment in which ectopically express ntal could partially restore some aspect of t cell receptor signaling in lat deficient cell .
+30						"furthermore , ntal express in t cell could in part rescue the t cell development in lat-/- mouse ."
+31	uaz:UA-CLine-7403	a20	"e27,c7"	c7	 a diminution of ntal expression by silencing rna oligonucleotide result in a reduction of b cell receptor mediated activation of mitogen activate protein ( map ) kinase in a20 cell line 	"a important functional role of ntal in immunoreceptor signaling be suggest by experiment in which a diminution of ntal expression by silencing rna oligonucleotide result in a reduction of b cell receptor mediated activation of mitogen activate protein ( map ) kinase in a20 cell line , as well as in a reduced degranulation in fcepsilonrus activate human mast cell ."
+32						"use a genetic approach , Saitoh et al. show that mast cell effector function be impaired but not completely inhibit in bm derive mast cell ( bmmc ) from lat deficient mouse ."
+33						"accordingly , low level of plcgamma activation and calcium response be detect in lat deficient bmmc , suggest the existence of alternative pathway ."
+34						one alternative pathway independent of lyn kinase and lat phosphorylation but dependent on fyn kinase and gab2 adaptor have be describe recently .
+35						"in this study , we analyze the signaling event in bmmc from ntal deficient mouse and compare they with those observe in WT mouse or mouse deficient in both ntal and lat linker ."
+36						"furthermore , we analyze the respective topography of ntal and lat on membrane sheet isolate from nonactivated and activate mast cell ."
+37						Materials and method
+38						antibody and reagent .
+39						"the follow mab have be use : anti-syk , anti-lat , anti-fcepsilonri beta subunit ( jrk ) , anti-ntal ( nap-07 ) , tnp specific ige mab ( igel b4 1 ) , and dnp specific ige mab ."
+40						"polyclonal antibody specific for syk , lat , ntal , and ige have be prepare by common procedure after immunize rabbit with the corresponding protein or they fragment ."
+41						"polyclonal antibody specific for plcgamma1 , plcgamma2 , erk 1 , phospho-erk ( specific for phosphorylate tyr 204 ) , grb2 , sh2 contain protein tyrosine phosphatase ( shp ) -2 , and horseradish peroxidase ( hrp ) - conjugate donkey anti-goat igg , goat anti-mouse igg , and goat anti-rabbit igg be obtain from Santa Cruz Biotechnology , Inc. ."
+42						rabbit anti-pi3k p85 subunit antibody ( a mixture of equal amount of antisera against the intact p85 subunit and the n-sh2 region of pi3k ) be obtain from Upstate Biotechnology .
+43						Phospho-Tyr-specific mab ( py-20 ) conjugate to HRP be purchase from Transduction Laboratories .
+44						"biotinylate rat anti-mouse c-kit , fitc label rat anti-mouse ige antibody , and phycoerythrin label streptavidin be from BD Biosciences ."
+45						goat anti-mouse igg and anti-rabbit igg conjugate to colloidal gold particle of 10- and 5-nm be obtain from Amersham Biosciences .
+46						"Fura-2-AM and 45ca ( 37 mbq ; specific activity 566 mbq and mg ca2+ ) be purchase from molecular probe and mp biomedical , Inc. , respectively ."
+47						all other chemical be obtain from Sigma-Aldrich .
+48						Vector Construction .
+49						the target construct use for disruption of the ntal gene be show in b .
+50						it should be note that the official name of the gene be wbscr5 .
+51						the 5 ' homologous sequence correspond to a gene segment encompass nucleotide position 79680-81447 ( sequence datum available from genbank/embl/ddbj under accession no .
+52						af139987 ) .
+53						the 3 ' homologous sequence correspond to a gene segment encompass nucleotide position 87023-91726 ( sequence datum available from genbank/embl/ddbj under accession no .
+54						af139987 ) .
+55						"in the engineered vector , the sequence contain exon 2-9 of the ntal gene and code for amino acid 1-121 of the ntal protein be replace by a lox p flank neomycin-resistance gene ( neor ) ."
+56						"finally , the target construct be abut to a thymidine kinase expression cassette and linearize ."
+57						Figure 1 .
+58						generation and identification of ntal deficient mouse .
+59						( a-d ) schematic of the ntal knock-out strategy .
+60						partial restriction map of the WT ntal gene .
+61						exon be show as fill box .
+62						the restriction site be ecorus ( e ) and hind iii ( h ) .
+63						the exon contain the initiation ( start ) and the stop codon be specify .
+64						( b ) targeting vector use for the deletion of exon 2-9 .
+65						"shaded or open box correspond to the thymidine kinase expression cassette ( tk ) and to the lox p flank neor cassette , respectively ."
+66						lox p site be show as triangle .
+67						( c ) structure of the targeted allele after homologous recombination .
+68						final structure of the targeted allele after removal of the neor gene via cre mediate recombination .
+69						"the 5 ' and 3 ' single copy probe use to verify 5 ' and 3 ' target event be indicate , and the position of the pcr primer use to genotype the result mouse be indicate by arrow ."
+70						( e ) southern blot analysis of three recombinant e cell clone include the one that give germline transmission ( clone 1 ) .
+71						dna be digest as specify and hybridize with the 5 ' or 3 ' single copy probe .
+72						( f ) pcr genotyping of ntal deficient and -proficient littermate use primer indicate in panel d.
+73						isolation of recombinant embryonic stem cell clone and production of mutant mouse .
+74						"after electroporation of ck35 129 and cv embryonic stem ( e ) cell and selection in g418 and gancyclovir , colony be screen for homologous recombination by southern blot analysis ."
+75						the 5 ' single copy probe correspond to a 400-bp ecori-xbaus fragment .
+76						"when test on ecorus digest dna , it hybridize either to a 8-kb wt fragment or to a 2.5-kb recombinant fragment ."
+77						the presence of a appropriate homologous recombination event at the 3 ' side be assess use a 1051-bp xbai-ecorus fragment .
+78						"when test on hindiius digest dna , it hybridize either to a 9.5-kb wt fragment or to a 6.7-kb recombinant fragment ."
+79						a neo probe be also use to ensure that adventitious nonhomologous recombination event have not occur in the selected clone .
+80						"among the recombinant e cell clone , one be find capable of germline transmission ."
+81						the result mutant mouse line be first breed to Deleter mouse to eliminate the lox p flank neomycin cassette and intercross to produce homozygous mutant mouse .
+82						"screening of mouse for the presence of the ntal null mutation be perform by pcr use the follow oligonucleotide : a : 5 ' - ctacggagctgagtgttctca-3 ' , b : 5 ' - gaacggctagaactacacagag-3 ' , c : 5 ' - gagaggaggataaagtggacctc-3 ' ."
+83						"wt ntal allele be visualize as a 383-bp fragment use the a-b pair of oligonucleotide , whereas the intended mutation be visualize as a 450-bp fragment use the a-c pair of oligonucleotide ."
+84						production of lat-/- mouse have be describe .
+85						ntal-/-_NN and lat-/-_NN mouse be bread to generate the ntal-/- / lat-/-_NN strain .
+86						all mouse be maintain and use in accordance with the Institute of molecular Genetics guideline .
+87						cell .
+88						bmmc be isolate from the femur and tibia of the 6-10-wk-old mouse .
+89						"the cell be incubate for 4-8 wk in suspension culture in freshly prepared culture media ( rpmi-1640 supplement with 20 mm hepe , ph 7.5 , 100 U and ml penicillin , 100 mug and ml streptomycin , 100 mum mem nonessential amino acid , 1 mm sodium pyruvate , 17 % fc , 41 mum 2-me ) supplement with il-3 ( 20 ng and ml ; PeproTech EC ) and stem cell factor ( scf ; 40 ng and ml ; PeproTech EC ) ."
+90						"no discernible difference in growth property and morphology be detect among bmmc derive from ntal+ /+ , ntal+ / - , ntal-/-_NN , lat-/-_NN , and ntal-/- / lat-/- mouse ."
+91						"before activation , bmmc be culture for 16 h in culture medium without scf , follow by incubation for 3-4 h in scf-_NN and il-3-free medium supplement with anti-tnp ige ( 1 mug and ml ) ."
+92						"the cell be then wash in buffer saline solution ( bss ) contain 20 mm hepe , ph 7.4 , 135 mm nacl , 5 mm kcl , 1.8 mm cacl2 , 5.6 mm glucose , 1 mm mgcl2 , and 0.1 % bsa ( bss-bsa ) , and challenge with various concentration of tnp-bsa ."
+93						flow cytometry analysis of fcepsilonrus and phosphatidylserine expression .
+94						flow cytometry analysis of fcepsilonrus in unfractioned freshly isolate peritoneal mast cell ( c-kit positive ) and bmmc be perform as describe except that in the first incubation step the cell be expose to TNP specific ige .
+95						"to determine externalization of phosphatidylserine ( PS ) , cell be expose to FITC label annexin v ( Alexis ) and then analyze use facscalibur and CellQuest software ( Beckton Dickinson ) as describe ."
+96						passive systemic anaphylaxi and degranulation .
+97						mouse be sensitize by i.v. tail vein injection of TNP specific ige ( 3 mug and mouse ) and 24 h later challenge by i.v. tail vein injection with tnp-bsa ( 500 mug and mouse ) or vehicle ( PBS ) .
+98						"after 1.5 min , the animal be kill , blood sample be obtain by cervical puncture , and serum be isolate ."
+99						serum histamine concentration be determine accord to the manufacturer 's protocol use a histamine radioimmunoassay kit ( immunotech ) .
+100						statistical significance of difference among particular group be determine use student 's t-test .
+101						the degree of degranulation be determine by measure the release of beta-glucuronidase from anti-tnp ige sensitize and tnp-bsa-activated cell as describe .
+102						immunoprecipitation and immunoblotting .
+103						"activate and control cell be lyse in ice cold lysis buffer ( 50 mm tris-hcl , ph 7.4 , 150 mm nacl , 2 mm edta , 10 mm beta-glycerophosphate , 1 mm na3vo4 , 1 mm pmsf , 1 mug and ml aprotinin , 1 mug and ml leupeptin ) supplement with 1 % np-40 and 1 % n-dodecyl beta-d-maltoside ( for lat , and ntal immunoprecipitation or for erk immunoblotting ) or 0.2 % Triton x-100 ( for fcepsilonrus immunoprecipitation ) ."
+104						"in some experiment , association of the protein under study with large macromolecular complex be analyze in cell permeabilized with 0.1 % saponin in PBS , thus release free cytoplasmic component , and the cellular ghost be extract for 15 min on ice in a lysis buffer supplement with 1 % Triton x-100 ."
+105						protein in postnuclear supernatant be immunoprecipitate with the corresponding antibody bind to UltraLink immobilize protein a ( Pierce Chemical Co. ) and analyze by immunoblotting as describe .
+106						some protein be analyze by direct immunoblotting of sds-page-fractionated cell lysate .
+107						immunoblot be quantify by luminescent image Analyzer LAS 3000 ( Fuji Photo Film Co. ) .
+108						sucrose gradient .
+109						cell be solubilize in lysis buffer contain 1 % Brij 96 and fractionate by sucrose density gradient ultracentrifugation as describe .
+110						measurement of intracellular ca2+ concentration and 45ca uptake .
+111						concentration of free intracellular calcium [ ca2+ ] i be determine use fura-2-am as a reporter .
+112						bmmc be sensitize with anti-tnp ige ( 1 mug and ml ) at 37degreesc in culture medium supplement with 2 % fc but devoid of scf and il-3 .
+113						"after 3-4 h , the cell be wash and resuspend at a concentration 5 x 106 and ml in bss-bsa supplement with fura-2-am and probenecid at a final concentration of 1 mug and ml and 2.5 mm , respectively ."
+114						"after 30 min , the cell be wash in bss-bsa supplement with probenecid and immediately before measurement briefly centrifuge and resuspend in bss-bsa ."
+115						calcium mobilization be determine use luminescence spectrometer ls-50b ( PerkinElmer ) .
+116						uptake of extracellular calcium be determine as before except that the radioactivity be measure in 10 ml scintillation liquid ( ecolite ; ICN Biomedicals ) in QuantaSmart TM counter .
+117						"immune complex pi3k , plcgamma and syk kinase assay , and ip3 determination ."
+118						pi3k and plcgamma activity and ip3 concentration be determine as describe previously .
+119						syk kinase activity be determine by in vitro kinase assay .
+120						in-gel phosphatase assay .
+121						SHP-2 immunoprecipitate be prepare and analyze by in-gel phosphatase assay as describe .
+122						Electron Microscopy .
+123						cell be leave overnight to settle on 15-mm round-glass coverslip in the presence or absence of anti-dnp ige ( 1 mug and ml ) .
+124						"ige sensitize cell be activate by dnp-bsa ( 1 mug and ml ) , and membrane sheet be obtain and process as describe ."
+125						"fcepsilonrus , ntal , and lat be label by sequential incubation with the corresponding primary antibody follow by gold conjugate secondary reagent dilute 1:20 from commercial stock ."
+126						"sample be postfix in 2 % glutaraldehyde in PBS , wash in PBS , and then stain with 1 % oso4 in 0.1 m cacodylate buffer , 1 % tannic acid , and 1 % uranyl acetate ."
+127						sample be examine use a Hitachi 600 transmission electron microscope .
+128						Gold particle distribution be analyze use software develop at the University of New Mexico .
+129						cluster of particle of the same type be analyze use the Hopkins and Ripley 's statistics .
+130						"in each of two independent experiment , ~ 30 mum2 of plasma membrane from activate and rest cell be analyze ."
+131						result
+132						enhance degranulation in NTAL-/- Mast cell .
+133						"to explore the role of ntal in mast cell physiology , we generate knock-out mouse with a lox p sequence that replace a central segment of the ntal gene contain exon 2-9 ."
+134						"mouse homozygous for this mutation , ntal-/-_NN , be bear at the expect mendelian frequency and be deprive of detectable ntal protein ( see next paragraph ) ."
+135						"first , we analyze the effect of ntal on passive anaphylactic reaction in vivo ."
+136						"in control , the basal level of serum histamine be identical in WT , ntal+ / - , and ntal-/-_NN mouse ( a ) ."
+137	taxonomy:10090	mouse	"e28,s1"	s1	"after challenge with ag , the serum histamine level be enhance"	"after challenge with ag , the serum histamine level be enhance in all mouse , although the level be significantly higher in ntal-/- mouse ."
+138						"the observed increase in serum histamine be not attributable to elevated number of mast cell in ntal-/- mouse , as infer from similar number of mast cell in peritoneal lavage of WT , ntal+ / - , and ntal-/-_NN mouse ( 2.5 % + /- 1.1 % , mean + /- sd , n = 9 ) ."
+139						"furthermore , peritoneal mast cell ( c-kit positive ) from ntal-/-_NN and wt mouse do not differ in the amount of surface fcepsilonrus as determine by flow cytometry ( not depict ) ."
+140						these datum suggest that the observed increase in serum histamine level in ntal-/-_NN cell could reflect negative regulation of mast cell signaling by ntal .
+141						figure 2 .
+142						"enhance passive systemic anaphylaxi in ntal-/-_NN , and fcepsilonrus and ntal expression in bmmc ."
+143						"( a ) WT , ntal+ / - , and ntal-/-_NN mouse be sensitize with tnp specific ige , challenge with tnp-bsa ( + ) or with PBS alone ( - ) , and the serum histamine level be determine ."
+144						number above the mean bar indicate the number of mouse in each group .
+145						the asterisk indicate a significant increase ( p < 0.01 ) of histamine level in ntal-/- mouse compare with wt mouse .
+146						"( b ) bmmc from WT , ntal+ / - , and ntal-/-_NN mouse be stain for surface fcepsilonrus by sequential exposure to anti-tnp ige ( 1 mug and ml , thick line ) or PBS alone ( thin line ) follow by anti-mouse igg-fitc conjugate ."
+147						the sample be analyze by flow cytometry .
+148						( c ) ntal expression level in lysate from bmmc be determine by immunoblot ( ib ) use anti-ntal mab follow by anti-mouse igg-hrp conjugate .
+149						as a control for protein load the membrane be also develop with rabbit anti-lat follow by anti-rabbit igg-hrp conjugate .
+150	taxonomy:10090	mouse	s2			"to investigate the underlie mechanism responsible for the enhanced degranulation response in ntal-/- mouse , bmmc from WT , ntal+ / - , or ntal-/- mouse be obtain by grow bm cell for 4-8 wk in the presence of il-3 and scf ."
+151						the cell express comparable amount of fcepsilonrus ( b ) and lat ( c ) and the expected amount of ntal ( c ) .
+152						the cell be sensitize with tnp specific ige and activate with various dose of ag .
+153						"datum present in a indicate that fcepsilonrus mediate degranulation be significantly increase in ntal-/-_NN cell compare with ntal+ /- cell and wt cell , although the total amount of beta-glucuronidase present in the cell be similar ( not depict ) ."
+154						the most dramatic difference between WT and ntal-/- cell be observe at suboptimal concentration of ag ( 10 ng and ml ) .
+155						"under these condition , the ntal-/-_NN cell release 40 + /- 2 % of the total beta-glucuronidase ( mean + /- sd , n = 12 ) compare with a maximum of 22 + /- 2 % ( n = 12 ) in wt cell ."
+156						these datum be confirm in four independent BMMC isolate in each group .
+157						"even at optimal ( 100 ng and ml ) and supraoptimal ( 500 and 1,000 ng and ml ) dose of ag , the response in ntal-/- bmmc be significantly higher ."
+158						"when the cell be stimulate with ionophore a23187 , the difference between WT and ntal-/- cell disappear ( not depict ) , suggest that ntal affect early receptor specific activation event which precede the calcium response ."
+159						Figure 3 .
+160						"enhance degranulation , PS externalization , and tyrosine phosphorylation in ntal-/-_NN cell ."
+161						bmmc be sensitize with anti-tnp ige ( 1 mug and ml ) and then stimulate with ag ( tnp-bsa ) .
+162						( a and b ) beta-glucuronidase release into supernatant from cell stimulate for 30 min with various concentration of ag .
+163						datum represent mean + /- sd ( n = 12 for WT and ntal-/- cell ; n = 4 for ntal+ /- cell ; n = 6 for lat-/-_NN and ntal-/-_NN / lat-/- cell ) .
+164						( c ) externalization of PS in WT and ntal-/- bmmc stimulate for 30 min with various concentration of ag be determine by flow cytometry after surface staining of the cell with fitc label annexin V. Data be normalize to maximal value in each assay and represent means + /- sd ( n = 3 ) .
+165						"( d ) cell be activate with 100 ng and ml tnp-bsa for the indicated time interval , solubilize in 1 % np-40 and 1 % n-dodecyl-beta-d-maltoside , and the postnuclear supernatant be size fractionate by sds-page ."
+166						the extent of tyrosine phosphorylation be determine by immunoblot with py-20-hrp conjugate .
+167						"position of molecular weight standard , lat and ntal , be indicate on the left and right , respectively ."
+168						a typical experiment from three perform be show .
+169						a important feature of the degranulation process in mast cell be PS externalization .
+170						"in nonstimulated cell , PS be find almost exclusively in the inner leaflet of the plasma membrane ."
+171						"fcepsilonrus dependent degranulation lead to a exposure of PS on the plasma membrane , detectable by binding of fitc label annexin v to intact cell ."
+172						cytofluorometric analysis show that the number of annexin v bind site increase in wt cell with a maximum reach at 100 ng and ml ( c ) .
+173						"activate ntal-/- cell exhibit higher PS externalization than activate wt cell , and again the most dramatic difference be observe at a suboptimal dose of ag ( 10 ng and ml ) ."
+174						"as expect , no PS externalization in WT or ntal-/- cell be observe in the absence of extracellular ca2+ ( not depict ) ."
+175	uaz:UA-CLine-100011	BMMCs	c8			tyrosine phosphorylation of lat be enhance in ntal-/- bmmc .
+176						next we assess the tyrosine phosphorylation of several protein know to be involve in the initial stage of fcepsilonrus signaling .
+177						"when total lysate from ag activate cell be analyze by immunoblot with py-20 mab , the most significant difference between WT and ntal-/- cell be the absence in ntal-/-_NN cell of a 30-kd phosphorylated protein correspond in molecular weight to ntal ( d ) ."
+178						"furthermore , ntal-/- cell exhibit a increased tyrosine phosphorylation of a 38-kd protein , correspond to lat ( see end of this paragraph ) ."
+179			e29	"c8,s2"	increase tyrosine phosphorylation of fcepsilonrus beta and gamma subunit	"if the ige receptor be immunoprecipitate from control and ag activate cell , increase tyrosine phosphorylation of fcepsilonrus beta and gamma subunit be observe in both wt and ntal-/- cell after cell triggering , and no significant difference in the extent and and or dynamics of tyrosine phosphorylation be observe between these two group ( a ) ."
+180						"neither do the syk kinase immunoprecipitate from the whole cell lysate exhibit any significant difference in amount , tyrosine phosphorylation , and kinase activity between WT and ntal-/- cell ( not depict ) ."
+181			e30	"c8,s2"	increase amount of syk and its phosphorylated form be precipitate from activate ntal-/-_NN cell relative to wt cell .	"however , when syk be immunoprecipitate from cell first permeabilized with saponin in order to release free cytoplasmic component and then solubilize with Triton x-100 , increase amount of syk and its phosphorylated form be precipitate from activate ntal-/-_NN cell relative to wt cell ."
+182						"this difference , which apparently reflect enhance association of syk with as yet unidentified plasma membrane component ( s ) , be more pronounced at later stage ( 5 min ) after fcepsilonrus trigger ( b ) ."
+183			e31	"c8,s2"	tyrosine phosphorylation of lat 	the most dramatic difference observe in ntal-/-_NN cell be a increased tyrosine phosphorylation of lat at all time interval analyze ( 0.5-25 min ; c ) .
+184						"it should be note , however , that we be unable to coimmunoprecipitate syk with lat from either activate wt or ntal-/- cell ."
+185						Figure 4 .
+186						"tyrosine phosphorylation of fcepsilonrus , syk , lat , and erk ."
+187						bmmc from WT and ntal-/- cell be sensitize with anti-tnp ige and stimulate with tnp-bsa ( 100 ng and ml ) for the indicated time interval .
+188						"the cell be solubilize in lysis buffer contain 0.2 % Triton x-100 ( a ) , 1 % np-40 , and 1 % n-dodecyl-beta-d-maltoside ( c and d ) or by sequential treatment with 0.1 % saponin and 1 % Triton x-100 ( b ) ."
+189						"fcepsilonrus ( a ) , syk ( b ) , and lat ( c ) be immunoprecipitate ( IP ) from postnuclear supernatant with the corresponding antibody ."
+190						the immunoprecipitate be resolve by sds-page and analyze by immunoblot use py-20-hrp conjugate ( top ) .
+191						"after strip , the same membrane be reblott with protein specific antibody ( bottom ) ."
+192						"phosphorylate erk ( perk ) and erk be determine by immunoblotting in size fractionate whole cell lysate use anti-perk antibody , follow by strip and immunoblot with erk specific antibody ( d ) ."
+193						"fold induction of protein tyrosine phosphorylation , normalize to nonactivated wt cell and correct for the amount of the protein in each immunoprecipitate , be also indicate ."
+194						a typical result from two to four experiment perform be present .
+195						next we examine whether NTAL be involve in fcepsilonrus mediate ras-map kinase signaling pathway .
+196						activation of map kinase be detect in total cellular lysate by immunoblot with anti-phospho-erk .
+197						"datum in d show that fcepsilonrus mediate tyrosine phosphorylation of the erk be comparable in WT and ntal-/- cell at early time interval ( 0.5 and 5 min ) , but in ntal-/-_NN cell it exhibit a slower decline at later stage of activation ( 15 and 25 min ) ."
+198			e33	c9	NTAL negatively regulate the pi3k activity .	NTAL negatively regulate the pi3k activity .
+199	tissuelist:TS-0603	mast cell	c9		" pi3k , which functionally interact with gab2"	"early biochemical event in fcepsilonrus activate mast cell be dependent on the activity of pi3k , which functionally interact with gab2 and several other signaling protein ."
+200						"therefore , we monitor the subcellular distribution and enzymatic activity of pi3k in WT and ntal-/- bmmc ."
+201			e34	c9	pi3k be immunoprecipitate from saponin	"pi3k be immunoprecipitate from saponin and Triton x-100-solubilized cell , and its amount be quantify by immunoblotting ."
+202						"enzymatic activity of pi3k in the immune complex be determine use pi as a substrate , and the expected product [ 32p ] pi ( pip ) be detect by autoradiography ."
+203						"similar to a previous study perform with rbl-2h3 cell , we observe a activation induce increase in recovery of pi3k from saponin permeabilized wt bmmc ( a ) , consistent with translocation of pi3k to the plasma membrane ."
+204			e35	c9	enhanced pi3k enzymatic activity with peak at 2 min after fcepsilonrus triggerin	the change in the distribution of pi3k be accompany by a enhanced pi3k enzymatic activity with peak at 2 min after fcepsilonrus triggering .
+205						"in nonactivated ntal-/-_NN cell , the enzymatic activity of pi3k be slightly lower than in wt cell ."
+206			e36	c9	 fcepsilonrus trigger the pi3k activity be 2.5-fold higher in ntal-/-_NN and remain higher at all time interval analyze .	"however , 0.5 min after fcepsilonrus trigger the pi3k activity be 2.5-fold higher in ntal-/-_NN and remain higher at all time interval analyze ."
+207						Figure 5 .
+208						"pi3k , shp-2 , and grb2 immunocomplex ."
+209						"bmmc from WT and NTAL-/- mouse be activate with tnp-bsa ( 100 ng and ml ) for the indicated time interval , solubilize with saponin and Triton x-100 , and pi3k , shp-2 , and grb2 immunocomplex be isolate by immunoprecipitation with the corresponding antibody ."
+210						( a ) pi3k immunoprecipitate be analyze for pi3k activity ( pi3k a. ) use pi as a substrate and tlc ( position of [ 32p ] pi [ pip ] be indicate by arrow ) and ( b ) the amount of immunoprecipitate pi3k by immunoblot with anti-pi3k-p85 .
+211						"( b ) shp-2 immunoprecipitate be analyze for shp-2-associated pi3k activity by pi3k assay , ( b ) the amount of shp-2 by immunoblot with anti-shp-2 antibody , and ( c ) shp-2 enzymatic activity by in-gel phosphatase assay ( shp-2 a. ) ."
+212						"( c ) grb2 immunoprecipitate be analyze by immunoblot for the presence of tyrosine phosphorylated protein , ntal and grb2 ."
+213						"relative amount of the immunoprecipitated protein , they tyrosine phosphorylation , and and or enzymatic activity be normalize to nonactivated wt cell ."
+214						Representative datum from two to four experiment perform be show .
+215			e37	c9	one of the protein interact with pi3k be the ubiquitously express nonreceptor tyrosine phosphatase shp-2 .	one of the protein interact with pi3k be the ubiquitously express nonreceptor tyrosine phosphatase shp-2 .
+216						"because shp-2 regulate pi3k activity , we further compare the shp-2-associated pi3k activity in WT and ntal-/- cell ."
+217						"SHP-2 be immunoprecipitate from saponin and Triton x-100-solubilized cell , and the enzymatic activity of shp-2-coprecipitated pi3k be determine ."
+218			e38	c9	 pi3k enzymatic activity be elevated after fcepsilonrus	datum present in b show that pi3k enzymatic activity be elevated after fcepsilonrus triggering in both wt and ntal-/- cell but be more rapidly down regulate in ntal-/-_NN cell at later time interval ( 5 min ) .
+219						"total enzymatic activity of shp-2 phosphatase , as detect by in-gel assay , be higher in nonactivated ntal-/-_NN than in wt cell ( 2.8 + /- 0.3-fold increase , n = 3 ) and remain higher after fcepsilonrus triggering at all time interval analyze ."
+220			e39	c10	NTAL be a major tyrosine phosphorylate target of grb2 .	NTAL be a major tyrosine phosphorylate target of grb2 .
+221			"e40,e41"	c10	"5 of the total 10 consensus tyrosine phosphorylation site in NTAL , and in lat , be of the YXN type ( where x be any amino acid ) , and be thus potential binding site for the sh2 domain of the cytoplasmic adaptor grb2 ."	"5 of the total 10 consensus tyrosine phosphorylation site in NTAL , and in lat , be of the YXN type ( where x be any amino acid ) , and be thus potential binding site for the sh2 domain of the cytoplasmic adaptor grb2 ."
+222	uaz:UA-CLine-100011	BMMCs	"e42,c10"	c10	 association of ntal and grb2	Anti-NTAL immunoblotting of grb2 immunoprecipitate show a enhanced association of ntal and grb2 after fcepsilonrus engagement in WT BMMCs ( c ) .
+223			e43	c10	"among the tyrosine phosphorylated protein in activate wt cell , ntal be a major grb2 target"	"among the tyrosine phosphorylated protein in activate wt cell , ntal be a major grb2 target , as determine by py-20 immunoblotting ."
+224			"e44,e45"	c10	"more tyrosine phosphorylated protein of 38 kd , presumably lat , be bind to grb2"	"interestingly , more tyrosine phosphorylated protein of 38 kd , presumably lat , be bind to grb2 in ntal-/-_NN cell compare with wt cell ."
+225	uaz:UA-CLine-100011	BMMCs	c11			enhance plcgamma activity and calcium response in ntal-/- bmmc .
+226						"the observed increase in tyrosine phosphorylation of lat imply elevated level of plcgamma activity in ntal-/-_NN cell , and we therefore evaluate the property of immunoisolated plcgamma ."
+227						"datum present in a indicate that tyrosine phosphorylation of plcgamma1 be indeed enhance ; 2 and 5 min after ag trigger the enhancement be , respectively , 4.8- and 4-fold higher in ntal-/-_NN cell than in wt cell ."
+228						tyrosine phosphorylation of plcgamma2 isolate from ntal-/- cell be also enhance ( b ) .
+229						"next , we analyze the plcgamma enzymatic activity ."
+230			"e46,e47"	c11	"plcgamma2 be immunoprecipitate , and its enzymatic activity , result in the production of [ 3h ] ip3 from p [ 3h ] ip2 substrate"	"plcgamma2 be immunoprecipitate , and its enzymatic activity , result in the production of [ 3h ] ip3 from p [ 3h ] ip2 substrate , be determine ."
+231						"as show in c , plcgamma activity in fcepsilonrus activate cell be significantly higher in ntal-/-_NN cell than in wt cell ."
+232			e48	c11	the enhanced plcgamma activity in ntal-/-_NN cell result in higher accumulation of ip3	"the enhanced plcgamma activity in ntal-/-_NN cell result in higher accumulation of ip3 , the critical plcgamma metabolite ( d ) ."
+233						Figure 6 .
+234						tyrosine phosphorylation and enzymatic activity of plcgamma .
+235						bmmc from WT and NTAL-/- mouse be activate for the indicated time interval with tnp-bsa ( 100 ng and ml ) .
+236						"( a and b ) the cell be solubilize with saponin and Triton x-100 , and plcgamma1 ( a ) and plcgamma2 ( b ) be immunoprecipitate and analyze by immunoblot use phosphotyrosine specific py-20-hrp conjugate ( top ) ."
+237						"subsequently , after strip the same membrane be reblott with anti-plcgamma1 ( a ) and anti-plcgamma2 ( b ) ( bottom ) ."
+238						Representative datum from two experiment perform be show .
+239						"( c ) the cell be lyse in 1 % Triton x-100 , and enzymatic activity of the immunoprecipitated plcgamma2 be measure by immune complex plcgamma assay ; the datum be normalize to nonactivated wt cell ."
+240						( d ) ip3 level be determine by 3h-radioreceptor assay kit as describe in Materials and method .
+241						datum in c and d represent mean + /- sd ( n = 3-4 ) .
+242						"since a enhanced activity of plcgamma and production of ip3 be prerequisite for fcepsilonrus mediate calcium response , we also estimate the [ ca2+ ] i in WT and ntal-/- cell ."
+243						"after a exposure of ige sensitize and fura-2-loaded cell to low concentration of ag ( 5 or 10 ng and ml ) in the presence of extracellular ca2+ , only a small increase in [ ca2+ ] i be observe in wt cell , whereas the response be markedly enhance in ntal-/-_NN cell ."
+244						"at a higher concentration of ag ( 100 ng and ml ) , the difference between WT and ntal-/- cell be less dramatic , due to enhance calcium response in wt cell but remain significant ( c ) ."
+245						a elevated calcium response be also observe in ntal-/-_NN cell activate in the absence of extracellular ca2+ ( d ) .
+246						Figure 7 .
+247						ca2+ mobilization and extracellular 45ca uptake .
+248						"( A-D ) ige sensitize bmmc be load with fura-2-am and stimulate with various concentration of tnp-bsa ( 5 ng and ml [ a ] , 10 ng and ml [ b ] , or 100 ng and ml [ c and d ] ) add at the time point indicate by arrow , in the presence ( a-c ) or absence ( d ) of 1.0 mm extracellular ca2+ ."
+249						the ca2+ mobilization be monitor by spectrofluorometry in WT and ntal-/- ( A-D ) and at a single concentration of tnp-bsa ( 100 ng and ml ) also in lat-/-_NN and ntal-/-_NN / lat-/- ( c ) bmmc .
+250						Representative datum from at least three to five experiment be show .
+251						( e and f ) Uptake of calcium from extracellular medium be measure in ige sensitize WT and ntal-/- cell activate in the presence of extracellular 45ca2+ ( 1 mm ) for 5 min with various concentration of tnp-bsa ( e ) or activate with 100 ng and ml of tnp-bsa for various time interval ( f ) .
+252						datum in e and f represent mean + /- sd ( n = 3-6 ) .
+253						fcepsilonrus mediate increase in [ ca2+ ] i in the presence of extracellular ca2+ reflect not only a transient release of intracellularly store ca2+ but also a more sustained influx of ca2+ from the extracellular medium through incompletely characterize store operate channel in the plasma membrane .
+254						"to determine whether NTAL have any effect on the influx of extracellular ca2+ , we measure the uptake of 45ca from the extracellular medium ."
+255						"in nonactivated cell , the uptake of 45ca be low and there be no difference between WT and ntal-/- cell ."
+256						"when the cell be expose to increase concentration of tnp-bsa , the 45ca uptake rise in wt cell and even more so in ntal-/-_NN cell ."
+257						the enhancement of 45ca uptake in ntal-/-_NN cell be observe at all concentration of ag use ( up to 1 mug and ml ; e ) and at all time interval analyze ( up to 15 min ; f ) .
+258						impaired secretory and calcium response in ntal-/- / lat-/- bmmc .
+259						"although lat and ntal be structurally similar adaptor molecule , they absence have dramatically different consequence on fcepsilonrus mediated event in bmmc ."
+260						"in lat-/- cell , the secretory and ca2+ response be partially inhibit , whereas in ntal-/-_NN the same response be potentiated ( see - ) ."
+261						"to determine the property of cell defective simultaneously in both these adaptor protein , we prepare ntal-/- / lat-/- mouse and examine they bmmc ."
+262						"when the cell be solubilize and analyze by immunoblotting , no protein reactive with anti-ntal-_NN and anti-lat-specific ab be detect ( not depict ) ."
+263						the ntal-/- / lat-/- bmmc differ from the cell express both adaptor protein neither in they growth property nor in they expression of surface fcepsilonrus .
+264						datum present in b indicate that ntal-/-_NN / lat-/- cell exhibit lower secretory response than lat-/- cell .
+265						"similarly , calcium response in ntal-/- / lat-/-_NN cell be lower than in lat-/-_NN cell ( c ) ."
+266						"it should be note that although they be dramatically reduce , the secretory and calcium response be not completely inhibit ."
+267						"furthermore , there be no significant difference in degranulation and calcium response induce by the ionophore a23187 in WT , lat-/-_NN , and ntal-/- / lat-/- bmmc ( not depict ) , demonstrate that degranulation itself do not depend on the presence of these linker protein ."
+268						different membrane topography of ntal and lat in rest and activate cell .
+269						"both ntal and lat partition into lipid raft , as can be infer from they detergent resistance and association with buoyant density fraction of sucrose gradient ."
+270						"however , a direct comparison of the distribution of these two adaptor in sucrose gradient have not be report ."
+271						datum present in indicate that in wt cell both lat and ntal be located predominantly in low density fraction of sucrose gradient ( fraction 1-4 ) .
+272						"in ag activate cell , the amount of lat in these fraction be decrease , and tyrosine phosphorylated lat be find predominantly in high density fraction ."
+273						"although the amount of ntal in low density fraction also decrease in activate cell ( from 74.3 to 47.8 % ) , most of the tyrosine phosphorylated ntal be find in lipid raft fraction ( 69.5 % ) ."
+274						"compare with wt cell , ntal-/- cell exhibit higher amount of lat in low density fraction in both nonactivated and activate cell ."
+275						this difference be even more pronounced when the distribution of tyrosine phosphorylated lat be analyze ( 38.9 versus 66.6 % ) .
+276						these datum suggest that at least a fraction of lat and ntal could associate with different lipid contain structure in plasma membrane .
+277						Figure 8 .
+278						distribution of ntal and lat in sucrose gradient .
+279						bmmc from WT or ntal-/- mouse be sensitize with tnp specific ige and activate or not with tnp-bsa ( 100 ng and ml ) for 5 min .
+280						"the cell be solubilize in a lysis buffer contain 1 % Brij 96 , and the whole cell lysate be fractionate by sucrose density gradient ultracentrifugation ."
+281						individual fraction be collect and analyze by immunoblot for the presence of ntal and lat and they phosphorylated form ( py-20 ) .
+282						percentage of ntal and lat and they phosphorylated form in low density fraction ( fraction 1-4 ) be indicate by number under fraction .
+283						"to throw more light on the topography of lat and ntal , we isolate membrane sheet from a adherent mast cell line , rbl-2h3 , which also possess the two adaptor protein ( unpublished datum ) , and analyze they topography by immunogold electron microscopy ."
+284						"in rest cell , both ntal and lat be find in small cluster that distribute independently of fcepsilonrus beta subunit ."
+285						"base on the Hopkins test , these cluster be significantly different from random pattern ."
+286						"after fcepsilonrus aggregation , the fcepsilonrus beta subunit accumulate predominantly in osmiophilic region of the plasma membrane , thus confirm previously publish datum ."
+287						"cluster of both ntal and lat be often find in the vicinity of aggregated fcepsilonrus , without form mixed aggregate with they ."
+288						Figure 9 .
+289						"membrane topography of NTAL , lat , and fcepsilonrus beta subunit in nonactivated and ag activate cell ."
+290						"membrane sheet be prepare from ige sensitize rbl-2h3 cell expose for 2 min to PBS alone ( a and c ) or dnp-bsa in PBS ( 1 mug and ml ; b and d ) , and double label from the cytoplasmic side of the plasma membrane for fcepsilonrus beta subunit ( 10-nm gold particle , arrow ; A-D ) , NTAL ( 5-nm gold particle , arrowhead ; a and b ) , or lat ( 5-nm gold particle , arrowhead ; c and d ) ."
+291						"finally , we attempt to find out whether NTAL and lat form mixed aggregate before and and or after fcepsilonrus aggregation ."
+292						"to this end , we double labeled membrane sheet for lat and ntal , use combination of 5- and 10-nm gold particle ."
+293						"the labeling with 5-nm gold particle be consistently more abundant , regardless of whether the target be lat or ntal ."
+294						"this difference reflect technical aspect of the assay , since smaller gold particle more efficiently label target molecule than large gold particle ."
+295						"in nonactivated cell , lat and ntal each form small cluster which do not mix ."
+296						the visual observation that lat and ntal fail to mix be confirm use the Ripley 's statistical test ( not depict ) .
+297						"importantly , cluster of these transmembrane adaptor can often be see in or near osmiophilic patch of activate membrane , but again no mix of ntal and lat molecule be observe ."
+298						"thus , ntal and lat be located in distinct , nonoverlapping region of the plasma membrane in both nonactivated and activate cell ."
+299						Figure 10 .
+300						different localization of ntal and lat cluster .
+301						"membrane sheet be prepare from nonactivated ( a and c ) and dnp-bsa-activated ( 1 mug and ml ; b and d ) rbl-2h3 cell and double label from the inside for lat ( arrow ) , mark with 10-nm ( a and b ) or 5-nm ( c and d ) gold particle , and ntal ( arrowhead ) mark with 5-nm ( a and b ) or 10-nm ( c and d ) gold particle ."
+302						discussion
+303						the structural similarity of ntal and lat suggest that those two protein could have similar function .
+304						this notion be support by they expression pattern .
+305						"whereas ntal be express in b cell , which lack lat , the reverse be true for lat ."
+306						"study with lat deficient mouse reveal a complete block in t cell development , and lat negative t cell line show a complete block in tcr signaling ."
+307						"importantly , transfection of ntal into lat deficient cell or mouse partially restore the defect ."
+308						"mast cell express both these protein , and lat deficiency have no effect either on mast cell development in vivo or maturation of mast cell in vitro ."
+309	"uaz:UA-CLine-100011,taxonomy:10090"	"BMMCs,mouse"	"c12,s3"			"however , bmmc from lat-/- mouse exhibit defect in pathway know to be downstream of lyn and syk kinase activation ."
+310			"e49,e50,e51"	"c12,s3"	"fcepsilonrus mediated tyrosine phosphorylation of plcgamma , production of ip3 , release of ca2+ from internal store"	"these include fcepsilonrus mediated tyrosine phosphorylation of plcgamma , production of ip3 , release of ca2+ from internal store , and degranulation ."
+311						"importantly , though the mast cell effector function be impaired , they be not completely inhibit ."
+312	tissuelist:TS-0603	mast cell	"e52,c13"	c13	 enhance tyrosine phosphorylation of ntal	these datum together with enhance tyrosine phosphorylation of ntal in fcepsilonrus activate mast cell and normal development of ntal-/- mast cell under in vivo and in vitro condition ( this study ) suggest that ntal could be the missing adaptor protein responsible for the remain signaling activity note in lat deficient cell .
+313						"however , several line of evidence present in this study indicate that ntal , unlike lat , have a negative regulatory role in fcepsilonrus mediated activation in mouse mast cell ."
+314						"first , ntal-/- mouse compare with wt mouse exhibit a enhanced passive anaphylactic response ."
+315						this systemic reaction reflect the activity of mast cell and be find reduce in lat-/-_NN cell .
+316	"uaz:UA-CLine-100011,taxonomy:10090"	"BMMCs,mouse"	"c14,s4"			"second , bmmc from ntal-/- mouse exhibit a enhanced degranulation ."
+317						"Third , several protein in fcepsilonrus activate ntal-/- cell exhibit a enhanced tyrosine phosphorylation and and or modify subcellular distribution ."
+318						"these protein include syk kinase , lat , erk , and plcgamma ."
+319			"e53,e54"	"c14,s4"	"plcgamma and pi3k , produce increase level of ip3 and pi 3,4,5-trisphosphate , respectively"	"fourth , fcepsilonrus activate ntal-/- cell exhibit a enhanced activity of plcgamma and pi3k , produce increase level of ip3 and pi 3,4,5-trisphosphate , respectively ."
+320						"finally , ntal-/- phenotype be associate with a dramatic increase in calcium response in ag activate cell ."
+321						"this enhancement be mostly pronounced at suboptimal concentration of the ag and be observe even in the absence of extracellular calcium , suggest that the enhanced release of calcium from intracellular store contribute at least in part to this phenomenon ."
+322	uaz:UA-CLine-100011	BMMCs	c15			"thus , the conclusion base on we datum seem to indicate that fcepsilonrus mediated signaling event in bmmc be negatively regulate by ntal ."
+323						how could NTAL be involve in negative regulation of plcgamma and downstream signaling pathway ?
+324						we propose that the inhibitory role of ntal could result from its competition with lat in lipid raft .
+325			e55	c15	it should be note that a major difference between lat and ntal be in the absence of the tyrosine residue responsible for interaction with plcgamma in the latter .	"furthermore , it should be note that a major difference between lat and ntal be in the absence of the tyrosine residue responsible for interaction with plcgamma in the latter ."
+326			"e56,e57,e58,e59,e60"	c15	"in the absence of NTAL , more lat be located in lipid raft and be tyrosine phosphorylated ( c ) , result in a increased recruitment of plcgamma into complex form around aggregated fcepsilonrus , ( b ) enhance tyrosine phosphorylation and enzymatic activity of plcgamma , ( c ) elevated production of ip3 and [ ca2+ ] i ,"	"in the absence of NTAL , more lat be located in lipid raft and be tyrosine phosphorylated ( c ) , result in a increased recruitment of plcgamma into complex form around aggregated fcepsilonrus , ( b ) enhance tyrosine phosphorylation and enzymatic activity of plcgamma , ( c ) elevated production of ip3 and [ ca2+ ] i , and more potent degranulation ."
+327			e61	c15	ntal could have a negative regulatory role in fcepsilonrus signaling by indirect binding of phosphatase .	"alternatively , ntal could have a negative regulatory role in fcepsilonrus signaling by indirect binding of phosphatase ."
+328	uaz:UA-CLine-100050	t cell	"c16,e62"	c16	tcr ligation induce binding of grb2 with shp-2 	"in t cell , tcr ligation induce binding of grb2 with shp-2 , and this interaction presumably bring the phosphatase into juxtaposition to its potential substrate ."
+329	tissuelist:TS-0603	mast cell	"c17,e63"	c17	phosphorylate ntal be a major binder of grb2	"in stimulate mast cell , phosphorylate ntal be a major binder of grb2 ( c ) , and therefore , it be possible that in the absence of ntal grb2-phosphatase complex be not properly target , and down regulate signaling pathway be less effective ."
+330			e64	c17	tyrosine phosphorylated lat 	"it should be mention that these two hypothesis be not mutually exclusive : in the absence of NTAL , more tyrosine phosphorylated lat in lipid raft could better serve as a substrate for signal molecule , and at the same time the signal molecule could be more active due to the absence on ntal bind protein tyrosine phosphatase ."
+331						"we experiment with bmmc defective in both adaptor protein , ntal and lat , surprisingly reveal that ntal , besides its negative regulatory role , may potentially also have a positive role in fcepsilonrus signaling ."
+332						"clearly , ntal in the absence of lat can not play the above describe inhibitory ( competitive ) role and it may take over , albeit with lower efficiency , some of the function of lat , just as it be observe in t cell ."
+333						which of these two function would prevail could possibly depend on qualitative and and or quantitative difference in the composition of the signaling assembly induce by fcepsilonrus aggregation .
+334						these difference could explain why a diminution of ntal expression by silencing rna oligonucleotide in human mast cell result in a opposite phenotype ( reduction of fcepsilonrus mediate secretory and calcium response ) compare with that observe in ntal-/- bmmc ( this study ) .
+335						"in this context , it should be note that profile of tyrosine phosphorylated protein in human and mouse mast cell be very different ."
+336						"furthermore , the influence of different tissue origin and cell culture condition use for growth of human and mouse mast cell could also play a role ."
+337						mast cell degranulation involve two signaling pathway proximal to fcepsilonrus .
+338						"lyn dependent pathway , which involve transmembrane adaptor lat , serve as both kinetic accelerator and negative regulator of signaling , whereas fyn dependent pathway be essential for degranulation ."
+339						experiment with human mast cell suggest that ntal could represent the transmembrane adaptor involve in the fyn dependent pathway .
+340	"taxonomy:10090,uaz:UA-CLine-100011"	"mouse,BMMCs"	"s5,c18,e65"	"s5,c18"	 tyrosine phosphorylation of ntal be not dependent on fyn kinase activity but at least partially depend on lyn kinase activity ( unpublished datum ) suggest that ntal be not involve in the fyn dependent pathway .	"however , we finding that ntal in mouse bmmc be not essential for degranulation and that tyrosine phosphorylation of ntal be not dependent on fyn kinase activity but at least partially depend on lyn kinase activity ( unpublished datum ) suggest that ntal be not involve in the fyn dependent pathway ."
+341						"rather , ntal could contribute in part to the complexity of lyn dependent regulatory mechanism of mast cell signaling ."
+342						"although both ntal and lat be structurally similar molecule partition into lipid raft in detergent solubilize cell , a detailed analysis of they distribution on sucrose gradient indicate that they differ in physical property , particularly in activate cell ."
+343			"e66,e67"	c18	tyrosine phosphorylated lat | phosphorylate ntal	"thus , ~ 60 % of tyrosine phosphorylated lat be find in high density fraction of sucrose gradient , whereas a larger fraction ( ~ 70 % ) of phosphorylate ntal be find in low density fraction ."
+344						these datum suggest that the two molecule do not occupy the same region of the plasma membrane .
+345						this be confirm by electron microscopy analysis on membrane sheet .
+346						"previously , it have be show that lat in rest cell be find in cluster which do not mix with dispersed cluster of fcepsilonrus beta subunit ."
+347						we have confirm these result and demonstrate that ntal be also find in cluster that be similar in size to lat cluster .
+348						"interestingly , ntal cluster be topographically separate from lat cluster ."
+349						"aggregation of fcepsilonrus induce a redistribution of the receptor into distinct area of the plasma membrane that be characterize by they dark staining with osmium , proximity of clathrin coated pit , and accumulation of several signal molecule ."
+350						"although ntal and lat be often find in the vicinity of these aggregate , they do not form mixed aggregate ."
+351						"in conclusion , we datum indicate that at least in murine mast cell , ntal mostly negatively regulate the activation through fcepsilonrus ."
+352						"therefore , it can be speculate that the absence , reduce expression , or mutation in this adaptor protein might be a contributing factor in a increased sensitivity to allergen ."

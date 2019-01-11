@@ -1,0 +1,3 @@
+Binding	46
+Binding	47
+Positive_activation	208

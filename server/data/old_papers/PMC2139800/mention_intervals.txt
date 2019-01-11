@@ -1,0 +1,426 @@
+0 17-18-Adherens_Junction-go:GO:0005912
+1 
+1 29-30-adherens__junction-go:GO:0005912
+2 5-5-brain-tissuelist:TS-0095 14-14-brain-tissuelist:TS-0095
+3 
+4 
+5 5-5-brain-tissuelist:TS-0095
+6 
+7 
+8 43-43-leukemia-tissuelist:TS-0547
+9 9-9-human-taxonomy:9606
+10 
+11 24-24-brain-tissuelist:TS-0095
+12 
+13 14-15-adherens_junction-go:GO:0005912
+14 11-12-actin_cytoskeleton-go:GO:0015629 15-16-plasma_membrane-go:GO:0005886
+15 
+15 19-19-membrane-go:GO:0016020 46-47-actin_cytoskeleton-go:GO:0015629
+16 4-5-actin_cytoskeleton-go:GO:0015629 8-9-plasma_membrane-go:GO:0005886 22-23-actin_cytoskeleton-go:GO:0015629
+17 10-11-actin_cytoskeleton-go:GO:0015629 14-15-plasma_membrane-go:GO:0005886
+18 
+18 
+19 20-21-adherens_junctions-go:GO:0005912
+20 
+21 
+22 
+23 
+24 
+25 
+26 13-14-actin_cytoskeleton-go:GO:0015629 17-18-plasma_membrane-go:GO:0005886
+27 
+27 4-5-actin_cytoskeleton-go:GO:0015629 8-9-plasma_membrane-go:GO:0005886 14-14-neuron-tissuelist:TS-0683 20-21-growth_cone-go:GO:0030426
+28 11-12-actin_cytoskeleton-go:GO:0015629 15-16-plasma_membrane-go:GO:0005886 19-19-neuron-tissuelist:TS-0683
+29 15-15-brain-tissuelist:TS-0095
+30 4-5-neural_tissue-uaz:UA-ORG-623 13-13-synapse-go:GO:0045202
+31 
+32 32-33-septate_junction-go:GO:0005918 42-43-tight_junction-uniprot:SL-0265
+33 
+34 14-15-actin_cytoskeleton-go:GO:0015629 25-25-synapse-go:GO:0045202
+35 
+35 15-15-brain-tissuelist:TS-0095
+36 
+37 
+38 
+39 47-47-leukemia-tissuelist:TS-0547
+40 14-15-adherens_junction-go:GO:0005912
+41 
+42 
+42 
+43 
+43 
+44 
+44 
+45 
+46 
+47 
+48 
+49 14-14-membrane-go:GO:0016020
+50 1-1-membrane-go:GO:0016020 11-11-milk-tissuelist:TS-0636
+51 1-1-membrane-go:GO:0016020 28-28-milk-tissuelist:TS-0636
+52 5-5-membrane-go:GO:0016020
+53 
+53 
+54 
+55 
+56 19-19-milk-tissuelist:TS-0636 28-28-membrane-go:GO:0016020
+57 
+57 
+58 
+58 
+59 1-1-brains-uaz:UA-ORG-114 5-5-rats-taxonomy:10116
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 10-11-B,-uaz:UA-CLine-100007 33-33-B.-uaz:UA-CLine-100008
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+77 
+78 
+78 
+79 
+80 
+81 2-2-brain-tissuelist:TS-0095
+82 
+83 
+83 0-0-Chromosome-go:GO:0005694
+84 
+84 
+85 3-3-chromosomes-go:GO:0005694 20-20-chromosomes-go:GO:0005694
+86 18-18-chromosomes-go:GO:0005694
+87 1-1-chromosomes-go:GO:0005694
+88 
+88 
+89 
+89 
+90 5-5-COS7-uaz:UA-CLine-100020
+91 
+92 
+93 
+94 
+94 
+95 
+95 
+96 5-5-chick-taxonomy:9031 6-6-lung-tissuelist:TS-0568
+97 
+98 
+98 
+99 
+100 
+101 32-32-membrane-go:GO:0016020
+102 
+102 
+103 
+103 1-1-rabbit-taxonomy:9986
+104 
+105 
+106 
+107 
+108 
+109 
+110 
+110 9-9-mouse-taxonomy:10090
+111 
+112 
+113 
+114 23-23-donkey-taxonomy:9793 29-29-sheep-taxonomy:9940
+115 
+116 
+116 
+117 
+118 
+119 18-18-rabbit-taxonomy:9986 23-23-mouse-taxonomy:10090
+120 
+121 
+121 4-4-bile-tissuelist:TS-1172 8-8-mouse-taxonomy:10090 9-9-liver-tissuelist:TS-0564
+122 7-7-bile-tissuelist:TS-1172
+123 
+124 
+124 
+125 
+125 
+126 4-5-small_intestine-tissuelist:TS-0942
+127 
+128 
+129 
+130 31-31-resin-tissuelist:TS-1340
+131 
+132 
+132 
+133 4-5-small_intestine-tissuelist:TS-0942
+134 
+135 
+136 
+137 
+138 
+139 
+139 
+140 
+140 4-4-rabbit-taxonomy:9986 5-6-skeletal_muscle-tissuelist:TS-0933
+141 
+142 
+142 
+143 
+143 
+144 
+144 
+145 5-6-fetal__brain-tissuelist:TS-0328
+146 
+147 
+148 
+149 
+150 
+151 
+152 
+152 
+153 
+154 23-23-human-taxonomy:9606
+155 
+156 10-10-human-taxonomy:9606
+157 
+157 2-2-brain-tissuelist:TS-0095
+158 
+159 
+160 
+161 
+162 
+163 
+164 
+165 
+166 
+167 7-7-chromosome-go:GO:0005694
+168 
+168 
+169 7-7-COS7-uaz:UA-CLine-100020
+170 
+171 
+172 
+172 
+173 22-22-human-taxonomy:9606 29-29-human-taxonomy:9606
+174 9-9-human-taxonomy:9606
+175 
+176 
+177 
+178 
+178 27-27-heart-tissuelist:TS-0445 29-29-brain-tissuelist:TS-0095 31-31-spleen-tissuelist:TS-0956 33-33-lung-tissuelist:TS-0568 35-35-liver-tissuelist:TS-0564 37-38-skeletal_muscle-tissuelist:TS-0933 40-40-kidney-tissuelist:TS-0510 43-43-testis-tissuelist:TS-1030
+179 
+180 
+181 22-22-brain-tissuelist:TS-0095
+182 14-14-brain-tissuelist:TS-0095
+183 15-15-brain-tissuelist:TS-0095
+184 
+184 
+185 
+185 
+186 
+187 
+188 
+189 
+190 
+191 
+192 
+193 
+194 
+195 
+196 
+197 
+198 
+199 
+200 
+201 
+202 
+203 
+203 
+204 
+204 18-18-mouse-taxonomy:10090
+205 2-2-liver-tissuelist:TS-0564 15-15-bile-tissuelist:TS-1172
+206 6-7-small_intestine-tissuelist:TS-0942 27-27-intestine-tissuelist:TS-0490
+207 5-5-heart-tissuelist:TS-0445
+208 
+209 7-8-intercalated_disc-go:GO:0014704
+210 10-11-cardiac__muscle-tissuelist:TS-0440
+211 
+212 14-14-fibroblasts-uaz:UA-CLine-100060
+213 
+214 
+214 17-18-small_intestine-tissuelist:TS-0942 30-30-bile-tissuelist:TS-1172 34-34-liver-tissuelist:TS-0564
+215 9-10-tight_junction-uniprot:SL-0265 12-12-desmosome-go:GO:0030057
+216 
+217 
+218 13-14-tight_junction-uniprot:SL-0265 16-16-desmosome-go:GO:0030057
+219 14-14-intestine-tissuelist:TS-0490
+220 
+221 
+221 
+222 
+222 
+223 
+224 
+225 
+226 
+227 18-18-human-taxonomy:9606 32-32-human-taxonomy:9606
+228 
+229 
+230 
+231 
+232 
+233 9-9-brain-tissuelist:TS-0095
+234 
+235 
+235 22-22-neutrophils-uaz:UA-ORG-624
+236 1-1-human-taxonomy:9606 2-2-neutrophils-uaz:UA-ORG-624
+237 
+238 
+239 
+240 
+240 
+241 
+242 
+243 
+244 
+245 
+246 
+247 
+248 
+249 
+250 
+251 
+252 
+253 
+254 
+255 
+256 
+257 
+258 
+258 
+259 
+260 20-21-actin_cytoskeleton-go:GO:0015629
+261 
+262 
+263 
+264 
+265 
+265 21-22-actin_cytoskeleton-go:GO:0015629
+266 
+267 
+268 
+269 
+270 
+271 8-9-actin_cytoskeleton-go:GO:0015629 19-20-actin_cytoskeleton-go:GO:0015629
+272 
+272 26-26-leukemia-tissuelist:TS-0547
+273 
+274 
+275 
+276 17-17-wing-tissuelist:TS-1122
+277 
+278 
+279 
+280 
+280 
+281 
+282 9-9-kidney-tissuelist:TS-0510
+283 
+284 
+284 
+285 
+285 
+286 
+286 
+287 
+288 
+289 
+290 
+291 
+292 
+292 
+293 
+293 
+294 
+295 
+296 
+296 
+297 
+297 
+298 
+299 27-27-COS7-uaz:UA-CLine-100020
+300 
+301 4-4-COS7-uaz:UA-CLine-100020
+302 4-4-COS7-uaz:UA-CLine-100020
+303 
+304 6-6-COS7-uaz:UA-CLine-100020
+305 
+306 
+306 
+307 
+307 
+308 
+309 3-3-membrane-go:GO:0016020
+310 
+311 
+312 
+313 5-5-heart-tissuelist:TS-0445
+314 
+314 
+315 
+315 
+316 
+317 
+318 
+319 
+320 
+321 
+322 
+323 
+323 
+324 
+324 12-12-mouse-taxonomy:10090
+325 4-4-liver-tissuelist:TS-0564
+326 5-5-bile-tissuelist:TS-1172 13-13-bile-tissuelist:TS-1172
+327 7-7-mouse-taxonomy:10090
+328 
+329 11-11-mouse-taxonomy:10090
+330 7-7-mouse-taxonomy:10090 8-8-heart-tissuelist:TS-0445
+331 14-15-blood_vessels-uaz:UA-ORG-93 28-28-d3-uaz:UA-CLine-3599
+332 2-3-intercalated_disc-go:GO:0014704 7-7-costamere-go:GO:0043034 12-13-blood_vessel-tissuelist:TS-0080
+333 
+334 
+334 
+335 
+335 
+336 
+337 
+338 
+339 
+340 
+341 
+342 
+342 
+343 
+343 
+344 9-9-mouse-taxonomy:10090 10-11-small_intestine-tissuelist:TS-0942 24-24-a3-uaz:UA-CLine-5666
+345 
+346 11-11-bile-tissuelist:TS-1172
+347 7-7-bile-tissuelist:TS-1172
+348 
+349 
+349 
+350 
+350 6-7-small_intestine-tissuelist:TS-0942
+351 
+352 
+353 3-4-tight__junction-uniprot:SL-0265
+354 
+355 

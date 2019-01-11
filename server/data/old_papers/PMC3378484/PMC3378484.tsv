@@ -1,0 +1,295 @@
+1						Regulation of lipid binding underlies the activation mechanism of class IA PI3-kinases
+2	taxonomy:9606	human	s1	s1	Somatic missense mutations in PIK3CA , which encodes the p110alpha catalytic subunit of phosphoinositide 3-kinases ( PI3Ks ) , occur frequently in human cancers .	Somatic missense mutations in PIK3CA , which encodes the p110alpha catalytic subunit of phosphoinositide 3-kinases ( PI3Ks ) , occur frequently in human cancers .
+3					Activating mutations spread across multiple domains , some of which are located at inhibitory contact sites formed with the regulatory subunit p85alpha .	Activating mutations spread across multiple domains , some of which are located at inhibitory contact sites formed with the regulatory subunit p85alpha .
+4			e1	s1	PIK3R1 , which encodes p85alpha , also has activating somatic mutations .	PIK3R1 , which encodes p85alpha , also has activating somatic mutations .
+5			e2	s1,s2	 complexes of p110alpha and p85alpha .	We find a strong correlation between lipid kinase and lipid binding activities , for both wild-type ( WT ) and a representative set of oncogenic mutant complexes of p110alpha and p85alpha .
+6						Lipid binding involves both electrostatic and hydrophobic interactions .
+7			e3,e4	s1	Activation caused by a phosphorylated receptor tyrosine kinase ( RTK ) peptide binding to the p85alpha N-terminal SH2 domain ( nSH2 ) induces lipid binding .	Activation caused by a phosphorylated receptor tyrosine kinase ( RTK ) peptide binding to the p85alpha N-terminal SH2 domain ( nSH2 ) induces lipid binding .
+8						This depends on the polybasic activation loop as well as a conserved hydrophobic motif in the C-terminal region of the kinase domain .
+9						The hotspot E545K mutant largely mimics the activated WT p110alpha .
+10						It shows the highest basal activity and lipid binding , and is not significantly activated by an RTK phosphopeptide .
+11						Both the hotspot H1047R mutant and rare mutations ( C420R , M1043I , H1047L , G1049R and p85alpha-N564D ) also show increased basal kinase activities and lipid binding .
+12						However , their activities are further enhanced by an RTK phosphopeptide to levels markedly exceeding that of activated WT p110alpha .
+13			e5,e6,e7,e8,e9,e10	s1		Phosphopeptide binding to p110beta and p85alpha and p110delta and p85alpha complexes also induces their lipid binding .
+14			e11,e12	s1	We present a crystal structure of WT p110alpha complexed with the p85alpha inter-SH2 domain ( iSH2 ) and the inhibitor PIK-108 .	We present a crystal structure of WT p110alpha complexed with the p85alpha inter-SH2 domain ( iSH2 ) and the inhibitor PIK-108 .
+15			e13	s1	Additional to the ATP binding pocket , an unexpected , second PIK-108 binding site is observed in the kinase C-lobe .	Additional to the ATP binding pocket , an unexpected , second PIK-108 binding site is observed in the kinase C-lobe .
+16						We show a global conformational change in p110alpha consistent with allosteric regulation of the kinase domain by nSH2 .
+17						These findings broaden our understanding of the differential biological outputs exhibited by distinct types of mutations regarding growth factor dependence , and suggest a two-tier classification scheme relating p110alpha and p85alpha mutations with signalling potential .
+18						Introduction
+19			e14	s1	Class IA PI3Ks transduce growth factor signalling by phosphorylating phosphatidylinositol 4,5-bisphosphate ( PtdIns ( 4,5 ) P 2 ) to produce PtdIns ( 3,4,5 ) P 3 on the plasma membrane .	Class IA PI3Ks transduce growth factor signalling by phosphorylating phosphatidylinositol 4,5-bisphosphate ( PtdIns ( 4,5 ) P 2 ) to produce PtdIns ( 3,4,5 ) P 3 on the plasma membrane .
+20						Recruitment to membrane receptors and enzyme activation are coordinated by engagement of the p85 SH2 domains to regions bearing phosphorylated ' YXXM ' motifs on activated RTKs or RTK associated adaptors .
+21						PtdIns ( 3,4,5 ) P 3 serves as docking sites for downstream signalling molecules that harbour pleckstrin homology domains .
+22						Central among these are PDK1 and PKB and AKT , which orchestrate signalling cascades promoting cell growth , proliferation , survival , metabolism and migration .
+23						Cellular levels of PtdIns ( 3,4,5 ) P 3 are tightly regulated .
+24			e15	s3	PTEN down-regulates p110 signalling by removing the 3 ' - phosphate of PtdIns ( 3,4,5 ) P 3 .	PTEN down-regulates p110 signalling by removing the 3 ' - phosphate of PtdIns ( 3,4,5 ) P 3 .
+25	taxonomy:9606	human	e16,e17,e18,e19,s3	s3	Up regulation of PI3K signalling , through amplification or gain-of-function mutations of RTKs , p110alpha and AKTs , as well as loss of PTEN function and expression	Up regulation of PI3K signalling , through amplification or gain-of-function mutations of RTKs , p110alpha and AKTs , as well as loss of PTEN function and expression , occurs frequently in human cancers .
+26			e20	s2,s3	Uniquely among the four class I PI3K isoforms that produce PtdIns ( 3,4,5 ) P 3	Uniquely among the four class I PI3K isoforms that produce PtdIns ( 3,4,5 ) P 3 , p110alpha has been identified with activating cancer linked somatic mutations .
+27						Over 80 % of the missense mutations cluster in two ' hotspots ' commonly represented by E545K in the helical domain , and H1047R in the kinase domain .
+28						Both display transforming activities in cell culture .
+29						The ability to initiate tumorigenesis in transgenic mouse models has been demonstrated for the H1047R mutant .
+30			e21	s2,s3	p110alpha and 85alpha complexes	Crystal structures of p110alpha and 85alpha complexes have provided molecular details of p85 mediated inhibition , revealing that many activating mutations , including ones occurring at low frequencies , are located in inter-domain contact sites .
+31			e22 ,e23	s2,s3	 inhibitory interfaces between the p110alpha C2/helical/kinase domains and the p85alpha nSH2 domain | between the p110alpha C2 domain 	These sites include the inhibitory interfaces between the p110alpha C2/helical/kinase domains and the p85alpha nSH2 domain , and between the p110alpha C2 domain and the p85alpha iSH2 domain .
+32			e24,e25,e26	s2,s3	Phosphopeptide binding to nSH2 competes with its inhibitory interaction with p110	Phosphopeptide binding to nSH2 competes with its inhibitory interaction with p110 , constituting the dominant activation mechanism for p110alpha , and E545K mimics this activation .
+33			e27	s2,s3	p110alpha adaptor binding domain ( ABD ) binds to p85alpha iSH2 tightly	Since p110alpha adaptor binding domain ( ABD ) binds to p85alpha iSH2 tightly , the often mutated interface between ABD and the kinase domain can be viewed as an extension of the p85 inhibitory network .
+34			e28,e29,e30	s2,s3	 p85 inhibition since p85alpha cSH2 does not play an inhibitory role in p110alpha regulation , although it does for p110beta and p110delta via direct contact with this region 	Mutations in the kinase C-terminal region do not appear to interfere with p85 inhibition since p85alpha cSH2 does not play an inhibitory role in p110alpha regulation , although it does for p110beta and p110delta via direct contact with this region .
+35						Some of the cancer linked mutations confer a positive charge , such as C420R and H1047R in p110alpha , and have been suggested to enhance membrane binding .
+36						However , direct membrane binding measurements are lacking .
+37						A common assumption is that these mutations directly facilitate electrostatic interaction with phospholipid headgroups .
+38						However , this has limited applicability to other activating mutations , notably H1047L .
+39						The E545K and H1047R mutants were first reported to have similar biological activities , in terms of promoting cell growth and resisting apoptosis under growth factor limiting conditions .
+40						More recent studies showed that they can have differential functional outcomes , in terms of chemotactic and metastatic phenotypes and transforming potential of isogenic human breast cancer cells .
+41						Transforming ability of chicken embryonic fibroblasts differs between the E545K and the H1047R mutants , invoking the suggestion that these two mutants operate via different activation mechanisms .
+42						Previously , the E545K and H1047R mutants were found to be more active than the WT enzyme , but their similar affinities for ATP did not explain the differences in lipid kinase activities .
+43						Here , we investigated the premise that enhanced lipid binding forms a general mechanism for p110 activation , particularly regarding cancer mutations .
+44						We dissected the structural elements important for lipid binding .
+45			e31,e32,e33	s2,s3	Our results show that p85alpha nSH2 , a key regulatory element for p110alpha lipid kinase activity , controls access of the catalytic subunit lipid binding sites to membrane .	Our results show that p85alpha nSH2 , a key regulatory element for p110alpha lipid kinase activity , controls access of the catalytic subunit lipid binding sites to membrane .
+46						We examined a set of p110alpha and p85alpha cancer linked mutants of diverse structural and chemical types , and find a strong correlation linking their elevated lipid kinase activities to their lipid binding levels .
+47						We present a crystal structure of WT p110alpha and p85alpha-iSH 2 in complex with an inhibitor .
+48						Its structural features in the kinase domain resemble those of the H1047R mutant , instead of the WT apo structure .
+49						We also noted unusual structural features of the kinase C-terminal tail and tested their function .
+50						We observe global conformational changes that might be of relevance to allosteric regulation of p110alpha , and provide a structural context to understand the functional data presented here .
+51						Results
+52	taxonomy:10090,taxonomy:9606	mouse, human	s4,s5	s4,s5	Structure of a wildtype p110alpha and p85alpha-iSH 2 complex	Structure of a wildtype p110alpha and p85alpha-iSH 2 complex
+53			e34,e35	s4,s5	A crystal structure of mouse WT p110alpha in complex with human p85alpha niSH2 fragment and the p110beta and p110delta selective inhibitor PIK-108	A crystal structure of mouse WT p110alpha in complex with human p85alpha niSH2 fragment and the p110beta and p110delta selective inhibitor PIK-108 has been determined and refined to 3.5 A ( R work / R free = 0.184 / 0.228 ) ( acronyms of p110alpha and p85alpha domain structures and mutations are illustrated in ) .
+54						Details of crystallographic statistics are provided in .
+55						Although other compounds that inhibit p110alpha more specifically were surveyed for co-crystallization , the p110beta and delta selective PIK-108 produced the best crystals .
+56						As in the structure of human WT p110alpha and p85alpha-iSH 2 , the nSH2 of the p85alpha niSH2 fragment is not observed in the electron density map .
+57						The high salt concentration in the crystallization cocktail might have competed off nSH2 binding to p110alpha .
+58						As such , our structure represents an alternative view of p110alpha not constrained by nSH2 binding .
+59			e36	s4,s5	p110alpha and p85alpha complexes	Unlike previous structures of p110alpha and p85alpha complexes , our structure shows clear electron density for the entire activation loop .
+60						However , key conserved activation loop residues , K942 and R949 , previously identified to be important for p110gamma recognising the substrate PtdIns ( 4,5 ) P 2 head group , point away from the ATP binding site .
+61			e37	s4,s5	 p110alpha and p85alpha-iSH 2 complex	Hence , although structure of a p110alpha and p85alpha-iSH 2 complex should mimic an RTK activated state ( see below ) , the observed conformation of this loop does not appear to be compatible with positioning the lipid headgroup for phosphoryl transfer .
+62						The activation loop is also involved in crystal contacts , which likely influenced the conformation we observe .
+63			e38	s4,s5	PIK-108 belongs to the class of propeller shaped PI3K inhibitors .	PIK-108 belongs to the class of propeller shaped PI3K inhibitors .
+64						In our structure , the PIK-108 phenyl substituent occupies what has been coined the ' specificity pocket ' , which is gated by the P-loop M772 , in the kinase ATP binding site .
+65						Opening of this pocket by propeller shaped compounds appears to be more favourable in p110delta than in other p110 isotypes .
+66						This could be the reason for the PIK-108 selectivity for p110beta and p110delta .
+67						There is also complete density for what we interpret as a second PIK-108 , snuggling in a hydrophobic pocket in the kinase C-lobe , surrounded by helices kalpha6-8 , kalpha11 and the C-terminal end of the activation loop .
+68						This pocket is partially occupied by the activation loop residues 954-956 ( or their equivalents ) in other p110 structures .
+69						The presence of the compound in this induced pocket may have contributed to the ordering of the activation loop , which is involved in crystal packing , and might explain why this crystal form is specific to PIK-108 , out of twenty tested p110 selective inhibitors .
+70						The kinase C-terminal region of p110alpha exhibits intrinsic flexibility
+71			e40	s4,s5	 WT apo p110alpha and p85alpha-iSH 2 structure	Our structure is for the WT p110alpha , but the kinase C-terminal tail more closely resembles those in the structures of the oncogenic mutant H1047R p110alpha and p85alpha-niSH 2 , than that in the WT apo p110alpha and p85alpha-iSH 2 structure .
+72			e39	s4,s5	In the WT apo p110alpha and p85alpha-iSH 2 structure	In the WT apo p110alpha and p85alpha-iSH 2 structure , helix kalpha11 is complete to residue 1048 , and the rest of the C-terminal sequence is largely disordered [ hereafter all p110 secondary structure nomenclature is according to that of p110gamma .
+73						The kinase C-terminal tail in our structure adopts an extended conformation from residue 1045 to 1061 , with the last helical turn of kalpha11 appearing to be distorted .
+74						A striking feature in this region is the WIF motif ( 1057-1059 ) , whose side-chains stack against each other .
+75						This motif is conserved as a triplet of hydrophobic residues in class I and class II PI3Ks , with W1057 being invariant in class I p110 .
+76						The equivalent ' WFL ' ( 1086-1088 ) in p110gamma is part of helix kalpha12 , which corresponds to residues 1050-1061 in p110alpha .
+77						Helix kalpha12 also exists in the crystal structures of p110beta and Vps34 .
+78						This C-terminal region in our structure , and also in the H1047R p110alpha and p85alpha-niSH 2 structures , is involved in crystal packing with the Ras binding domain ( RBD ) of a symmetry related molecule .
+79						Therefore , the conformations of the C-terminal tail among the current p110alpha structures appear to be dictated by the crystalline environments .
+80						It is likely fortuitous that the RBD and the kinase domain pack against each other in different crystal forms of p110alpha .
+81						We would not ascribe any functional significance to these crystal contacts , particularly with regard to Ras activation .
+82						Deletion of helix kalpha12 in Vps34 , p110beta and p110delta abrogated lipid kinase activity and lipid binding .
+83						This region is also of functional importance for p110alpha ( see below ) .
+84						Deletion of kalpha12 in Vps34 and in p110beta resulted in increased intrinsic ATPase activity in the absence of lipid substrate , an observation replicated by deletion of residues 1051-1068 in p110alpha ( , Deltacterm mutant ) .
+85			e41	s4,s5	ATP hydrolysis	Interactions between helix kalpha12 and the catalytic loop ( illustrated for p110gamma in ) were suggested to shield the conserved catalytic DRH motif from performing futile ATP hydrolysis .
+86						These interactions are not observed in the current p110alpha crystal structures , suggesting that in solution , p110alpha could also have a helix kalpha12 , similar to p110gamma , p110beta and Vps34 .
+87						The extended conformations observed in current crystal structures of p110alpha suggest an intrinsic flexibility in this region .
+88						Correlation of lipid kinase activity with lipid binding
+89			e42	s4,s5	p110alpha and p85alpha complexes	To test whether lipid binding forms the basis of p110 activation , we compared lipid kinase with lipid binding activities for three sets of p110alpha and p85alpha complexes : SH2 deletions in p85alpha , engineered mutations in the p110alpha kinase domain and cancer linked mutations in both p110alpha and p85alpha .
+90			e43	s4,s5	activation by RTK phosphopeptide for all complexes , using the doubly tyrosine phosphorylated peptide ( pY2-peptide ) derived from PDGFRbeta .	We evaluated activation by RTK phosphopeptide for all complexes , using the doubly tyrosine phosphorylated peptide ( pY2-peptide ) derived from PDGFRbeta .
+91						We used liposomes of defined compositions generally mimicking that of plasma membranes .
+92						The substrate PtdIns ( 4,5 ) P 2 was used at 2 % ( close to the physiological concentration ) , and the anionic lipid phosphatidylserine ( PS ) was tested at two concentrations , 10 % and 20 % .
+93						Cancer linked mutations and nSH2 deletion in p85alpha severely suppressed expression of p110 and p85 in insect cells .
+94						To obtain sufficient materials for lipid binding analyses , we produced activating p110alpha and p85alpha proteins in the catalytically dead ( CD ) background , bearing the D915N mutation in the catalytic DRH motif of p110alpha .
+95						We employed surface plasmon resonance ( SPR ) to measure lipid binding ( schematics shown in ) .
+96						We examined the electrostatic and the hydrophobic components of lipid binding explicitly , since both are important properties for many membrane binding proteins .
+97						We immobilized liposomes of different compositions in each of the four serially connected flow cells on the sensor chip .
+98						Flow cell one ( Fc1 ) of the chip contained only neutral lipids phosphatidylcholine ( PC ) , phosphatidylethanolamine ( PE ) and cholesterol , while Fc2 , Fc3 and Fc4 contained additionally negatively charged lipids PS ( Fc2 ) , or PS with PtdIns ( 4,5 ) P 2 ( Fc3 and Fc4 ) .
+99						As such , Fc1 subtracted signals represent the electrostatic component of binding .
+100						We attribute any binding signals on Fc1 that are significantly above background ( estimated as the averaged signal on Fc1 produced by the lipid kinase dead mutants ) to be the hydrophobic component of lipid binding .
+101						p85alpha nSH2 , but not cSH2 , regulates both lipid kinase activity and membrane binding of p110alpha
+102						The nSH2 plays a dominant role in regulating the lipid kinase activity of p110alpha .
+103						The basal activities of p110alpha and p85alpha-nicSH 2 and p110alpha and p85alpha-niSH 2 complexes are very low using liposome substrate mimicking physiological concentrations of PS and PtdIns ( 4,5 ) P 2 .
+104						Activation , whether by binding of RTK phosphopeptide to nSH2 containing complexes , or by nSH2 deletion , increases the activity by 25-50 fold .
+105						Qualitatively , our results recapitulate those of previous studies performed with pure phosphatidylinositol ( PtdIns ) as substrate .
+106			e44,e45,e46	s4,s5	RTK phosphopeptide binding to nSH2 containing complexes induces lipid binding	Correspondingly , RTK phosphopeptide binding to nSH2 containing complexes induces lipid binding .
+107						Binding of RTK phosphopeptide to cSH2 does not affect either the kinase activity or membrane binding .
+108						Total negative charge on the liposomes positively influenced lipid binding .
+109						Liposome compositions differing by 10 % in PS confer up to two-fold increases in lipid binding levels .
+110						Hence , it appears that for p110alpha , the nSH2-p110alpha inhibitory contact , which is relieved by phosphopeptide binding , suppresses the basal lipid kinase activity by inhibiting membrane binding .
+111						Both kinase activation loop and C-terminal tail are necessary for binding to anionic lipids
+112						Using PtdIns ( 4,5 ) P 2 -containing liposomes , no kinase activity could be detected for three engineered kinase domain mutants : ( i ) the activation loop mutant R949D , ( ii ) the kinase helix kalpha12 deletion mutant ( Deltacterm ) , nor ( iii ) a helix kalpha12 triple mutant with much reduced hydrophobicity ( WIF-AAA ( 1057-1059 ) ) , with protein concentration as high as 500 nM and incubation time up to an hour .
+113						These mutants , however , are catalytically active in terms of intrinsic ATPase activity .
+114						In lipid binding experiments , correspondingly , the R949D mutant showed much reduced binding to anionic lipids .
+115						The same result was observed for K942Q ( data not shown ) .
+116						These results are consistent with the observation that mutations removing the positive charges of the equivalent residues in p110gamma prevent PtdIns ( 4,5 ) P 2 , but not PtdIns or PtdIns4P , from acting as a substrate .
+117						The kinase C terminal mutants , Deltacterm and WIF-AAA , did not show any detectable binding to anionic lipids at concentration up to 1 muM .
+118						This establishes the WIF motif as a key determinant for lipid binding in the C-terminal region .
+119						These results indicate that there are at least two lipid binding sites in the kinase domain : one is in the polybasic activation loop , electrostatic in nature , and the other in the C-terminal region , hydrophobic in nature .
+120						Effects of cancer linked mutations in p110alpha and p85alpha on lipid binding
+121						To gain a broader view of the effects of cancer linked mutations , we studied seven mutations that have previously been characterized to be activating .
+122						They cover three structurally distinct regions , namely , the C2-iSH2 interface ( p110alpha C420R and p85alpha N564D ) , the helical-nSH2 interface ( p110alpha E545K ) and the kinase domain ( M1043I , H1047L , H1047R and G1049R ) , and represent different chemical property changes .
+123						Overall , there is a strong correlation between lipid kinase activity and lipid binding ( , total lipid binding on Fc4 is shown in ) , underscoring enhanced lipid binding as a general mechanism for cancer linked activating mutations .
+124						All mutants have increased basal activity , and other than E545K , can be significantly further activated by phosphopeptide binding .
+125						This affirms that the C2-iSH2 inhibitory contact site does not function identically to the nSH2 inhibitory site , which includes both C2 and helical domains in the crystal structure .
+126						The degree of activation is enhanced by increase in negative charges on the liposomes .
+127						Both anionic lipids PS and PtdIns ( 4,5 ) P 2 enhance lipid binding .
+128						There is a pattern correlating the location of the mutations with their hydrophobic component of lipid binding : non kinase domain mutants ( C420R , E545K and p85alpha-N564D ) display high levels of hydrophobic interaction with neutral lipids in the basal state , whereas the kinase C terminal mutants require phosphopeptide activation to achieve the same level of hydrophobic binding .
+129						We will consider the two groups separately .
+130						Despite their different chemical properties , the kinase domain mutants , H1047L , H1047R and G1049R , exhibit similarly high levels of hydrophobic binding to neutral lipids , and electrostatic binding to PS and PtdIns ( 4,5 ) P 2 -containing lipids upon phosphopeptide activation .
+131						These binding levels are a few fold higher than those of the activated WT enzyme .
+132						We have shown that the kinase helix kalpha12 constitutes a lipid binding site .
+133						"It is likely that helix kalpha11 and the kalpha11-kalpha12 "" elbow "" , on which these mutations reside , is an extension of the same site ."
+134						For non kinase domain mutants , the nature of the effects of hydrophobicity is not immediately obvious .
+135						Disruption of the C2-iSH2 ( C420R and p85alpha-N564D ) or the C2 and helical-nSH 2 contacts ( E545K ) could expose hydrophobic regions in the C2 domain that are normally inaccessible to lipid binding .
+136						The iSH2 N564 forms polar contacts with the C2 N345 , which is in the C2beta1-beta2 loop .
+137						The C2 C420 , which is in the C2beta5-beta6 loop , forms van der Waals contacts with iSH2 P568 .
+138						These two C2 loops in p110alpha are equivalent to the lipid binding loops in the C2 domains of PKCalpha , which binds PS , and of cPLA 2 , which binds PC .
+139						Superposition of the PKCalpha C2 structure , which has a bound short acyl-chain PS molecule ( PDB ID : 1dsy ) , onto the C2 domain of our p110alpha and p85alpha-iSH 2 structure reveals that both N564D and C420R would be compatible with accessing phospholipid headgroups .
+140						This interpretation would account for the observed increase in electrostatic interaction with anionic lipids .
+141						Global conformational change in p110alpha accompanies nSH2 disengagement
+142						The p85alpha nSH2 does not contact the lipid binding elements in the kinase C-lobe but appears to control their access to membrane .
+143						This suggests the activation mechanism by nSH2 to be allosteric .
+144						By performing structural alignments on the iSH2 of p110alpha and p85alpha structures , we observe a global conformational difference between those lacking the inhibitory contacts with nSH2 ( as represented by the WT p110alpha and p85alpha-iSH 2 structures ) and those with the nSH2 interactions ( as represented by the H1047R p110alpha and p85alpha-niSH 2 structures ) .
+145						Viewing down the iSH2 coiled coil axis from the nSH2 side , the p110alpha subunit rotates clockwise from the state with an ordered nSH2 to the state lacking the nSH2 .
+146						The ABD and the C2 , which are anchored on the iSH2 , form the pivot points of the movement .
+147						The movement appears to be transmitted from the helical domain to the RBD and the kinase C-lobe , which exhibit the greatest degree of displacement .
+148						This global conformational change suggests how nSH2 disengagement from p110alpha could allosterically cause local conformational change in the kinase C-lobe that might impact on activity .
+149						This is noteworthy considering that our WT p110alpha and p85alpha-iSH 2 and PIK -108 structure and the apo WT p110alpha and p85alpha-iSH 2 structure experience very different crystal packing environments but superimpose well .
+150			e47,e48	s4,s5	Activation of all class IA PI3Ks by phosphopeptide increases lipid binding	Activation of all class IA PI3Ks by phosphopeptide increases lipid binding
+151			e49,e50,e51,e52,e53	s4,s5	Activation of p110beta and p85alpha-nicSH 2 and p110delta and p85alpha-nicSH 2 complexes by phosphopeptide also induces lipid binding .	Activation of p110beta and p85alpha-nicSH 2 and p110delta and p85alpha-nicSH 2 complexes by phosphopeptide also induces lipid binding .
+152					This is in agreement with the recent report for p110delta in a complex with full-length p85alpha .	This is in agreement with the recent report for p110delta in a complex with full-length p85alpha .
+153						The relative contributions of electrostatic and hydrophobic components of binding differ among the three p110 isoforms , probably reflecting their sequence variability in the key lipid binding sites .
+154						In the primary sequences , the equivalent of H1047 in p110alpha is a Leu in p110beta and p110delta .
+155						For PS and PtdIns ( 4,5 ) P 2 -containing liposomes , the total lipid binding level of activated H1047L p110alpha is a few fold higher than those of activated p110beta and p110delta .
+156						These results indicate that there is more than this hotspot position that differentiates the lipid binding capabilities among the three p110 isoforms .
+157						Discussion
+158						We have directly demonstrated that phosphopeptide induced lipid binding underlies the activation mechanism for WT p110alpha and p85alpha .
+159						For most cancer linked mutants of p110alpha and p85alpha , both basal and phosphopeptide induced membrane binding is enhanced .
+160						For WT p110alpha , the primary lipid binding sites reside in the kinase domain , comprising the polybasic activation loop and hydrophobic elements in the C-terminal tail .
+161						We have identified activating cancer linked mutants in the kinase C-terminal tail ( H1047L , H1047R , G1049R ) as well as mutants affecting the C2-iSH2 interaction ( C420R and p85alpha-N564D ) that enhance intrinsic lipid binding .
+162						Our binding data and structural analysis support the dual roles of C420R and N564D in disrupting C2-iSH2 contact and enhancing lipid binding .
+163						It is likely that this occurs via direct interactions between the C2 and and or the iSH2 domains with membranes .
+164						This additional membrane binding site could both enhance total lipid binding and influence the choice of the membrane used by the WT enzyme or by particular p110alpha and p85alpha mutants in a cellular context .
+165			e56,e57	s4,s5	Our data indicate that the inhibitory contact formed between the nSH2 and p110alpha C2/helical/kinase domains suppresses the basal kinase activity by inhibiting membrane binding .	Our data indicate that the inhibitory contact formed between the nSH2 and p110alpha C2/helical/kinase domains suppresses the basal kinase activity by inhibiting membrane binding .
+166						This is consistent with previous biochemical results for enzyme activity , in that the p85alpha nSH2 , but not the cSH2 , plays a principal role in regulating the activity of p110alpha .
+167						Mechanistically , we postulate that relieving the nSH2 inhibitory contact from p110alpha could result in a concerted conformational change propagating from the helical domain to the kinase C-lobe , as suggested by our structural comparison of activated and inhibited forms of p110alpha and p85alpha .
+168						This might trigger the activation loop and the C-terminal region to adopt lipid binding competent conformations .
+169						The polybasic activation loop both facilitates long range electrostatic attraction to anionic lipids , and positions the PtdIns ( 4,5 ) P 2 headgroup to the bound ATP for phosphoryl transfer .
+170						Since the ATP binding pocket is recessed in the kinase domain , partial membrane penetration by the C-terminal region would facilitate approach of the ATP gamma-phosphate to the inositol ring of PtdIns ( 4,5 ) P 2 .
+171			e58	s4,s5	 binding of activated p110 and p85alpha to lipid membrane	We have demonstrated that binding of activated p110 and p85alpha to lipid membrane has both an electrostatic and a hydrophobic component .
+172						Basic residues in the activation loop contribute to the electrostatic component .
+173						The C-terminal tail is clearly important for membrane interaction , but its contribution is complex .
+174						"SPR measurements show that mutating the hydrophobic WIF motif to "" AAA "" abolishes measureable electrostatic interactions with anionic lipids ."
+175						Conversely , the activated H1047L , H1047R and G1049R mutants increase both hydrophobic and electrostatic interactions with lipids .
+176						These observations attest to the importance of cooperation between the electrostatic and the hydrophobic membrane binding elements in p110alpha and p85alpha , as seen for other membrane binding proteins .
+177						Our data also elucidate the influence of lipid composition on lipid kinase activities for both WT and mutant p110 and p85 complexes .
+178						Our structure reveals an alternative , small molecule binding site in the kinase C-lobe .
+179						Current inhibitors for class I PI3K are all ATP-competitive compounds .
+180						This induced binding pocket might be exploited to develop a novel class of inhibitors that are not ATP competitive but could interfere with membrane binding .
+181						Although we could not detect any inhibition of lipid binding with PIK-108 ( up to 50 muM for the CD_E545K mutant , assayed in the same manner described in , data not shown ) , it might be that compounds with enhanced affinity for this site could act as PI3K inhibitors .
+182						An example of a membrane binding inhibitor that is in clinical trials is Perifosine , an alkylphospholipid that targets the PH domain of AKT .
+183						It appears that the p110alpha and p85alpha mutations can be classified as two basic types : ( I ) those that relieve p85 mediated inhibition and ( II ) those that lead to additional lipid binding capability .
+184						Type I mutations up regulate kinase activity by unmasking the intrinsic lipid binding potential of WT p110alpha and p85alpha .
+185						These mutants have elevated basal activities and binding of RTK phosphopeptides does not significantly enhance their activities beyond that of activated WT enzyme .
+186						We have shown that the hotspot mutant E545K belongs to this class , in accordance with previous work .
+187						Several other activating mutations that are distant from the putative membrane interface , such as R38C and H , R88Q , P539R , and deletion of residues 449-455 in the C2beta7-beta8 loop , could also belong to this class .
+188						Type II mutations are still subjected to p85alpha nSH2 mediated inhibition .
+189						We and others have shown that H1047R belongs to this type , which can be significantly activated by a phosphorylated RTK peptide ( this study ) or the adaptor protein IRS .
+190						Although basal activities of type II mutants are higher than that of WT enzyme , their maximal lipid binding and kinase activities achieved by RTK phosphopeptide binding greatly exceed those of the activated WT enzyme ( 3-7 fold with our experimental setup ) .
+191						Our in vitro results imply that the biological outputs of the type II mutants can be greatly augmented by growth factor and RTK signalling .
+192						This notion is supported by reports that compared the E545K and H1047R mutants in cells .
+193						Human cancer cell lines bearing helical domain mutations showed lower AKT phosphorylation level and AKT dependent signalling than cell lines bearing kinase domain mutations coupled with either HER2 amplification or EGFR hyperactivation .
+194						H1047R , but not E545K , was found to enhance HER2 mediated transformation of breast cancer cells via autocrine proliferative stimulation .
+195						Therefore , cancers with the type II mutations might be better treated by co-inhibition of p110alpha and RTKs , because these mutants strongly depend on RTK stimulation to reach a critical threshold of membrane binding and activity necessary for transformation .
+196						For E545K to achieve a similar level of transforming activity as H1047R in chicken embryonic fibroblasts , it required additionally Ras binding .
+197						It is likely that Ras could increase recruitment of p110alpha to lipid membrane .
+198						"Cancers with type I mutations such as E545K might be better treated by co-inhibition of the p110alpha and the Ras pathway , because these mutants could be more dependent on "" topping-up "" by Ras to achieve the membrane binding threshold necessary for transformation ."
+199						Type I and type II mutants could also confer distinct functional significance during different stages of cancer biology .
+200						For example , the E545K mutant was found to have a stronger metastatic phenotype than the H1047R mutant in tumor xenograft models using isogenic , human breast cancer cells .
+201						The ability to induce tumour formation thus far has been demonstrated only for the H1047R mutant , but not yet for the E545K mutant , in engineered mouse models of cancers .
+202						Both growth factor independence and growth factor signalling manipulation are traits that enable cancer cells to sustain proliferative signalling .
+203						Investigating the influence of upstream RTK signalling could elucidate the yet unclear roles of the different PI3K mutations in cancer initiation , progression and maintenance , and in identifying suitable biomarkers for cancer therapy targeting the PI3K pathway .
+204						Materials and methods
+205						Plasmids
+206	taxonomy:10090	mouse	s2			Details of expression constructs for p110alpha , p110beta , p110delta ( all mouse ) , p85alpha ( mouse , except for the ' ni ' fragment which is human ) , and Grp1-PH ( human ) are provided in .
+207						Domain boundaries of p85alpha fragments are shown in .
+208						Protein expression and purification
+209						All p110 and p85 complexes were co-expressed in Sf9 insect cells .
+210						The N-terminal His 6 -tag on p110alpha was kept for proteins used for crystallization but was cleaved off for those used for functional analyses .
+211						GST-Grp1-PH was expressed in E coli .
+212						Details of expression and purification are described in .
+213						Crystallization and structure determination
+214						The complex of His 6 - ( TEV ) - tagged mouse p110alpha with human p85alpha-niSH2 was co-crystallized with PIK-108 .
+215						The crystals diffracted to 3.5 A , and belong to the spacegroup I222 with one heterodimer per asymmetric unit .
+216						The human apo WT p110alpha and p85alpha-iSH 2 structure , PDB ID : 2rd0 ) was used as the search model for molecular replacement .
+217						Details of crystallization and structure determination are described in .
+218						Crystallographic statistics are presented in .
+219						All structural graphics were prepared with PyMOL ( www.pymol.org ) .
+220						Lipid kinase activity assay
+221						Liposomes comprising PC/PE/PS / PtdIns ( 4,5 ) P 2 / cholesterol were in mol % ratios of either 38:25:20:2:15 or 38:35:10:2:15 .
+222						PtdIns ( 3,4,5 ) P 3 production was measured by a modified fluorescence polarization assay ( Echelon Biosciences ) originally developed for use with diC8-PtdIns ( 4,5 ) P 2 as a substrate .
+223						Reactions were carried out at room temperature ( 25 degreesC ) in 384-well microtitre plates .
+224						A 10 mul reaction consisted of 50 muM PtdIns ( 4,5 ) P 2 in 2.5 mM liposomes , p110 and p85 ( 500 nM for non activated WT p110alpha and p85alpha-nicSH 2 , 5 nM for the rest ) , 100 muM ATP , 1 mM MgCl 2 , and with or without 1 muM pY2-peptide .
+225						The reactions were quenched with 5 mul buffer containing 20 mM Hepes ( pH 7.5 ) , 150 mM NaCl , 20 mM EDTA , and 400 nM GST-Grp1-PH , followed by addition of 5 mul of 40 nM TAMRA-Ins ( 1,3,4,5 ) P 4 in HNT buffer .
+226						The plates were read in a PHERAstar spectrofluorometer ( BMG Labtech , Germany ) using the FP and 540 -20 / 590-20 and 590 -20 optical module .
+227						Standard curves were performed with diC8-PtdIns ( 3,4,5 ) P 3 with or without pY2-peptide .
+228						Only a minor difference due to presence of pY2-peptide was observed under our assay condition , which is different from that published previously .
+229						SPR measurement of lipid binding
+230						Liposome binding experiments were performed at 25 degreesC on a BIAcore2000 , using the L1 sensor chip ( GE Healthcare ) .
+231						HNT was used as the running buffer .
+232						Liposomes comprising PC/PE/PS / PtdIns ( 4,5 ) P 2 / cholesterol were in mol % ratios of either 60:25:0:0:15 ( Fc1 ) , 50:25:10:0:15 ( Fc2 ) , 48:25:10:2:15 ( Fc3 ) or 38:25:20:2:15 ( Fc4 ) .
+233						Liposomes ( 0.1 - 0.2 mM ) were injected onto each flow-cell at 5 mul and min flow rate to achieve ~ 3400 RU immobilization level .
+234						This was followed by two injections of 0.2 M Na 2 CO 3 to remove loosely bound liposomes .
+235						Chicken egg white albumin ( 0.2 mg and ml ) was injected over the flow-cells to mask any residual hydrophobic surface not covered by the liposomes , followed by multiple injections of 0.2 M Na 2 CO 3 to stabilize the baseline .
+236						Steady-state binding was measured by injecting p110 and p85 complexes ( concentration at either 500 nM or 1 muM ) at 2 mul and min flow rate for 5 min .
+237						Each measurement was followed by injections of 0.2 M Na 2 CO 3 to regenerate the liposome surface .
+238						Independent experiments were carried out with freshly immobilized liposomes after stripping the sensor surface sequentially with 0.1 N NaOH , isopropanol :0.1 N NaOH ( 2:3 ) and 6 M guanidinium HCl .
+239						Supplementary Material
+240						1
+241						Figure 1
+242						Schematics of p110alpha and p85alpha domain structures .
+243						Substitution and deletion mutants used in this study are illustrated .
+244						Sequence alignment display was prepared with Jalview .
+245						Basic residues in the activation loop ( which binds the lipid substrate headgroup ) and hydrophobic residues in the C-terminal tail are highlighted .
+246						Figure 2
+247						Structure of the kinase domain in WT p110alpha and p85alpha-iSH 2 complexed with the inhibitor PIK-108 .
+248						Omit maps .
+249						The sigma A weighted F o -F c electron density maps ( contoured at 3.5 sigma ) were calculated separately with the activation loop and the C-terminal tail omitted from the refined model .
+250						( b , c ) PIK-108 binding sites in the ATP binding pocket of the kinase domain ( b ) and a novel site in the kinase C-lobe ( c ) .
+251						The PIK-108 omit maps are contoured at 3.5 sigma .
+252						PIK-108 interacting residues ( < = 3.8 A inter-atomic distances ) are shown as stick models .
+253						Functional elements in the kinase domain .
+254						( e ) Kinase domain of p110gamma catalytic core , shown for comparison with respect to secondary structure in the C-terminal tail .
+255						Note the interactions between the conserved W1086 in helix kalpha12 and the conserved catalytic residues DRH .
+256						Figure 3
+257						Lipid kinase and lipid binding activities .
+258						( a-c ) Structural views of the mutant positions in our WT p110alpha and p85alpha-iSH 2 complex .
+259						A global view is shown in ( b ) with C-alpha atoms of the mutated residues displayed as pink spheres .
+260						( a , c ) Detailed views of mutant positions at the C2 domain and iSH2 interface and the helical domain and in the kinase C-lobe ( c ) .
+261						The C2 C420 contacts the iSH2 P568 , and the iSH2 N564 contacts the C2 N345 ( N345K is a cancer linked mutant , not analysed in this study ) .
+262						Schematics of the SPR lipid binding experiment .
+263						Liposome vesicles are captured via the lipophilic groups attached to the dextran matrix on the flow cells .
+264						( e ) Example ( C420R and nic + pY2-peptide ) of a steady-state binding sensogram before ( left ) and after ( right ) signal subtraction from flow cell 1 ( Fc1 ) .
+265						( f , i ) Lipid kinase activities .
+266						The initial rates of PtdIns ( 3,4,5 ) P 3 production were measured with fixed substrate concentration ( 50 muM PtdIns ( 4,5 ) P 2 and 100 muM ATP ) using liposomes of the indicated compositions .
+267						No lipid kinase activity was detected for the lipid kinase dead mutants , which were active in hydrolysing ATP in the absence of lipid substrate .
+268						( g , h , j ) Lipid binding measured by SPR .
+269						Binding levels were compared at identical protein concentration in each set ( g , j : 500 nM , h : 1 muM ) .
+270						Averaged binding levels of the lipid kinase dead mutants on Fc1 , ~ 35 RU , were taken as the estimated bulk contribution , i.e. refractive index change due to the presence of proteins in the buffer ( h ) .
+271						Data in f-j represent the mean + /- s.d. of two to three independent experiments .
+272						( Abbreviations : PC = phosphatidylcholine ; PE = phosphatidylethanolamine ; PS = phosphatidylserine ; PIP2 = PtdIns ( 4,5 ) P 2 ; PIP3 = PtdIns ( 3,4,5 ) P 3 ; pY2 = pY2-peptide with two pYXXM motifs from PDGFRbeta ; CD = ' catalytically dead ' D915N mutation in p110alpha )
+273						Figure 4
+274						Global conformational change in p110alpha .
+275						Spatial relationship between the nSH2 inhibitory contact site and the lipid binding elements in the kinase C-lobe .
+276						( b , c ) Pairwise superposition of the p110alpha and p85alpha structures was performed by aligning the main-chain atoms of p85alpha iSH2 domain .
+277						Structures without p85alpha nSH2 represent the ' activated ' form , the p110alpha and p85alpha-niSH 2 structure represents the ' inhibited ' form .
+278						The arrow indicates the direction of p110alpha domain movement around the p85alpha iSH2 coiled coil axis .
+279						Representation of the r.m.s.d. calculated between main-chain atoms of the superposed p110alpha subunits shown in ( c ) , as projected on the coordinates of 2rd0 .
+280						To assist domain recognition , the lower panel shows the enzyme in the same orientation but coloured by domains .
+281						Figure 5
+282						Lipid binding activities of class IA PI3-kinases .
+283						Comparison of the three isoforms ( protein concentration = 1 muM ) .
+284						( b ) Comparison of total lipid binding of the three isoforms with the p110alpha H1047L mutant ( protein concentration = 0.5 muM ) .
+285						The data represent the mean + /- s.d. of two independent experiments .
+286						Figure 6
+287						Summary and modelling of membrane binding .
+288						The grey line approximates the putative membrane surface and is drawn collinear with the phosphate in the PS and P1 in the Ins ( 1,4,5 ) P 3 ( IP3 ) .
+289						Positions of PS , IP3 and ATP are derived from the following structures : 1dsy , 1w2c and 1e8x .
+290						Details of how PS , IP3 and ATP were docked , and modelling of the kinase C-terminal helices are illustrated in .
+291						The Calpha atoms of the labelled residues are represented in spheres .
+292						For clarity , the kinase domain N-lobe is colored red in the right panel only , and the helical domain is green on the left panel only .
+293						Type I activating cancer linked mutations that are shown or predicted to relieve the p85alpha and ABD-mediated inhibition are highlighted in orange ( the mutations that we predict would be type I , but have not been tested are underlined ) .
+294						The type II mutants , which are RTK hyperactivatable , are highlighted in pink .
+295						Note that docking of PS is solely for the purpose of approximating the lipid binding site in the p110alpha C2 domain , and does not imply that this domain binds PS specifically .

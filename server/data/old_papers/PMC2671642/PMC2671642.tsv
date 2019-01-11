@@ -1,0 +1,293 @@
+1						Comprehensive genomic characterization define human glioblastoma gene and core pathway
+2						human cancer cell typically harbor multiple chromosomal aberration , nucleotide substitution and epigenetic modification that drive malignant transformation .
+3						the cancer Genome Atlas ( TCGA ) pilot project aim to assess the value of large-scale multidimensional analysis of these molecular characteristic in human cancer and to provide the datum rapidly to the research community .
+4						here , we report the interim integrative analysis of dna copy number , gene expression and dna methylation aberration in 206 glioblastoma ( GBM ) , the most common type of adult brain cancer , and nucleotide sequence aberration in 91 of the 206 gbm .
+5						this analysis provide new insight into the role of erbb2 , nf1 and tp53 , uncover frequent mutation of the pi3 kinase regulatory subunit gene pik3r1 , and provide a network view of the pathway alter in the development of GBM .
+6						furthermore , integration of mutation , dna methylation and clinical treatment datum reveal a link between MGMT promoter methylation and a hypermutator phenotype consequent to mismatch repair deficiency in treat glioblastoma , a observation with potential clinical implication .
+7						together , these finding establish the feasibility and power of tcga , demonstrate that it can rapidly expand knowledge of the molecular basis of cancer .
+8						cancer be a disease of genome alteration : dna sequence change , copy number aberration , chromosomal rearrangement , and modification in dna methylation together drive the development and progression of human malignancy .
+9						with the complete sequencing of the human genome and continue improvement of high-throughput genomic technology , it be now feasible to contemplate comprehensive survey of human cancer genome .
+10						the cancer Genome Atlas ( TCGA ) aim to catalogue and discover major cancer cause genome alteration in large cohort of human tumor through integrate multi-dimensional analysis .
+11						the first cancer study by tcga be glioblastoma ( GBM ) , the most common primary brain tumor in adult .
+12						primary gbm , which comprise more than 90 % of biopsy or resected case , arise de novo without antecedent history of low grade disease , whereas secondary GBM progress from previously diagnose low-grade glioma .
+13						patient with newly diagnose GBM have a median survival of approximately one year with generally poor response to all therapeutic modality .
+14						two decade of molecular study have identify important genetic event in human gbm , include ( i ) dysregulation of growth factor signaling via amplification and mutational activation of receptor tyrosine kinase ( rtk ) gene ; ( ii ) activation of the phosphatidyl inositol 3-kinase ( pi3k ) pathway ; and ( iii ) inactivation of the p53 and retinoblastoma tumor suppressor pathway .
+15						recent genome-wide profiling study have also show remarkable genomic heterogeneity among GBM and the existence of molecular subclass within GBM that may , when fully define , allow stratification of treatment - .
+16						albeit fragmentary , such baseline knowledge of GBM genetics set the stage to explore whether novel insight can be gain from a more systematic examination of the GBM genome .
+17						result
+18						as a public resource , all TCGA datum be deposit at the datum coordinate Center ( DCC ) for public access ( http://cancergenome.nih.gov/ ) .
+19						TCGA datum be classify by datum type ( e.g. clinical , mutation , gene expression ) and datum level to allow structured access to this resource with appropriate patient privacy protection .
+20						a overview of the datum organization be provide in method , and a detailed description be available in the TCGA Data primer ( http://tcga-data.nci.nih.gov/docs/tcga_data_primer.pdf ) .
+21						Biospecimen collection
+22						retrospective biospeciman repository be screen for newly diagnose GBM base on surgical pathology report and clinical record .
+23						sample be further select for have match peripheral blood as well as associate demographic , clinical and pathological datum .
+24						correspond frozen tissue be review at the Biospecimen Core Resource ( bcr ) to ensure a minimum of 80 % tumor nucleus and a maximum of 50 % necrosis .
+25						dna and rna extract from qualify biospecimen be subject to additional quality control measurement ( method ) prior to distribution to tcga center for analysis .
+26						after exclusion base on insufficient tumor content ( n = 234 ) and suboptimal nucleic acid quality or quantity ( n = 147 ) , 206 of the 587 biospecimen screen ( 35 % ) be qualify for copy number , expression , and dna methylation analysis .
+27						of these , 143 case have match normal peripheral blood dna and be therefore appropriate for re-sequencing .
+28						this cohort also include 21 post-treatment GBM case use for exploratory comparison .
+29						while it be possible that a small number of progressive secondary gbm be among the remain 185 case of newly diagnose glioblastoma , this cohort represent predominantly primary GBM .
+30						indeed , when compare with publish cohort , overall survival of the newly diagnose glioblastoma case in tcga be similar to that report in the literature ( , p = 0.2 ) - .
+31						genomic and transcriptional aberration
+32						genomic copy number alteration ( cna ) be measure on three microarray platform ( method ) and analyze with multiple analytical algorithm - .
+33						besides the well-known alteration , , , we detect significantly recurrent focal alteration not previously report in gbm , such as homozygous deletion involve nf1 and park2 and amplification of akt3 .
+34						search for informative but infrequent cna also uncover rare focal event , such as amplification of fgfr2 and irs2 and deletion of ptprd .
+35						abundance of protein coding gene and non code microrna be also measure by transcript specific and exon specific probe on multiple platform ( method , and manuscript in preparation ) .
+36						the result integrate gene expression datum set show that ~ 76 % of gene within recurrent cna have expression pattern that correlate with copy number .
+37						in addition , snp base analysis also catalogue copy-neutral loss of heterozygosity ( loh ) , with the most significant region be 17p , which contain tp53 ( method ) .
+38						pattern of somatic nucleotide alteration in GBM
+39						91 match tumor-normal pair ( 72 untreated and 19 treat case ) be select from the 143 case for detection of somatic mutation in 601 select gene .
+40						the result sequence , total 97 million base pair ( 1.1+ / -0.1 million basis per sample ) , uncovered 453 validate non silent somatic mutation ( ; http://tcga-data.nci.nih.gov/docs/somatic_mutations/tcga_mutations.htm ) .
+41						the background mutation rate differ drastically between untreated and treated gbm , average 1.4 versus 5.8 somatic silent mutation per sample ( 98 among 72 untreated vs 111 among 19 treat , p < 10-21 ) , respectively .
+42						this difference be predominantly drive by seven hypermutated sample , as determine by frequency of both silent and non silent mutation .
+43						four of the 7 hypermutated tumor be from patient previously treat with temozolomide and 3 from patient treat with ccnu alone or in combination .
+44						a hypermutator phenotype in GBM have be describe in 3 gbm specimen with msh6 mutation , , prompt we to perform a systematic analysis of the gene involve in mismatch repair ( mmr ) .
+45						indeed , 6 of the 7 hypermutate sample harbor mutation in at least one of the mismatch repair gene mlh1 , msh2 , msh6 , or pms2 , as compare with only one sample among the 84 non hypermutated sample ( p = 7x10-8 ) , suggest a role of decrease dna repair competency in these highly mutate sample derive from treated patient .
+46						by apply a statistical analysis of mutation significance , we identify eight gene as significantly mutate ( false discovery rate ( FDR ) < 10-3 ) .
+47						interestingly , 27 tp53 mutation be detect in the 72 untreated gbm ( 37.5 % ) and 11 mutation in the 19 treat sample ( 58 % ) .
+48						all of those mutation cluster in the dna binding domain , a well-known hotspot for p53 mutation in human cancer .
+49						give the predominance of primary gbm among this newly diagnose collection , that result unequivocally prove that p53 mutation be a common event in primary GBM .
+50						nf1 be a human glioblastoma suppressor gene
+51						although somatic mutation in nf1 have be report in a small series of human gbm tumor , they role remain controversial , despite strong genetic datum in mouse model system , .
+52						here , 19 nf1 somatic mutation be identify in 13 sample ( 14 % of 91 ) , include six nonsense mutation , four splice site mutation , five missense change , and four frameshift indel .
+53						five of these mutation -- r1391 , r1513 * , e25 -1 and e29 +1 , and q1966 * -- have be report as germline alteration in neurofibromatosis patient , thus be likely inactivate .
+54						in addition , 30 heterozygous deletion in nf1 be observe among the entire interim sample set of 206 case , 6 of which also harbor point mutation .
+55						some sample also exhibit loss of expression without evidence of genomic alteration .
+56						overall , at least 47 of these 206 patient sample ( 23 % ) harbor somatic nf1 inactivate mutation or deletion , definitively address nf1 's relevance to sporadic human GBM .
+57						prevalence of egfr family activation
+58						egfr be frequently activate in primary gbm .
+59						"variant iii deletion of the extracellular domain ( so call "" viii mutant "" ) have be the most commonly describe event , in addition to extracellular domain point mutation and cytoplasmic domain deletion ."
+60						.
+61						here , high resolution genomic and exon specific transcriptomic profiling readily detect viii and c-terminal deletion with correspondingly altered transcript .
+62						among the 91 gbm case with somatic mutation datum , 22 harbor focal amplification of wild type egfr with no point mutation , 16 have point mutation in addition to focal amplification , and three have egfr point mutation but no amplification .
+63						collectively , egfr alteration be observe in 41 of the 91 sequence sample .
+64						erbb2 mutation have previously be report in only one GBM tumor .
+65						in the tcga cohort , 11 somatic erbb2 mutation in 7 of 91 sample be validate , include 3 in the kinase domain and two involve v777a , a site of recurrent missense and in-frame insertion mutation in lung , gastric , and colon cancer .
+66						the remain eight mutation ( include seven missense and one splice site mutation ) occur in the extracellular domain of the protein , similar to somatic egfr substitution in GBM .
+67						unlike in breast cancer , focal amplification of erbb2 be not observe in gbm .
+68						somatic mutation of the pi3k complex in human glioblastoma
+69						the pi3 kinase complex be comprise of a catalytically active protein , p110alpha , encode by pik3ca , and a regulatory protein , p85alpha , encode by pik3r1 .
+70						frequent activate missense mutation of pik3ca have be report in multiple tumor type , include GBM , .
+71						these mutation occur primarily in the adaptor binding domain ( ABD ) as well as the c2 helical and kinase domain - .
+72						indeed , pik3ca somatic nucleotide substitution be detect in six of the 91 sequence sample .
+73						"besides the 4 matching event already report in the cosmic database ( http://www.sanger.ac.uk/genetics/cgp/cosmic/ ) , two novel in-frame deletion be detect in the abd of pik3ca ( "" l10del "" and "" p17del "" ) ."
+74						those deletion may disrupt interaction between p110alpha and its regulatory subunit , p85alpha .
+75						unlike pik3ca , pik3r1 have rarely be report as mutate in cancer .
+76						among the five report pik3r1 nucleotide substitution in cancer , , one be in a glioblastoma .
+77						in we tcga cohort , 9 pik3r1 somatic mutation be detect among the 91 sequence gbm .
+78						none of they be in sample with pik3ca mutation .
+79						of the nine mutation , eight lay within the intervene sh2 ( or ish2 ) domain and four be 3-basepair in-frame deletion .
+80	uaz:UA-CLine-5317	GBM	E1,T1	T1	in accord with the crystal structure of pi3 kinase , which identify the d560 and n564 amino acid residue in p85alpha as contact point with the n345 amino acid residue in the c2 domain of p110alpha37 	in accord with the crystal structure of pi3 kinase , which identify the d560 and n564 amino acid residue in p85alpha as contact point with the n345 amino acid residue in the c2 domain of p110alpha , the mutation detect in GBM cluster around those three amino acid residue , include a n345k mutation in pik3ca ( previously report in colon and breast cancer ) and two novel d560 mutation in pik3r1 ( d560y and n564k ) .
+81						we also identify a 18-basepair deletion span residue d560 to s565 ( dkrmn ) in pik3r1 in addition to three other novel deletion ( r574del , t576del , and w583del ) in proximity to the 3 key residue .
+82			E2	T1	spatial constraint due to these deletion might prevent inhibitory contact of p85alpha nsh2 with the helical domain of p110alpha , cause constitutive pi3k activity .	we speculate that spatial constraint due to these deletion might prevent inhibitory contact of p85alpha nsh2 with the helical domain of p110alpha , cause constitutive pi3k activity .
+83			E3	T1	 inhibitory effect of p85alpha on p110alpha 	take together , the pattern of clustering of the mutation around key residue define by the crystal structure of pi3k strongly suggest that these novel pik3r1 point mutation and insertion and deletion disrupt the important c2-ish2 interaction , relieve the inhibitory effect of p85alpha on p110alpha .
+84						MGMT methylation and mmr proficiency in post-treatment gbm
+85						cancer specific dna methylation of cpg dinucleotide located in cpg island within the promoter of 2,305 gene be measure relative to normal brain dna ( ; method ) .
+86						the promoter methylation status of MGMT , a dna repair enzyme that remove alkyl group from guanine residue , be associate with gbm sensitivity to alkylating agent , .
+87						among the 91 sequence case , 19 sample be find to contain mgmt promoter methylation ( include 13 of the 72 untreated and 6 of the 19 treat case ) .
+88						when juxtapose with somatic mutation datum , a intriguing relationship between the hypermutator phenotype and mgmt methylation status emerge in the treated sample .
+89						specifically , MGMT methylation be associate with a profound shift in the nucleotide substitution spectrum of treat gbm .
+90						among the treated sample lack MGMT methylation ( n = 13 ) , 29 % ( 29 and 99 ) of the validate somatic mutation occur as g : c to a : t transition in cpg dinucleotide ( characteristic of spontaneous deamination of methylate cytosine ) , and a comparable 23 % ( 23 and 99 ) of all mutation occur as g : c to a : t transition in non cpg dinucleotide .
+91						in contrast , in the treated sample with mgmt methylation ( n = 6 ) , 81 % of all mutation ( 146 and 181 ) turn out to be of the g : c to a : t transition type in non cpg dinucleotide whereas only 4 % ( 8 and 181 ) of all mutation be g : c to a : t transition mutation within cpg .
+92						that pattern be consistent with a failure to repair alkylate guanine residue cause by treatment .
+93						in other word , MGMT methylation shift the mutation spectrum of treat sample to a preponderance of g : c to a : t transition at non cpg site .
+94						significantly , the mutational spectrum in the mismatch repair ( mmr ) gene themselves reflect MGMT methylation status and treatment consequence .
+95						all seven mutation in mmr gene find in six MGMT methylate hypermutated ( treat ) tumor occur as g : c to a : t mutation at non cpg site , while neither mmr mutation in non methylate hypermutated tumor be of this characteristic .
+96						hence , these datum show that mmr deficiency and mgmt methylation together , in the context of treatment , exert a powerful influence on the overall frequency and pattern of somatic point mutation in GBM tumor , a observation of potential clinical importance .
+97						integrative analysis define core pathway require for GBM pathogenesis
+98						to begin to construct a integrated view of common genetic alteration in the GBM genome , we map the unequivocal genetic alteration -- validate somatic nucleotide substitution , homozygous deletion and focal amplification -- onto major pathway implicate in GBM .
+99						that analysis identify a highly interconnected network of aberration , include three major pathway : receptor tyrosine kinase ( rtk ) signaling , and the p53 and rb tumor suppressor pathway .
+100						by copy number datum alone , 66 % , 70 % and 59 % of the 206 sample harbor somatic alteration of the rb , tp53 and rtk pathway , respectively .
+101						in the 91 sample for which there be also sequencing datum , the frequency of somatic alteration increase to 87 % , 78 % and 88 % , respectively .
+102						there be a statistical tendency toward mutual exclusivity of alteration of component within each pathway ( p-value of 9.3x10-10 , 2.5x10-13 , and 0.022 , respectively for the p53 , rb , and rtk pathway ; ) , consistent with the thesis that deregulation of one component in the pathway relieve the selective pressure for additional one .
+103						however , we observe a greater than random chance ( one tail p = 0.0018 ) that a given sample harbor at least one aberrant gene from each of the three pathway .
+104						in fact , 74 % harbor aberration in all three pathway , a pattern suggest that deregulation of the three pathway be a core requirement for glioblastoma pathogenesis .
+105						besides frequent deletion and mutation of the pten lipid phosphatase tumor suppressor gene , 86 % of the GBM sample harbor at least one genetic event in the core rtk and pi3k pathway .
+106						in addition to egfr and erbb , pdgfra ( 13 % ) and met ( 4 % ) show frequent aberration .
+107						10 of the 91 sequence sample have amplification or point mutation in at least two of the four rtk catalogue ( egfr , erbb2 , pdgfra and met ) , suggest genomic activation can be a mechanism for co-activated rtk .
+108						inactivation of the p53 pathway occur in the form of arf deletion ( 55 % ) , amplification of mdm2 ( 11 % ) and mdm4 ( 4 % ) , in addition to mutation of p53 itself .
+109						among 91 sequence sample , genetic lesion in tp53 be mutually exclusive of those in mdm2 or mdm4 ( odds ratio of 0.00 for both ; p = 0.02 and 0.068 , respectively ; ) , but not of those in arf .
+110						in fact , 10 of the 32 tumor with tp53 mutation also delete arf , suggest that homozygous deletion of the cdkn2a locus ( which encode both p16ink4a and arf ) be at least in part drive by p16ink4a .
+111						among the 77 % sample harbor rb pathway aberration , the most common event be deletion of the cdkn2a and cdkn2b locus on chromosome 9p21 ( 55 % and 53 % ) , follow by amplification of the cdk4 locus ( 14 % ) .
+112						although copy number alteration in the cdk and rb pathway member can co-occur in the same tumor , all nine sample with rb1 nucleotide substitution lack cdkn2a and b deletion or other copy number alteration in the pathway , suggest that inactivation of rb1 by nucleotide substitution , in contrast to copy number loss , obviate the genetic pressure for activation of upstream cyclin and cyclin-dependent kinase .
+113						.
+114						discussion
+115						in establish this pilot program , tcga have develop important principle in biospecimen banking and collection ( manuscript in preparation ) , and establish the infrastructure that will serve similar effort in the future .
+116						although it ensure high quality datum , the stringent biospeciman selection criterion may have introduce a degree of bias because small sample and sample with high level of necrosis be exclude .
+117						nonetheless , the clinical parameter of this cohort be similar to other publish cohort .
+118						the integrated analysis of multi-dimensional genomic datum from complementary technology platform have prove informative .
+119						in addition to pinpoint deregulation of rb , p53 and rtk/ras/pi3k pathway as obligatory event in most , and perhaps all , GBM tumor , the pattern of mutation may also inform future therapeutic decision .
+120						it would be reasonable to speculate that patient with deletion or inactivate mutation in cdkn2a or cdkn2c or patient with amplification of cdk4 and cdk6 would be candidate for treatment with cdk inhibitor , a strategy not likely to be effective in patient with rb1 mutation .
+121						similarly , patient with pten deletion or activate mutation in pik3ca or pik3r might be expect to benefit from a pi3 kinase or pdk1 inhibitor , while tumor in which the pi3 kinase pathway be alter by akt3 amplification might prove refractory to those modality .
+122						the presence of genomic co-amplification reinforce the recent report of multiple phosphorylate ( activate ) rtk in individual GBM specimen , suggest a way to tailor anti-rtk therapeutic cocktail to specific pattern of rtk mutation .
+123						in addition , combination anti-rtk therapy might synergize with downstream inhibition of pi3k or cell cycle mediator .
+124						in contrast , gbm with nf1 mutation might benefit from a raf or mek inhibitor as part of a combination , as show for braf mutant cancer .
+125						one of the most important biomarker for GBM be the methylation status of MGMT , which predict sensitivity to temozolomide , , a alkylating agent that be the current standard of care for GBM patient .
+126						integrative analysis of mutation , dna methylation and clinical ( treatment ) datum , albeit with small sample number , suggest a series of inter related event that may impact clinical response and outcome .
+127						newly diagnose glioblastoma with mgmt methylation respond well to treatment with alkylating agent , in part as a consequence of unrepaired alkylate guanine residue initiate cycle of futile mismatch repair , which can lead to cell death - .
+128						therefore , treatment of MGMT deficient gbm with alkylate therapy introduce a strong selective pressure to lose mismatch repair function .
+129						that conclusion be consistent with we observation that the mismatch repair gene themselves be mutate with characteristic c : g -- > a : t transition at non cpg site result from unrepaired alkylate guanine residue .
+130						thus , initial methylation of MGMT , in conjunction with treatment , may lead to both a shift in mutation spectrum affect mutation at mismatch repair gene and selective pressure to lose mismatch repair function .
+131						in other word , we finding raise the possibility that patient who initially respond to the frontline therapy in use today may evolve not only treatment resistance , but also a mmr defective hypermutator phenotype .
+132						if such a mechanism indeed underlie emergence of mmr defective resistance , one may speculate that selective strategy target mismatch-repair deficiency would represent a rational upfront combination that may prevent or minimize emergence of such resistance .
+133						validation of this hypothesis will have immediate clinical impact and implication for therapeutic design .
+134						for one , it suggest that treatment mediate mutator phenotype may lead to pathway mutation that confer resistance to new target therapy thereby raise the concern that combined or serial treatment with alkylating agent and pathway target therapy may substantially increase the probability of develop resistance to such target drug .
+135						in conclusion , the power of tcga to produce unprecedented multi-dimensional datum set employ statistically robust number of sample set the stage for a new era in the discovery of new cancer intervention .
+136						the integrative analysis lead to formulation of a unanticipated hypothesis on a potential mechanism of resistance highlight precisely the value and power of such project design , demonstrate how unbiased and systematic cancer genome analysis of large sample cohort can lead to paradigm shift discovery .
+137						Method Summary
+138						biospecimen be screen from retrospective bank of tissue source site under appropriate irb approval for newly diagnose gbm with minimal 80 % tumor cell percentage .
+139						rna and dna extract from qualify specimen be distribute to tcga center for analysis .
+140						whole genome amplify genomic dna sample from tumor and normal be sequence by the Sanger method .
+141						mutation be call , verify use a second genotyping platform , and systematically analyze to identify significantly mutate gene after correct for the background mutation rate for nucleotide type and the sequence coverage of each gene .
+142						dna copy number analysis be perform use the Agilent 244K , Affymetrix SNP6 .0 , and Illumina 550k dna copy number platform .
+143						sample specific and recurrent copy number change be identify use various algorithm ( GISTIC , GTS , RAE ) .
+144						mrna and mirna expression profile be generate use Affymetrix U133A , Affymetrix Exon 1.0 st , custom Agilent 244K , and Agilent miRNA array platform .
+145						mrna expression profile be integrate into a single estimate of relative gene expression for each gene in each sample .
+146						methylation at cpg dinucelotide be measure use the Illumina GoldenGate assay .
+147						all datum for dna sequence alteration , copy number , mrna expression , mirna expression , and cpg methylation be deposit in standard common format in the TCGA dcc at http://cancergenome.nih.gov/dataportal/ .
+148						all archive submit to DCC be validate to ensure a common document structure and to ensure proper use of identify information .
+149						the cancer Genome Atlas ( TCGA ) Research Network
+150						tissue source site
+151						Duke University Medical School
+152						Roger McLendon ( 6 ) , Allan Friedman ( 7 ) , Darrell Bigner ( 6 ) , Emory University : Erwin G Van Meir ( 45,46,47 ) , Daniel J Brat ( 47,48 ) , Gena Marie Mastrogianakis ( 45 ) , Jeffrey J Olson ( 45,46,47 ) Henry Ford Hospital : Tom Mikkelsen ( 8 ) , Norman Lehman ( 50 ) , MD Anderson Cancer Center : Ken Aldape ( 10 ) , W.K. Alfred Yung ( 11 ) , Oliver Bogler ( 12 ) , University of California San Francisco : Scott VandenBerg ( 9 ) , Mitchel Berger ( 51 ) , Michael Prados ( 51 )
+153						Genome sequencing Centers
+154						Baylor College of Medicine
+155						Donna Muzny ( 34 ) , Margaret Morgan ( 34 ) , Steve Scherer ( 34 ) , Aniko Sabo ( 34 ) , Lynn Nazareth ( 34 ) , Lora Lewis ( 34 ) , Otis Hall ( 34 ) , Yiming Zhu ( 34 ) , Yanru Ren ( 34 ) , Omar Alvi ( 34 ) , Jiqiang Yao ( 34 ) , Alicia Hawes ( 34 ) , Shalini Jhangiani ( 34 ) , Gerald Fowler ( 34 ) , Anthony San Lucas ( 34 ) , Christie Kovar ( 34 ) , Andrew Cree ( 34 ) , Huyen Dinh ( 34 ) , Jireh Santibanez ( 34 ) , Vandita Joshi ( 34 ) , Manuel L. Gonzalez-Garay ( 34 ) , Christopher A. Miller ( 34,36 ) , Aleksandar Milosavljevic ( 34,36,37 ) , Larry Donehower ( 35 ) , David A. Wheeler ( 34 ) , Richard A. Gibbs ( 34 ) , Broad Institute of MIT and Harvard : Kristian Cibulskis ( 52 ) , Carrie Sougnez ( 53 ) , Tim Fennell ( 54 ) , Scott Mahan ( 59 ) , Jane Wilkinson ( 55 ) , Liuda Ziaugra ( 56 ) , Robert Onofrio ( 56 ) , Toby Bloom ( 57 ) , Rob Nicol ( 58 ) , Kristin Ardlie ( 59 ) , Jennifer Baldwin ( 55 ) , Stacey Gabriel ( 56 ) , Eric Lander ( 4,60,61 ) , Washington University in Saint Louis : Li Ding ( 19 ) , Robert S. Fulton ( 19 ) , Michael D. McLellan ( 19 ) , John Wallis ( 19 ) , David E. Larson ( 19 ) , Xiaoqi Shi ( 19 ) , Rachel Abbott ( 19 ) , Lucinda Fulton ( 19 ) , Ken Chen ( 19 ) , Daniel C. Koboldt ( 19 ) , Michael C. Wendl ( 19 ) , Rick Meyer ( 19 ) , Yuzhu Tang ( 19 ) , Ling Lin ( 19 ) , John R. Osborne ( 19 ) , Brian H. Dunford-Shore ( 19 ) , Tracie L. Miner ( 19 ) , Kim Delehaunty ( 19 ) , Chris Markovic ( 19 ) , Gary Swift ( 19 ) , William Courtney ( 19 ) , Craig Pohl ( 19 ) , Scott Abbott ( 19 ) , Amy Hawkins ( 19 ) , Shin Leong ( 19 ) , Carrie Haipek ( 19 ) , Heather Schmidt ( 19 ) , Maddy Wiechert ( 19 ) , Tammi Vickery ( 19 ) , Sacha Scott ( 19 ) , David J. Dooling ( 19 ) , Asif Chinwalla ( 19 ) , George M. Weinstock ( 19 ) , Elaine R. Mardis ( 19 ) , Richard K. Wilson ( 19 )
+156						Cancer Genome characterization Centers
+157						Broad Institute and Dana-Farber Cancer Institute
+158						Gad Getz ( 4 ) , wendy Winckler ( 4,5 ) , Roel G.W. Verhaak ( 4,5 ) , Michael S. Lawrence ( 4 ) , Michael O'Kelly ( 4 ) , Jim Robinson ( 4 ) , Gabriele Alexe ( 4 ) , Rameen Beroukhim ( 4,5 ) , Scott Carter ( 4 ) , Derek Chiang ( 4,5 ) , Josh Gould ( 4 ) , Supriya Gupta ( 4 ) , Josh Korn ( 4 ) , Craig Mermel ( 4,5 ) , Jill Mesirov ( 4 ) , Stefano Monti ( 4 ) , Huy Nguyen ( 4 ) , Melissa Parkin ( 4 ) , Michael Reich ( 4 ) , Nicolas Stransky ( 4 ) , Barbara A. Weir ( 4,5 ) , Levi Garraway ( 4,5 ) , Todd Golub ( 4,62 ) , Matthew Meyerson ( 4,5 ) Harvard Medical School and Dana-Farber Cancer Institute : Lynda Chin ( 1,2,3 ) , Alexei Protopopov ( 2 ) , Jianhua Zhang ( 2 ) , Ilana Perna ( 2 ) , Sandy Aronson ( 21 ) , Narayan Sathiamoorthy ( 21 ) , Georgia Ren ( 2 ) , jun Yao ( 2 ) , Hyunsoo Kim ( 21 ) , Sek Won Kong ( 23,71 ) Yonghong Xiao ( 2 ) , Isaac S. Kohane ( 21,22,23 ) , Jon Seidman ( 63 ) , Peter J. Park ( 21,22,23 ) , Raju Kucherlapati ( 21 ) John Hopkins and University of Southern California : Peter W. Laird ( 49 ) , Leslie cope ( 43 ) , James G. Herman ( 42 ) , Daniel J. Weisenberger ( 49 ) , Fei Pan ( 49 ) , David Van Den Berg ( 49 ) , Leander Van Neste ( 44 ) , Joo Mi Yi ( 42 ) , Kornel E. Schuebel ( 42 ) , Stephen B. Baylin ( 42 ) HudsonAlpha Institute and Stanford University : Devin M. Absher ( 64 ) , jun Z. Li ( 70 ) , Audrey Southwick ( 32 ) , Shannon Brady ( 32 ) , Amita Aggarwal ( 32 ) , Tisha Chung ( 32 ) , Gavin Sherlock ( 32 ) , James D. Brooks ( 33 ) , Richard M. Myers ( 64 ) Lawrence Berkeley National Laboratory : Paul T. Spellman ( 28 ) , Elizabeth Purdom ( 29 ) , Lakshmi R. Jakkula ( 28 ) , Anna V. Lapuk ( 28 ) , Henry Marr ( 28 ) , Shannon Dorton ( 28 ) , Yoon gi Choi ( 30 ) , Ju Han ( 28 ) , Amrita Ray ( 28 ) , Victoria Wang ( 29 ) , Steffen Durinck ( 28 ) , Mark Robinson ( 31 ) , Nicholas J. Wang ( 28 ) , Karen Vranizan ( 30 ) , Vivian Peng ( 30 ) , Eric Van name ( 30 ) , Gerald V. Fontenay ( 28 ) , John Ngai ( 30 ) , John G. Conboy ( 28 ) , Bahram Parvin ( 28 ) , Heidi S. Feiler ( 28 ) , Terence P. speed ( 29,31 ) , Joe W. Gray ( 28 ) Memorial Sloan Kettering Cancer Center : Cameron Brennan ( 24 ) , Nicholas D. Socci ( 25 ) , Adam Olshen ( 65 ) , Barry S. Taylor ( 25,26 ) , Alex Lash ( 25 ) , Nikolaus Schultz ( 25 ) , Boris Reva ( 25 ) , Yevgeniy Antipin ( 25 ) , Alexey Stukalov ( 25 ) , Benjamin Gross ( 25 ) , Ethan Cerami ( 25 ) , Wei Qing Wang ( 25 ) , Li-Xuan Qin ( 65 ) , Venkatraman E. Seshan ( 65 ) , Liliana Villafania ( 66 ) , Magali Cavatore ( 66 ) , Laetitia Borsu ( 27 ) , Agnes Viale ( 66 ) , William Gerald ( 27 ) , Chris Sander ( 25 ) , Marc Ladanyi ( 27 ) University of North Carolina , chapel Hill : Charles M. Perou ( 38,39 ) , D. Neil Hayes ( 40 ) , Michael D. Topal ( 39 ) , Katherine A. Hoadley ( 38 ) , Yuan Qi ( 40 ) , Sai Balu ( 41 ) , Yan Shi ( 41 ) , George Wu ( 41 )
+159						Biospecimen Core Resource
+160						Robert Penny ( 17 ) , Michael Bittner ( 67 ) , Troy Shelton ( 17 ) , Elizabeth Lenkiewicz ( 17 ) , Scott Morris ( 17 ) , Debbie Beasley ( 17 ) , Sheri Sanders ( 17 )
+161						datum coordinate Center
+162						Ari Kahn ( 13 ) , Robert Sfeir ( 13 ) , Jessica Chen ( 13 ) , David Nassau ( 13 ) , Larry Feng ( 13 ) , Erin Hickey ( 13 ) , Carl Schaefer ( 68 ) , Subha Madhavan ( 68 ) , Ken Buetow ( 68 )
+163						project team
+164						National Cancer Institute Anna Barker ( 16 ) , Daniela Gerhard ( 16 ) , Joseph Vockley ( 16 ) , Martin Ferguson ( 18 ) , Carolyn Compton ( 16 ) , Jim Vaught ( 16 ) , Peter Fielding ( 16 ) National Human Genome Research Institute : Francis Collins ( 15 ) , Peter Good ( 15 ) , Mark Guyer ( 15 ) , Brad Ozenberger ( 15 ) , Jane Peterson ( 15 ) & Elizabeth Thomson ( 15 ) .
+165						affiliation for participant :
+166						1 ) Department of Medical Oncology , Dana-Farber Cancer Institute ; Boston , Massachusetts 02115 , USA
+167						2 ) Center for Applied Cancer Science of the Belfer Institute for innovative cancer science , Dana-Farber Cancer Institute , Boston , Massachusetts 02115 , USA
+168						3 ) Department of Dermatology , Harvard Medical School , Boston , Massachusetts 02115 , USA
+169						4 ) the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , USA
+170						5 ) Department of Medical Oncology , Dana-Farber Cancer Institute , Boston , Massachusetts 02115 , USA
+171						6 ) Department of Pathology , Duke University Medical Center , Durham , North Carolina 27710 , USA
+172						7 ) Department of Surgery , Duke University Medical Center , Durham , North Carolina 27710 , USA
+173						8 ) Departments of neurological surgery , Henry Ford Hospital , Detroit , MI 48202 , USA
+174						9 ) Department of Pathology , University of California San Francisco , San Francisco , California 94143 , USA
+175						10 ) Department of Pathology , University of Texas M.D. Anderson Cancer Center , Houston , Texas 77030 , USA
+176						11 ) Department of Neuro-Oncology , University of Texas M.D. Anderson Cancer Center , Houston , Texas 77030 , USA
+177						12 ) Department of Neurosurgery , University of Texas M.D. Anderson Cancer Center , Houston , Texas 77030 , USA
+178						13 ) SRA International , Fairfax , VA 22033 , USA
+179						14 ) Center for Biomedical Informatics and Informational Technology , National Cancer Institute , Rockville , Maryland 20852 , USA
+180						15 ) National Human Genome Research Institute , National Institutes of Health , Bethesda , Maryland 20892 , USA
+181						16 ) National Cancer Institute , National Institutes of Health , Bethesda , Maryland 20892 , USA
+182						17 ) International Genomics Consortium , Phoenix , AZ 85004 USA
+183						18 ) MLF Consulting , Arlington , MA 02474 USA
+184						19 ) the Genome Center at Washington University , Department of Genetics , Washington University School of Medicine , St. Louis , Missouri 63108 , USA
+185						20 ) the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins , Baltimore , Maryland 21231 , USA
+186						21 ) Harvard Medical School-Partners HealthCare Center for Genetics and Genomics , Boston , MA 02115 , USA
+187						22 ) Center for Biomedical Informatics , Harvard Medical School , Boston , MA 02115 , USA
+188						23 ) Informatics Program , Children 's Hospital , Boston , MA 02115 USA
+189						24 ) Department of Neurosurgery , Memorial-Sloan Kettering Cancer Center , New York , NY 10065 , USA
+190						25 ) Computational Biology Center , Memorial Sloan Kettering Cancer Center , New York , NY 10065 USA
+191						26 ) Department of Physiology and Biophysics , Weill Cornell Graduate School of Medical Sciences , New York , NY 10065 USA
+192						27 ) Department of Pathology , Human Oncology and Pathogenesis Program , Memorial Sloan Kettering Cancer Center , New York , NY 10065
+193						28 ) Life Sciences Division , Lawrence Berkeley National Laboratory , Berkeley , California 94720 , USA
+194						29 ) Department of Statistics , University of California at Berkeley , Berkeley , California 95720 , USA
+195						30 ) Department of molecular and cellular Biology , University of California at Berkeley , Berkeley , California 95720 , USA
+196						31 ) Walter and Eliza Hall Institute , Parkville , Vic 3052 , Australia .
+197						32 ) Department of Genetics , Stanford University School of Medicine , Stanford , California 94305 , USA
+198						33 ) Department of Urology , Stanford University School of Medicine , Stanford , California 94305 , USA
+199						34 ) human Genome sequencing Center , Baylor College of Medicine , Houston , Texas 77030 , USA
+200						35 ) Department of molecular Virology and Microbiology , human Genome sequencing Center , Baylor College of Medicine , Houston , Texas 77030 , USA
+201						36 ) Graduate Program in Structural and Computational Biology and molecular biophysic , Baylor College of Medicine , Houston , TX 77030 , USA
+202						37 ) Department of molecular and human Genetics , Baylor College of Medicine , Houston , TX 77030 , USA
+203						38 ) Department of Genetics , Lineberger Comprehensive Cancer Center , University of North Carolina at chapel Hill , chapel Hill , NC 27599 , USA
+204						39 ) Department of Pathology and Laboratory Medicine , Lineberger Comprehensive Cancer Center , University of North Carolina at chapel Hill , chapel Hill , NC 27599 , USA
+205						40 ) Department of Internal Medicine , Division of Medical Oncology , Lineberger Comprehensive Cancer Center , University of North Carolina at chapel Hill , chapel Hill , NC 27599 , USA
+206						41 ) Lineberger Comprehensive Cancer Center , University of North Carolina at chapel Hill , chapel Hill , NC 27599 , USA
+207						42 ) cancer Biology Division , the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University , Baltimore , Maryland 21231 , USA
+208						43 ) Biometry and clinical trial division , the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University , Baltimore , Maryland 21231 , USA
+209						44 ) Department of molecular biotechnology , Faculty of Bioscience and Engineering , Ghent University , Ghent B-9000 , Belgium .
+210						45 ) Department of Neurosurgery , Emory University School of Medicine , Atlanta , Georgia 30322 , USA
+211						46 ) Department of Hematology and Medical Oncology , Emory University School of Medicine , Atlanta , Georgia 30322 , USA
+212						47 ) Winship Cancer Institute , Emory University School of Medicine , Atlanta , Georgia 30322 , USA
+213						48 ) Department of Pathology and Laboratory Medicine , Emory University School of Medicine , Atlanta , Georgia 30322 , USA
+214						49 ) University of Southern California Epigenome Center , University of Southern California , Los Angeles , California 90089 , USA
+215						50 ) Department of Pathology , Henry Ford Hospital , Detroit , MI 48202 USA
+216						51 ) Department of Neurosurgery , University of California San Francisco , San Francisco , CA 94143 USA
+217						52 ) Medical sequencing analysis and informatics , the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , 02142 usa
+218						53 ) cancer Genome & Medical Resequencing Projects , the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , 02142 usa
+219						54 ) Directed sequencing informatics , the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , 02142 usa
+220						55 ) sequencing platform , the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , 02142 usa
+221						56 ) genetic analysis platform , the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , 02142 usa
+222						57 ) sequencing platform informatics , the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , 02142 usa
+223						58 ) sequencing platform production , the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , 02142 usa
+224						59 ) biological sample platform , the Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology and Harvard University , Cambridge , MA , 02142 usa
+225						60 ) Department of Biology , Institute of Massachusetts Institute of Technology , Cambridge , MA , 02142 usa
+226						61 ) Department of Systems Biology , Harvard University , Boston , MA , 02115 usa
+227						62 ) Department of Pediatric Oncology , Dana-Farber Cancer Institute , Boston MA 02115 USA
+228						63 ) Department of Genetics , Harvard Medical School , Boston , MA , 02115 usa
+229						64 ) HudsonAlpha Institute for Biotechnology , Huntsville , AL 35806 USA
+230						65 ) Department of Epidemiology and Biostatistics , Memorial Sloan Kettering Cancer Center , New York , NY 10065 USA
+231						66 ) genomic Core Laboratory , Memorial Sloan Kettering Cancer Center , New York , NY 10065 USA
+232						67 ) Computational Biology Division , translational Genomics Research Institute , Phoenix , AZ 85004 USA
+233						68 ) center for biomedical informatics and Information Technology , National Cancer Institute , Rockville , MD 20852 USA
+234						69 ) Department of Bioinformatics and Computational Biology , M.D. Anderson Cancer Center , Houston , TX 77030 USA
+235						70 ) Department of human Genetics , University of Michigan , Ann Arbor , MI 48109 USA
+236						71 ) Department of Cardiology , Children 's Hospital , Boston , MA 02115 USA
+237						Supplementary Material
+238						1
+239						full method and any associated reference be available in the online version of the manuscript at www.nature.com/nature .
+240						figure
+241						Figure 1
+242						significant copy number aberration and pattern of somatic mutation
+243						frequency and significance of focal high-level copy-number alteration .
+244						"know and putative target gene be list for each significant CNA , with "" Number of gene "" denote the total number of gene within each focal CNA boundary ."
+245						( b-c ) distribution of the number of ( b ) silent and ( c ) non silent mutation across the 91 gbm sample separate accord to they treatment status , show hypermutation in 7 out of the 19 treat sample .
+246						significantly mutate gene in 91 glioblastoma .
+247						the eight gene attain a false discovery rate < 0.1 be display here .
+248						somatic mutation occur in untreated sample be in dark blue ; those find in statistically non hypermutated and hypermutated sample among the treated cohort be in respectively lighter shades of blue .
+249						figure 2
+250						mutation in nf1 tumor suppressor gene and egfr family member
+251						nf1 somatic mutation in 91 glioblastoma tumor .
+252						both missense mutation and truncating nonsense , frameshift , and splice site mutation be observe .
+253						splice position be give in number of basis to the closest exon ( e # ) number accord to the nf1 reference transcript in the human gene mutation database ; positive = 3 ' of exon , negative = 5 ' of exon .
+254						* : stop codon .
+255						f : frameshift .
+256						( b ) correlation of copy number and mutation status at the nf1 locus with level of expression ( y axis ) .
+257						mutation event predict to result in fewer express copy ( include deletion , nonsense , splice site , and frameshift mutation ) generally have lower observe expression .
+258						homodel = homozygous deletion ; hemidel = single-copy loss ; Neutral = no change in copy number ( presumed diploid ) ; amp = increase copy number .
+259						copy number status of the nf1 locus in each sample be determine as describe in the Supplementary Information .
+260						( c ) .
+261						dna copy number and mrna expression profile for tcga sample tcga-08-0356 ( red ) , tcga-02-0064 ( blue ) , and tcga-02-0529 ( green ) at the egfr locus .
+262						the upper panel show the segmented dna copy number ( base on Affymetrix SNP6 .0 datum ) versus genomic coordinate on chromosome 7 .
+263						the lower panel show relative exon expression level across the known egfr exon from the Affymetrix Exon array order by genomic position , where relative expression be the median centered difference in exon intensity and gene intensity .
+264						the egfr gene model lie between the two plot .
+265						black line map the genomic position of exon 2 through 7 and 26 through 28 .
+266						note that structural deletion cause the relatively lower expression of exon 2-7 in the green and blue sample and exon 26-28 in the red sample .
+267						erbb2 somatic mutation in 91 glioblastoma tumor .
+268						mutation cluster in the extracellular domain in both gene .
+269						splice site mutation position be give in number of basis to the closest exon ( e # ) ; positive = 3 ' of exon .
+270						Figure 3
+271						pik3r1 and pik3ca mutation in GBM
+272						.
+273						diamond above the backbone indicate the location of mutation find in tcga tumor .
+274						ABD : adaptor binding domain ; RDB : ra binding domain ; c2 : membrane binding domain ; ish2 : intervene domain .
+275						( b ) .
+276						four mutation find in the interaction interface of the p110alpha ; c2 domain with ish2 of p85 alpha .
+277						two residue of p85 alpha , d560 and n564 , be within hydrogen bonding distance of the c2 residue of p110 alpha , n345 .
+278						Figure 4
+279						pattern of somatic mutation , MGMT DNA methylation , and mmr gene mutation in treated gbm
+280						.
+281						the mean number of validate somatic nucleotide substitution per tumor for key sample group be indicate on the y-axis and denote by the height of the bar histogram .
+282						sample be group along the x-axis accord to treatment status of the patient ( - = untreated ; + = treated ) , dna methylation status of MGMT ( meth = dna methylate ; - = not methylate ) , and genetic status of mmr gene - = no gene mutate and mut = one or more of the mlh1 , msh2 , msh6 , or pms2 gene mutate ) ; the number below each bar indicate the number of sample in the group .
+283						bar be color code for type of nucleotide substitution include g-to-a transition at non cpg site ( orange ) , g-to-a transition at cpg site ( blue ) , and other mutation type ( green ) .
+284						( b ) .
+285						bar histogram for mutation spectrum in the mmr gene as a function of treatment status , and methylation status of MGMT .
+286						the color code for substitution type be the same as in .
+287						Figure 5
+288						frequent genetic alteration in three critical signaling pathway
+289						primary sequence alteration and significant copy number change for component of the rtk/ras/pi -3 K , ( b ) p53 , and ( c ) rb signaling pathway be show .
+290						Red indicate activate genetic alteration , with frequently altered gene show deeper shades of red .
+291						conversely , blue indicate inactivate alteration , with darker shades correspond to a higher percentage of alteration .
+292						for each altered component of a particular pathway , the nature of the alteration and the percentage of affected tumor affect be indicate .
+293						Blue box contain the final percentage of glioblastoma with alteration in at least one known component gene of the designated pathway .

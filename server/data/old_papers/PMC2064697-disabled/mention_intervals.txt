@@ -1,0 +1,502 @@
+0 
+1 
+1 
+2 8-8-chromosomes-go:GO:0005694
+3 17-17-chromosomes-go:GO:0005694
+4 
+5 
+6 
+7 
+8 
+9 
+9 
+10 
+10 1-1-human-taxonomy:9606 18-18-telomere-uniprot:SL-0276
+11 
+12 
+13 
+13 
+14 
+15 
+16 15-15-telomere-uniprot:SL-0276
+17 
+17 
+18 
+19 
+20 
+21 
+21 
+22 
+23 2-2-nucleus-go:GO:0005634
+24 
+25 
+26 
+27 17-17-mouse-taxonomy:10090 18-18-lymphocytes-uaz:UA-CT-22 24-24-lymphoma-tissuelist:TS-0585
+28 
+29 
+29 
+30 
+31 
+32 
+32 
+33 
+33 5-5-chromosomes-go:GO:0005694
+34 
+34 13-13-nucleus-go:GO:0005634 18-18-WI-38-uaz:UA-CLine-888
+35 
+36 
+37 
+37 
+38 
+38 7-7-chromosome-go:GO:0005694
+39 9-10-X_chromosomes-go:GO:0000805
+40 9-9-WI-38-uaz:UA-CLine-888 10-10-nucleus-go:GO:0005634
+41 2-3-X_chromosomes-go:GO:0000805
+42 4-4-WI-38-uaz:UA-CLine-888
+43 7-7-WI-38-uaz:UA-CLine-888
+44 
+45 
+46 
+47 
+48 
+49 6-6-WI-38-uaz:UA-CLine-888 15-15-chromosome-go:GO:0005694
+50 7-7-chromosomes-go:GO:0005694
+51 
+52 9-9-chromosome-go:GO:0005694
+53 
+54 
+55 
+55 8-9-X_chromosomes-go:GO:0000805 11-11-WI-38-uaz:UA-CLine-888 14-14-fibroblasts-uaz:UA-CLine-100060 29-29-chromosomes-go:GO:0005694
+56 5-5-chromosomes-go:GO:0005694 12-12-chromosome-go:GO:0005694
+57 6-6-centromeres-uniprot:SL-0047 13-13-chromosome-go:GO:0005694 17-17-human-taxonomy:9606 18-18-lymphocytes-uaz:UA-CT-22 20-20-human-taxonomy:9606 21-21-fibroblasts-uaz:UA-CLine-100060
+58 7-7-centromeres-uniprot:SL-0047 12-12-WI-38-uaz:UA-CLine-888
+59 
+60 
+61 9-9-chromosomes-go:GO:0005694
+62 
+62 10-10-chromosome-go:GO:0005694
+63 4-4-nucleus-go:GO:0005634 9-9-WI-38-uaz:UA-CLine-888 17-17-chromosome-go:GO:0005694
+64 14-14-chromosome-go:GO:0005694
+65 
+65 
+66 
+66 10-10-chromosomes-go:GO:0005694
+67 6-6-nucleus-go:GO:0005634
+68 3-3-WI-38-uaz:UA-CLine-888 15-15-nucleus-go:GO:0005634
+69 4-4-WI-38-uaz:UA-CLine-888
+70 
+71 
+72 
+72 
+73 
+73 
+74 7-7-WI-38-uaz:UA-CLine-888
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+81 
+82 3-3-WI-38-uaz:UA-CLine-888
+83 
+84 
+85 
+86 
+87 
+88 
+88 
+89 
+89 38-38-chromosomes-go:GO:0005694
+90 
+91 
+91 28-28-WI-38-uaz:UA-CLine-888
+92 28-28-WI-38-uaz:UA-CLine-888 35-35-WI-38-uaz:UA-CLine-888 36-36-chromosomes-go:GO:0005694 39-39-HeLa-uaz:UA-CLine-5369
+93 37-37-WI-38-uaz:UA-CLine-888 51-52-HeLa_cells-tissuelist:TS-0136
+94 18-18-WI-38-uaz:UA-CLine-888 33-33-HeLa-uaz:UA-CLine-5369
+95 19-19-chromosomes-go:GO:0005694
+96 
+97 45-45-WI-38-uaz:UA-CLine-888
+98 
+98 
+99 
+99 
+100 7-7-WI-38-uaz:UA-CLine-888 12-13-HeLa_cells-tissuelist:TS-0136
+101 1-1-WI-38-uaz:UA-CLine-888 5-5-HeLa-uaz:UA-CLine-5369
+102 3-3-WI-38-uaz:UA-CLine-888
+103 0-1-HeLa_cells-tissuelist:TS-0136
+104 
+105 
+106 
+107 
+107 
+108 
+108 19-19-WI-38-uaz:UA-CLine-888
+109 
+110 
+111 
+112 
+113 
+113 
+114 
+114 
+115 8-8-WI-38-uaz:UA-CLine-888
+116 
+117 19-19-WI-38-uaz:UA-CLine-888
+118 9-9-human-taxonomy:9606
+119 
+120 
+121 
+122 
+123 
+124 11-11-WI-38-uaz:UA-CLine-888
+125 0-1-HeLa_cells-tissuelist:TS-0136
+126 
+127 11-11-serum-tissuelist:TS-0923
+128 
+129 
+130 
+131 
+132 
+133 
+133 22-22-rabbit-taxonomy:9986 24-24-sheep-taxonomy:9940
+134 3-3-rabbit-taxonomy:9986 12-12-sheep-taxonomy:9940
+135 
+136 17-17-WI-38-uaz:UA-CLine-888
+137 
+137 
+138 6-7-HeLa_cells-tissuelist:TS-0136 23-24-HeLa_cells-tissuelist:TS-0136 35-35-WI-38-uaz:UA-CLine-888
+139 16-16-sheep-taxonomy:9940
+140 16-16-WI-38-uaz:UA-CLine-888
+141 
+141 14-14-WI-38-uaz:UA-CLine-888 30-30-sheep-taxonomy:9940
+142 11-11-serum-tissuelist:TS-0923 19-19-WI-38-uaz:UA-CLine-888
+143 
+144 
+145 
+146 
+146 
+147 
+147 10-10-human-taxonomy:9606 11-11-fibroblasts-uaz:UA-CLine-100060 13-13-MRC-5-uaz:UA-CLine-6350 15-15-IMR-90-uaz:UA-CLine-7214 18-18-BJ-uaz:UA-CLine-6977
+148 11-11-MRC-5-uaz:UA-CLine-6350 13-13-IMR-90-uaz:UA-CLine-7214 25-25-BJ-uaz:UA-CLine-6977
+149 
+150 
+151 
+152 
+153 14-14-WI-38-uaz:UA-CLine-888 25-25-human-taxonomy:9606 26-26-fibroblasts-uaz:UA-CLine-100060
+154 
+154 
+155 
+155 
+156 9-9-WI-38-uaz:UA-CLine-888 11-11-MRC-5-uaz:UA-CLine-6350 13-13-IMR-90-uaz:UA-CLine-7214 16-16-BJ-uaz:UA-CLine-6977
+157 
+158 
+159 
+160 3-3-WI-38-uaz:UA-CLine-888
+161 
+162 
+163 
+164 
+165 
+165 
+166 
+166 
+167 
+168 30-30-WI-38-uaz:UA-CLine-888
+169 
+170 13-13-WI-38-uaz:UA-CLine-888 18-18-serum-tissuelist:TS-0923
+171 3-3-serum-tissuelist:TS-0923 6-6-WI-38-uaz:UA-CLine-888 20-20-WI-38-uaz:UA-CLine-888
+172 
+173 
+173 
+174 
+174 
+175 7-7-WI-38-uaz:UA-CLine-888 20-20-WI-38-uaz:UA-CLine-888
+176 
+177 
+178 
+179 
+180 
+181 
+181 
+182 
+182 22-22-WI-38-uaz:UA-CLine-888
+183 
+184 
+184 
+185 2-2-WI-38-uaz:UA-CLine-888 8-8-retrovirus-taxonomy:31931 44-44-retrovirus-taxonomy:31931
+186 
+187 
+188 
+189 
+189 
+190 
+190 
+191 0-0-WI-38-uaz:UA-CLine-888 6-6-retrovirus-taxonomy:31931 31-31-retrovirus-taxonomy:31931
+192 
+193 
+194 0-0-CMV-taxonomy:12305
+195 
+195 
+196 
+196 19-19-WI-38-uaz:UA-CLine-888
+197 2-2-WI-38-uaz:UA-CLine-888
+198 17-17-chromosomes-go:GO:0005694
+199 
+200 
+201 32-32-WI-38-uaz:UA-CLine-888
+202 
+202 
+203 
+203 
+204 
+205 
+206 1-1-WI-38-uaz:UA-CLine-888
+207 
+208 
+209 
+210 14-14-sheep-taxonomy:9940
+211 
+212 
+213 
+214 
+215 
+216 
+217 
+218 
+219 
+219 
+220 29-29-WI-38-uaz:UA-CLine-888
+221 
+222 
+223 22-22-WI-38-uaz:UA-CLine-888
+224 
+225 
+226 
+226 
+227 
+227 25-25-WI-38-uaz:UA-CLine-888
+228 
+229 
+230 
+231 13-13-WI-38-uaz:UA-CLine-888
+232 
+233 
+233 
+234 
+234 
+235 12-12-WI-38-uaz:UA-CLine-888
+236 16-16-human-taxonomy:9606
+237 12-12-WI-38-uaz:UA-CLine-888
+238 6-6-rabbit-taxonomy:9986
+239 9-9-WI-38-uaz:UA-CLine-888
+240 0-0-CMV-taxonomy:12305
+241 4-4-WI-38-uaz:UA-CLine-888 11-11-B.-uaz:UA-CLine-100008 18-18-sheep-taxonomy:9940
+242 
+243 4-4-WI-38-uaz:UA-CLine-888
+244 
+245 
+246 1-1-WI-38-uaz:UA-CLine-888
+247 
+248 1-1-WI-38-uaz:UA-CLine-888
+249 
+250 
+251 
+252 
+253 
+254 
+254 18-18-WI-38-uaz:UA-CLine-888
+255 
+256 
+257 
+258 
+259 
+260 
+260 36-36-retrovirus-taxonomy:31931
+261 
+262 
+263 
+264 
+265 
+265 
+266 
+266 
+267 
+268 10-10-WI-38-uaz:UA-CLine-888
+269 
+270 
+271 
+272 
+273 
+274 
+274 
+275 
+275 8-8-chromosomes-go:GO:0005694
+276 
+277 6-6-centromere-uniprot:SL-0047
+278 22-22-chromosome-go:GO:0005694
+279 6-6-chromosome-go:GO:0005694
+280 
+280 15-15-chromosome-go:GO:0005694
+281 10-10-chromosome-go:GO:0005694
+282 
+283 13-13-nucleus-go:GO:0005634
+284 
+285 12-12-chromosome-go:GO:0005694
+286 
+286 
+287 
+288 
+289 
+290 
+291 
+292 33-33-chromosome-go:GO:0005694
+293 
+293 
+294 
+294 
+295 
+296 
+297 
+298 
+299 
+300 
+301 
+302 
+302 
+303 
+304 25-27-SK-N-SH_neuroblastoma_cells-tissuelist:TS-20000
+305 
+306 
+307 
+307 1-1-stem-tissuelist:TS-0971
+308 
+309 
+310 
+310 
+311 18-18-yeast-taxonomy:4932
+312 
+313 
+314 28-28-cytoplasm-go:GO:0005737
+315 
+315 
+316 
+316 
+317 
+318 
+319 
+320 
+321 
+322 
+322 
+323 
+324 
+325 
+326 
+327 
+328 
+329 
+330 
+330 
+331 
+332 
+333 
+334 
+335 
+336 
+336 
+337 
+338 
+338 
+339 
+339 
+340 
+340 1-1-human-taxonomy:9606 2-2-fibroblasts-uaz:UA-CLine-100060 3-3-WI-38-uaz:UA-CLine-888 5-5-MRC-5-uaz:UA-CLine-6350 8-8-IMR-90-uaz:UA-CLine-7214
+341 0-0-BJ-uaz:UA-CLine-6977
+342 
+343 
+344 16-17-target_cells-uniprot:SL-0487
+345 
+346 
+346 
+347 
+348 
+349 
+350 
+350 
+351 
+351 86-86-sheep-taxonomy:9940 137-137-rabbit-taxonomy:9986
+352 
+352 
+353 
+353 
+354 8-8-milk-tissuelist:TS-0636
+355 
+356 30-30-lens-tissuelist:TS-0545
+357 
+358 
+359 
+359 
+360 
+361 
+362 
+362 
+363 
+363 
+364 
+365 
+366 
+367 
+368 
+369 
+369 
+370 
+370 5-5-chromosome-go:GO:0005694
+371 
+372 
+373 
+373 
+374 
+374 
+375 21-21-needle-tissuelist:TS-0665 28-29-cell_membrane-uniprot:SL-0039
+376 
+377 
+378 
+379 
+380 
+381 
+382 
+383 
+384 
+385 
+385 
+386 
+387 
+387 14-14-membranes-go:GO:0016020
+388 
+388 
+389 
+389 
+390 
+391 
+391 
+392 
+392 
+393 
+393 
+394 
+395 
+396 7-7-sheep-taxonomy:9940
+397 
+398 9-9-chromosomes-go:GO:0005694 14-14-WI-38-uaz:UA-CLine-888
+399 
+400 
+401 
+402 
+403 
+404 
+404 
+405 
+405 
+406 

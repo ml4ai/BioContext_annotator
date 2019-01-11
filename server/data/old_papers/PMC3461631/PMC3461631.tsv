@@ -1,0 +1,323 @@
+1						The Role of Semaphorins and Their Receptors in Gliomas
+2	tissuelist:TS-0150	central nervous system	t1			Gliomas are the most common tumor in the central nervous system .
+3						High-grade glioblastomas are characterized by their high invasiveness and resistance to radiotherapy , leading to high recurrence rate and short median survival despite radical surgical resection .
+4						Characterizations of gliomas at molecular level have revealed aberrations of various growth factor receptors , receptor tyrosine kinases , and tumor suppressor genes that lead to deregulation of multiple signaling pathways , thereby contributing to abnormal proliferation , invasion , and resistance to apoptosis in cancer cells .
+5						Recently , accumulating evidence points to the emerging role of axon guidance molecules in glioma progression .
+6						Notably , many signaling events harnessed by guidance molecules to regulate cell migration and axon navigation during development are also found to be involved in the modulation of deregulated pathways in gliomas .
+7						This paper focused on the signalings triggered by the guidance molecule semaphorins and their receptors plexins and neuropilins , and how their crosstalk with oncogenic pathways in gliomas might modulate cancer progression .
+8						The emerging role of semaphorins and plexins as tumor suppressors or oncogenes is also discussed .
+9						1 .
+10						Introduction
+11						Gliomas are the most common tumor in the central nervous system , with an incidence rate of 5 to 10 per 100,000 for the malignant form .
+12						Based on their histological characteristics and expression of lineage markers , gliomas can be classified into astrocytoma , oligodendroglioma , and ependymoma .
+13						Astrocytomas account for 60 % of all primary brain tumors and the World Health Organization ( WHO ) classification system grades them on a scale of I to IV according to their increasing degree of malignancy .
+14						Among them , Grade IV is one of the most highly invasive types of tumor , characterized by microvascular proliferation .
+15						Its aggressive infiltrative growth leads to an extremely high recurrence rate within a short period of time even after radical surgical resection .
+16						Worse still , many glioblastomas are found to be resistant to chemo- or radiotherapy due to DNA repair by the protein O6-methylguanine-methyltransferase ( MGMT ) and impaired apoptotic pathways .
+17						Median survival after initial diagnosis is therefore currently only around 12 to 18 months .
+18						This apparently calls for a more thorough understanding of the pathoetiology at both cellular and molecular level to provide insight into the devise of novel and effective therapeutic treatments .
+19						This paper revisits the biological features of various genetic pathways deregulated in human gliomas , followed by an overview of the involvement of semaphorins and their receptors in these signalings that lead to their emerging role in the regulation of gliomagenesis .
+20						2 .
+21						Classification of Astrocytomas
+22						Astrocytomas can be categorized into localized and diffuse forms .
+23						Localized astrocytic tumors exhibit a circumscribed growth pattern with limited capacity for parenchymal infiltration .
+24						Pilocytic astrocytomas for instance , are slow growing tumors that occur primarily in children or young adults .
+25						They are mostly nonaggressive and show little or no tendency to undergo anaplastic malignant transformation .
+26						This type of astrocytic tumor is classified as WHO grade I and is often curable if the tumor is resectable .
+27						Histologically , Rosenthal fibers are often observed on tumor sections .
+28						By contrast , diffuse astrocytomas are characterized by their high infiltration into peritumoral regions and dispersal to distant sites .
+29						Based on the WHO classification , they are subdivided into low-grade astrocytoma ( grade II ) , anaplastic astrocytoma ( grade III ) , and glioblastoma multiforme ( GBM ) .
+30						Low-grade diffuse astrocytoma is characterized by slow growth and infiltration of neighboring brain structures .
+31						Histologically , the tumors are characterized by low to moderate cellularity .
+32						Cancer cells are well differentiated and show resemblance to astrocytes with little nuclear atypia .
+33						Also known as fibrillary astrocytomas , these cancers are believed to arise from neoplastic astrocytes .
+34						In fact , the cancer cells produce cytoplasmic processes that form a rich fibrillary stroma around the neoplasm , hence giving rise to a diffuse outline of the tumor in scans .
+35						These grade II tumors typically affect young adults ( age of 25-50 ) and are treatable , with a mean survival of 6 years after surgical intervention .
+36						Nonetheless , the prognosis varies because of the tendency for these tumors to undergo malignant transformation to higher grades .
+37						Anaplastic astrocytoma is highly proliferative and infiltrative .
+38						"It is not uncommon that cells of these grade III malignant tumors invade along the white matter tracts and give rise to a classic "" butterfly "" pattern of spread at the corpus callosum ."
+39						While histological characteristics of astrocytes can still be observed , the tumor cells become more pleomorphic with distinct nuclear atypia .
+40						They show increased mitotic activity and cellularity .
+41						Notably , anaplastic astrocytoma may develop de novo as primary tumor or arise from a grade II diffuse astrocytoma as secondary tumor .
+42						Afflicted patients are usually around the age of 40 .
+43						Treatment regimens include surgical resection , radiation , and chemotherapy .
+44						Owing to the high invasiveness and aggressiveness , however , high recurrence rate is often observed within 2 years , during which the cancer typically would have progressed to high-grade glioblastoma .
+45						GBM is the most invasive and malignant form of diffuse astrocytomas , and is one of the most aggressive type of human neoplasms .
+46						Histologically , the cancer cells are anaplastic and poorly differentiated .
+47						The pleomorphic astrocytic tumor cells show marked nuclear atypia and high mitotic activity .
+48						Rapid proliferation of the malignant cancer cells is accompanied by microvascular proliferation , though hypoxia is often resulted , leading to necrosis in the tumor core .
+49						In fact , neovascularization and necrotic cell death are the two major histopathological hallmarks for the diagnosis of glioblastomas versus anaplastic astrocytomas .
+50						Glioblastomas can be subdivided into primary or secondary form .
+51						Primary GBMs account for 60 % of cases in adults above 45 years old .
+52						These tumors arise de novo with no sign of a preexisting less malignant precursor lesion .
+53						In contrast , secondary GBMs typically develop in patients below the age of 45 through malignant progression from lower grade diffuse astrocytoma or anaplastic astrocytoma in a span of one to ten years .
+54						At molecular level , the genetic lesions in primary and secondary GBMs also differ .
+55						Glioblastoma occurs most frequently in the cerebral hemisphere of adults between the ages of 45 and 70 .
+56						Owing to the wide infiltration of glioblastoma cells , it is impossible to eradicate them by surgical means .
+57						In addition to their resistance to radio- and chemotherapy , recurrence rate of GBMs is close to 100 % .
+58						A median survival of approximately one year is therefore commonly seen in the afflicted patients despite aggressive multimodality treatment regimens .
+59						3 .
+60						Genetic Pathways Deregulated in Glioblastomas
+61						Although lower-grade gliomas ( II and III ) can undergo malignant progression to become secondary glioblastoma , most GBMs are diagnosed as de novo primary glioblastoma without sign of antecedent lower-grade tumor .
+62						Primary GBMs typically show gene amplification and mutations of the epidermal growth factor receptor ( EGFR ) , deletion or loss-of-function mutations of the phosphatase and tensin homolog ( PTEN ) at chromosome 10 , and less frequently gene amplification of the p53 inhibitor human double minute 2 ( HDM2 ) .
+63						Deregulation of these pathways is believed to contribute to the self sustained proliferation , resistance to apoptosis , and highly invasive features of glioblastoma .
+64						3.1 .
+65						Hyperactivation of the EGFR-PI3K-AKT Pathway
+66						The EGFR gene is located on 7p12 .1 , which encodes a cell membrane receptor of the ErbB family .
+67			e1,e2	t1,c1	Upon activation by its ligands EGF or TGFalpha , EGFR undergo homodimerization to stimulate its intrinsic intracellular protein-tyrosine kinase activity .	Upon activation by its ligands EGF or TGFalpha , EGFR undergo homodimerization to stimulate its intrinsic intracellular protein-tyrosine kinase activity .
+68						This triggers the downstream signaling cascades PI3K-AKT-GSK3beta-Rac1 and the Ras-Raf-MEK-ERK , which controls important functions such as cell survival , proliferation , and motility .
+69						Deregulation of EGFR , mostly in the form of gene amplification or overexpression is commonly found in primary GBMs .
+70						The majority of GBMs with EGFR amplification also express the variant EGFRvIII , a mutant generated from an in-frame deletion of exons 2 to 7 that results in truncation of the extracellular domain .
+71						EGFRvIII is unresponsive to EGF stimulation but exhibits ligand independent constitutive activity .
+72	tissuelist:TS-0416	glioma cells	e3,e4,c1	c1	These genetic aberrations of EGFR cause activation of PI3K and AKT signalings , which promote glioma cell proliferation and tumorigenicity via p27 .	These genetic aberrations of EGFR cause activation of PI3K and AKT signalings , which promote glioma cell proliferation and tumorigenicity via p27 .
+73			e5,e6	c1	AKT can also phosphorylate and inhibit GSK3beta , thereby diminishing proteasomal degradation of cyclin D1 and hence promoting cell cycle progression .	AKT can also phosphorylate and inhibit GSK3beta , thereby diminishing proteasomal degradation of cyclin D1 and hence promoting cell cycle progression .
+74			e7,e8,e9	c1	Notably , the levels of phospho-PI3K and phospho-AKT are inversely associated with that of cleaved caspase 3 , suggesting the association of activated PI3K pathway with reduced level of apoptosis commonly observed in GBMs .	Notably , the levels of phospho-PI3K and phospho-AKT are inversely associated with that of cleaved caspase 3 , suggesting the association of activated PI3K pathway with reduced level of apoptosis commonly observed in GBMs .
+75						This partly accounts for the resistance of glioblastomas to radiotherapy .
+76						Ironically , there is evidence that shows activation of EGFRvIII by radiation , posing a concern in prescribing radiotherapy as a treatment regimen in the management of glioblastomas .
+77			e10,e11,e12,e13,e14	t1,c1	 PI3K and AKT and PKB can activate Rac1 , which in turn triggers TIMP2 , MMP2 , and MMP9 pathway to promote cell invasion	Furthermore , PI3K and AKT and PKB can activate Rac1 , which in turn triggers TIMP2 , MMP2 , and MMP9 pathway to promote cell invasion .
+78						3.2 .
+79						Hyperactivation of the Ras-Raf-MEK-ERK Pathway Causes High Proliferation and Resistance to Apoptosis in Glioblastomas
+80			e15	t1,c1	activated EGFR also triggers the Ras-Raf-MEK-ERK pathway .	In addition to PI3K signaling , activated EGFR also triggers the Ras-Raf-MEK-ERK pathway .
+81			e16,e17,e18,e19,e20	t1,c1	several growth factor pathways that are aberrantly activated in glioblastomas , including platelet derived growth factor ( PDGF ) , insulin like growth factor-1 ( IGF-1 ) , hepatocyte growth factor and scatter factor ( HGF and SF ) , vascular endothelial growth factor ( VEGF ) , and transforming growth factor-beta ( TGF-beta ) also converge to Ras activation .	In fact , several growth factor pathways that are aberrantly activated in glioblastomas , including platelet derived growth factor ( PDGF ) , insulin like growth factor-1 ( IGF-1 ) , hepatocyte growth factor and scatter factor ( HGF and SF ) , vascular endothelial growth factor ( VEGF ) , and transforming growth factor-beta ( TGF-beta ) also converge to Ras activation .
+82						High level of activated Ras is always found in glioma cell lines and glioblastoma biopsies .
+83						This is in contrast to many other cancer types where Ras is abnormally activated by oncogenic mutations .
+84			e21,e22	t1,c1	Active Ras recruits Raf kinase to the membrane , where it is primed by phosphorylation .	Active Ras recruits Raf kinase to the membrane , where it is primed by phosphorylation .
+85			e23	t1,c1	Raf in turn activates MEK and ERK .	Raf in turn activates MEK and ERK .
+86						Activated ERK then translocates into the nucleus to activate various transcription factors to induce cell cycle progression and antiapoptotic signalings .
+87						Importantly , blockade of Ras activation in gliomas slows down cancer cell proliferation .
+88						Application of Ras inhibitor also reduces migration of U87-MG gliomas cells .
+89						The deregulation of signalings in gliomas is further complicated by intensive cross-talk between the Ras and the PI3K pathways .
+90			e26	t1,c1	Ras is known to stimulate PI3K through physical association , which activates PI3K mediated antiapoptotic processes and hence contributes to Ras oncogenicity .	Ras is known to stimulate PI3K through physical association , which activates PI3K mediated antiapoptotic processes and hence contributes to Ras oncogenicity .
+91			e27	t1,c1	Conversely , PI3K was proposed to participate in ERK1 and 2 activation .	Conversely , PI3K was proposed to participate in ERK1 and 2 activation .
+92						In summary , aberrant activation of specific receptor tyrosine kinases in gliomas elicits both the Ras and the PI3K cascades , leading to promotion of cancer cell proliferation , survival , motility , and resistance to apoptosis .
+93						3.3 .
+94						Loss of PTEN Functions Is Associated with Glioblastomas
+95						Located at 10q23 .3 , the PTEN gene encodes a protein that contains a tensin like domain and a catalytic domain at the N-terminus similar to that of the dual-specificity protein tyrosine phosphatases .
+96			e30,e31	t1,c1	it was found that the phosphatase activity of PTEN exhibits substrate preference towards phosphoinositide such as phosphatidylinositol ( 3,4,5 ) - trisphosphate ( PIP 3 ) .	Interestingly , it was found that the phosphatase activity of PTEN exhibits substrate preference towards phosphoinositide such as phosphatidylinositol ( 3,4,5 ) - trisphosphate ( PIP 3 ) .
+97			e28,e29	t1,c1	PIP 3 is an important lipid product of PI3K that serves as second messenger for the activation of AKT and PKB , which promotes cell proliferation and survival through the inhibition of apoptotic cell death .	PIP 3 is an important lipid product of PI3K that serves as second messenger for the activation of AKT and PKB , which promotes cell proliferation and survival through the inhibition of apoptotic cell death .
+98			e32	t1,c1	The lipid phosphatase activity of PTEN in dephosphorylating PIP 3 into PIP 2 therefore serves as a negative regulator of PI3K signalings .	The lipid phosphatase activity of PTEN in dephosphorylating PIP 3 into PIP 2 therefore serves as a negative regulator of PI3K signalings .
+99						In addition to cell proliferation and apoptosis , PTEN is also involved in the regulation of glioma cell motility .
+100						The central domain of PTEN shows protein tyrosine phosphatase activity , which directly dephosphorylates focal adhesion kinase ( FAK ) in integrin complex , hence inhibiting integrin mediated migration and invasion [ - ] .
+101			e33,e34	t1,c1	PTEN was found to directly dephosphorylate the SH2 containing adaptor protein ( Shc ) upstream of Ras , hence downregulating the Ras/Raf/MEK / ERK pathway	Furthermore , PTEN was found to directly dephosphorylate the SH2 containing adaptor protein ( Shc ) upstream of Ras , hence downregulating the Ras/Raf/MEK / ERK pathway and inhibits cell spreading , migration , and invasion .
+102						Taken together , PTEN modulates the integrin-FAK and the Shc-Ras-MAPK pathways , thereby regulating both random and directional cell motility in glioma cells , respectively .
+103			e35,e36,e37	t1,c1	U87-MG and U373-MG carry mutations in the PTEN gene that result in diminished or null expression of the protein , leading to aberrant activation of AKT , FAK [ - ] , and Ras in GBMs .	Notably , a majority of primary glioblastoma and established glioma cell lines such as U87-MG and U373-MG carry mutations in the PTEN gene that result in diminished or null expression of the protein , leading to aberrant activation of AKT , FAK [ - ] , and Ras in GBMs .
+104						In fact , loss of heterozygosity ( LOH ) 10q is one of the most common genetic aberrations in GBMs .
+105						A complete loss of the entire chromosome 10 , where the PTEN gene resides is typical for primary glioblastomas .
+106						The loss of PTEN check on PIP 3 and AKT and PKB signaling pathway in glioma therefore spares the cells from apoptosis and promote cell cycle progression .
+107						Deregulation of PTEN functions could also render EGFR kinase-inhibitor therapy ineffective because of the dissociation of EGFR inhibition from downstream PI3K pathway inhibition .
+108			e38,e39	t1,c1	PTEN functions in counteracting FAK and Ras signalings	Conceivably , a compromise of PTEN functions in counteracting FAK and Ras signalings contributes to the high basal cell motility and the progression of glioblastoma .
+109						3.4 .
+110						pRB Pathway
+111						The retinoblastoma protein ( pRB ) is encoded by the RB1 gene located at 13q14 .1 .
+112						pRB is a tumor suppressor protein that blocks cell cycle progression through G1 into S-phase , hence preventing cells from replicating damaged DNA .
+113			e40,e41	t1,c1	pRb forms complexes with transcription factors of the E2F family and suppresses the coordinated transcription of genes necessary for DNA synthesis .	Mechanistically , pRb forms complexes with transcription factors of the E2F family and suppresses the coordinated transcription of genes necessary for DNA synthesis .
+114			e42,e43,e44	t1,c1	The pRb and E2F complex also attracts histone deacetylase ( HDAC ) protein to the chromatin , reducing transcription of S phase promoting factors , further suppressing DNA synthesis .	The pRb and E2F complex also attracts histone deacetylase ( HDAC ) protein to the chromatin , reducing transcription of S phase promoting factors , further suppressing DNA synthesis .
+115			e45	t1,c1	The cell cycle arrest function of pRB is counteracted upon phosphorylation by the cyclin dependent kinases Cdk4 and Cdk6 , which form complexes with cyclin D1 , leading to a release of E2F and hence derepression of cell cycle progression .	The cell cycle arrest function of pRB is counteracted upon phosphorylation by the cyclin dependent kinases Cdk4 and Cdk6 , which form complexes with cyclin D1 , leading to a release of E2F and hence derepression of cell cycle progression .
+116					Under physiological conditions , the Cdk4 and cyclin-D 1 activity is checked by CDKN2A ( p16 INK4a ) protein to prevent aberrant cell proliferation .	Under physiological conditions , the Cdk4 and cyclin-D 1 activity is checked by CDKN2A ( p16 INK4a ) protein to prevent aberrant cell proliferation .
+117			e46,e47,e48	t1,c1	In cancer states , however , an upregulation of cyclin D1 and Cdk4 , or an inactivation of CDKN2A is often seen , leading to uncontrolled cell proliferation .	In cancer states , however , an upregulation of cyclin D1 and Cdk4 , or an inactivation of CDKN2A is often seen , leading to uncontrolled cell proliferation .
+118					In fact , the pRB pathway is commonly inactivated in both primary and secondary glioblastomas .	In fact , the pRB pathway is commonly inactivated in both primary and secondary glioblastomas .
+119			e49	t1,c1	Genetic loss or promoter methylation of RB1 , homozygous deletion of CDKN2A , or amplification of CDK4 frequently occurs in GBMs .	Genetic loss or promoter methylation of RB1 , homozygous deletion of CDKN2A , or amplification of CDK4 frequently occurs in GBMs .
+120						These deregulations contribute to uncontrolled cell cycle progression and tumorigenesis .
+121						4 .
+122						Involvement of Axon Guidance Molecules in Glioma Progression
+123						In addition to deregulation of the classical growth factor receptors and signaling pathways , increasing evidence suggests the involvement of novel players in the progression of gliomas .
+124						Diffused gliomas are known to be highly infiltrative into the surrounding parenchyma of tumor mass even at low-grade .
+125						This poses an immense challenge to clinical management of the disease and high recurrence rate is commonly observed even after radical surgical resection of the tumor .
+126						Notably , clinical observations revealed a preferential invasion of gliomas along white matter tracts such as the corpus callosum .
+127						Furthermore , cessation of glioma cell migration is often observed at the junction between the white and the grey matter .
+128						These findings suggest the presence of tropic and guidance cues for the invasion of gliomas within the CNS .
+129						In fact , accumulating evidence suggests the involvement of axon guidance molecules such as netrin , Slit , and semaphorins in glioma progression .
+130						A recent study has demonstrated that netrin functions to inhibit glioma cell motility in an autocrine fashion .
+131						A loss of expression of DCC ( Deleted in Colorectal Carcinoma ) , the receptor for netrin has been found to correlate with glioma progression .
+132						Similarly , Slit 2 inhibits glioma cell invasion in a Robo dependent manner , and its expression is epigenetically downregulated in gliomas .
+133						Semaphorins are amongst the largest family of guidance molecules that trigger both repulsive and attractive axon guidance functions through different receptors and coreceptors .
+134						Growing body of evidence indicates that semaphorins also subserve pro-tumorigenic and tumor suppressor roles in various cancer types , including gliomas [ - ] .
+135						4.1 .
+136						Semaphorins and Their Receptors Neuropilins and Plexins
+137						Semaphorins , originally identified as guidance cues that navigate axons in the nervous system , fall into eight subclasses of secreted , membrane glycosylphosphatidyl-inositol ( GPI ) - anchored , and transmembrane proteins .
+138						Semaphorins are characterized by the presence of a sema domain and a PSI ( plexins , semaphorins and integrins ) domain at the N-terminus , which are also present in their receptors plexins .
+139						Most family members harbor the immunoglobulin ( Ig ) - like domain , which is a signature feature found in the Ig superfamily ( IgSF ) of cell adhesion or recognition molecules .
+140						Class 5 semaphorins are distinctive due to the presence of multiple thrombospondin 1 ( TSP1 ) domains , which has been implicated in platelet aggregation , angiogenesis , and tumorigenesis .
+141						To date , class 3 semaphorins are the most thoroughly studied for their physiological and pathological functions .
+142						Interestingly , members of this class exist in secreted form and interact directly with the receptors neuropilin ( Nrp ) -1 or -2 , which have small intracellular tail and need to engage plexins as coreceptors for signal transduction functions .
+143						Mammalian plexins are classified into four subfamilies plexin-A to -D , which share high homology in structural domains such as the sema domain and the cysteine rich motifs related to c-Met proto-oncogene .
+144						Despite this , interactions between different subfamilies of plexins and semaphorins still show differential specificity , which trigger different sets of biological functions .
+145						A second level of functional specificity is attained by the coupling of plexins with various coreceptors expressed in a cell- or tissue specific manner , such as neuropilins , L1 adhesion molecule , off-track ( Otk ) , c-Met proto-oncogene , the receptor tyrosine kinase ErbB2 , CD72 , and Tim-2 [ - ] .
+146						These lead to the implication of semaphorins and plexins in a vast array of biological processes beyond axon guidance , such as cell adhesion , cell motility , angiogenesis , immune responses , organogenesis , and tumorigenesis .
+147						4.2 .
+148						Semaphorins and Their Receptors in Tumorigenesis
+149						The implication of semaphorins in cancer development was first suggested by the observation of a deletion of chromosomal region 3p21 , where Sema3B and Sema3F reside , in almost all cases of small cell lung cancer ( SCLC ) [ - ] .
+150						Ensuing research revealed that many class 3 semaphorins exhibit tumor suppressor function by inhibiting proliferation and promoting apoptotic cell death in cancer cells .
+151						Sema3B , for instance induces apoptosis in lung and breast cancer , whereas Sema3F shows antiproliferative and antiangiogenic functions in melanoma , lung , breast , and colorectal cancers .
+152						In addition , Sema3A and 3F were shown to inhibit cell migration of breast carcinoma and metastasis of melanoma , respectively , through their receptors neuropilins and plexins in an autocrine or paracrine manner .
+153						Sema3A and Nrp -1 and Sema3F and Nrp -2 interactions also block endothelial cell migration and initiate antiangiogenic signaling cascades .
+154						While Sema3A , 3B , and 3F demonstrate antitumorigenic or antiangiogenic properties in various cancer types , other members are implicated in the promotion of tumor progression .
+155						Overexpression of Sema3C in prostate cancer cell lines promotes cell invasion .
+156						An upregulation of Sema3E transcript has been observed in metastatic human lung adenocarcinoma cells .
+157						Expression of Sema3E induces lung metastasis of mammary adenocarcinoma and promotes migration and growth of endothelial cells .
+158						While the importance of semaphorins in cancer development is most well characterized in secreted class 3 members , transmembrane semaphorins of class 4 , 5 , and 6 begin to emerge as important players .
+159						Sema4D is highly expressed in cell lines derived from head and neck squamous cell carcinomas ( HNSCCs ) .
+160						When shed from HNSCC cells , Sema4D stimulates endothelial cell migration .
+161						Silencing Sema4D expression by lentiviral shRNA dramatically reduces the size and vascularity of HNSCC tumor xenografts .
+162						These findings suggest the angiogenic function of Sema4D .
+163						An overexpression of Sema4D was found to be significantly correlated with lymph node and distant metastasis of pancreatic ductal adenocarcinoma .
+164	tissuelist:TS-0739	pancreatic cancer cells	e50,e51,e52,c2	c2	 Sema4D triggers its receptor plexin-B1 and leads to the promotion of invasiveness through activation of the MAPK and the AKT pathway .	In vitro experiments revealed that stimulation of pancreatic cancer cells with Sema4D triggers its receptor plexin-B1 and leads to the promotion of invasiveness through activation of the MAPK and the AKT pathway .
+165						In prostate cancers , a significant upregulation of both Sema4D and plexin-B1 has been observed .
+166						Mutations have also been found in plexin-B1 that causes an impairment of its R-RasGAP activity , hence increasing cell motility and invasion .
+167						In contrast to these oncogenic roles of Sema4D , however , various lines of evidence point to a tumor suppressor role of its receptor plexin-B1 .
+168						For instance , a loss of plexin-B1 expression is associated with poor prognosis in ER+ breast cancer patients .
+169						Plexin-B1 downregulation is also seen in renal cell carcinoma .
+170	tissuelist:TS-0614	melanoma cells	e53,c3	c3	Tumor suppressor function of plexin-B1 has been demonstrated in melanoma cells , and its expression is downregulated by oncogenic B-Raf signaling via MEK and ERK pathway .	Tumor suppressor function of plexin-B1 has been demonstrated in melanoma cells , and its expression is downregulated by oncogenic B-Raf signaling via MEK and ERK pathway .
+171						Divergent functions in cancer development is also implicated in class 6 semaphorins .
+172						Sema6A inhibits both bFGF and VEGF and tumor cell line induced neovascularization , whereas an upregulation of Sema6D expression is associated with the development of gastric carcinoma .
+173	tissuelist:TS-0614	melanoma cells	e54,c4	c4	A recent study has revealed the role of Sema7A in inhibiting cancer cell invasion by inactivation of cofilin through plexin-C1	A recent study has revealed the role of Sema7A in inhibiting cancer cell invasion by inactivation of cofilin through plexin-C1 , which is consistent with the observation of a downregulation of Sema7A in metastatic melanoma cells .
+174						Among other members , class 5 semaphorins are peculiar due to the presence of thrombospondin repeats in the extracellular domain , which have been implicated in cancer cell motility and proliferation .
+175	tissuelist:TS-0739,tissuelist:TS-1224,tissuelist:TS-0978	pancreatic cancer, prostate cancer, gastric cancer	e55,t2,t3,t4	t2,t3,t4	The expression of semaphorin 5A ( Sema5A ) and its receptor plexin-B3	The expression of semaphorin 5A ( Sema5A ) and its receptor plexin-B3 was shown to be associated with the aggressive nature of pancreatic , prostate , and gastric cancers [ - ] .
+176						Nonetheless , a recent report has demonstrated significant downregulation of Sema5A transcript and protein in nonsmall cell lung carcinoma , which correlates with poor survival of the patients , suggesting potential anticancer effect of Sema5A .
+177						Consistent with this is a recent study that reports the presence a novel missense mutation in plexin-B3 in human pancreatic ductal adenocarcinomas , which prevents interaction with its ligand Sema5A , hence impairing their signaling and contributing to tumor progression .
+178						4.3 .
+179						Semaphorins and Their Receptors in Gliomagenesis
+180						The implication of semaphorins , neuropilins , and plexins in gliomagenesis was suggested by their presence in human glioma cells .
+181						In particular , the downregulation of Sema6B expression in two human glioblastoma cell lines when treated with retinoic acid , an antitumor and differentiation inducing agent suggest its involvement in tumor formation .
+182						To date , class 3 semaphorins remain the most well characterized subfamily in the development of gliomas .
+183						An increase in expression of the Sema3B gene was found to be associated with poor prognosis and survival of glioma patients .
+184						Yet a later study reported the opposite by demonstrating positive correlations of Sema3B , Sema3G and neuropilin-2 with prolonged survival in glioma patients .
+185						Similarly , a protumorigenic role of Sema3A was implicated by its overexpression in human GBM specimens , which acts in an autocrine fashion to promote glioma cell dispersal through neuropilin-1 .
+186						Silencing Sema3A expression by RNA interference resulted in a significant suppression in migration and an alteration in glioma cell morphology in a Rac1 dependent manner .
+187						Nonetheless , it should be noted that Sema3A exhibits an antiangiogenic effect in meningiomas , as evident by the correlation of its high expression with reduced tumor vascularization .
+188						Recurrence of meniginomas is often associated with a decline in Sema3A expression .
+189	tissuelist:TS-0416	glioma cell	e56,c5	c5	Sema3A , in vitro data revealed that Sema3F inhibits glioma cell migration via RhoA inactivation by p190 RhoGAP .	In contrast to Sema3A , in vitro data revealed that Sema3F inhibits glioma cell migration via RhoA inactivation by p190 RhoGAP .
+190						Frequent deletion of 3p21 in gliomas , where the Sema3F gene resides could abolish its effect in counteracting tumor cell motility .
+191						In a related study , low level of Sema3F expression was observed in highly metastatic human tumor cell lines due to Id2 mediated repression of gene transcription , which possibly accounts for the enhancement of tumor cell migration and invasion .
+192						Similarly , an overexpression of or an exogenous stimulation by Sema3G in human U251 glioma cells is sufficient to inhibit migration and invasion , suggesting a cell autonomous or paracrine mechanism .
+193						Recently , Sema5A has been shown to suppress human glioma cell migration and invasion in a plexin-B3- and Rac1 dependent manner .
+194						A downregulation of Sema5A protein is found from low- to high-grade gliomas .
+195						Notably , stimulation of human glioblastoma cells with Sema5A promotes their differentiation from anaplastic to astrocytic morphology , which is reminiscent of the less pleomorphic and well differentiated features associated with low-grade astrocytomas .
+196						Taken together , these findings suggest a tumor suppressor role of Sema5A , which is compromised towards high-grade glioblastomas .
+197						In addition to semaphorins , there has been evidence pointing to the importance of neuropilins in glioma development .
+198						Analyses of human glioma specimens revealed a significant correlation of Nrp-1 expression with glioma progression to high grades .
+199						An upregulation of Nrp-1 in glioma cells was found to promote tumor growth and angiogenesis in vivo .
+200						These effects are mediated through the promotion of c-Met phosphorylation , hence potentiating the autocrine HGF and c-Met signaling pathway .
+201						5 .
+202						Semaphorin and Plexin Signalings
+203						Semaphorins and their receptors are inarguably involved in the progression of a large number of cancer types , with functions ranging from cell migration , invasion , metastasis , proliferation , and apoptosis , to angiogenesis .
+204						It is not uncommon that many semaphorins can induce pro- and antitumorigenic effects in different cancers , making it a challenging task to decipher the underlying mechanisms of these activities .
+205						For instance , Sema3B induces apoptosis in lung and breast cancer but is associated with poor prognosis and survival of glioma patients .
+206						Sema3A promotes glioblastoma cell dispersal but inhibits angiogenesis in meningiomas .
+207						Possible reasons for these diversities could be attributable to cross-interactions between different subfamilies of semaphorins and plexins , which show differential binding affinity and specificity , thereby triggering different sets of signaling events and functions .
+208						A second level of regulation is attained by coupling plexins and and or neuropilins to various coreceptors expressed in a cell- or tissue specific manner , such as neuropilins , L1-cell adhesion molecule , c-Met proto-oncogene , the receptor tyrosine kinase ErbB2 , and PDGFR .
+209						This could potentially elicit a more diverse network of signaling events .
+210						5.1 .
+211						Plexin-A Signaling Regulates PI3K Pathway
+212			e57,e58,e59	c6	Sema3A signaling involves phosphorylation of plexin-As by nonreceptor tyrosine kinases Fes and Fps and Fyn .	Sema3A signaling involves phosphorylation of plexin-As by nonreceptor tyrosine kinases Fes and Fps and Fyn .
+213			e60	c6	Fyn , a member of the Src family of tyrosine kinases , associates with and phosphorylates plexin-A2 in response to Sema3A .	Fyn , a member of the Src family of tyrosine kinases , associates with and phosphorylates plexin-A2 in response to Sema3A .
+214			e61	c6	Active Fyn then phosphorylates cyclin dependent kinase-5 ( Cdk5 ) .	Active Fyn then phosphorylates cyclin dependent kinase-5 ( Cdk5 ) .
+215	uaz:UA-ORG-623,tissuelist:TS-0417	neurons, glioblastoma cell	e62,e63,e64,c7,c6	c6,c7	While activated Cdk5 is classically known to phosphorylate CRMP-2 ( collapse response mediator protein ) |  a recent report has shown that Cdk5 mediated phosphorylation of PIKE-A ( Isoform A of phosphatidylinositol 3-kinase enhancer ) , a novel pro-oncogenic and antiapoptotic factor that activates AKT	While activated Cdk5 is classically known to phosphorylate CRMP-2 ( collapse response mediator protein ) in neurons and leads to growth cone collapse , a recent report has shown that Cdk5 mediated phosphorylation of PIKE-A ( Isoform A of phosphatidylinositol 3-kinase enhancer ) , a novel pro-oncogenic and antiapoptotic factor that activates AKT and promotes cancer cell growth , induces glioblastoma cell migration and invasion .
+216						These signalings are consistent with the protumorigenic role of Sema3A in promoting glioma cell dispersal .
+217			e65	c7	hyperactivated EGFR signaling in glioblastoma patients also recruits Fyn kinase	Interestingly , a recent report has provided in vivo evidence that hyperactivated EGFR signaling in glioblastoma patients also recruits Fyn kinase to enhance tumor survival , growth and invasion .
+218						5.2 .
+219						Plexin-B Signaling Regulates RhoGTPases
+220			e66,e67	c8	Stimulation of plexin-B1 with Sema4D has been shown to recruit active Rac1 to the Cdc42 and Rac interactive binding ( CRIB ) domain in the cytoplasmic tail .	Stimulation of plexin-B1 with Sema4D has been shown to recruit active Rac1 to the Cdc42 and Rac interactive binding ( CRIB ) domain in the cytoplasmic tail .
+221			e68	c8	This leads to sequestration of Rac1-GTP from its downstream effector p21 activated kinase ( PAK ) 	This leads to sequestration of Rac1-GTP from its downstream effector p21 activated kinase ( PAK ) , hence suppressing Rac1 mediated functions such as cell migration and proliferation .
+222						A recent report that investigates the significance of Sema5A and plexin-B3 in glioma has also shown their suppression of Rac1 activation , though through a different mechanism .
+223			e69,e71	c8	Sema5A stimulation of plexin-B3 promotes the recruitment of Rac1 to Rho GDP dissociation inhibitor ( RhoGDI ) alpha , which is a negative modulator that sequesters small GTPases and shuttles them from membrane to the cytosol to prevent activation .	Sema5A stimulation of plexin-B3 promotes the recruitment of Rac1 to Rho GDP dissociation inhibitor ( RhoGDI ) alpha , which is a negative modulator that sequesters small GTPases and shuttles them from membrane to the cytosol to prevent activation .
+224	tissuelist:TS-0416	glioma cell	c8			The inactivation of Rac1 was confirmed to contribute to Sema5A induced impediment of glioma cell migration and invasion , as evident by the abolishment of effect upon forced expression of a constitutively active Rac1 mutant .
+225			e72	c8	plexin-Bs are also involved in the regulation of RhoA activation .	In addition to Rac1 , plexin-Bs are also involved in the regulation of RhoA activation .
+226			e73	c8	Plexin-B members are peculiar to feature a PDZ domain binding motif at their carboxyl terminus .	Plexin-B members are peculiar to feature a PDZ domain binding motif at their carboxyl terminus .
+227			e74,e75	c8	A number of studies have demonstrated direct interaction of plexin-B1 with two PDZ domain containing Rho guanine nucleotide exchange factors ( RhoGEF ) , namely , PDZ-RhoGEF and leukemia associated RhoGEF ( LARG ) [ - ] .	A number of studies have demonstrated direct interaction of plexin-B1 with two PDZ domain containing Rho guanine nucleotide exchange factors ( RhoGEF ) , namely , PDZ-RhoGEF and leukemia associated RhoGEF ( LARG ) [ - ] .
+228			e76	c8	Stimulation of plexin-B1 by Sema4D leads to RhoA activation in a PDZ-RhoGEF and LARG dependent manner , causing remodeling of actin cytoskeleton that is important for the regulation of cell morphology and cell motility .	Stimulation of plexin-B1 by Sema4D leads to RhoA activation in a PDZ-RhoGEF and LARG dependent manner , causing remodeling of actin cytoskeleton that is important for the regulation of cell morphology and cell motility .
+229			e77,e78	c8	Notably , Sema4D is known to activate the MAPK pathway , which is dependent on the C-terminus of plexin-B1 and LARG mediated activation of RhoA .	Notably , Sema4D is known to activate the MAPK pathway , which is dependent on the C-terminus of plexin-B1 and LARG mediated activation of RhoA .
+230			e780	c8	In fact , RhoA-GTP was formerly shown to signal to Raf to activate MAPK cascade .	In fact , RhoA-GTP was formerly shown to signal to Raf to activate MAPK cascade .
+231					Taken together , this provides a link between the signalings mediated by Sema4D and MAPK .	Taken together , this provides a link between the signalings mediated by Sema4D and MAPK .
+232						However , it should be emphasized that the activation of RhoA through PDZ-RhoGEF represents a specific mode restricted to members of the plexin-B subfamily due to the exclusive presence of PDZ domain binding motif in their C-terminus .
+233						On the other hand , there is also opposing evidence that indicates the role of Sema4D in RhoA inactivation instead .
+234			e79,e80	c8	Stimulation of plexin-B1 with Sema4D was found to promote the binding of plexin-B1 with p190-RhoGAP , which inactivates RhoA and leads to disassembly of focal adhesions .	Stimulation of plexin-B1 with Sema4D was found to promote the binding of plexin-B1 with p190-RhoGAP , which inactivates RhoA and leads to disassembly of focal adhesions .
+235			e81,e82,e83	c8	Interestingly , the GAP activity of p190-RhoGAP is enhanced by direct interaction with the constitutively active small GTPase Rnd1 , which also binds to the intracellular domain of plexin-B1 .	Interestingly , the GAP activity of p190-RhoGAP is enhanced by direct interaction with the constitutively active small GTPase Rnd1 , which also binds to the intracellular domain of plexin-B1 .
+236						It remains to be determined whether plexin-B1 serves as a docking site to facilitate p190-RhoGAP activation by Rnd1 or instead functions as a negative regulator by sequestering Rnd1 from p190RhoGAP .
+237						5.3 .
+238						Plexin Singaling Regulates Ras Activity
+239						Sequence analysis of plexins revealed the presence of weakly conserved RasGAP motifs in the cytoplasmic domain .
+240						A closer examination revealed two subdomains C1 and C2 which harbor the primary arginine ( Arg ) finger and the secondary Arg and Lys motif , respectively , which are highly conserved in the catalytic domain of GAPs and are essential for promoting the GTP hydrolytic activity of target GTPases .
+241						The intervening region between C1 and C2 encompasses the binding site for active Rac1 and constitutively active Rnd1 .
+242						In basal state , C1 and C2 domains in plexin-B1 undergo intramolecular interaction that prevents their association with Ras .
+243			e84,e85	c9	 allows the plexin-B1-Rnd1 complex to interact with R-Ras .	Rnd1 binding to the linker region relieves the closed conformation and allows the plexin-B1-Rnd1 complex to interact with R-Ras .
+244			e86,e87	c9	However , RasGAP activity is not triggered until Sema4D binds to Rnd-1-bound plexin-B1 , which causes dimerization of the receptor .	However , RasGAP activity is not triggered until Sema4D binds to Rnd-1-bound plexin-B1 , which causes dimerization of the receptor .
+245	uaz:UA-ORG-623	hippocampal neurons	e870,c9	c9	The inactivation of R-Ras by GAP activity of plexin-B1	The inactivation of R-Ras by GAP activity of plexin-B1 contributes to the inhibition of neurite outgrowth and growth cone collapse in hippocampal neurons by Sema4D .
+246						Notably , this GAP domain is conserved throughout all plexin families and has been shown to mediate repulsion of axon outgrowth induced by Sema3A and plexin-A1 as well .
+247			e88,e89	c8	In contrast to other Ras family members that are commonly deregulated in gliomas , R-Ras only weakly activates Raf and the MEK and ERK pathway .	In contrast to other Ras family members that are commonly deregulated in gliomas , R-Ras only weakly activates Raf and the MEK and ERK pathway .
+248						Instead , R-Ras stimulates PI3K and AKT with an efficiency comparable to that of Ras .
+249	tissuelist:TS-0592	breast carcinoma cell	c10			R-Ras has been shown to promote breast carcinoma cell migration and invasion in a PI3K- and integrin dependent manner .
+250			e90,e91	c10	Inactivation of R-Ras by the RasGAP activity of plexin-B1 triggered by Sema4D was shown to cause an inhibition of cell migration through suppression of PI3K and beta1 integrin activity .	Inactivation of R-Ras by the RasGAP activity of plexin-B1 triggered by Sema4D was shown to cause an inhibition of cell migration through suppression of PI3K and beta1 integrin activity .
+251			e94,e95	c10	Recently , there has been evidence to show that the inactivation of R-Ras by Sema4D induced RasGAP activity of plexin-B1 leads to PTEN dephosphorylation , thereby activating its inhibitory effect on PI3K signaling .	Recently , there has been evidence to show that the inactivation of R-Ras by Sema4D induced RasGAP activity of plexin-B1 leads to PTEN dephosphorylation , thereby activating its inhibitory effect on PI3K signaling .
+252			e92,e93	c10	This provides a plausible mechanism by which plexin-Bs regulates the PI3K and AKT pathway .	This provides a plausible mechanism by which plexin-Bs regulates the PI3K and AKT pathway .
+253						While the importance of R-Ras activity regulation by semaphorin and plexin in glioma progression is yet to be scrutinized , increasing R-Ras expression and activation is known to correlate with advanced grades of gliomas and invading glioblastoma cells .
+254	uaz:UA-ORG-623	neurons	e96,e97,e98,c11	c11	In addition to R-Ras , Sema4D and plexin-B1 can also suppress M-Ras activity , 	In addition to R-Ras , Sema4D and plexin-B1 can also suppress M-Ras activity , which results in an inhibition of dendritic outgrowth and branching in primary cortical neurons .
+255						Remarkably , this signaling was found to induce a suppression of ERK activity , though the mechanism remains known .
+256			e99	c12	It is notable that a recent study has reported Rap1 as a novel substrate for the GAP activity mediated by plexin-B1 .	It is notable that a recent study has reported Rap1 as a novel substrate for the GAP activity mediated by plexin-B1 .
+257	uaz:UA-CT-30004	astrocytomas	c12			Rap1 overexpression was observed in astrocytomas of all malignancy grades , and was 2 to 3 folds higher in grade IV GBMs than in lower grades or non neoplastic brain .
+258						The effect of GAP activity of plexin-B on Rap1 in the control of glioma progression , if any , warrants further investigations .
+259						6 .
+260						Coupling of Plexin-B with c-Met and ErbB2 as Coreceptors
+261						c-Met is a tyrosine kinase receptor that upon stimulation by hepatocyte growth factor and scatter factor ( HGF and SF ) regulates various cellular functions such as cell proliferation , migration , invasion , and morphogenesis through activation of various signalings such as the Ras and the PI3K and AKT pathways .
+262						They are commonly overexpressed in gliomas and contribute to enhanced tumorigenicity .
+263						An inhibition of endogenous HGF and SF and c-Met in gliomas suppresses the malignant phenotype .
+264			e100,e101	c13,c14	To date , all known members of plexin-B subfamily have been shown to interact with c-Met and the related proto-oncogene Ron , even in the absence of their ligands .	To date , all known members of plexin-B subfamily have been shown to interact with c-Met and the related proto-oncogene Ron , even in the absence of their ligands .
+265	tissuelist:TS-0564,tissuelist:TS-0161	liver progenitor cell line, colon carcinoma cell line	e102,e103,e104,c13,c14	c13,c14	Binding of Sema4D to plexin-B1 stimulates the tyrosine kinase activity of c-Met and Ron	Binding of Sema4D to plexin-B1 stimulates the tyrosine kinase activity of c-Met and Ron , resulting in tyrosine phosphorylation of both receptors and promotion of invasive response in a liver progenitor cell line and a colon carcinoma cell line .
+266						By contrast , a recent study has reported the opposite in melanoma .
+267						Sema4D fails to activate c-Met in melanomas , not because of a significant downregulation of plexin-B1 in these cancer cells .
+268			e105,e106	c15	Instead , reconstitution of plexin-B1 expression in melanomas inhibits HGF dependent activation of c-Met and migration .	Instead , reconstitution of plexin-B1 expression in melanomas inhibits HGF dependent activation of c-Met and migration .
+269						A plausible explanation for this observation could be the competition between plexin-B1 and HGF for c-Met binding .
+270	tissuelist:TS-0614	melanoma cells	c15			Importantly , restoring plexin-B1 expression in melanoma cells is sufficient to suppress tumor growth in vivo , suggesting a tumor suppressor role of plexin-B1 .
+271						In fact , the contrasting effects of semaphorins and plexins in regulating HGF and c-Met signaling is not unexpected given the ability of plexins to modulate Ras and PI3K as described above .
+272			e107,e108	c16	In addition to c-Met , members of the plexin-B family were also found to stably associate with another receptor tyrosine kinase ErbB2 .	In addition to c-Met , members of the plexin-B family were also found to stably associate with another receptor tyrosine kinase ErbB2 .
+273			e109,e110	c16	Binding of Sema4D to plexin-B1 stimulates the intrinsic tyrosine kinase activity of ErbB2 , resulting in the phosphorylation of both receptors .	Binding of Sema4D to plexin-B1 stimulates the intrinsic tyrosine kinase activity of ErbB2 , resulting in the phosphorylation of both receptors .
+274			e111,e112	c16	ErbB2 mediated phosphorylation of plexin-B1 is important for Sema4D induced activation of RhoA through PDZ-RhoGEF .	ErbB2 mediated phosphorylation of plexin-B1 is important for Sema4D induced activation of RhoA through PDZ-RhoGEF .
+275			e113	c16	Contrary to this , Sema4D induces an inactivation of RhoA in a c-Met dependent manner .	Contrary to this , Sema4D induces an inactivation of RhoA in a c-Met dependent manner .
+276	tissuelist:TS-0595	breast	e1130,c16	c16	The reciprocal effect of c-Met and ErbB2 in plexin-B1-mediated regulation of RhoA activation status	The reciprocal effect of c-Met and ErbB2 in plexin-B1-mediated regulation of RhoA activation status is believed to partially account for the pro- and antimigratory effects of Sema4D in breast carcinoma and other cancer cells , depending on the relative expression levels of these two receptors .
+277						Notably , analysis of astrocytomas of different grades shows no gene amplification of ErbB2 .
+278						The expression of ErbB2 protein is weaker than EGFR and is at barely detectable level by Western and immunocytochemistry analysis .
+279						The relative importance of c-Met and ErbB2 in the regulation of glioma behaviors by semaphorin and plexin signaling remains to be determined .
+280						7 .
+281						Regulation of Semaphorins and Plexins by Oncogenic Pathways
+282						While semaphorins and plexins impose their pro- and antitumorigenic functions in gliomas through the regulation of various signaling pathways , accumulating evidence suggests that they are also targets for modulation by some of the aberrant oncogenic pathways .
+283			e114	c17	The gene encoding for Sema3B for instance , was identified as a direct target of the tumor suppressor gene p5	The gene encoding for Sema3B for instance , was identified as a direct target of the tumor suppressor gene p53 that is commonly mutated in gliomas .
+284	tissuelist:TS-0417	glioblastoma cell	c17			Ectopic expression of p53 in a p53 deficient glioblastoma cell line results in dramatic induction of Sema3B mRNA expression and a reduction in the number of colonies in anchorage independent growth assays .
+285						These findings suggest that Sema3B mediates the tumor suppressor functions of p53 , which is often diminished in gliomas .
+286						Hyperactivation of Ras and its downstream signaling cascades is another commonly observed genetic lesion in different cancers including gliomas .
+287						Oncogenic mutations of B-Raf , one of the effectors of Ras is prevalent in melanomas and other cancers but is rarely detected in gliomas , which when present are mainly restricted to high-grade malignant glioblastomas .
+288						In gliomas , gain in copy number is more common than mutations for Ras and Raf , though both forms of deregulation lead to activation of the MEK and ERK pathway .
+289						Interestingly , constitutive B-Raf/MEK/ERK signaling was found to be associated with a downregulation of plexin-B1 transcript in melanoma .
+290						Restoring plexin-B1 expression in melanoma cells is sufficient to suppress anchorage independent growth in vitro and inhibit tumor growth in xenograft transplants in nude mice .
+291						The antitumorigenic effect of plexin-B1 is dependent on its R-RasGAP activity and is associated with AKT inactivation .
+292						While R-Ras is less oncogenic than other Ras , its deregulation in gliomas is known to promote migration and invasion behaviors .
+293						It is plausible that the antitumorigenic functions of plexin-B1 observed in melanoma are adopted in gliomas as well .
+294						8 .
+295						Concluding Remarks
+296						Gliomas are known to exhibit not only histological heterogeneity but also variations in genetic alterations both inter- and intratumorally .
+297						These have led to the proposition to incorporate molecular signature to classical histopathological diagnosis so as to provide a more informative description of the features of different glioma types .
+298						Here , an overview of various signaling pathways commonly deregulated in gliomas was presented .
+299						Despite our increasing knowledge of how these oncogenic pathways interact in a complex manner to contribute to aberrant cell proliferation , resistance to apoptotic cell death , enhanced migration and invasion , and induction of angiogenesis in glioma cells , the options of clinical treatment are still currently largely limited to a combination of surgical resection , followed by radiotherapy or chemotherapy using nonspecific alkylating agents such as temozolomide .
+300						While a number of inhibitors and antibodies that suppress the activities of deregulated kinases such as EGFR , c-MET , PDGFR , and PI3K are currently in difference phases of preclinical characterizations or clinical trials , the outcomes show great variations and are complicated by toxicity associated with the agents .
+301						The emerging roles of semaphorins and their receptors in the regulation of gliomagenesis and progression therefore represent potential novel candidate targets .
+302						Given the engagement of plexins with some of the oncogenic receptor tyrosine kinases such as c-Met and ErbB2 as coreceptors , a better understanding of the crosstalk between these signaling networks is required .
+303						Supported by the recent success in detecting MGMT methylation level in glioblastoma patients to predict their sensitivity to chemoradiotherapy using alkylating agents , future direction in clinical management of gliomas , which are heterogeneous in nature , is to define the molecular and genetic profile of the tumor in individual patient so as to devise a customized regimen of treatments .
+304						Figure 1
+305						Semaphorins and their receptors .
+306						Schematic diagram to illustrate the structural features of different classes of semaphorins , plexins and neuropilins .
+307						Members of class 2 and 3 semaphorins are secreted , whereas semaphorins 1 , 4-6 are single-pass transmembrane proteins .
+308						Class 7 semaphorin is membrane bound via a GPI-anchor .
+309						All known semaphorins and plexins are characterized by the presence of a sema domain at the amino-terminus .
+310						While semaphorins are structurally diverse , plexin members are well conserved and feature PSI and IPT domains in the extracellular moiety , and a split intracellular GTPase activating protein ( GAP ) domain .
+311						Plexin-Bs are distinctive by the presence of a PDZ domain binding site at the C-terminus .
+312						Neuropilins are transmembrane receptors that feature two complement binding ( CUB ) domains and FV and FVIII coagulating factor like domain , and a MAM domain in the extracellular portion .
+313						Ig , immunoglobulin like ; TM , transmembrane domain ; CD , cytoplasmic domain .
+314						Figure 2
+315						Signaling cascades mediated by plexin-A and plexin-B , and their crosstalk with oncogenic pathways in gliomas .
+316						Plexin-As serve as coreceptors for neuropilins to transduce signals of class 3 semaphorins .
+317						Fyn is activated upon semaphorin stimulation , which phosphorylates cyclin dependent kinase-5 ( Cdk5 ) and in turn collapse response mediator protein ( CRMP ) .
+318						Cdk5 also phosphorylates isoform A of phosphatidylinositol 3-kinase enhancer ( PIKE-A ) , which is a pro-oncogenic and antiapoptotic factor that activates AKT and promotes glioma cell growth , migration , and invasion .
+319						Stimulation of plexin-B with semaphorins causes recruitment of active Rac1 to the Cdc42 and Rac interactive binding ( CRIB ) domain in the cytoplasmic tail , leading to sequestration of Rac1-GTP from its effector p21 activated kinase ( PAK ) and suppression of its downstream signalings .
+320						Stimulation of plexin-B also promotes the recruitment of Rac1 to Rho GDP dissociation inhibitor ( RhoGDI ) alpha , which sequesters Rac1 and shuttles it from the membrane to the cytosol to prevent activation .
+321						The PDZ domain binding motif at the C-terminus of plexin-B interacts with PDZ domain containing Rho guanine nucleotide exchange factors ( PDZ-RhoGEF ) , which promotes RhoA activation .
+322						RhoA-GTP can signal to Raf and activate the MAPK pathway .
+323						The GTPase activating protein ( GAP ) domain in the cytoplasmic tail of plexin-A and -B is activated upon semaphorin stimulation and Rnd1 binding , leading to inactivation of R-Ras and PI3K signaling but derepression of PTEN activities .

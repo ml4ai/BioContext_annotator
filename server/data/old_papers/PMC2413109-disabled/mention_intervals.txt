@@ -1,0 +1,466 @@
+0 5-6-cell-cell_junctions-go:GO:0005911
+1 
+1 18-19-endothelial_cells-tissuelist:TS-0278
+2 
+3 17-18-cell_junctions-go:GO:0030054 21-22-tight_junctions-uniprot:SL-0265 24-25-adherens_junctions-go:GO:0005912
+4 
+5 
+6 
+7 
+8 
+9 
+9 
+10 
+10 
+11 16-17-endothelial_cells-tissuelist:TS-0278 32-32-intestine-tissuelist:TS-0490 35-35-skin-tissuelist:TS-0934 38-39-blood_vessels-uaz:UA-ORG-93
+12 
+13 9-9-intestine-tissuelist:TS-0490 12-12-skin-tissuelist:TS-0934 37-37-stem-tissuelist:TS-0971
+14 3-3-leukocyte-tissuelist:TS-0549 22-23-endothelial_cells-tissuelist:TS-0278 41-41-endothelium-tissuelist:TS-0278
+15 
+16 
+17 
+17 
+18 
+19 18-19-tight_junctions-uniprot:SL-0265 25-26-adherens_junctions-go:GO:0005912 33-33-desmosomes-go:GO:0030057
+20 9-9-intestine-tissuelist:TS-0490 51-51-membrane-go:GO:0016020
+21 45-46-actin_cytoskeleton-go:GO:0015629 55-55-desmosomes-go:GO:0030057
+22 
+23 
+24 
+25 
+26 
+27 
+27 0-1-Adherens_junctions-go:GO:0005912
+28 
+28 3-4-adherens_junctions-go:GO:0005912
+29 
+29 
+30 23-23-cytoskeleton-go:GO:0005856 30-30-tail-tissuelist:TS-1006
+31 
+32 7-8-neural_tube-tissuelist:TS-0680
+33 
+34 
+34 
+35 
+35 
+36 
+36 4-5-adherens_junctions-go:GO:0005912
+37 
+38 
+39 
+40 
+41 14-15-actin_cytoskeleton-go:GO:0015629
+42 
+43 
+44 
+45 13-14-actin_cytoskeleton-go:GO:0015629
+46 
+47 
+47 
+48 6-6-tail-tissuelist:TS-1006
+49 15-15-membrane-go:GO:0016020
+50 
+51 
+52 17-18-cell_surface-go:GO:0009986
+53 
+54 
+55 
+56 
+56 
+57 
+58 
+59 
+60 21-22-cell_surface-go:GO:0009986 25-25-membranes-go:GO:0016020 41-42-stress_fiber-go:GO:0001725
+61 
+61 
+62 11-12-actin_cytoskeleton-go:GO:0015629
+63 13-14-actin_cytoskeleton-go:GO:0015629
+64 
+65 
+66 
+67 
+68 
+68 
+69 
+69 
+70 
+71 
+72 
+73 
+74 
+75 21-21-spot-taxonomy:59837
+76 
+77 
+78 29-30-actin_cytoskeleton-go:GO:0015629
+79 13-14-tight_junctions-uniprot:SL-0265
+80 
+80 
+81 39-40-actin_cytoskeleton-go:GO:0015629
+82 16-17-actin_cytoskeleton-go:GO:0015629
+83 
+84 
+85 
+86 
+86 0-1-Tight_junctions-uniprot:SL-0265
+87 
+87 
+88 
+88 
+89 
+89 1-1-membrane-go:GO:0016020 4-5-tight_junctions-uniprot:SL-0265
+90 
+91 
+92 31-31-tail-tissuelist:TS-1006
+93 6-6-membrane-go:GO:0016020
+94 
+94 30-30-membrane-go:GO:0016020
+95 31-31-membranes-go:GO:0016020 43-43-membranes-go:GO:0016020
+96 23-23-membrane-go:GO:0016020
+97 90-90-membrane-go:GO:0016020 95-95-membrane-go:GO:0016020
+98 23-23-membrane-go:GO:0016020 46-46-fibroblasts-uaz:UA-CLine-100060
+99 
+100 
+101 10-10-membrane-go:GO:0016020 17-17-membrane-go:GO:0016020
+102 
+102 1-1-membrane-go:GO:0016020
+103 
+103 
+104 
+104 9-10-tight_junctions-uniprot:SL-0265
+105 
+106 
+107 
+108 
+109 
+110 
+110 5-5-membrane-go:GO:0016020
+111 30-30-cytoplasm-go:GO:0005737
+112 6-6-humans-taxonomy:9606
+113 
+114 
+115 33-33-Yu-taxonomy:37334
+116 12-13-contact_sites-go:GO:0044289
+117 5-5-membrane-go:GO:0016020
+118 
+119 22-23-tight_junctions-uniprot:SL-0265
+120 
+121 
+122 41-41-membrane-go:GO:0016020
+123 34-34-membrane-go:GO:0016020
+124 5-5-membrane-go:GO:0016020
+125 6-6-membrane-go:GO:0016020
+126 
+127 
+128 
+128 
+129 
+129 
+130 
+131 
+132 22-22-nucleus-go:GO:0005634 25-25-cytoskeleton-go:GO:0005856
+133 
+134 
+135 
+135 
+136 
+136 
+137 
+137 
+138 
+139 
+140 
+141 7-7-membrane-go:GO:0016020
+142 
+143 7-7-membrane-go:GO:0016020 16-16-membrane-go:GO:0016020
+144 
+145 11-11-cytoskeleton-go:GO:0005856
+146 7-7-membrane-go:GO:0016020
+147 
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+154 
+155 7-7-membrane-go:GO:0016020
+156 19-20-actin_cytoskeleton-go:GO:0015629
+157 
+158 32-32-membrane-go:GO:0016020
+159 11-12-actin_cytoskeleton-go:GO:0015629
+160 
+161 28-29-epithelial_cell-tissuelist:TS-0288
+162 
+163 
+164 
+165 
+165 
+166 
+166 
+167 15-15-membrane-go:GO:0016020
+168 
+169 
+170 42-42-Shin-uaz:UA-ORG-869
+171 
+172 
+172 
+173 
+173 
+174 20-20-C.elegans-taxonomy:6239 29-29-membrane-go:GO:0016020
+175 18-18-C.elegans-taxonomy:6239 20-20-embryos-uaz:UA-ORG-239 24-24-sperm-tissuelist:TS-0949
+176 59-59-E3-uaz:UA-CLine-2883
+177 11-11-Drosophila-taxonomy:7215
+178 
+179 
+180 
+181 
+182 3-3-membrane-go:GO:0016020
+183 
+184 
+185 
+186 
+186 
+187 
+188 
+189 
+190 
+191 
+191 2-2-membrane-go:GO:0016020
+192 
+192 
+193 
+193 
+194 14-14-spot-taxonomy:59837
+195 
+196 
+197 12-13-cell_surface-go:GO:0009986
+198 
+199 8-8-membrane-go:GO:0016020 21-21-membrane-go:GO:0016020
+200 
+201 
+202 
+203 9-9-membrane-go:GO:0016020
+204 
+204 
+205 
+206 12-12-spot-taxonomy:59837
+207 21-22-contact_sites-go:GO:0044289
+208 25-26-cell_junctions-go:GO:0030054
+209 
+209 
+210 
+211 
+212 27-27-membrane-go:GO:0016020 38-38-membrane-go:GO:0016020
+213 
+214 
+215 
+215 
+216 
+217 
+218 
+219 
+220 
+220 
+221 
+222 
+223 
+224 13-13-membrane-go:GO:0016020
+225 
+226 21-21-axis-uaz:UA-ORG-75 33-33-membrane-go:GO:0016020
+227 19-19-membrane-go:GO:0016020 22-22-cytoplasm-go:GO:0005737
+228 10-10-membrane-go:GO:0016020
+229 13-13-St-uaz:UA-CLine-6448
+230 
+231 11-11-membrane-go:GO:0016020
+232 7-7-membrane-go:GO:0016020
+233 9-9-membrane-go:GO:0016020
+234 21-21-membrane-go:GO:0016020
+235 
+235 
+236 
+236 
+237 
+237 
+238 
+239 
+240 
+241 
+242 
+243 
+244 
+245 
+245 
+246 
+247 
+248 
+249 
+250 
+251 
+252 
+253 
+253 
+254 
+255 
+256 
+257 
+258 
+259 
+260 
+260 
+261 
+261 
+262 
+263 
+264 
+265 
+265 
+266 24-24-nucleus-go:GO:0005634
+267 29-29-nucleus-go:GO:0005634
+268 
+269 10-10-cytoplasm-go:GO:0005737
+270 10-11-cell_junctions-go:GO:0030054
+271 
+272 
+272 
+273 16-16-nucleus-go:GO:0005634
+274 
+275 20-20-nucleus-go:GO:0005634
+276 
+277 
+278 
+278 6-6-membrane-go:GO:0016020 16-16-Larvae-tissuelist:TS-0516
+279 
+279 
+280 
+280 14-14-larvae-tissuelist:TS-0516 23-23-membrane-go:GO:0016020
+281 
+282 
+283 27-27-membrane-go:GO:0016020
+284 
+285 
+285 20-20-Larvae-tissuelist:TS-0516
+286 21-21-larvae-tissuelist:TS-0516
+287 4-4-membrane-go:GO:0016020
+288 6-7-Septate_Junctions-go:GO:0005918 36-36-membrane-go:GO:0016020
+289 
+290 
+291 35-35-membrane-go:GO:0016020
+292 
+293 
+294 
+295 
+296 
+297 
+298 
+299 
+300 
+301 
+301 3-4-cell_junctions-go:GO:0030054
+302 
+302 
+303 
+303 
+304 
+305 
+306 
+307 
+308 
+308 9-10-cell_junctions-go:GO:0030054
+309 
+310 25-26-epithelial_cell-tissuelist:TS-0288
+311 
+312 4-5-basement_membrane-go:GO:0005604 7-7-MCF-10A-uaz:UA-CLine-6278 27-27-epithelium-tissuelist:TS-0288
+313 
+314 
+315 
+316 
+317 14-14-MDCK-uaz:UA-CLine-5690
+318 
+319 
+319 
+320 
+320 
+321 
+322 
+323 
+324 
+325 
+326 
+327 
+328 
+328 
+329 31-31-epithelium-tissuelist:TS-0288 40-40-embryo-tissuelist:TS-0229
+330 18-18-cytoskeleton-go:GO:0005856
+331 
+332 
+333 
+334 
+335 2-2-NMuMG-uaz:UA-CLine-3517
+336 
+337 
+338 
+339 
+340 
+341 
+342 
+343 
+343 
+344 
+344 12-12-host-go:GO:0018995
+345 
+346 41-42-cell_surface-go:GO:0009986 52-53-actin_cytoskeleton-go:GO:0015629
+347 17-18-host_cell-go:GO:0043657 19-19-cytoplasm-go:GO:0005737 26-27-host_cell-go:GO:0043657
+348 4-5-Helicobacter_pylori-taxonomy:210 7-7-H.pylori-taxonomy:210
+349 0-0-H.pylori-taxonomy:210 38-38-H.pylori-taxonomy:210 56-57-gastric_carcinoma-tissuelist:TS-0400
+350 17-17-host-go:GO:0018995
+351 5-6-host_cell-go:GO:0043657
+352 
+353 
+354 
+355 19-19-membrane-go:GO:0016020
+356 
+357 
+358 
+359 
+359 
+360 
+360 
+361 
+362 
+363 
+364 25-25-cytoskeleton-go:GO:0005856 28-28-nucleus-go:GO:0005634
+365 
+365 
+366 
+366 9-11-peripheral_nervous_system-tissuelist:TS-0808 13-13-PNS-tissuelist:TS-0808
+367 
+368 14-15-paranodal_junction-go:GO:0033010 18-19-Schmidt-Lanterman_incisure-go:GO:0043220
+369 
+369 
+370 12-14-male_reproductive_system-tissuelist:TS-1310 65-66-actin_cytoskeleton-go:GO:0015629
+371 2-4-peripheral_nervous_system-tissuelist:TS-0808 6-6-PNS-tissuelist:TS-0808 25-26-Schwann_cell-tissuelist:TS-0898 30-31-myelin_sheath-go:GO:0043209
+372 45-45-mesaxons-go:GO:0097453
+373 7-7-mice-taxonomy:10090 11-11-nerve-tissuelist:TS-0672 25-25-PNS-tissuelist:TS-0808
+374 7-7-axons-go:GO:0030424
+375 14-14-axons-go:GO:0030424
+376 11-11-axon-go:GO:0030424 28-28-axon-go:GO:0030424
+377 
+377 
+378 7-7-mice-taxonomy:10090
+379 5-6-endothelial_cells-tissuelist:TS-0278
+380 
+381 
+381 
+382 
+383 
+384 0-0-Membrane-go:GO:0016020 25-25-neurons-uaz:UA-ORG-623 31-31-membrane-go:GO:0016020
+385 12-12-membrane-go:GO:0016020 20-20-cytoskeleton-go:GO:0005856
+386 14-14-membrane-go:GO:0016020
+387 
+388 
+389 
+390 
+391 
+392 40-40-membrane-go:GO:0016020
+393 

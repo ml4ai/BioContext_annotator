@@ -1,0 +1,418 @@
+0 
+1 
+1 
+2 
+2 7-7-membrane-go:GO:0016020 27-27-human-taxonomy:9606
+3 9-9-human-taxonomy:9606
+4 9-10-plasma_membrane-go:GO:0005886 23-24-trans-Golgi_network-go:GO:0005802
+5 15-15-lysosomes-go:GO:0005764
+6 6-6-membrane-go:GO:0016020
+7 
+8 
+9 
+9 
+10 
+10 12-12-membrane-go:GO:0016020 14-14-membrane-go:GO:0016020 21-21-membrane-go:GO:0016020
+11 
+12 18-18-membrane-go:GO:0016020
+13 3-3-vesicles-go:GO:0031982 8-8-organelle-go:GO:0043226 23-23-cytoskeleton-go:GO:0005856 32-33-target_membrane-uniprot:SL-0452
+14 11-11-membrane-go:GO:0016020 25-25-membrane-go:GO:0016020
+15 
+16 
+17 
+17 
+18 
+19 1-1-humans-taxonomy:9606 21-21-human-taxonomy:9606
+20 
+21 
+22 19-19-yeasts-taxonomy:4932
+23 15-15-yeast-taxonomy:4932
+24 
+25 
+26 
+26 19-19-brain-tissuelist:TS-0095
+27 
+28 5-6-Caenorhabditis_elegans-taxonomy:6239 22-22-synapse-go:GO:0045202
+29 9-9-yolk-go:GO:0060417 13-14-C._elegans-taxonomy:6239
+30 
+31 
+32 8-8-human-taxonomy:9606
+33 
+33 
+34 
+34 2-2-human-taxonomy:9606
+35 
+35 4-4-human-taxonomy:9606
+36 
+37 26-26-yeast-taxonomy:4932
+38 19-19-humans-taxonomy:9606
+39 
+40 13-13-yeast-taxonomy:4932
+41 
+42 
+42 
+43 
+43 7-7-human-taxonomy:9606
+44 4-4-human-taxonomy:9606
+45 
+46 11-11-MUSCLE-tissuelist:TS-0642
+47 
+48 
+49 
+49 
+50 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+61 
+62 
+62 
+63 3-3-Human-taxonomy:9606 12-12-human-taxonomy:9606
+64 
+65 
+66 
+67 
+68 
+69 
+70 9-9-human-taxonomy:9606
+71 
+72 
+73 5-5-Human-taxonomy:9606
+74 14-15-HeLa_cells-tissuelist:TS-0136
+75 
+76 
+77 
+77 0-0-Human-taxonomy:9606 17-18-plasma_membrane-go:GO:0005886 21-22-trans-Golgi_network-go:GO:0005802
+78 19-19-membrane-go:GO:0016020
+79 6-7-HeLa_cells-tissuelist:TS-0136 24-25-plasma_membrane-go:GO:0005886
+80 3-3-AP-3-uaz:UA-CLine-6657
+81 
+82 
+83 
+84 9-10-plasma_membrane-go:GO:0005886
+85 11-12-plasma_membrane-go:GO:0005886
+86 5-6-HeLa_cells-tissuelist:TS-0136 43-44-trans-Golgi_network-go:GO:0005802
+87 10-11-trans-Golgi_network-go:GO:0005802
+88 
+89 16-17-cell_surface-go:GO:0009986
+90 20-21-trans-Golgi_network-go:GO:0005802
+91 26-27-trans-Golgi_network-go:GO:0005802
+92 
+92 
+93 
+93 
+94 3-4-HeLa_cells-tissuelist:TS-0136 31-31-AP-3-uaz:UA-CLine-6657
+95 
+96 
+97 
+98 3-4-HeLa_cells-tissuelist:TS-0136
+99 
+100 
+101 
+102 
+103 
+104 
+105 3-4-HeLa_cells-tissuelist:TS-0136
+106 
+107 
+108 
+109 
+109 
+110 
+110 11-12-trans-Golgi_network-go:GO:0005802
+111 3-4-HeLa_cells-tissuelist:TS-0136
+112 
+113 
+114 
+115 
+116 15-16-recycling_endosomes-go:GO:0055037
+117 
+118 
+119 
+120 
+121 
+121 
+122 
+122 
+123 
+124 
+125 
+126 
+127 
+128 
+129 10-11-actin_cytoskeleton-go:GO:0015629 26-27-actin_cytoskeleton-go:GO:0015629
+130 9-9-lysosomes-go:GO:0005764
+131 12-12-lysosomes-go:GO:0005764 17-18-perinuclear_region-uniprot:SL-0198
+132 11-12-HeLa_cells-tissuelist:TS-0136
+133 19-20-late_endosomes-go:GO:0005770
+134 25-26-cell_periphery-go:GO:0071944
+135 16-17-perinuclear_region-uniprot:SL-0198
+136 8-9-late_endosomes-go:GO:0005770 25-26-late_endosomes-go:GO:0005770 31-31-lysosomes-go:GO:0005764
+137 
+138 
+139 19-20-late_endosomes-go:GO:0005770
+140 13-13-organelles-go:GO:0043226
+141 22-23-late_endosomes-go:GO:0005770 27-27-organelles-go:GO:0043226 33-34-actin_cytoskeleton-go:GO:0015629
+142 
+142 
+143 
+143 6-6-lysosomes-go:GO:0005764
+144 7-7-human-taxonomy:9606 19-19-human-taxonomy:9606
+145 3-3-Human-taxonomy:9606
+146 
+147 
+148 3-4-HeLa_cells-tissuelist:TS-0136
+149 
+150 29-30-lysosome_membrane-uniprot:SL-0157
+151 3-4-HeLa_cells-tissuelist:TS-0136
+152 0-1-HeLa_cells-tissuelist:TS-0136
+153 
+154 3-4-HeLa_cells-tissuelist:TS-0136
+155 
+156 
+157 
+158 
+159 
+160 
+161 
+162 
+162 
+163 
+163 
+164 
+165 
+166 
+167 
+168 
+169 10-11-HeLa_cells-tissuelist:TS-0136 19-19-membrane-go:GO:0016020 24-25-perinuclear_region-uniprot:SL-0198
+170 
+171 8-9-early_endosomes-go:GO:0005769 11-12-recycling_endosomes-go:GO:0055037 15-15-lysosomes-go:GO:0005764
+172 
+172 
+173 
+173 
+174 7-7-human-taxonomy:9606 16-16-human-taxonomy:9606 25-26-HeLa_cells-tissuelist:TS-0136
+175 3-3-Human-taxonomy:9606
+176 12-13-HeLa_cells-tissuelist:TS-0136
+177 
+178 
+179 9-9-human-taxonomy:9606 21-21-human-taxonomy:9606
+180 
+181 3-4-HeLa_cells-tissuelist:TS-0136
+182 
+183 
+184 
+184 
+185 
+185 
+186 
+187 
+188 
+189 
+190 
+190 
+191 
+191 
+192 0-0-Human-taxonomy:9606 32-32-human-taxonomy:9606
+193 12-13-HeLa_cells-tissuelist:TS-0136
+194 
+195 
+196 
+196 10-10-human-taxonomy:9606
+197 31-31-membrane-go:GO:0016020
+198 
+199 15-15-membrane-go:GO:0016020
+200 
+200 
+201 
+201 
+202 0-0-Human-taxonomy:9606 2-3-Homo_sapiens-taxonomy:9606 8-9-fruit_fly-taxonomy:7227 18-18-nematode-taxonomy:6239 20-21-C._elegans-taxonomy:6239 28-28-yeast-taxonomy:4932
+203 
+204 14-15-HeLa_cells-tissuelist:TS-0136
+205 
+206 
+207 1-1-human-taxonomy:9606 3-3-mouse-taxonomy:10090 5-5-zebrafish-taxonomy:7955 7-8-fruit_fly-taxonomy:7227 11-11-nematode-taxonomy:6239
+208 
+209 
+209 
+210 
+210 
+211 
+211 
+212 18-19-fission_yeast-taxonomy:4896 36-36-yeast-taxonomy:4932
+213 18-18-yeast-taxonomy:4932
+214 
+215 3-4-C._elegans-taxonomy:6239 17-17-yeast-taxonomy:4932
+216 9-9-human-taxonomy:9606
+217 
+218 
+219 
+220 
+221 11-12-recycling_endosomes-go:GO:0055037
+222 
+223 
+223 
+224 7-8-Golgi_apparatus-go:GO:0005794 14-15-B,-uaz:UA-CLine-100007
+225 12-13-growth_cone-go:GO:0030426 15-15-synapse-go:GO:0045202 32-32-fibroblast-uaz:UA-CLine-100060
+226 
+227 7-7-human-taxonomy:9606 14-14-mice-taxonomy:10090 28-29-nervous_system-tissuelist:TS-1313
+228 17-18-epithelial_cell-tissuelist:TS-0288
+229 
+229 14-14-membrane-go:GO:0016020 18-19-cell_surface-go:GO:0009986
+230 2-2-yeast-taxonomy:4932
+231 15-15-membrane-go:GO:0016020 21-21-cilium-go:GO:0005929
+232 
+233 
+234 
+235 12-12-Drosophila-taxonomy:7215 15-15-human-taxonomy:9606
+236 3-4-fruit_fly-taxonomy:7227
+237 14-15-fruit_flies-taxonomy:7227
+238 
+239 
+240 18-18-human-taxonomy:9606 35-35-palate-tissuelist:TS-0735 40-40-kidney-tissuelist:TS-0510
+241 19-20-late_endosomes-go:GO:0005770 22-22-lysosomes-go:GO:0005764
+242 
+243 
+243 
+244 
+245 
+246 
+247 
+248 
+249 
+249 
+250 
+250 
+251 30-30-membrane-go:GO:0016020
+252 
+253 11-11-yeast-taxonomy:4932
+254 6-6-human-taxonomy:9606 15-15-human-taxonomy:9606
+255 
+256 
+257 
+257 
+258 
+258 19-19-membrane-go:GO:0016020 22-23-lipid_droplet-uniprot:SL-0154 26-26-cilium-go:GO:0005929
+259 
+260 
+261 
+262 
+263 
+264 
+265 
+266 14-14-membrane-go:GO:0016020
+267 
+267 
+268 
+268 
+269 
+269 9-9-Fisher-taxonomy:76720
+270 6-6-sheep-taxonomy:9940
+271 0-0-Rabbit-taxonomy:9986
+272 0-0-Mouse-taxonomy:10090 3-3-X22-uaz:UA-CLine-6876
+273 8-8-mouse-taxonomy:10090 16-16-mouse-taxonomy:10090 32-32-mouse-taxonomy:10090 41-41-mouse-taxonomy:10090 50-50-rabbit-taxonomy:9986 61-61-mouse-taxonomy:10090 69-69-mouse-taxonomy:10090 76-76-human-taxonomy:9606 79-79-mouse-taxonomy:10090 88-88-sheep-taxonomy:9940 96-96-rabbit-taxonomy:9986 105-105-mouse-taxonomy:10090
+274 4-4-donkey-taxonomy:9793 6-6-mouse-taxonomy:10090 8-8-rabbit-taxonomy:9986 10-10-sheep-taxonomy:9940 15-15-human-taxonomy:9606
+275 
+275 
+276 
+276 0-0-Human-taxonomy:9606 13-13-human-taxonomy:9606
+277 
+278 9-9-Fisher-taxonomy:76720
+279 
+280 
+281 
+282 
+283 
+284 
+285 
+286 
+287 
+288 26-26-baculovirus-taxonomy:10469 28-28-Sf9-uaz:UA-CLine-1696
+289 23-23-Sf9-uaz:UA-CLine-1696
+290 
+291 
+292 
+293 
+294 
+295 
+295 
+296 
+297 
+298 
+299 
+300 
+301 
+302 
+303 
+304 
+305 
+306 
+307 
+308 
+309 
+310 
+311 
+312 
+312 
+313 
+313 0-0-HeLa-uaz:UA-CLine-5369 2-2-HEK293-uaz:UA-CLine-100085 12-12-calf-taxonomy:9913 13-13-serum-tissuelist:TS-0923
+314 
+315 40-41-HeLa_cells-tissuelist:TS-0136
+316 
+317 
+318 
+319 
+320 
+321 
+322 
+322 
+323 
+323 
+324 
+325 
+326 
+327 
+328 
+329 
+330 
+331 
+331 
+332 
+332 15-15-lens-tissuelist:TS-0545
+333 
+334 
+334 
+335 
+335 
+336 
+337 34-34-Fisher-taxonomy:76720 44-44-Fisher-taxonomy:76720
+338 
+339 
+340 
+341 19-19-human-taxonomy:9606
+342 
+343 15-15-Fisher-taxonomy:76720
+344 
+344 
+345 
+345 13-13-MUSCLE-tissuelist:TS-0642
+346 
+347 
+348 
+349 
+349 
+350 
+350 
+351 8-8-human-taxonomy:9606 19-20-Hela_cells-tissuelist:TS-0136
+352 9-9-human-taxonomy:9606 11-11-mouse-taxonomy:10090 13-13-zebrafish-taxonomy:7955 15-16-fruit_fly-taxonomy:7227 19-19-nematode-taxonomy:6239
+353 
+354 

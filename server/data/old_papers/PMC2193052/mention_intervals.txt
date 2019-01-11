@@ -1,0 +1,228 @@
+0 11-12-T_Cell-uaz:UA-CLine-100050
+1 
+1 
+2 10-11-T_cells-uaz:UA-CLine-100050
+3 7-7-leukocyte-tissuelist:TS-0549
+4 9-10-T_cells-uaz:UA-CLine-100050
+5 5-5-Jurkat-uaz:UA-CLine-2244 24-25-T_cell-uaz:UA-CLine-100050 31-32-T_cell-uaz:UA-CLine-100050 42-42-SH3-uaz:UA-CLine-8476
+6 
+7 
+8 
+8 32-32-nucleus-go:GO:0005634 46-47-T_cells-uaz:UA-CLine-100050
+9 6-7-plasma_membrane-go:GO:0005886
+10 14-15-T_cells-uaz:UA-CLine-100050
+11 
+12 15-16-T_cells-uaz:UA-CLine-100050
+13 
+13 16-16-leukocyte-tissuelist:TS-0549
+14 0-0-Mice-taxonomy:10090 10-11-T_cells-uaz:UA-CLine-100050 14-14-thymus-tissuelist:TS-1043 18-19-T_cells-uaz:UA-CLine-100050
+15 2-2-Jurkat-uaz:UA-CLine-2244 4-4-J14-uaz:UA-CLine-100071
+16 27-27-J14-uaz:UA-CLine-100071
+17 
+18 26-26-Jurkat-uaz:UA-CLine-2244 37-38-T_cell-uaz:UA-CLine-100050
+19 
+20 20-21-T_cells-uaz:UA-CLine-100050
+21 
+22 
+23 
+23 
+24 
+24 
+25 
+25 7-7-yeast-taxonomy:4932 12-12-human-taxonomy:9606
+26 14-14-human-taxonomy:9606
+27 7-7-yeast-taxonomy:4932 19-19-human-taxonomy:9606
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+35 
+36 
+36 
+37 
+38 
+39 
+40 
+41 
+42 26-26-human-taxonomy:9606 32-32-human-taxonomy:9606 57-57-human-taxonomy:9606
+43 
+44 
+45 
+45 
+46 
+46 4-4-human-taxonomy:9606 5-6-T_cell-uaz:UA-CLine-100050 9-9-Jurkat-uaz:UA-CLine-2244 11-11-MOLT-4-uaz:UA-CLine-6453 13-13-human-taxonomy:9606 14-15-B_cell-uaz:UA-CLine-100005 18-18-Daudi-uaz:UA-CLine-7023 20-20-Raji-uaz:UA-CLine-8027 23-23-Ramos-uaz:UA-CLine-6550 26-26-human-taxonomy:9606 31-31-THP-1-uaz:UA-CLine-2919 34-34-human-taxonomy:9606 39-39-Eol-3-uaz:UA-CLine-100089 42-42-human-taxonomy:9606 47-47-TF-1-uaz:UA-CLine-12 50-50-human-taxonomy:9606 51-51-lung-tissuelist:TS-0568 56-56-WI-26-uaz:UA-CLine-899 59-59-human-taxonomy:9606 60-61-epithelial_cell-tissuelist:TS-0288 64-64-HeLa-uaz:UA-CLine-5369 68-68-SV40-taxonomy:10633 71-71-kidney-tissuelist:TS-0510 75-75-COS7-uaz:UA-CLine-100020
+47 0-0-TF-1-uaz:UA-CLine-12
+48 0-0-WI-26-uaz:UA-CLine-899 2-2-COS7-uaz:UA-CLine-100020
+49 
+50 
+50 
+51 
+51 
+52 1-1-rabbit-taxonomy:9986 17-17-human-taxonomy:9606
+53 1-1-rabbit-taxonomy:9986 17-17-human-taxonomy:9606
+54 1-1-human-taxonomy:9606
+55 
+55 
+56 
+56 
+57 
+58 
+59 
+60 
+60 
+61 
+61 
+62 19-19-human-taxonomy:9606
+63 
+64 
+65 
+65 
+66 
+66 0-0-COS7-uaz:UA-CLine-100020
+67 4-4-Jurkat-uaz:UA-CLine-2244
+68 
+69 14-14-Ink-tissuelist:TS-1210
+70 
+70 
+71 
+71 
+72 
+73 18-18-yeast-taxonomy:4932
+74 8-8-human-taxonomy:9606
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+82 1-1-human-taxonomy:9606
+83 1-2-T__cell-uaz:UA-CLine-100050 5-5-MOLT-4-uaz:UA-CLine-6453 7-7-Jurkat-uaz:UA-CLine-2244 21-22-B_cell-uaz:UA-CLine-100005 25-25-Daudi-uaz:UA-CLine-7023 27-27-Raji-uaz:UA-CLine-8027 41-42-B_cell-uaz:UA-CLine-100005 45-45-Ramos-uaz:UA-CLine-6550 48-49-myeloid_cell-tissuelist:TS-0647 52-52-THP-1-uaz:UA-CLine-2919 54-54-TF-1-uaz:UA-CLine-12 57-57-Eol-3-uaz:UA-CLine-100089 66-66-HeLa-uaz:UA-CLine-5369 68-68-WI-26-uaz:UA-CLine-899
+84 
+85 5-5-human-taxonomy:9606 21-21-Jurkat-uaz:UA-CLine-2244 23-23-MOLT-4-uaz:UA-CLine-6453 26-27-myeloid_cell-tissuelist:TS-0647 30-30-KU812-uaz:UA-CLine-6009 47-47-human-taxonomy:9606 51-51-thymus-tissuelist:TS-1043 53-53-spleen-tissuelist:TS-0956 55-56-small_intestine-tissuelist:TS-0942 74-74-prostate-tissuelist:TS-0828 76-76-testis-tissuelist:TS-1030 78-78-ovary-tissuelist:TS-0730 80-80-colon-tissuelist:TS-0158 82-82-heart-tissuelist:TS-0445 84-84-brain-tissuelist:TS-0095 86-86-placenta-tissuelist:TS-0799 88-88-lung-tissuelist:TS-0568 90-90-liver-tissuelist:TS-0564 92-93-skeletal_muscle-tissuelist:TS-0933 95-95-kidney-tissuelist:TS-0510 98-98-pancreas-tissuelist:TS-0736
+86 19-20-T_cells-uaz:UA-CLine-100050
+87 
+87 
+88 15-15-Jurkat-uaz:UA-CLine-2244
+89 22-22-Jurkat-uaz:UA-CLine-2244
+90 
+91 
+92 12-12-Jurkat-uaz:UA-CLine-2244
+93 
+94 0-0-COS7-uaz:UA-CLine-100020
+95 2-2-COS7-uaz:UA-CLine-100020
+96 
+97 
+98 
+99 
+100 11-11-COS7-uaz:UA-CLine-100020
+101 
+102 
+103 
+104 
+105 
+106 
+106 
+107 0-0-COS7-uaz:UA-CLine-100020
+108 
+109 
+110 
+111 
+112 5-5-COS7-uaz:UA-CLine-100020
+113 
+114 
+115 
+116 
+117 
+118 
+118 
+119 
+120 6-6-Jurkat-uaz:UA-CLine-2244 30-30-Jurkat-uaz:UA-CLine-2244
+121 9-9-Jurkat-uaz:UA-CLine-2244
+122 
+123 9-9-Jurkat-uaz:UA-CLine-2244
+124 
+125 
+126 
+126 
+127 0-0-Jurkat-uaz:UA-CLine-2244
+128 
+129 
+130 
+131 
+132 
+133 
+134 
+134 
+135 
+136 28-28-COS7-uaz:UA-CLine-100020
+137 
+138 
+138 
+139 9-9-Jurkat-uaz:UA-CLine-2244
+140 
+141 
+142 
+143 
+144 
+144 18-19-T_cells-uaz:UA-CLine-100050
+145 
+146 
+147 
+147 
+148 
+149 6-6-human-taxonomy:9606 7-7-chromosome-go:GO:0005694
+150 15-15-human-taxonomy:9606 21-21-mouse-taxonomy:10090 29-29-mouse-taxonomy:10090
+151 4-4-human-taxonomy:9606
+152 
+153 
+153 
+154 
+154 
+155 
+155 
+156 
+157 8-8-SH3-uaz:UA-CLine-8476 24-24-SH3-uaz:UA-CLine-8476
+158 10-10-human-taxonomy:9606 36-36-serum-tissuelist:TS-0923
+159 11-11-human-taxonomy:9606
+160 
+161 
+161 
+162 
+162 8-8-Jurkat-uaz:UA-CLine-2244
+163 0-0-Jurkat-uaz:UA-CLine-2244 33-33-serum-tissuelist:TS-0923
+164 
+165 0-0-COS7-uaz:UA-CLine-100020
+166 11-11-serum-tissuelist:TS-0923
+167 0-0-COS7-uaz:UA-CLine-100020
+168 
+169 
+169 
+170 
+170 
+171 0-0-COS7-uaz:UA-CLine-100020
+172 
+173 
+174 
+174 
+175 
+175 
+176 0-0-Jurkat-uaz:UA-CLine-2244
+177 
+178 
+179 
+180 
+180 
+181 
+181 
+182 3-3-Jurkat-uaz:UA-CLine-2244
+183 
+184 3-3-Jurkat-uaz:UA-CLine-2244
+185 
+186 
+187 

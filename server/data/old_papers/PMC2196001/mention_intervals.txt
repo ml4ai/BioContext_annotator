@@ -1,0 +1,324 @@
+0 
+1 
+1 35-35-SH3-uaz:UA-CLine-8476
+2 8-8-testis-tissuelist:TS-1030
+3 
+4 
+5 11-11-microspikes-go:GO:0044393 13-13-Cos7-uaz:UA-CLine-100020
+6 14-14-microspike-go:GO:0044393
+7 14-14-brain-tissuelist:TS-0095
+8 7-7-brain-tissuelist:TS-0095
+9 
+10 
+11 26-26-microspike-go:GO:0044393
+12 
+12 
+13 
+13 
+14 
+15 
+16 
+17 
+18 
+18 42-43-actin_cytoskeleton-go:GO:0015629
+19 6-7-stress_fibers-go:GO:0001725 15-15-membrane-go:GO:0016020
+20 
+20 22-23-actin_cytoskeleton-go:GO:0015629
+21 12-12-filopodium-go:GO:0030175
+22 
+23 25-25-filopodium-go:GO:0030175
+24 
+25 
+26 
+27 
+28 
+28 
+29 9-9-membrane-go:GO:0016020
+30 
+31 
+31 
+32 6-6-SH3-uaz:UA-CLine-8476
+33 
+34 11-11-microspikes-go:GO:0044393 13-13-Cos7-uaz:UA-CLine-100020 37-37-microspike-go:GO:0044393
+35 2-2-brain-tissuelist:TS-0095 29-29-brain-tissuelist:TS-0095
+36 
+36 
+37 
+37 
+38 
+38 29-29-SH3-uaz:UA-CLine-8476 34-34-SH3-uaz:UA-CLine-8476 39-39-SH3-uaz:UA-CLine-8476 44-44-SH3-uaz:UA-CLine-8476
+39 
+40 15-15-mouse-taxonomy:10090
+41 
+42 
+43 
+43 
+44 
+45 
+46 
+47 16-16-Sf9-uaz:UA-CLine-1696
+48 
+49 
+50 
+50 
+51 
+51 1-1-mouse-taxonomy:10090 2-3-skeletal_muscle-tissuelist:TS-0933 5-5-myoblast-tissuelist:TS-0650
+52 
+53 
+54 
+55 
+55 
+56 
+56 
+57 
+58 16-16-membrane-go:GO:0016020
+59 1-1-membrane-go:GO:0016020
+60 
+61 
+61 
+62 
+62 17-17-SH3-uaz:UA-CLine-8476
+63 
+64 9-9-rabbits-taxonomy:9986
+65 
+66 
+67 
+68 
+69 
+70 
+70 3-3-Cos7-uaz:UA-CLine-100020
+71 
+71 4-4-mouse-taxonomy:10090
+72 
+73 
+74 
+75 12-12-serum-tissuelist:TS-0923
+76 
+77 
+77 
+78 
+79 3-3-serum-tissuelist:TS-0923
+80 
+80 
+81 
+81 
+82 
+83 
+83 3-3-N1E-115-uaz:UA-CLine-6607
+84 
+84 10-10-N1E-115-uaz:UA-CLine-6607
+85 11-11-serum-tissuelist:TS-0923
+86 
+87 
+87 
+88 
+88 4-4-N1E-115-uaz:UA-CLine-6607 21-21-rabbit-taxonomy:9986 22-22-serum-tissuelist:TS-0923
+89 
+90 
+91 
+91 
+92 
+92 4-4-rabbit-taxonomy:9986 5-6-skeletal_muscle-tissuelist:TS-0933
+93 9-9-brain-tissuelist:TS-0095
+94 
+95 5-5-baculovirus-taxonomy:10469
+96 
+97 
+97 
+98 
+98 
+99 
+100 
+101 
+102 
+103 
+104 
+105 
+106 
+106 7-7-brain-tissuelist:TS-0095 11-11-brain-tissuelist:TS-0095
+107 11-11-brain-tissuelist:TS-0095
+108 
+109 14-14-SH3-uaz:UA-CLine-8476
+110 
+110 
+111 
+111 
+112 
+113 
+114 
+115 
+116 
+117 
+117 3-3-Microspike-go:GO:0044393
+118 
+118 
+119 
+120 
+121 
+121 
+122 
+122 
+123 
+123 23-23-mouse-taxonomy:10090 24-25-skeletal_muscle-tissuelist:TS-0933 27-27-myoblasts-tissuelist:TS-0650
+124 
+124 
+125 
+126 
+127 6-6-SH3-uaz:UA-CLine-8476
+128 18-18-SH3-uaz:UA-CLine-8476
+129 
+130 
+131 19-19-Cos7-uaz:UA-CLine-100020
+132 14-14-Cos7-uaz:UA-CLine-100020
+133 21-21-brain-tissuelist:TS-0095
+134 
+134 
+135 
+135 
+136 15-15-brain-tissuelist:TS-0095 17-17-testis-tissuelist:TS-1030
+137 22-22-testis-tissuelist:TS-1030
+138 
+138 
+139 4-4-brain-tissuelist:TS-0095 12-12-thymus-tissuelist:TS-1043 14-14-spleen-tissuelist:TS-0956 17-17-testis-tissuelist:TS-1030
+140 7-7-brain-tissuelist:TS-0095 16-16-brain-tissuelist:TS-0095 18-18-cerebrum-tissuelist:TS-0095 20-20-cerebellum-tissuelist:TS-0125 22-22-diencephalon-tissuelist:TS-0199 25-26-medulla_oblongata-tissuelist:TS-0607
+141 
+142 18-19-neuronal_cell-tissuelist:TS-0683 21-21-N1E-115-uaz:UA-CLine-6607 23-23-PC12-uaz:UA-CLine-100093 34-34-3T3-uaz:UA-CLine-1347
+143 
+143 6-6-SH3-uaz:UA-CLine-8476
+144 
+144 
+145 
+146 
+147 
+148 
+149 17-17-N1E-115-uaz:UA-CLine-6607
+150 11-11-N1E-115-uaz:UA-CLine-6607
+151 
+151 3-3-SH3-uaz:UA-CLine-8476
+152 
+153 
+154 
+155 
+155 
+156 
+156 12-12-N1E-115-uaz:UA-CLine-6607
+157 
+158 
+159 
+160 
+161 3-4-B,-uaz:UA-CLine-100007
+162 
+163 
+164 
+165 
+166 
+167 
+168 
+168 
+169 
+169 
+170 
+171 
+172 
+173 
+174 
+175 
+176 
+177 
+178 
+179 
+180 
+180 9-9-SH3-uaz:UA-CLine-8476
+181 
+182 
+183 3-3-SH3-uaz:UA-CLine-8476
+184 5-5-SH3-uaz:UA-CLine-8476
+185 14-14-SH3-uaz:UA-CLine-8476
+186 
+187 
+188 
+189 
+190 
+191 
+191 
+192 
+193 
+193 4-4-Bovine-taxonomy:9913 5-5-Brain-tissuelist:TS-0095 12-12-Bovine-taxonomy:9913 13-13-Brain-tissuelist:TS-0095
+194 
+194 6-6-neutrophils-uaz:UA-ORG-624 11-11-oocytes-uaz:UA-CLine-100066
+195 6-6-comets-taxonomy:302767 16-16-brain-tissuelist:TS-0095
+196 6-6-brain-tissuelist:TS-0095
+197 3-3-brain-tissuelist:TS-0095
+198 18-18-brain-tissuelist:TS-0095
+199 
+200 
+201 20-20-brain-tissuelist:TS-0095
+202 17-17-SH3-uaz:UA-CLine-8476 21-22-B,-uaz:UA-CLine-100007
+203 
+204 16-17-B,-uaz:UA-CLine-100007
+205 7-7-brain-tissuelist:TS-0095
+206 
+207 
+208 
+209 
+210 
+210 4-4-Microspike-go:GO:0044393
+211 
+211 6-6-microspike-go:GO:0044393 15-15-Cos7-uaz:UA-CLine-100020
+212 13-13-Cos7-uaz:UA-CLine-100020
+213 11-11-microspikes-go:GO:0044393
+214 7-7-microspike-go:GO:0044393
+215 8-8-microspike-go:GO:0044393
+216 7-7-microspike-go:GO:0044393
+217 9-9-microspike-go:GO:0044393
+218 8-8-microspikes-go:GO:0044393
+219 6-6-microspikes-go:GO:0044393
+220 15-15-microspike-go:GO:0044393
+221 
+221 
+222 
+222 
+223 
+223 17-17-SH3-uaz:UA-CLine-8476
+224 
+225 
+226 
+227 
+227 
+228 
+229 
+230 
+231 
+232 
+233 
+234 
+235 
+236 15-15-filopodium-go:GO:0030175
+237 
+238 
+239 
+240 
+241 3-3-SH3-uaz:UA-CLine-8476
+242 4-4-SH3-uaz:UA-CLine-8476 9-9-SH3-uaz:UA-CLine-8476
+243 
+243 
+244 
+244 
+245 4-4-brain-tissuelist:TS-0095 10-10-comet-taxonomy:302767
+246 
+247 
+248 
+249 
+250 
+250 
+251 
+252 
+252 
+253 
+253 8-8-brain-tissuelist:TS-0095
+254 20-20-brain-tissuelist:TS-0095
+255 
+255 1-3-axonal_growth_cone-go:GO:0044295 16-16-axon-go:GO:0030424
+256 10-10-filopodium-go:GO:0030175 13-13-Cos7-uaz:UA-CLine-100020 33-33-filopodium-go:GO:0030175
+257 
+258 

@@ -1,0 +1,199 @@
+1						Association of traf2 with the short form of cellular FLICE like inhibitory protein prevent tnfr1 mediated apoptosis
+2						background
+3						"we have previously show that c-flipl be a more potent inhibitor than c-flip of fa ligand induce apoptosis and that c-flipl physically bind to Daxx , a alternative fa signaling adaptor ."
+4						here we examine whether c-flip effectively inhibit tnfr1 mediated apoptosis and trigger jnk activation through its interaction with traf2 .
+5						result
+6						"some cancer cell line , such as du145 , ag , and pc3 , have higher level of c-flip than other cell line , such as snu-719 and t24 ."
+7						the expression of c-flip correlate with the susceptibility to tnfr1 mediated apoptosis .
+8						"in contrast to du145 and pc3 , which be resistant to tnfr1 mediated apoptosis , t24 and snu719 be sensitive to tnf-alpha treatment ."
+9						"to address the role of c-flip in tnfr1 mediated apoptosis , we examine the molecular interaction between c-flip and traf2 ."
+10						"as expect , western blot analysis reveal that traf2 antibody immunoprecipitate a greater amount of c-flip than c-flipl ."
+11						"also , we measure the involvement of c-flip in tnf-alpha-induced jnk activation and apoptosis by compare these in tnf-alpha-resistant and tnf-alpha-sensitive cell line ."
+12	"uaz:UA-CLine-100082,uaz:UA-CLine-1982"	"SNU719,T24 cells"	"E1,C1,C2"	"C1,C2"	tnf-alpha increase the phosphorylated jnk level	"treatment with tnf-alpha increase the phosphorylated jnk level in snu719 and t24 cell , whereas du145 and ag cell be resistant to tnf-alpha-mediated apoptosis ."
+13						conclusion
+14						we now report that the short form of c-flip be a more efficient inhibitor of tnf-receptor 1 mediated apoptosis signaling than the long form of the protein .
+15						background
+16						"tumor necrosis factor receptor 1 ( tnfr1 ) exhibit diverse activity induce apoptosis and activate transcription factor nf-kappab , which lead to the induction of a number of anti-apoptotic factor ."
+17						"after the component of the death induce signaling complex of the related death receptor cd95 ( apo-1 / fa ) be identify , it be widely assume that tnfr1 also recruit both the fadd adaptor and caspase 8 upon binding of its ligand , tnf-alpha , result in the subsequent initiation of apoptosis ."
+18						"however , all attempt to demonstrate a direct physical association of fadd and caspase 8 with tnfr1 have so far be unsuccessful , whereas the anti-apoptotic component of the signaling complex contain tnf-alpha receptor associated factor 2 ( traf2 ) , tnfr1 associate death domain protein ( tradd ) and c-iap1 be readily detectable ."
+19						"in contrast to we understanding of the fa and trail receptor , the molecular mechanism underlie tnfr1 induce cell death remain poorly define , despite extensive study of the signaling pathway that operate through this receptor ."
+20						"it be currently believe that the engagement of tnfr1 trigger the recruitment of the dd contain adaptor molecule , tradd , follow by the dd contain ser and thr kinase rip1 ."
+21						"this signaling complex be require for traf2 and 5 and c-iap1 binding , which lead to triggering of the nf-kappab and jnk signaling pathway ."
+22						"tnfr1 binding by its ligand trigger these pathway , and can induce apoptosis by alternately bind the dd contain adaptor fadd ( through tradd ) , which facilitate caspase 8 recruitment and activation ."
+23						"the activation of the tnfr1 death receptor by tnf-alpha lead to the recruitment of tradd , which serve as a platform for the formation of various signaling complex involve in different biological process ."
+24						"for instance , tradd can recruit FADD and promote caspase-8 activation and apoptosis through the extrinsic pathway ."
+25						"however , tnf-alpha be not cytotoxic to most cell because tradd can also recruit traf2 and rip to form distinct complex lead to the activation of nf-kappab and jnk [ - ] ."
+26						"because activation of nf-kappab serve as a primary mechanism to protect cell against apoptotic stimulus such as tnf-alpha [ - ] , tnf-alpha-induced apoptosis require nf-kappab inhibition ."
+27						the involvement of jnk in tnf-alpha-mediated apoptosis be highly controversial [ - ] .
+28						induction of nf-kappab have be show recently to inhibit tnf-alpha-mediated jnk activation .
+29						"moreover , block nf-kappab result in the sustained activation of jnk , which may directly promote tnf-alpha-mediated apoptosis ."
+30						"however , although sustained activation of jnk promote cell death , the molecular basis of how this contribute to tnf-alpha-mediated apoptosis remain to be address ."
+31						"one of the well describe apoptosis inhibitor be c-flip , which be also know as flame-1 / i-flice/casper/cash / MRIT/CLARP/Usurpin ."
+32						c-FLIPL and c-flip contain two ded domain that be structurally similar to the n-terminal part of procaspase-8 .
+33						"the c terminus of c-flipl consist of two catalytically inactive caspase like domain ( p20 and p12 ) , whereas the short c terminus of c-flip show no homology to procaspases-8 or -10 ."
+34						both isoform of c-flip be recruit to the disc by DED DED interaction [ - ] .
+35						"however , it remain to be clarify in detail whether the difference in the mechanism of apoptosis inhibition also reflect different functional role of c-flip and c-flipl and by which downstream mechanism they be mediate ."
+36						genetic evidence suggest that fadd and caspase 8 be important for tnfr1 mediated apoptosis .
+37						"in addition , expression of the inhibitor of caspase 8 , c-flipl , inhibit the tnf-alpha-induced apoptotic pathway , which provide further evidence for the important role of caspase 8 in this cascade ."
+38						"expression of c-flipl be induce by nf-kappab , which may explain why death receptor induce apoptosis be generally block in cell with active nf-kappab ."
+39						here we examine whether c-flip effectively inhibit tnfr1 mediated apoptosis and trigger jnk activation through its interaction with traf2 .
+40						"the effect of traf2 in tnfr1 mediated apoptosis be attenuate by dn-traf2 , and the level of p-jnk in c-flip sirna increase more in tnf-alpha sensitive cell line than in a tnf-alpha resistant cell line ."
+41						"in this paper , we demonstrate that the regulation of c-flip be relate to the tnfr1 signaling pathway ."
+42						result
+43						inhibition of tnfr1 mediated apoptosis be dependent on the expression level of c-flip
+44						"to examine the relationship between the expression level of c-flip and the apoptotic response , we use real-time pcr to examine the expression of c-flip in human cancer cell line ."
+45						"we have show previously that c-flipl be a more potent inhibitor than c-flip of fa ligand induce apoptosis and that c-flipl physically bind to daxx through a interaction between its c-terminal domain and the fa binding domain of Daxx , a alternative fa signaling adaptor ."
+46						"interestingly , some cancer cell line , such as du145 , ag , and pc3 , have higher level of c-flip than other cell line , such as snu-719 and t24 ."
+47						"however , the expression of c-flip at the transcriptional level do not exactly reflect the protein level ."
+48						"this discrepancy may result from the low mrna stability of c-flip , which have be describe recently ."
+49						Figure 1
+50						the expression level of c-flip indicate a relationship to resistance to tnf induce apoptosis .
+51						( a ) immunoblotting analysis of c-flipl and c-flip in tnf-alpha-resistant and tnf-alpha-sensitive cell line with anti-flipl and anti-flips antibody .
+52						"the molecular weight of c-flipl and c-flip be about 55 kda and 28 kda , respectively ."
+53						beta-Actin be use as a load control .
+54						( b ) difference in the expression level of c-flip between various cancer cell line show by quantitative real-time pcr and SYBR Green detection .
+55						level of c-flip be normalize to GAPDH and the fold change in c-flip level be show for each cell line .
+56						datum show be the average of two assay .
+57						pcr product be analyze use sequence detection software .
+58						error bar equal the sem .
+59						"( c ) measurement of tnf-alpha-induced apoptosis use the tunel assay ( m , tunel positive ) in different human cancer cell line ."
+60						"different pattern be show follow treatment with tnf-alpha ( 10 ng and ml ) at 0 , 12 , and 24 h."
+61						"to elucidate the biological significance of these phenomenon , we examine the susceptibility of these cell line to tnf-alpha ."
+62						"interestingly , the expression of c-flip correlate with the susceptibility to tnfr1 mediated apoptosis ."
+63						"in contrast to du145 and pc3 , which be resistant to tnfr1 mediated apoptosis , t24 and snu719 be sensitive to tnf-alpha treatment ."
+64						the sensitivity of cell to tnf be associate with the expression level of c-flip
+65						"base on we previous finding , we speculate that the overexpression of c-flip would confer resistance to tnf-alpha-induced apoptosis more effectively than overexpression of c-flipl ."
+66						"we investigate the role of c-flip in this pathway by transfect into snu-719 cell , which express a lower level of c-flip than other cell line , because we do not have a knockout cell line of c-flip ."
+67						"although the ectopic expression of c-flip and c-flipl do not significantly inhibit tnf-alpha-induced apoptosis , the inhibition of tnfr1 induce apoptosis by c-flip be more potent than that of c-flipl ."
+68						figure 2
+69						"expression of c-flip confer stronger resistance to tnf-alpha-induced apoptosis than c-flipl , through a traf2 dependent mechanism ."
+70						( a ) analysis of tnf-alpha-induced apoptosis .
+71						SNU-719 cell be transfect with the indicated construct and treat with 10 ng and ml tnf-alpha for 24 h. apoptotic cell be evaluate 48 h after transfection for each construct use the dna fragmentation assay as describe in Materials and method .
+72						"after treatment with tnf-alpha , the percentage of apoptotic cell transfect with pcdna and c-flipl increase , but the percentage of apoptotic cell do not change in cell transfect with c-flip ."
+73						this experiment be perform three time independently .
+74						* p < 0.01 compare with flipl and flip .
+75						"( b ) ectopic expression of c-flipl by itself induce the activation of jnk in response to tnf-alpha , whereas c-flip do not change this effect ."
+76						"p-_NN and t-jnk indicate the phosphorylated jnk and total jnk level , respectively ."
+77						"( c ) snu-719 cell be transfect with flag tag c-flipl and c-flip expression vector , incubate with tnf-alpha ( 10 ng and ml ) for 12 h , and subject to immunoprecipitation with anti-traf2 antibody follow by immunoblot with anti-flag antibody ."
+78						immunoblotting of traf2 be use as a load control .
+79						"( d ) to verify the role of traf2 in tnf-alpha-induced apoptosis , snu-719 cell be cotransfect with the indicated construct with dn-traf2 ."
+80						apoptotic cell be evaluate 24 h after transfection for each construct use flow cytometric analysis as describe in Materials and method .
+81						"( e ) to confirm the result , we examine caspase 3 activity in the same condition as describe in fig. 2 ."
+82						D. beta-Actin be use as a load control .
+83	uaz:UA-CLine-100082	SNU-719	C3			"to further examine the role of c-flip in jnk activation , we transfect c-flipl and c-flip expression vector into snu-719 cell , which constitutively express tnf ."
+84			E2	C3	tnf-alpha-induced activation of jnk	we find other significant difference in the effect of these c-flip variant on the tnf-alpha-induced activation of jnk .
+85			"E3,E4"	C3	 tnf induce the phosphorylation of jnk | the phosphorylation of jnk be not change	"in c-flipl-transfected cell , tnf induce the phosphorylation of jnk , whereas in c-flips-expressing cell , the phosphorylation of jnk be not change ."
+86			"E5,E6"	C3	" traf2 , a mediator of tnf induce jnk and nf-kappab activation ."	"to address the role of c-flip in the activation of jnk , we examine the molecular interaction between c-flip and traf2 , a mediator of tnf induce jnk and nf-kappab activation ."
+87						"extract from cell line express pcdna , c-flipl , and c-flip be immunoprecipitate with traf2 or with the corresponding preimmune serum ."
+88						"as expect , western blot analysis reveal that traf2 antibody immunoprecipitate a greater amount of c-flip than c-flipl ."
+89						"to verify whether traf2 mediate tnfr1 induced apoptosis , dn-traf2 be transiently express use the same condition as show in fig ."
+90						.
+91						the effect on tnf-alpha-induced apoptosis do not differ between the c-flip variant .
+92						"to measure the activity of apoptosis , we also examine the level of caspase 3 by immunoblotting after treatment with dn-traf2 ."
+93						"as expect , the level of caspase 3 protein do not differ between the three c-flip variant ( procaspase datum not show ) ."
+94			E7	C3	 c-flip variant be capable of bind to traf2	"these result suggest that each c-flip variant be capable of bind to traf2 , where it may inhibit tnfr1 mediated apoptosis ."
+95			E8	"C4,C5"	 tnfr1 mediate jnk activation	the function of c-flip be exert through tnfr1 mediate jnk activation
+96						"the tnfr1 mediate apoptotic response have two pathway : type 1 apoptosis achieve through fadd-caspase 8 activation , and type 2 mitochondrial dependent apoptosis , which be less dependent on the fadd-caspase 8 pathway ."
+97			E9	"C4,C5"	tnf-alpha enhance the activity of jnk	"tnf-alpha enhance the activity of jnk , which lead to dysfunctional mitochondrium and contribute to tnf-alpha-induced apoptosis ."
+98			E10	"C4,C5"	tnf-alpha-induced jnk activation	we examine the involvement of c-flip in tnf-alpha-induced jnk activation and apoptosis by compare these in tnf-alpha-resistant and tnf-alpha-sensitive cell line .
+99	"uaz:UA-CLine-100082,uaz:UA-CLine-1982"	"SNU-719, T24 cells"	"E11,C4,C5"	"C4,C5"	tnf-alpha increase the phosphorylated jnk level	"treatment with tnf-alpha increase the phosphorylated jnk level in snu719 and t24 cell , whereas du145 and ag cell be resistant to tnf-alpha-mediated apoptosis ."
+100			E12	"C4,C5"	 tnf induce activation of jnk .	these result indicate that the sensitivity to tnf-alpha be associate with the tnf induce activation of jnk .
+101						Figure 3
+102						jnk activation in tnf resistant cell line .
+103						tnf-alpha-sensitive cell line can activate jnk in response to tnf-alpha .
+104						"in t24 and snu719 cell , jnk be activate in response to tnf-alpha , whereas du145 and ag cell do not show this induction ."
+105						"( a ) to examine the activation of jnk , protein extract from the indicated cell line be incubate for 6 h with tnf-alpha ( 10 ng and ml ) and subject to immunoblot with phospho specific and total jnk antibody ."
+106						"p-_NN and t-_NN indicate phosphorylate protein and total protein , respectively ."
+107						( b ) expression be quantify by densitometric scan of the blot ( a ) .
+108						value be the ratio of p-jnk and t-jnk and be present relative to each control .
+109						Knockdown of endogenous c-flip augment tnfr1 mediated apoptosis
+110						"to confirm the involvement of endogenous c-flip in tnfr1 mediated apoptosis , we develop siRNA oligonucleotide that selectively knock down the expression of c-flip in several cancer cell line ."
+111						"to select a potent candidate sirna oligonucleotide , we transfect human pc3 cell , which express a higher level of c-flip than other cell line , with sirna ."
+112						"cell be incubate for 48 h , and the level of c-flip protein be assess by immunoblot analysis ."
+113						the result confirm the ability of oligonucleotide c2 and c3 to knock down expression of c-flip .
+114						"to verify the effect of c-flip knockdown on jnk activation , we study several cancer cell line ."
+115	"uaz:UA-CLine-1982,uaz:UA-CLine-100082"	"T24, SNU719"	"E13,C6,C7"	"C6,C7"	phosphorylate jnk level	"phosphorylate jnk level increase in t24 and snu719 cell , whereas ag and du145 cell be resistant to tnf-alpha ."
+116						we also examine the susceptibility of these cell line to tnf-alpha in c-flip sirna .
+117						"the basal level of c-flip be marginal in t24 and snu719 cell , but DU145 and AGS cell line express some degree of c-flip protein in the control condition ."
+118						"relative to the basal level of c-flip , the ratio of apoptosis increase more in du145 ( 7 fold ) and ag cell ( 6 fold ) than in t24 cell ( 2.5 fold ) , although these difference be not considerable ."
+119						"apoptosis analysis indicate that knockdown of c-flip in snu719 and t24 cell increase the level of spontaneous cell death by about 40 % compare with control , whereas knockdown of du145 and ag have minimal effect ."
+120						"to confirm this result , we use immunoblot analysis to examine the level of c-flip protein in these cell line after treatment with sirna ."
+121						"as expect , the expression of c-flip decrease in these cell line with c-flip sirna ."
+122						Figure 4
+123						Knockdown of endogenous c-flip in several cell line enhance apoptosis induction by tnf-alpha .
+124						"( a ) to examine the role of c-flip in tnfr1 mediated apoptosis , pc3 cell be transfect with three different sirna oligonucleotide design to knock down c-flip ."
+125						the level of c-flip protein be inhibit completely by c2 and c3 .
+126						"in further study , we use c3 oligonucleotide as a sirna ."
+127						( b ) the indicated sirna transfect cell be treat with tnf-alpha ( 5 ng and ml ) for 24 h and extract for immunoblot with phospho specific antibody to jnk and actin .
+128						( c ) the indicated sirna transfect cell line be treat with tnf-alpha ( 5 ng and ml ) for 24 h before harvest for flow cytometric analysis .
+129						this experiment be perform independently three time .
+130						( d ) the indicated sirna transfect cell line be treat with tnf-alpha ( 5 ng and ml ) for 24 h and extract for immunoblot with anti-flips antibody .
+131						beta-Actin be use as a load control .
+132						discussion
+133						"although a specific role for each c-flip and a distinct mechanism by which each inhibit apoptosis have be propose , the function of the c-flip splice variant remain largely unknown ."
+134						we current datum provide insight into the mechanism underlie the tnf-alpha-induced apoptotic pathway .
+135			"E14,E15"	"C6,C7"	higher affinity of traf2 for c-flip	this pathway be characterize by a higher affinity of traf2 for c-flip over c-flipl and involve suppression of jnk activation and resistance to tnf-alpha-induced cell death .
+136						c-FLIPS be also readily detectable in various type of human cancer and confer resistance to cd95 mediated apoptosis in t cell during the immune response .
+137						we result be summarize in the model show in fig .
+138						.
+139			E16	"C6,C7"	tnf induce jnk activation .	"it appear that c-flip and c-flipl have distinct role , and we speculate that c-flip act primarily to support tnf induce jnk activation ."
+140						"we result be consistent with previous datum show different function of each type of c-flip , include a specific role for c-flip in cd40 signaling ."
+141						a distinct action of each c-flip variant in fa induce cleavage of caspase 8 have also be propose .
+142						"accord to these earlier study , c-flipl and c-flip produce different end product in the caspase 8 pathway ."
+143						"we datum also show that apoptosis sensitivity correlate with c-flip expression in several cell type , include dendritic cell , keratinocyte , and vascular smooth muscle cell ( datum not show ) ."
+144						Figure 5
+145						a work model of the role of c-flip in tnfr1 mediated apoptosis .
+146						"the binding of c-flip to traf2 delay the recruitment of c-flipl , and c-flip and c-flipl block tnfr1 mediated apoptosis ."
+147						"however , the cellular c-flip level be elevated sufficiently to block apoptosis and promote cell survival ."
+148			"E17,E18"	"C6,C7"	 traf2 bind both c-flip and c-flipl 	"although traf2 bind both c-flip and c-flipl in we experiment , other report have show that c-flipl interact exclusively with traf2 ."
+149						this discrepancy may be reconcile by recent study show that alternative variant of c-flip promote different tnf-alpha-induced signaling pathway .
+150						"c-FLIPL have a strong affinity for raf , whereas c-flip be tightly associate with traf2 ."
+151						the gene knockout and sirna knockdown study of c-flip report to date show that reduction of both c-flip variant sensitize cell to death receptor induce apoptosis .
+152						we use a selective sirna knockdown approach to assess the specific function of endogenous c-flip and compare this with the function of c-flipl .
+153						we result reinforce the conclusion that endogenous c-flip inhibit death receptor mediated apoptosis .
+154			"E19,E20"	"C6,C7"	 c-flip interact rapidly with fadd and enhance the activation of jnk through traf2	"we datum show that c-flip interact rapidly with fadd and enhance the activation of jnk through traf2 may explain why c-flip show high expression level , despite its overlap role with c-flipl ."
+155						"in addition , the expression pattern of c-flip be couple to the expression of tnf ."
+156						we current experiment have confirm we previous datum show that each type of c-flip have a distinct target in the inhibition of apoptosis .
+157						we postulate that the different expression pattern of the c-flip variant be specific to cancer cell type .
+158						MATERIALS/METHODS
+159						MATERIALS/METHODS
+160						MATERIALS/METHODS
+161						MATERIALS/METHODS
+162						MATERIALS/METHODS
+163						MATERIALS/METHODS
+164						MATERIALS/METHODS
+165						MATERIALS/METHODS
+166						MATERIALS/METHODS
+167						MATERIALS/METHODS
+168						MATERIALS/METHODS
+169						MATERIALS/METHODS
+170						MATERIALS/METHODS
+171						MATERIALS/METHODS
+172						MATERIALS/METHODS
+173						MATERIALS/METHODS
+174						MATERIALS/METHODS
+175						MATERIALS/METHODS
+176						MATERIALS/METHODS
+177						MATERIALS/METHODS
+178						MATERIALS/METHODS
+179						MATERIALS/METHODS
+180						MATERIALS/METHODS
+181						MATERIALS/METHODS
+182						MATERIALS/METHODS
+183						MATERIALS/METHODS
+184						MATERIALS/METHODS
+185						MATERIALS/METHODS
+186						MATERIALS/METHODS
+187						MATERIALS/METHODS
+188						MATERIALS/METHODS
+189						MATERIALS/METHODS
+190						MATERIALS/METHODS
+191						MATERIALS/METHODS
+192						MATERIALS/METHODS
+193						MATERIALS/METHODS
+194						MATERIALS/METHODS
+195						author ' contribution
+196						"djk do all of the experiment and writing of the manuscript ,"
+197						cp and bso contribute experiment design and discussion of result .
+198						yyk contribute the project leader and designer of this study and writing of the manuscript .
+199						all author read and approve the final manuscript .

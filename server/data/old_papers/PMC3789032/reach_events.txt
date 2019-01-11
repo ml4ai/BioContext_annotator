@@ -1,0 +1,9 @@
+Methylation	17
+Positive_regulation	17
+Positive_activation	18
+Hydrolysis	21
+Phosphorylation	33
+Methylation	91
+Positive_regulation	91
+Methylation	91
+Positive_activation	97

@@ -1,0 +1,6 @@
+CellLine.tsv.gz	uaz
+CellType.tsv.gz	uaz
+GO-subcellular-locations.tsv.gz	go
+Species.tsv.gz	taxonomy
+tissue-type.tsv.gz	tissuelist
+uniprot-subcellular-locations.tsv.gz	uniprot

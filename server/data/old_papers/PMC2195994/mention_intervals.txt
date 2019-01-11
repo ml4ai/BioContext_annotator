@@ -1,0 +1,347 @@
+0 
+1 
+1 13-13-N1E-115-uaz:UA-CLine-6607
+2 22-22-yeast-taxonomy:4932
+3 
+4 3-3-brain-tissuelist:TS-0095
+5 5-5-3T3-uaz:UA-CLine-1347 17-18-actin_cytoskeleton-go:GO:0015629 23-24-stress_fibers-go:GO:0001725
+6 1-1-N1E-115-uaz:UA-CLine-6607
+7 23-23-N1E-115-uaz:UA-CLine-6607
+8 2-2-3T3-uaz:UA-CLine-1347 5-5-N1E-115-uaz:UA-CLine-6607
+9 
+10 
+11 
+11 
+12 
+12 
+13 
+14 6-6-membrane-go:GO:0016020
+15 
+15 22-22-HIV-taxonomy:12721
+16 
+17 7-8-stress_fibers-go:GO:0001725 21-21-membrane-go:GO:0016020 22-22-ruffles-go:GO:0001726
+18 10-10-neuroblastoma-tissuelist:TS-0681 11-11-N1E-115-uaz:UA-CLine-6607
+19 
+19 
+20 51-51-yeast-taxonomy:4932
+21 5-5-3T3-uaz:UA-CLine-1347 9-9-membrane-go:GO:0016020 20-21-focal_adhesions-go:GO:0005925
+22 
+23 
+24 
+24 7-7-yeast-taxonomy:4932 12-12-human-taxonomy:9606 13-13-brain-tissuelist:TS-0095
+25 
+26 
+27 5-5-3T3-uaz:UA-CLine-1347 13-13-microspikes-go:GO:0044393 17-18-stress_fibers-go:GO:0001725
+28 1-1-N1E-115-uaz:UA-CLine-6607 2-2-neuroblastoma-tissuelist:TS-0681 20-21-growth_cones-go:GO:0030426
+29 
+30 3-3-3T3-uaz:UA-CLine-1347 6-6-N1E-115-uaz:UA-CLine-6607
+31 
+32 
+33 
+33 
+34 
+34 0-0-Yeast-taxonomy:4932
+35 
+35 
+36 
+37 11-11-yeast-taxonomy:4932 15-15-yeast-taxonomy:4932
+38 
+39 18-18-human-taxonomy:9606 20-20-brain-tissuelist:TS-0095
+40 
+41 
+42 9-9-yeast-taxonomy:4932
+43 
+44 
+45 
+45 
+46 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+60 
+61 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+69 
+70 
+70 
+71 
+72 
+73 
+73 
+74 
+74 
+75 
+76 
+77 
+78 
+78 
+79 
+80 
+80 
+81 
+82 
+82 
+83 
+83 
+84 2-2-membrane-go:GO:0016020
+85 
+86 
+87 
+88 
+89 
+90 
+90 
+91 
+91 1-1-3T3-uaz:UA-CLine-1347 3-3-N1E-115-uaz:UA-CLine-6607
+92 1-1-3T3-uaz:UA-CLine-1347
+93 10-10-nucleus-go:GO:0005634
+94 
+94 4-4-N1E-115-uaz:UA-CLine-6607
+95 
+96 
+97 
+98 
+99 
+100 
+101 
+101 
+102 
+102 3-3-N1E-115-uaz:UA-CLine-6607
+103 
+104 
+105 
+106 
+107 
+108 
+109 
+110 
+111 
+111 
+112 
+113 
+113 
+114 
+114 
+115 
+116 
+117 
+118 
+118 
+119 
+119 
+120 
+120 
+121 
+122 
+123 
+124 21-21-human-taxonomy:9606
+125 10-12-central_nervous_system-tissuelist:TS-0150
+126 
+127 
+128 
+128 
+129 
+129 
+130 
+131 13-13-tail-tissuelist:TS-1006
+132 
+133 12-12-human-taxonomy:9606
+134 
+135 
+136 6-6-human-taxonomy:9606
+137 0-0-Human-taxonomy:9606
+138 6-6-human-taxonomy:9606 13-13-yeast-taxonomy:4932
+139 
+140 2-2-human-taxonomy:9606
+141 
+142 
+142 19-19-SH3-uaz:UA-CLine-8476
+143 
+144 
+145 25-25-human-taxonomy:9606
+146 
+147 13-13-placenta-tissuelist:TS-0799 15-15-liver-tissuelist:TS-0564 18-18-kidney-tissuelist:TS-0510
+148 4-4-brain-tissuelist:TS-0095 8-8-brain-tissuelist:TS-0095
+149 
+149 
+150 
+150 
+151 
+152 
+153 
+154 
+155 
+156 
+157 
+157 
+158 
+158 
+159 
+160 
+161 
+162 
+163 
+164 
+165 
+166 
+167 
+168 
+169 
+170 
+171 
+171 5-5-3T3-uaz:UA-CLine-1347
+172 
+172 1-1-3T3-uaz:UA-CLine-1347
+173 2-2-3T3-uaz:UA-CLine-1347 25-25-microspikes-go:GO:0044393 27-28-stress_fibers-go:GO:0001725 31-31-membrane-go:GO:0016020 32-32-ruffles-go:GO:0001726
+174 
+175 20-20-3T3-uaz:UA-CLine-1347
+176 19-19-membrane-go:GO:0016020
+177 12-12-organelle-go:GO:0043226
+178 
+179 9-9-cytoskeleton-go:GO:0005856
+180 0-1-Stress_fibers-go:GO:0001725
+181 
+182 
+183 
+183 
+184 1-1-3T3-uaz:UA-CLine-1347 18-19-stress_fibers-go:GO:0001725
+185 11-11-cytoplasm-go:GO:0005737 14-15-stress_fibers-go:GO:0001725
+186 
+187 6-6-cytoplasm-go:GO:0005737 19-20-B,-uaz:UA-CLine-100007
+188 18-19-B,-uaz:UA-CLine-100007
+189 16-16-nucleus-go:GO:0005634
+190 5-5-nucleus-go:GO:0005634 18-19-B,-uaz:UA-CLine-100007
+191 17-18-B,-uaz:UA-CLine-100007
+192 
+193 
+193 
+194 13-13-human-taxonomy:9606 23-23-cytoskeleton-go:GO:0005856
+195 0-1-Stress_fibers-go:GO:0001725
+196 5-5-cytoskeleton-go:GO:0005856 23-24-stress_fibers-go:GO:0001725
+197 11-12-plasma_membrane-go:GO:0005886
+198 18-19-stress_fibers-go:GO:0001725
+199 
+200 26-26-3T3-uaz:UA-CLine-1347
+201 
+202 
+203 
+203 
+204 
+205 15-15-membrane-go:GO:0016020
+206 
+206 
+207 
+207 6-6-brain-tissuelist:TS-0095 17-17-N1E-115-uaz:UA-CLine-6607
+208 12-12-neuroblastoma-tissuelist:TS-0681
+209 0-0-N1E-115-uaz:UA-CLine-6607 17-17-serum-tissuelist:TS-0923
+210 
+211 
+212 
+213 10-10-serum-tissuelist:TS-0923
+214 5-6-growth_cones-go:GO:0030426
+215 
+216 
+216 15-16-growth_cones-go:GO:0030426
+217 11-12-cell_body-go:GO:0044297
+218 
+219 1-1-Serum-tissuelist:TS-0923 4-4-N1E-115-uaz:UA-CLine-6607
+220 7-7-N1E-115-uaz:UA-CLine-6607
+221 
+222 
+222 
+223 
+224 
+225 
+226 
+226 
+227 3-3-3T3-uaz:UA-CLine-1347 18-18-N1E-115-uaz:UA-CLine-6607
+228 23-24-growth_cone-go:GO:0030426
+229 
+230 9-9-neuroblastoma-tissuelist:TS-0681
+231 
+231 17-17-N1E-115-uaz:UA-CLine-6607
+232 
+233 21-22-B,-uaz:UA-CLine-100007
+234 6-6-cytoplasm-go:GO:0005737 17-18-cell_periphery-go:GO:0071944
+235 19-19-neuroblastoma-tissuelist:TS-0681
+236 
+236 13-13-N1E-115-uaz:UA-CLine-6607
+237 
+237 
+238 
+238 
+239 
+239 
+240 
+241 
+242 
+243 
+244 10-10-3T3-uaz:UA-CLine-1347
+245 
+246 
+247 
+248 
+249 
+250 
+251 
+252 
+252 
+253 
+253 17-17-3T3-uaz:UA-CLine-1347
+254 0-0-Serum-tissuelist:TS-0923 3-3-3T3-uaz:UA-CLine-1347 7-8-stress_fibers-go:GO:0001725
+255 7-7-cytoskeleton-go:GO:0005856 11-12-stress_fibers-go:GO:0001725
+256 20-21-stress_fibers-go:GO:0001725
+257 
+258 9-9-membrane-go:GO:0016020 10-10-ruffles-go:GO:0001726
+259 
+260 
+261 
+262 
+263 7-7-microspikes-go:GO:0044393
+264 
+264 5-5-N1E-115-uaz:UA-CLine-6607
+265 
+265 7-7-brain-tissuelist:TS-0095 18-18-N1E-115-uaz:UA-CLine-6607 19-19-neuroblastoma-tissuelist:TS-0681
+266 9-9-neuroblastoma-tissuelist:TS-0681
+267 0-0-Serum-tissuelist:TS-0923
+268 
+269 4-4-N1E-115-uaz:UA-CLine-6607
+270 3-3-N1E-115-uaz:UA-CLine-6607 13-13-serum-tissuelist:TS-0923
+271 
+272 14-15-growth_cones-go:GO:0030426
+273 
+274 18-18-yeast-taxonomy:4932
+275 
+275 
+276 17-18-growth_cone-go:GO:0030426 25-25-N1E-115-uaz:UA-CLine-6607
+277 
+278 
+278 
+279 
+279 3-3-3T3-uaz:UA-CLine-1347 6-6-N1E-115-uaz:UA-CLine-6607
+280 
+281 
+282 
+283 
+284 

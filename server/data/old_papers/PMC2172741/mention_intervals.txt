@@ -1,0 +1,426 @@
+0 4-4-membrane-go:GO:0016020
+1 
+1 11-11-membrane-go:GO:0016020
+2 
+3 
+4 12-12-membrane-go:GO:0016020
+5 7-7-HEK-uaz:UA-CLine-7847 19-19-cytosol-go:GO:0005829 22-22-membrane-go:GO:0016020
+6 
+7 2-2-membrane-go:GO:0016020
+8 24-24-membrane-go:GO:0016020
+9 
+9 
+10 
+10 7-7-D3-uaz:UA-CLine-3599
+11 
+12 
+13 
+14 
+14 
+15 8-9-cell_surface-go:GO:0009986
+16 
+17 
+18 
+19 
+20 12-13-plasma_membrane-go:GO:0005886
+21 
+22 16-16-membrane-go:GO:0016020
+23 
+23 14-14-cytosol-go:GO:0005829 25-25-membrane-go:GO:0016020
+24 
+25 20-20-membrane-go:GO:0016020
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+32 
+33 9-9-membrane-go:GO:0016020
+34 
+35 
+35 
+36 
+36 
+37 
+37 
+38 3-3-human-taxonomy:9606 4-5-embryonic_kidney-tissuelist:TS-0249 7-7-HEK-uaz:UA-CLine-7847
+39 
+40 
+41 
+42 
+42 
+43 
+43 
+44 12-12-membrane-go:GO:0016020
+45 
+46 
+47 11-11-HEK-uaz:UA-CLine-7847
+48 
+49 0-0-HEK-uaz:UA-CLine-7847
+50 
+51 
+52 
+53 26-26-vesicles-go:GO:0031982
+54 
+55 
+55 
+56 
+56 
+57 6-6-HEK-uaz:UA-CLine-7847
+58 15-15-nucleus-go:GO:0005634 22-23-B,-uaz:UA-CLine-100007
+59 14-15-B,-uaz:UA-CLine-100007
+60 16-16-cytosol-go:GO:0005829 18-18-nucleus-go:GO:0005634 20-20-HEK-uaz:UA-CLine-7847 34-34-cytosol-go:GO:0005829
+61 
+62 
+62 
+63 
+63 10-10-HEK-uaz:UA-CLine-7847
+64 
+65 
+66 
+67 5-5-scale-tissuelist:TS-0895
+68 
+69 
+70 
+71 
+72 
+73 
+73 19-19-HEK-uaz:UA-CLine-7847
+74 
+75 
+76 
+77 
+78 
+78 
+79 
+79 
+80 
+81 
+82 
+83 
+83 
+84 
+84 
+85 3-3-HEK-uaz:UA-CLine-7847
+86 
+87 
+88 
+89 3-3-HEK-uaz:UA-CLine-7847
+90 0-0-Cytosols-go:GO:0005829
+91 
+92 
+92 
+93 
+94 
+95 6-7-B,-uaz:UA-CLine-100007 21-22-B,-uaz:UA-CLine-100007
+96 11-12-B,-uaz:UA-CLine-100007
+97 
+98 
+99 
+99 5-5-membranes-go:GO:0016020
+100 
+100 17-18-plasma_membrane-go:GO:0005886
+101 17-17-membrane-go:GO:0016020
+102 16-17-cell_membrane-uniprot:SL-0039
+103 5-5-membrane-go:GO:0016020 14-14-HEK-uaz:UA-CLine-7847
+104 8-8-membrane-go:GO:0016020
+105 20-20-membrane-go:GO:0016020
+106 
+106 
+107 
+107 0-0-Membrane-go:GO:0016020
+108 19-19-HEK-uaz:UA-CLine-7847
+109 
+110 
+111 
+112 
+113 
+114 
+115 
+116 
+117 6-6-membrane-go:GO:0016020
+118 0-0-HEK-uaz:UA-CLine-7847
+119 
+120 0-0-Membrane-go:GO:0016020
+121 
+121 
+122 18-18-plasma-tissuelist:TS-0800 21-21-membranes-go:GO:0016020 23-23-HEK-uaz:UA-CLine-7847
+123 
+124 30-30-membrane-go:GO:0016020 40-40-membrane-go:GO:0016020
+125 12-12-membrane-go:GO:0016020
+126 
+126 
+127 
+128 
+129 
+129 
+130 
+130 
+131 
+132 7-7-HEK-uaz:UA-CLine-7847
+133 
+134 
+135 
+135 
+136 
+136 
+137 
+138 
+139 
+140 8-8-HEK-uaz:UA-CLine-7847
+141 
+142 3-3-Membrane-go:GO:0016020
+143 0-0-HEK-uaz:UA-CLine-7847 23-23-human-taxonomy:9606
+144 
+145 
+146 
+147 3-3-Membrane-go:GO:0016020
+148 
+149 
+149 
+150 
+151 13-13-HEK-uaz:UA-CLine-7847 23-24-B,-uaz:UA-CLine-100007 38-38-membrane-go:GO:0016020
+152 15-15-membrane-go:GO:0016020 21-22-B,-uaz:UA-CLine-100007
+153 
+154 5-5-membrane-go:GO:0016020 29-30-B,-uaz:UA-CLine-100007
+155 19-20-B,-uaz:UA-CLine-100007
+156 
+156 
+157 
+158 5-5-membrane-go:GO:0016020 26-27-B,-uaz:UA-CLine-100007
+159 
+160 
+160 
+161 10-10-cytosol-go:GO:0005829 12-12-nucleus-go:GO:0005634 14-14-HEK-uaz:UA-CLine-7847
+162 14-14-membrane-go:GO:0016020 27-27-cytosol-go:GO:0005829 30-30-membrane-go:GO:0016020
+163 
+164 
+164 3-3-membrane-go:GO:0016020
+165 
+165 
+166 7-7-membrane-go:GO:0016020
+167 9-9-membrane-go:GO:0016020
+168 27-28-plasma_membrane-go:GO:0005886
+169 4-5-plasma_membrane-go:GO:0005886 7-7-HEK-uaz:UA-CLine-7847
+170 
+171 4-4-membrane-go:GO:0016020
+172 
+172 
+173 
+173 4-4-membrane-go:GO:0016020
+174 0-0-HEK-uaz:UA-CLine-7847
+175 
+176 5-5-scale-tissuelist:TS-0895
+177 
+178 
+179 
+179 14-14-HEK-uaz:UA-CLine-7847 17-17-membrane-go:GO:0016020
+180 3-3-membrane-go:GO:0016020
+181 
+182 17-17-cytosol-go:GO:0005829 20-20-membrane-go:GO:0016020 34-34-membrane-go:GO:0016020
+183 
+184 
+185 
+186 
+187 
+188 
+188 
+189 
+189 4-4-membrane-go:GO:0016020
+190 
+191 0-0-HEK-uaz:UA-CLine-7847
+192 
+193 5-5-scale-tissuelist:TS-0895
+194 
+195 
+196 
+197 
+198 
+199 
+200 11-11-membrane-go:GO:0016020
+201 
+201 30-30-membrane-go:GO:0016020
+202 16-16-membrane-go:GO:0016020
+203 
+203 22-22-HEK-uaz:UA-CLine-7847
+204 0-2-Vascular_smooth_muscle-tissuelist:TS-1107 4-4-VSM-uaz:UA-ORG-1094
+205 22-22-membrane-go:GO:0016020
+206 
+206 
+207 
+207 2-2-membrane-go:GO:0016020 8-10-vascular_smooth_muscle-tissuelist:TS-1107 12-12-VSM-uaz:UA-ORG-1094
+208 0-0-VSM-uaz:UA-ORG-1094
+209 
+210 5-5-scale-tissuelist:TS-0895
+211 
+211 
+212 
+212 9-9-leukocyte-tissuelist:TS-0549
+213 
+214 
+214 
+215 
+216 11-11-cytosol-go:GO:0005829
+217 20-20-cytosol-go:GO:0005829
+218 
+219 
+219 
+220 
+221 
+222 
+223 
+224 
+225 
+226 
+226 
+227 
+228 
+229 
+230 14-14-membranes-go:GO:0016020 16-16-HEK-uaz:UA-CLine-7847
+231 14-14-membrane-go:GO:0016020 24-24-membrane-go:GO:0016020
+232 
+232 1-1-membrane-go:GO:0016020
+233 24-24-membrane-go:GO:0016020
+234 6-6-membrane-go:GO:0016020 17-17-HEK-uaz:UA-CLine-7847 19-19-VSM-uaz:UA-ORG-1094
+235 9-9-HEK-uaz:UA-CLine-7847
+236 
+237 12-12-membrane-go:GO:0016020
+238 14-14-membrane-go:GO:0016020
+239 
+240 
+241 
+242 
+242 
+243 
+243 5-5-membrane-go:GO:0016020
+244 
+245 
+246 
+247 0-1-Contact_sites-go:GO:0044289
+248 32-32-lobes-uaz:UA-ORG-521
+249 3-3-Membrane-go:GO:0016020
+250 
+251 7-8-plasma_membrane-go:GO:0005886
+252 8-8-membrane-go:GO:0016020
+253 10-10-membrane-go:GO:0016020
+254 
+255 0-0-Membrane-go:GO:0016020
+256 
+257 2-2-membrane-go:GO:0016020
+258 
+259 10-10-membrane-go:GO:0016020
+260 
+261 
+262 
+263 
+264 21-22-plasma_membrane-go:GO:0005886
+265 
+265 
+266 
+267 
+268 
+269 
+270 
+271 
+272 
+272 
+273 20-20-membrane-go:GO:0016020
+274 12-12-membrane-go:GO:0016020
+275 13-13-membrane-go:GO:0016020
+276 15-15-vesicles-go:GO:0031982 27-27-vesicle-go:GO:0031982
+277 9-9-membrane-go:GO:0016020
+278 
+279 
+279 26-26-membrane-go:GO:0016020 33-33-membrane-go:GO:0016020
+280 20-21-plasma_membrane-go:GO:0005886
+281 9-9-membrane-go:GO:0016020
+282 
+282 
+283 
+283 
+284 
+284 
+285 
+286 
+287 
+288 6-6-human-taxonomy:9606
+289 13-13-GAG-taxonomy:103820 15-15-GAG-taxonomy:103820
+290 
+291 
+292 17-17-GAG-taxonomy:103820
+293 
+294 
+295 
+296 
+297 
+298 
+299 
+300 30-30-GCT-uaz:UA-CLine-5629
+301 
+302 
+303 
+303 1-1-human-taxonomy:9606 18-18-GAG-taxonomy:103820
+304 8-8-human-taxonomy:9606
+305 
+306 
+306 
+307 17-17-GCT-uaz:UA-CLine-5629 21-21-GAG-taxonomy:103820
+308 7-7-human-taxonomy:9606 23-23-HL-60-uaz:UA-CLine-8484 52-52-GCT-uaz:UA-CLine-5629
+309 34-34-GAG-taxonomy:103820
+310 
+311 
+311 
+312 
+312 0-0-HEK-uaz:UA-CLine-7847
+313 
+314 
+315 
+316 12-12-HEK-uaz:UA-CLine-7847
+317 
+318 
+319 
+320 
+320 0-0-VSM-uaz:UA-ORG-1094 5-5-aortas-uaz:UA-ORG-49
+321 
+322 
+323 
+323 10-10-membrane-go:GO:0016020
+324 
+324 6-6-HEK-uaz:UA-CLine-7847
+325 5-5-membranes-go:GO:0016020
+326 5-5-HEK-uaz:UA-CLine-7847
+327 2-2-serum-tissuelist:TS-0923
+328 
+329 3-3-HEK-uaz:UA-CLine-7847
+330 70-70-needle-tissuelist:TS-0665
+331 0-0-Cytosols-go:GO:0005829
+332 
+333 2-2-membrane-go:GO:0016020 5-5-HEK-uaz:UA-CLine-7847
+334 22-22-needle-tissuelist:TS-0665
+335 0-0-Membranes-go:GO:0016020
+336 
+336 
+337 
+337 0-0-HEK-uaz:UA-CLine-7847
+338 
+339 
+340 
+341 
+342 
+342 
+343 
+343 
+344 
+345 
+346 
+347 
+348 
+348 
+349 
+350 
+351 
+352 
+353 
+354 

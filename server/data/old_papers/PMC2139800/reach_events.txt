@@ -1,0 +1,14 @@
+Binding	22
+Binding	23
+Binding	25
+Positive_activation	106
+Binding	187
+Binding	196
+Positive_activation	202
+Positive_activation	242
+Binding	257
+Binding	268
+Binding	268
+Binding	280
+Binding	280
+Binding	321

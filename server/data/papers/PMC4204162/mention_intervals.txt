@@ -1,0 +1,50 @@
+0 8%9%Pancreatic_Cancer%tissuelist:TS-0739
+1 0%1%Pancreatic_cancer%tissuelist:TS-0739
+2 13%14%extracellular_matrix%go:GO:0031012 25%26%pancreatic_cancer%tissuelist:TS-0739
+3 5%6%pancreatic_cancer%tissuelist:TS-0739
+4 11%12%pancreatic_cancer%tissuelist:TS-0739
+5 14%15%pancreatic_cancer%tissuelist:TS-0739 27%28%pancreatic_cancer%tissuelist:TS-0739
+6 23%24%pancreatic_cancer%tissuelist:TS-0739
+7 
+8 44%45%pancreatic_cancer%tissuelist:TS-0739
+9 58%59%pancreatic_cancer%tissuelist:TS-0739
+10 4%5%extracellular_matrix%go:GO:0031012 33%34%pancreatic_cancer%tissuelist:TS-0739
+11 16%17%pancreatic_cancer%tissuelist:TS-0739
+12 14%15%pancreatic_cancer%tissuelist:TS-0739
+13 11%12%pancreatic_cancer%tissuelist:TS-0739
+14 10%11%PANCREATIC_CANCER%tissuelist:TS-0739
+15 
+16 24%24%human%taxonomy:9606 25%26%pancreatic_cancer%tissuelist:TS-0739 38%39%pancreatic_cancer%tissuelist:TS-0739 49%50%pancreatic_cancer%tissuelist:TS-0739
+17 9%10%pancreatic_tumor%tissuelist:TS-0742 32%33%pancreatic_cancer%tissuelist:TS-0739
+18 8%9%pancreatic_cancer%tissuelist:TS-0739
+19 15%16%pancreatic_cancer%tissuelist:TS-0739 19%20%MIA_PaCa-2%cellosaurus:CVCL_0428 22%22%PANC-1%cellosaurus:CVCL_0480 56%57%pancreatic_cancer%tissuelist:TS-0739 85%86%pancreatic_cancer%tissuelist:TS-0739 97%97%1B%cellosaurus:CVCL_2279
+20 14%15%pancreatic_cancer%tissuelist:TS-0739
+21 
+22 27%27%human%taxonomy:9606 28%29%pancreatic_cancer%tissuelist:TS-0739 30%30%BxPC-3%cellosaurus:CVCL_0186 32%32%AsPC-1%cellosaurus:CVCL_0152 50%51%pancreatic_cancer%tissuelist:TS-0739
+23 8%9%extracellular_matrix%go:GO:0031012 48%48%pancreas%tissuelist:TS-0736
+24 23%24%pancreatic_cancer%tissuelist:TS-0739
+25 3%4%PANCREATIC_CANCER%tissuelist:TS-0739
+26 2%3%pancreatic_tumor%tissuelist:TS-0742
+27 5%5%leukocytes%uaz:CL:0000738
+28 2%2%serum%tissuelist:TS-0923 4%5%pancreatic_cancer%tissuelist:TS-0739 46%47%pancreatic_cancer%tissuelist:TS-0739 85%86%pancreatic_cancer%tissuelist:TS-0739 102%103%pancreatic_cancer%tissuelist:TS-0739 152%153%pancreatic_cancer%tissuelist:TS-0739
+29 4%4%serum%tissuelist:TS-0923 20%21%pancreatic_cancer%tissuelist:TS-0739
+30 
+31 49%49%human%taxonomy:9606 50%51%pancreatic_cancer%tissuelist:TS-0739 65%66%pancreatic_cancer%tissuelist:TS-0739 72%73%pancreatic_cancer%tissuelist:TS-0739 83%83%human%taxonomy:9606 84%85%pancreatic_cancer%tissuelist:TS-0739 110%111%PANCREATIC_CANCER%tissuelist:TS-0739
+32 2%3%pancreatic_cancer%tissuelist:TS-0739
+33 8%9%pancreatic_cancer%tissuelist:TS-0739
+34 7%8%pancreatic_cancer%tissuelist:TS-0739 20%21%pancreatic_cancer%tissuelist:TS-0739
+35 14%15%pancreatic_cancer%tissuelist:TS-0739 32%33%pancreatic_cancer%tissuelist:TS-0739
+36 16%17%pancreatic_cancer%tissuelist:TS-0739 37%38%pancreatic_cancer%tissuelist:TS-0739 39%39%BxPC-3%cellosaurus:CVCL_0186 41%41%PANC-1%cellosaurus:CVCL_0480 52%52%human%taxonomy:9606 53%54%pancreatic_cancer%tissuelist:TS-0739 55%56%Mia_PaCa-2%cellosaurus:CVCL_0428 73%73%D1%cellosaurus:CVCL_3502 95%95%human%taxonomy:9606 96%97%pancreatic_cancer%tissuelist:TS-0739 112%112%PANC-1%cellosaurus:CVCL_0480 127%128%pancreatic_cancer%tissuelist:TS-0739
+37 27%28%pancreatic_cancer%tissuelist:TS-0739 83%83%BxPC-3%cellosaurus:CVCL_0186 85%85%PANC-1%cellosaurus:CVCL_0480
+38 4%5%pancreatic_cancer%tissuelist:TS-0739 35%35%AsPC-1%cellosaurus:CVCL_0152
+39 8%9%pancreatic_cancer%tissuelist:TS-0739
+40 9%10%pancreatic_cancer%tissuelist:TS-0739
+41 33%34%pancreatic_cancer%tissuelist:TS-0739
+42 2%3%pancreatic_tumor%tissuelist:TS-0742
+43 11%12%acinar_cells%uaz:CL:0000622
+44 
+45 5%6%pancreatic_cancer%tissuelist:TS-0739 19%20%pancreatic_cancer%tissuelist:TS-0739
+46 4%5%pancreatic_cancer%tissuelist:TS-0739
+47 13%14%pancreatic_cancer%tissuelist:TS-0739
+48 17%18%pancreatic_cancer%tissuelist:TS-0739
+49 

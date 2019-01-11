@@ -1,0 +1,139 @@
+0 
+1 
+1 14-14-cytoplasm-go:GO:0005737
+2 
+3 
+4 
+5 4-4-COS-7-uaz:UA-CLine-100020
+6 20-20-nucleus-go:GO:0005634
+7 
+7 
+8 
+9 32-32-cytoplasm-go:GO:0005737 65-65-nucleus-go:GO:0005634
+10 
+11 
+12 5-5-lymphocytes-uaz:UA-CT-22 28-28-fibroblasts-uaz:UA-CLine-100060 30-30-adipocytes-tissuelist:TS-0012 33-33-muscle-tissuelist:TS-0642
+13 13-13-pheochromocytoma-tissuelist:TS-0786 14-14-PC12-uaz:UA-CLine-100093
+14 
+14 
+15 27-27-nucleus-go:GO:0005634 36-36-brain-tissuelist:TS-0095
+16 30-30-cytoplasm-go:GO:0005737
+17 
+18 
+19 29-29-nucleus-go:GO:0005634
+20 
+20 
+21 
+21 
+22 
+22 
+23 4-4-mouse-taxonomy:10090
+24 4-4-mouse-taxonomy:10090
+25 
+26 
+27 0-0-Rabbit-taxonomy:9986
+28 
+29 
+30 
+31 
+32 
+33 
+33 
+34 
+34 
+35 
+36 
+37 
+38 
+38 
+39 
+39 0-0-Rat-taxonomy:10116 1-1-fibroblast-uaz:UA-CLine-100060 2-2-Rat-1-uaz:UA-CLine-100045 4-4-human-taxonomy:9606 5-6-embryonic_kidney-tissuelist:TS-0249 11-11-COS-7-uaz:UA-CLine-100020 28-28-COS-7-uaz:UA-CLine-100020
+40 8-8-COS-7-uaz:UA-CLine-100020
+41 
+42 6-6-COS-7-uaz:UA-CLine-100020
+43 
+44 
+45 
+45 
+46 
+46 0-0-COS-7-uaz:UA-CLine-100020
+47 
+48 
+49 
+50 
+50 
+51 
+51 
+52 
+52 
+53 
+54 
+55 
+56 
+57 
+58 7-7-COS-7-uaz:UA-CLine-100020
+59 23-24-B,-uaz:UA-CLine-100007 41-42-B,-uaz:UA-CLine-100007
+60 15-16-B,-uaz:UA-CLine-100007 28-29-B,-uaz:UA-CLine-100007 49-49-COS-7-uaz:UA-CLine-100020
+61 34-35-B,-uaz:UA-CLine-100007
+62 
+63 
+63 
+64 
+64 
+65 26-26-Rat-1-uaz:UA-CLine-100045
+66 
+67 
+68 
+69 22-23-B,-uaz:UA-CLine-100007 54-55-B,-uaz:UA-CLine-100007
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+76 
+77 
+77 5-5-cytoplasm-go:GO:0005737
+78 20-20-nucleus-go:GO:0005634 27-27-COS-7-uaz:UA-CLine-100020
+79 12-12-nucleus-go:GO:0005634 47-47-nucleus-go:GO:0005634
+80 21-21-nucleus-go:GO:0005634
+81 
+82 
+83 
+84 
+85 
+86 
+86 
+87 
+87 
+88 14-14-PC12-uaz:UA-CLine-100093 17-17-neurons-uaz:UA-ORG-623 24-25-sensory_neurons-uaz:UA-ORG-861
+89 45-45-nucleus-go:GO:0005634
+90 23-23-nucleus-go:GO:0005634
+91 
+92 17-17-nucleus-go:GO:0005634
+93 19-19-brain-tissuelist:TS-0095 23-24-Purkinje_cells-tissuelist:TS-0845 28-28-cerebellum-tissuelist:TS-0125 46-46-brain-tissuelist:TS-0095
+94 
+94 
+95 
+96 
+97 
+98 13-13-nucleus-go:GO:0005634
+99 
+100 
+100 
+101 
+102 
+103 
+104 32-32-COS-7-uaz:UA-CLine-100020
+105 
+106 
+107 
+108 
+109 
+110 
+111 
+112 
+113 
+114 
+115 

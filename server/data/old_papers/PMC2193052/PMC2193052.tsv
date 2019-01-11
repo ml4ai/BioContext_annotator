@@ -1,0 +1,187 @@
+1						"grf40 , a novel grb2 Family Member , be involve in t cell signaling through interaction with slp-76 and lat"
+2						"we molecularly clone a new grb2 family member , name grf40 , contain the common sh3-sh2-sh3 motif ."
+3	uaz:UA-CT-30009	hematopoetic cells	C1			"expression of grf40 be predominant in hematopoietic cell , particularly t cell ."
+4			E1	C1	grf40 bind to the sh2 domain contain leukocyte protein of 76 kd ( slp-76 ) via its sh3 domain more tightly than grb2 .	grf40 bind to the sh2 domain contain leukocyte protein of 76 kd ( slp-76 ) via its sh3 domain more tightly than grb2 .
+5			E2	C1	grf40 bind to linker for activation of t cell ( lat ) possibly via its sh2 domain .	"incidentally , grf40 bind to linker for activation of t cell ( lat ) possibly via its sh2 domain ."
+6	uaz:UA-CLine-2244	jurkat cells	"C2,E3,E4,E5"	C2	" grf40 in jurkat cell induce a significant increase of slp-76-dependent interleukin ( il ) -2 promoter and nuclear factor of activate t cell ( nf-at ) activation upon t cell receptor ( tcr ) stimulation , whereas the cooh-terminal sh3 delete grf40 mutant lack any recognizable increase in il-2 promoter activity ."	"overexpression of wild-type grf40 in jurkat cell induce a significant increase of slp-76-dependent interleukin ( il ) -2 promoter and nuclear factor of activate t cell ( nf-at ) activation upon t cell receptor ( tcr ) stimulation , whereas the cooh-terminal sh3 delete grf40 mutant lack any recognizable increase in il-2 promoter activity ."
+7						"furthermore , the sh2 delete grf40 mutant lead to a marked inhibition of these regulatory activity , the effect of which be apparently stronger than that of the sh2 delete grb2 mutant ."
+8			"E6,E7"	C2	grf40 be a adaptor molecule involve in tcr mediated signaling through a more efficient interaction than grb2 with slp-76 and lat .	we datum suggest that grf40 be a adaptor molecule involve in tcr mediated signaling through a more efficient interaction than grb2 with slp-76 and lat .
+9	uaz:UA-CLine-100050	t cells	"E8,C3"	C3	stimulation of the tcr initiate activation of cytoplasmic protein tyrosine kinase ( ptk ) 1	"stimulation of the tcr initiate activation of cytoplasmic protein tyrosine kinase ( ptk ) 1 that trigger downstream signaling pathway include calcium-_NN and ras-_NN dependent event , which ultimately converge upon the nucleus to stimulate the transcription of gene require for proliferation and effector function of t cell ( - ) ."
+10			E9	C3	"phospholipase cgamma1 , recruit to the plasma membrane after ptk activation "	"phospholipase cgamma1 , recruit to the plasma membrane after ptk activation , be think to introduce the calcium dependent pathway into the tcr mediated signaling event ."
+11	uaz:UA-CLine-100050	t cells	"E10,C4"	C4	 the pathway for ra activation after ptk activation	"on the other hand , the pathway for ra activation after ptk activation in t cell be still controversial ."
+12			E11	C5	"grb2 , a adaptor protein contain a sh3-sh2-sh3 motif , form a complex with so , a guanine nucleotide exchange factor , via its nh2-terminal sh3 domain after tcr ligation ( - ) ."	"grb2 , a adaptor protein contain a sh3-sh2-sh3 motif , form a complex with so , a guanine nucleotide exchange factor , via its nh2-terminal sh3 domain after tcr ligation ( - ) ."
+13	uaz:UA-CLine-100050	t cells	"E12,C5"	C5	grb2 and so complex be think to contribute to ra activation	"hence , the grb2 and so complex be think to contribute to ra activation in t cell , although there have be no empirical evidence for this notion ."
+14			E13	"S1,C6"	"the cooh-terminal sh3 domain of grb2 have be show to bind to the sh2 domain contain leukocyte protein of 76 kd ( slp-76 ) , a hematopoietic cell specific adaptor protein , which be tyrosine phosphorylated rapidly after tcr stimulation ( - ) ."	"the cooh-terminal sh3 domain of grb2 have be show to bind to the sh2 domain contain leukocyte protein of 76 kd ( slp-76 ) , a hematopoietic cell specific adaptor protein , which be tyrosine phosphorylated rapidly after tcr stimulation ( - ) ."
+15	"taxonomy:10090,uaz:UA-CLine-100050,uaz:UA-CLine-100047"	"mouse,slp-76,t cells"	"S1,C6,T1"			mouse target for slp-76 gene engender defect of double positive t cell in the thymus and of peripheral t cell as a consequence of impaired pre-tcr signaling .
+16						"furthermore , jurkat subline j14 cell lack expression of slp-76 exhibit defect of both the calcium-_NN and ra dependent pathway in tcr mediated signaling ."
+17	uaz:UA-CLine-100071	j14 cells	"E14,E15,C7"	C7	tyrosine phosphorylation and activation of phospholipase cgamma1 be significantly suppress 	the defect of the calcium dependent pathway in this system be ascribe to the fact that tyrosine phosphorylation and activation of phospholipase cgamma1 be significantly suppress in j14 cell .
+18			E16	C7	it be of interest that deletion of the grb2 binding site of slp-76 eliminate the ability of slp-76 to increase il-2 promoter activity upon stimulation with the tcr	"although the precise function of slp-76 in ra activation be still obscure , it be of interest that deletion of the grb2 binding site of slp-76 eliminate the ability of slp-76 to increase il-2 promoter activity upon stimulation with the tcr ."
+19	uaz:UA-CLine-2244	jurkat cells	"E17,E18,C8"	C8	 slp-76 also bind to vav; cotransfection with slp-76 and vav into jurkat cell induce a synergistic increase of nuclear factor of activate t cell ( nf-at ) activation upon tcr stimulation 	"in addition , slp-76 also bind to vav , a member of the guanine nucleotide exchange factor family , and cotransfection with slp-76 and vav into jurkat cell induce a synergistic increase of nuclear factor of activate t cell ( nf-at ) activation upon tcr stimulation ."
+20			E19	C8	slp-76 be a indispensable mediator of tcr signaling .	these observation suggest that slp-76 be a indispensable mediator of tcr signaling .
+21			E20	C8	 the sh2 domain of grb2 have be show to bind to linker for activation of t cell ( lat )	"on the other hand , the sh2 domain of grb2 have be show to bind to linker for activation of t cell ( lat ) , a zap-70 tyrosine kinase substrate , upon tcr stimulation , and the lat mutant , lack a interaction site for the sh2 domain , have a dominant negative effect on tcr stimulate signaling ."
+22						"hence grb2 , a adaptor protein , have be consider to be implicate in tcr mediated signaling ."
+23			"E21,E22,E23,E24"	"C9,C10,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19"	"grf40 , be involve in tcr mediated signaling through its more efficient interaction than grb2 with slp-76 and lat ."	"we here provide evidence that a new grb2 family member , name grf40 , be involve in tcr mediated signaling through its more efficient interaction than grb2 with slp-76 and lat ."
+24						Materials and method
+25						cloning of the cdna .
+26						grf40 cdna fragment be isolate by a yeast two-hybrid screen of a human pha-pbl cdna library ( Clontech ) .
+27						the bait plasmid be construct by insertion of a cdna fragment encode the full-length human amsh protein ( we unpublished protocol ) in pas2-1 ( Clontech ) .
+28						"the bait plasmid be transform into the yeast strain cg1945 ( Clontech ) , follow by transformation with the human pha-pbl cdna library ."
+29						"the transformed strain be select on dropout plate ( trp - , leu - , he - ) with 5 mm 3-aminotriazole ."
+30						positive colony be subsequently test for the expression of lacz .
+31						one clone be determine to contain a homologous sequence to grb2 .
+32						"to obtain the full-length cdna , the 800-bp fragment of the above clone be use as a probe for screen a lambdagt11 oligo ( dt ) - prime cdna library of pha-pbl ."
+33						"the sequence of 10 clone be identical , and two of they contain a open reading frame code for 330 amino acid ."
+34						"this sequence contain a in-frame stop codon at 114 bp upstream of the first methionine codon , and the sequence around the first methionine ( nucleotide 193-195 ) match the favorable kozak consensus sequence ."
+35						a full-length cdna encode grf40 be thus isolate .
+36						plasmid construction .
+37						grf40 cdna be generate by pcr use the above full-length cdna clone as a template and subclon into myc-tag-pcdna3 .1 ( + ) to generate the plasmid sequence ( eqkliseedl ) .
+38						"pmycgrf40-dsh3n , pmycgrf40-dsh2 , pmycgrf40-dsh3c , and pmycgrf40-dsh3nc be myc tag grf40 mutant delete of the sh3 domain of the nh2 terminus ( amino acid position met1-pro56 ) , delete of the sh2 domain ( amino acid position lys57-thr149 ) , of the sh3 domain of the cooh terminus ( amino acid position ala278-arg330 ) , and of the sh3 domain of the nh2 and cooh terminus ( amino acid position met1-pro56 and ala278-arg330 ) , respectively ."
+39						"pmycgrb2 and pmycgrb2-dsh2 be expression plasmid for the myc tag wild-type grb2 and grb2 mutant delete of the sh2 domain ( amino acid position trp60-glu152 ) , respectively ."
+40						"SLP-76 cdna be generate by pcr and subclon into pflag-cmv-2 ( Eastman Kodak Co. ) to generate the plasmid pflagslp , possess a nh2-terminal flag epitope tag ( DYKDDDDK ) ."
+41						"pFlagSLP-157-533 , pflagslp-217-533 , pflagslp-241-533 , and pflagslp-281-533 be expression plasmid for flag tag SLP 76 mutant delete of amino acid position met1-leu156 , met1-his216 , met1-lys240 , and met1-pro280 , respectively ."
+42						pCX-SLP76 be a expression plasmid for the wild-type slp-76 clone into the pcxn2 vector .
+43						luciferase reporter construct be as follow : pnfatluc be construct by insertion of three tandem copy of the nf-at binding region ( -286 to -249 of human il-2 ) link to the human il-2 promoter ( -64 to +47 ) into the pgl3-basic vector ( Promega ) ; pil2luc be construct by insertion of the human il-2 promoter ( -541 to +57 ) into the pgl3-basic vector .
+44						penl be a beta-galactosidase expression plasmid .
+45						"all construct be sequence for verification with a dna sequencer ( model 377 ; Applied Biosystems , Inc. ) ."
+46						cell culture .
+47	"uaz:UA-CLine-2244,uaz:UA-CLine-6453,uaz:UA-CLine-7023,uaz:UA-CLine-8027,uaz:UA-CLine-6550,uaz:UA-CLine-2919,uaz:UA-CLine-100089,uaz:UA-CLine-12,uaz:UA-CLine-899,uaz:UA-CLine-5369,uaz:UA-CLine-100020"	"jurkat cells, MOLT-4, Daudi, Raji, Ramos, THP-1, Eol-3, TF-1, WI-26, HeLa, COS7"	"C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19"			"cell line use be human t cell line , jurkat and molt-4 ; human b cell line , daudus , rajus , and ramo ; a human monocytic cell line , thp-1 ; a human eosinophilic cell line , eol-3 ; a human gm-csf-responsive cell line , tf-1 ; a human lung fibroblastic cell line , wi-26 ; a human epithelial cell line , helum ; and a sv40 transform monkey kidney cell line , cos7 ."
+48						TF-1 be maintain in rpmus 1640 medium supplement with 10 % fc and recombinant gm-csf .
+49						WI-26 and cos7 be maintain in dme supplement with 5 % fc .
+50						other cell line be maintain in rpmus 1640 supplement with 10 % fc .
+51						ab .
+52						"the follow ab be use in this study : anti-cd3epsilon mab okt3 ( american type culture collection ) ; antiphosphotyrosine mab 4g10 , anti-myc polyclonal ab and anti-lat ab ( Upstate Biotechnology ) ; antiphosphotyrosine mab py-20 ( ICN Biomedicals ) ; anti-myc mab ( 9e10 ) and anti-grb2 ab ( sc-255 ) ( Santa Cruz Biotechnology ) ; anti-flag mab ( m2 ; Eastman Kodak Co. ) ."
+53						Anti-Grf40 rabbit antiserum be prepare by immunization with a peptide ( val174-pro194 ) of human grf40 .
+54						Anti-SLP-76 rabbit antiserum be prepare by immunization with a peptide ( gly302-glu321 ) of human slp-76 .
+55						Anti-B19 human parvovirus mab ( par1 ) be use as a control mab .
+56						immunoprecipitation and immunoblotting .
+57						immunoprecipitation and immunoblotting be carry out as describe previously .
+58						"in brief , cell be lyse with a cell extraction buffer ( 1 % np-40 , 20 mm tris-hcl [ ph 7.5 ] , 150 mm nacl , 1 mm edta , 1 mm na3vo4 , 2 mm pmsf , and 20 mug and ml aprotinin ) , and immunoprecipitate with the indicated ab or antisera ."
+59						the immunoprecipitate be separate by sds-page and then transfer to polyvinylidene difluoride filter ( Millipore ) .
+60						"after incubation in PBS contain 2 % bsa and 0.1 % Tween 20 , the filter be probe with the indicated ab and visualize use the ecl detection system ( Amersham Pharmacia Biotech ) ."
+61						northern blotting .
+62						northern blot analysis be perform as describe previously .
+63						"in brief , a multiple tissue northern blot contain poly ( a ) + rna preparation derive from various human tissue be purchase ( clontech ) ."
+64						they be probe with radiolabele cdna fragment of grf40 and beta-actin .
+65						"signal be analyze with a Bio-Image Analyzer , BAS 1500 ( Fuji Film and Photo , Inc. ) ."
+66						transient transfection and Luciferase assay .
+67						"cos7 cell be electroporate with the indicated plasmid in opti-mem I ( GIBCO brl ) at a density of 6 x 106 cell and 700 mul and cuvette with a gene pulser ( Bio-Rad Laboratories ) set at 1,000 v and 200 muf , and then subject to a western blot assay 48 h after the transfection ."
+68						"for luciferase assay , jurkat cell be electroporate with 2.5 mug of penl and the indicated dose of pil2luc or pnfatluc , along with expression plasmid for slp-76 , and grf40 or grb2 in opti-mem i at a density of 5 x 106 cell and 400 mul at 200 v and 950 muf ."
+69						"the cell be culture at 37degreesc for 24 h , and then stimulate for 8 h with 10 mug and ml okt3 plus 50 ng and ml pma or with 10 mug and ml okt3 alone ."
+70						the cell be then lyse in 300 mul of PicaGene ReporterLysis Buffer ( Toyo Ink ) and assay for luciferase and beta-galactosidase activity as describe previously .
+71						result and discussion
+72						"we previously report a signal transducing adaptor molecule , stam , which be associate with janus kinase ( jak ) 2 and jak3 and be involve in signal transduction mediate by il-2 and gm-csf ."
+73			E25	S2	"name AMSH , which bind to stam"	"we have also recently clone a cdna clone encode a novel molecule , name AMSH , which bind to stam ( we unpublished result ) ."
+74						"to address the functional significance of AMSH , we attempt to identify molecule associate with amsh use the yeast two-hybrid assay system ."
+75	taxonomy:9606	human	S2			one full-length cdna clone be isolate from a human pha-pbl cdna library .
+76						"the cdna clone encode a molecule homologous to grb2 , name grf40 ( for grb2 family member of 40 kd ) ."
+77						"the nucleotide sequence of the grf40 gene have be deposit with genbank , and be available from embl/genbank/ddbj under accession no ."
+78						af042380 .
+79						the deduced amino acid sequence of grf40 consist of 330 amino acid residue .
+80						"the schematic structure of grf40 be compare with grb2 and grap , another grb2 family member ."
+81						"the nh2-_NN and cooh-terminal sh3 domain and a intermediate sh2 domain of grf40 be highly homologous to those of grb2 and grap , while a unique insert region ( amino acid position arg156-arg277 ) contain proline / glutamine rich sequence be see in grf40 but not grb2 and grap ."
+82						these result indicate that grf40 be a new member of the grb2 family .
+83						various human cell line be examine for expression of grf40 by immunoblot with anti-grf40 ab .
+84	"uaz:UA-CLine-6453,uaz:UA-CLine-2244"	"MOLT-4, Jurkat"	"C20,C21"			"two t cell line , molt-4 and jurkat , be strongly positive for expression of the 40-kd grf40 , and two b cell line , daudus and rajus , be weakly positive , but the other cell line , include a b cell line ( ramo ) , myeloid cell line ( thp-1 , tf-1 , and eol-3 ) , and the nonhematopoietic cell line ( helum and wi-26 ) be all negative for this expression ."
+85						"in contrast to grf40 , appreciable expression of grb2 be see in all the cell line ."
+86						"northern blot analysis on various human cell line and tissue show two grf40 specific transcript at 3.5 and 1.5 kb in jurkat , molt-4 , three myeloid cell line ( ku812 , k562 , and m-tat ) and pha-pbl ( datum not show ) , and in human immunotissue such as thymus , spleen , small intestine , and pbl , whereas marginal level of the transcript be detect in other tissue , include prostate , testis , ovary , colon , heart , brain , placenta , lung , liver , skeletal muscle , kidney , and pancreas ."
+87						"these result suggest that grf40 , unlike grb2 , be predominantly express in immunotissue and hematopoietic cell , particularly t cell ."
+88			"E75,E26,E27,E28"	"C9,C10,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19"	grb2 have be show to bind to slp-76 and lat; grf40 be also associate with slp-76 and lat	"since grb2 have be show to bind to slp-76 and lat , which be 76- and 36 and 38-kd tyrosine phosphorylated protein essential for tcr mediated signaling , respectively , we ask ourselves whether or not grf40 be also associate with slp-76 and lat ."
+89	uaz:UA-CLine-2244	jurkat cells	C22			we detect 76- and 36 and 38-kd tyrosine phosphorylated protein that coimmunoprecipitate with grf40 in jurkat cell after stimulation by tcr cross link with okt3 .
+90						"we then confirm that the 76- and 36 and 38-kd tyrosine phosphorylated protein be slp-76 and lat , respectively , by stimulate jurkat cell with okt3 ."
+91						"they lysate be immunoprecipitate with anti-grf40 ab , and the immunoprecipitate be then immunoblot with anti-lat , anti-slp-76 , or anti-grf40 ab ."
+92						"grf40 precipitate slp-76 irrespective of tcr stimulation , but precipitate lat only after tcr stimulation ."
+93	uaz:UA-CLine-2244	jurkat cells	"E29,E30,C23"	"C9,C10,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19"	association of grf40 with slp-76 and lat 	these result indicate the association of grf40 with slp-76 and lat in jurkat cell .
+94						"to determine the association site of grf40 for slp-76 , we carry out further coimmunoprecipitation assay between the various deletion mutant of grf40 and slp-76 ."
+95	uaz:UA-CLine-100020	COS7 cells	C24			"cos7 cell be transiently transfect with myc tag wild-type grf40 and four grf40 mutant delete of the nh2-terminal sh3 domain ( grf40-dsh3n ) , the cooh-terminal sh3 domain ( grf40-dsh3c ) , both the nh2-_NN and cooh-terminal sh3 domain ( grf40-dsh3nc ) , or the sh2 domain ( grf40-dsh2 ) ."
+96						"the transfected cos7 cell be immunoprecipitate with anti-slp-76 ab or anti-myc mab , and then immunoblot with anti-myc mab or anti-slp-76 ab ."
+97						"wild-type grf40 and the grf40-dsh2 and grf40 dsh3n mutant be coimmunoprecipitate with slp-76 , but the grf40-dsh3c and grf40 dsh3nc mutant be not test ."
+98						"conversely , slp-76 be coimmunoprecipitate with grf40-dsh2 , grf40-dsh3n , and wild-type grf40 , but not with grf40-dsh3c and grf40 dsh3nc mutant ( datum not show ) ."
+99			E31	C24	cooh-terminal sh3 domain of grf40 be a association site for slp-76 .	these result indicate that the cooh-terminal sh3 domain of grf40 be a association site for slp-76 .
+100						we next determine the association site of slp-76 for grf40 by use various slp 76 mutant .
+101	uaz:UA-CLine-100020	COS7 cells	C25			"flag tag wild-type and four mutant of slp-76 be introduce into cos7 cell together with myc tag grf40 , and then immunoprecipitate and immunoblot with anti-flag and anti-myc ab ."
+102			E32	C25	myc tag grf40 be coimmunoprecipitate with the SLP 76 mutant consist of and contain the amino acid position glu217-pro533	"myc tag grf40 be coimmunoprecipitate with the SLP 76 mutant consist of and contain the amino acid position glu217-pro533 , but not with the SLP 76 mutant consist of the amino acid position pro241-pro533 ."
+103						these result indicate that the grf40 binding site be located in the amino acid position glu217-lys240 of slp-76 .
+104						"this grf40 binding site of slp-76 almost overlap the amino acid position asn224-asp244 , which have be show to be the grb2 binding site ."
+105			E33	C25	" the binding site of grb2 for lat have be show to be the sh2 domain of grb2 , which be think to bind to the phosphorylated tyrosine residue"	"on the other hand , the binding site of grb2 for lat have be show to be the sh2 domain of grb2 , which be think to bind to the phosphorylated tyrosine residue ."
+106			"E34,E35"	C25	"lat be tyrosine phosphorylated and subsequently coimmunoprecipitate with grf40 after tcr stimulation , suggest that the sh2 domain of grf40 be possibly the binding site for lat"	"together with this notion , we show that lat be tyrosine phosphorylated and subsequently coimmunoprecipitate with grf40 after tcr stimulation , suggest that the sh2 domain of grf40 be possibly the binding site for lat ."
+107			"E37,E40"	C26	competitive binding ability between grf40 and grb2 to slp-76	"since the cooh-terminal sh3 domain of grb2 have be show to be the binding site for slp-76 , we examine the competitive binding ability between grf40 and grb2 to slp-76 ."
+108	uaz:UA-CLine-100020	COS7 cells	"C26,E41,E42"	C26	myc tag grf40 and myc tag grb2 in association with different dose ( 0-1 .0 mug ) of flag tag slp-76 plasmid .	cos7 cell be transiently transfect with 2.5-mug plasmid of myc tag grf40 and myc tag grb2 in association with different dose ( 0-1 .0 mug ) of flag tag slp-76 plasmid .
+109						they lysate be immunoprecipitate with anti-flag mab and then immunoblot with anti-myc polyclonal ab .
+110			E43	C26	 myc tag grb2 coimmunoprecipitation with slp-76	"coimmunoprecipitation of myc tag grf40 with slp-76 gradually decrease upon reduce the slp-76 plasmid dose to 0.05 mug , whereas the myc tag grb2 coimmunoprecipitation with slp-76 be detectable only at a 1.0-mug dose of slp-76 plasmid ."
+111						"expression level of the plasmid introduce be quantify by immunoblotting , confirm that there be no significant difference in the amount between myc tag grf40 and myc tag grb2 ."
+112			E44	C26	 grf40 associate much stronger with slp-76 than do grb2	these result suggest the possibility that grf40 associate much stronger with slp-76 than do grb2 .
+113						"to confirm this further , cos7 cell be transiently transfect with low dose of slp-76 plasmid ( 0.2 mug ) and myc-grf40 plasmid ( 2.5 mug ) together with various dose ( 0-10 mug ) of myc tag grb2 plasmid ."
+114						they lysate be immunoprecipitate with anti-flag mab and then immunoblot with anti-myc polyclonal ab .
+115						"even when up to 10-mug plasmid dose of myc tag grb2 be cotransfect , coimmunoprecipitation of myc tag grf40 with slp-76 be still unchanged ."
+116						"furthermore , although the increased expression of myc tag grb2 be dependent on its plasmid dose , which be considerably higher than that of grf40 at a 10-mug plasmid dose of myc tag grb2 , myc tag grb2 be not coimmunoprecipitate with slp-76 ."
+117			"E45,E46"	C26	grf40 compete with grb2 in its binding to slp-76	"these result indicate that grf40 compete with grb2 in its binding to slp-76 , and the binding affinity of grf40 to slp-76 be apparently higher than that of grb2 ."
+118			"E47,E48"	C26	 grf40 play a critical role in the slp-76-dependent increase in il-2 promoter activity	"since the SLP 76 mutant delete of the grb2 binding site , which overlap the grf40 binding site , fail to increase il-2 promoter activity upon tcr stimulation , it be possible that not only grb2 but also grf40 play a critical role in the slp-76-dependent increase in il-2 promoter activity ."
+119						"to address the functional significance of grf40 in tcr mediated signaling , we perform luciferase assay with reporter gene contain the il-2 promoter and the nf-at binding domain ."
+120						overexpression of wild-type grf40 do not lead to either basal or tcr mediated activation of the il-2 promoter and nf-at ( datum not show ) .
+121	"uaz:UA-CLine-2244,uaz:UA-CLine-2244"	"jurkat cells, jurkat cells"	"E49,C27,E50,E51,C28"	"C27,C28"	grf40 interact with slp-76; overexpression of slp-76 be know to augment tcr mediated stimulation of the il-2 promoter and nf-at activity	"since grf40 interact with slp-76 in jurkat cell , and overexpression of slp-76 be know to augment tcr mediated stimulation of the il-2 promoter and nf-at activity , we use jurkat cell transiently transfect with slp-76 to examine the effect of grf40 in tcr mediated signaling ."
+122	uaz:UA-CLine-2244	jurkat cells	"E52,E53,C29"	C29	"transfection of wild-type grf40 and grf40 dsh3n mutant into jurkat cell overexpress slp-76 lead to significant increase in il-2 promoter activity upon stimulation with okt3 plus pma , whereas transfection of grf40 dsh2 mutant induce a marked inhibition of il-2 promoter activity compare with transfection of a empty vector ."	"transfection of wild-type grf40 and grf40 dsh3n mutant into jurkat cell overexpress slp-76 lead to significant increase in il-2 promoter activity upon stimulation with okt3 plus pma , whereas transfection of grf40 dsh2 mutant induce a marked inhibition of il-2 promoter activity compare with transfection of a empty vector ."
+123			"E54,E55"	C29	" grf40 dsh2 mutant have a dominant negative effect in tcr stimulation , suggest that the sh2 domain of grf40 interact with a essential molecule for tcr mediated signaling , which be possibly lat "	"these result indicate that grf40 dsh2 mutant have a dominant negative effect in tcr stimulation , suggest that the sh2 domain of grf40 interact with a essential molecule for tcr mediated signaling , which be possibly lat ."
+124						similar result be obtain in nf-at luciferase assay with jurkat cell stimulate with okt3 .
+125			"E56,e57"	C29	grf40-slp-76 complex formation be require for slp-76-dependent tcr stimulation .	"furthermore , the grf40 mutant ( grf40-dsh3c and grf40-dsh3nc ) delete of the cooh-terminal sh3 domain , which be the binding site for slp-76 , also lose they ability to increase il-2 promoter activity , suggest that a grf40-slp-76 complex formation be require for slp-76-dependent tcr stimulation ."
+126			E58	C29	these result indicate that grf40 be involve in signal the stimulation of the il-2 promoter and nf-at activity mediate by okt3 and pma .	these result indicate that grf40 be involve in signal the stimulation of the il-2 promoter and nf-at activity mediate by okt3 and pma .
+127			E59	C30	 tcr mediated stimulation of il-2 promoter activity	"since grb2 have also be consider to be involve in the modulation of tcr mediated signal transduction , we compare the functional significance of grf40 and grb2 in tcr mediated stimulation of il-2 promoter activity ."
+128	uaz:UA-CLine-2244	jurkat cells	C30			"jurkat cell overexpress slp-76 be transfect with the wild-type and sh2 deletion mutant of grf40 and grb2 , in association with a il-2 promoter drive luciferase construct ."
+129						"they be stimulate with okt3 plus pma , and assay for luciferase activity ."
+130			E60	C30	a appreciable enhancement of il-2 promoter activity be see with wild-type grf40; grf40 dsh2 mutant show a marked dominant negative effect in the il-2 luciferase assay compare with grb2 dsh2 mutant 	"a appreciable enhancement of il-2 promoter activity be see with wild-type grf40 , but scarcely with wild-type grb2 , whereas grf40 dsh2 mutant show a marked dominant negative effect in the il-2 luciferase assay compare with grb2 dsh2 mutant ."
+131						the plasmid dose dependency in the il-2 luciferase assay be compare between the grf40-dsh2 and grb2 dsh2 mutant .
+132						the suppressive effect on the luciferase activity be significantly stronger in grf40 dsh2 mutant than grb2 dsh2 mutant at various plasmid dose .
+133						these result indicate that grf40 be involve in tcr mediated signaling more effectively than grb2 .
+134			"E62,E63"	C30	 binding affinity of grf40 to slp-76 compare with grb2 .	this conclusion be in accordance with the observation of greater binding affinity of grf40 to slp-76 compare with grb2 .
+135						this study show a critical involvement of grf40 in the slp-76-dependent signaling mediate by the tcr .
+136						one might consider the possibility that grf40 mutant exert they effect in tcr mediated signaling by alter expression level of slp-76 .
+137	uaz:UA-CLine-100020	COS7 cells	C31			"however , this possibility be negligible because the expression of pcx-slp76 be confirm to be unaffected by transient expression of grf40 , grb2 , and they mutant in cos7 cell ( datum not show ) ."
+138			"E64,E65"	C31	 binding affinity of grf40 to slp-76 compare with grb2 .	"hence , the interaction of grf40 with slp-76 and lat be think to be critical for tcr mediated signaling ."
+139			E66	C32	the nh2-terminal sh3 domain of grb2 be know to be a binding site for so	"the nh2-terminal sh3 domain of grb2 be know to be a binding site for so , a ra guanine nucleotide exchange factor , which have be consider to be involve in ra activation upon tcr stimulation ."
+140	uaz:UA-CLine-2244	jurkat cells	"E67,C32"	C32	 association of grb2 with so	"we confirm the association of grb2 with so in jurkat cell ; however , a complex formation between grf40 and so be undetectable in these cell ( datum not show ) ."
+141						"therefore , we suspect that grf40 do not direct the ra activation signaling mediate by the tcr ."
+142						"however , grf40 contribute to tcr mediated activation of the il-2 promoter and nf-at more effectively than grb2 , suggest the critical involvement of grf40 in tcr mediated signaling ."
+143			"E86,E69,E70"	C32	slp-76 associate with grf40 also bind to vav;  interaction between slp-76 and vav	"in this context , it be of interest that slp-76 associate with grf40 also bind to vav , a rac and rho guanine nucleotide exchange factor , and that the interaction between slp-76 and vav have be show to participate in il-2 gene activation upon tcr stimulation ."
+144			"E71,E72,E73,E74"	C32	activate zap-70 tyrosine kinase	"these observation provide a model pathway in which activate zap-70 tyrosine kinase after tcr ligation phosphorylate lat , which then bind to the preformed grf40-slp-76 complex and recruit it to zap-70 , which further phosphorylate slp-76 to be associate with vav , lead to the downstream signaling of the tcr ."
+145						"northern blot and immunoblot analysis reveal that grf40 be express predominantly in immunotissue and hematopoietic cell , particularly t cell , in contrast to grb2 ."
+146						such restricted distribution of grf40 may reflect the more efficient involvement of grf40 in tcr mediated signaling compare with grb2 .
+147						"although grap have also be show to be specific for hematopoietic and lymphocytic cell , the functional significance of grap be still unknown ."
+148						the genome sequence of grb2l have be register in genbank/embl/ddbj ( under accession no .
+149						"z82206 ) , which contain the entire sequence of grf40 ."
+150						"since grb2l have be map to human chromosome 22q12 , grf40 be think to have the same chromosomal location ."
+151						"furthermore , cdna clone identical to grf40 be report as grap2 , and human gad and they mouse homologue , name Mona and mouse gad , be also report after the submission of this paper ."
+152						"although the report regard human gad show similar result as we study , they do not show any comparative study between Gads and grb2 ."
+153						we here show evidence suggest that grf40 play a more critical role in the tcr mediate signaling than grb2 .
+154						figure and table
+155						Figure 1
+156						schematic structure and expression of grf40 .
+157						( a ) the schematic structure of grf40 be compare with grb2 and grap .
+158						the percentage of amino acid identity of the sh3 and sh2 domain of grf40 with grb2 and grap be indicate in term of they sh3 and sh2 domain .
+159						"( b ) 107 cell of a variety of human cell line be immunoprecipitate ( IP ) and immunoblotted ( ib ) with anti-grf40 , anti-grb2 , or preimmune ( control [ Cont ] ) serum ."
+160						( c ) northern blot analysis be perform with the various human tissue indicate .
+161						"the blot be first hybridize with the grf40 probe , then rehybridize with beta-actin probe ."
+162						figure 2
+163						coimmunoprecipitation of slp-76 and lat with grf40 in jurkat cell .
+164						"jurkat cell be stimulate with ( + ) or without ( - ) okt3 for 3 min , and they lysate be immunoprecipitate ( IP ) with anti-grf40 or preimmune ( control ) serum ."
+165						"the immunoprecipitate be separate by sds-page and then immunoblot ( IB ) with antiphosphotyrosine mab ( a ) , and with anti-slp-76 antiserum or anti-lat ab ( b ) ."
+166						"cos7 cell be transiently transfect with 10 mug expression plasmid for myc tag wild-type grf40 ( wild ) or four myc tag grf40 mutant ( dsh3c , dsh2 , dsh3n , and dsh3nc ) , together with 10 mug expression plasmid for slp-76 by electroporation , and then incubate for 48 h ."
+167						"they lysate be immunoprecipitate with anti-slp-76 or preimmune ( control ) serum , and then immunoblot with anti-myc mab or anti-slp-76 antiserum ( c ) ."
+168						"cos7 cell be transiently transfect with 10 mug expression plasmid for flag tag wild-type slp-76 ( wild ) , four flag tag SLP 76 mutant ( 157-533 , 217-533 , 241-533 , and 281-533 ) , or a empty vector ( control ) , together with 10 mug expression plasmid for myc tag grf40 by electroporation , and then incubate for 48 h ."
+169						"they lysate be immunoprecipitate with anti-flag mab , and then immunoblot with anti-myc or anti-flag mab ( d ) ."
+170						Figure 3
+171						competitive binding ability of grf40 and grb2 to slp-76 .
+172						"cos7 cell be transiently transfect with the indicated dose of pflagslp ( slp-76 ) , 2.5 mug of pmycgrf40 ( grf40 ) , and 2.5 mug of pmycgrb2 ( grb2 ) ( a ) , or 0.2 mug of pflagslp , 2.5 mug of pmycgrf40 , and the indicated dose of pmycgrb2 ( b ) ."
+173						"the cell be incubate for 48 h , and they lysate be immunoprecipitate ( IP ) with anti-flag mab and then immunoblot ( IB ) with anti-myc polyclonal ab or anti-flag mab ( top and middle ) ."
+174						the expression level of myc tag grf40 and myc tag grb2 be quantify by immunoblot with anti-myc mab ( bottom ) .
+175						Figure 4
+176						effect of grf40 mutant on tcr mediated activation of il-2 promoter and nf-at activity .
+177						"jurkat cell be transfect with 10 mug of il-2-luc ( a ) or 10 mug of nf-at-luc ( b ) , along with 10 mug of slp-76 and 10 mug of a empty vector ( vector ) , myc tag wild-type grf40 ( wild ) , or various grf40 mutant ( dsh3n , dsh3c , dsh3nc , and dsh2 ) ."
+178						"the cell be leave unstimulated ( white bar ) or be stimulate ( black bar ) with 10 mug and ml okt3 plus 50 ng and ml pma , and assay for luciferase activity ."
+179						"result be show as fold induction of luciferase activity compare with the activity in unstimulated cell transfect with the empty vector ( ~ 5,000 relative light unit [ rlu ] ) ."
+180						these result be representative of three comparable experiment .
+181						Figure 5
+182						comparison of block effect between grf40-dsh2 and grb2-dsh2 on tcr mediated stimulation of il-2 promoter activity .
+183						"( a ) jurkat cell be transfect with 10 mug of il-2-luc along with 10 mug of slp-76 and 10 mug of a empty vector ( vector ) , myc tag grf40 wild-type , grf40-dsh2 , grb2 wild-type , or grb2-dsh2 ."
+184						the cell be leave unstimulated ( white bar ) or be stimulate ( black bar ) with okt3 plus pma .
+185						( b ) jurkat cell be transfect with 10 mug of il-2-luc along with 10 mug of slp-76 and the indicated dose of grf40-dsh2 ( square ) or grb2-dsh2 ( circle ) .
+186						"the cell be leave unstimulated ( open symbol ) or be stimulate ( fill symbol ) with okt3 plus pma , and assay for luciferase activity ."
+187						"luciferase activity be indicate as average fold induction + /- se from three independent experiment compare with unstimulated cell transfect with the empty vector ( ~ 5,000 rlu ) ."

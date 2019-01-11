@@ -1,0 +1,215 @@
+1						COT and map3k8 drive resistance to raf inhibition through map kinase pathway reactivation
+2						oncogenic mutation in the serine and threonine kinase b-raf be find in 50-70 % of malignant melanoma .
+3						pre-clinical study have demonstrate that the b rafv600e mutation predict a dependency on the mitogen activate protein kinase ( mapk ) signaling cascade in melanoma - -- a observation that have be validate by the success of raf and mek inhibitor in clinical trial - .
+4						however , clinical response to target anticancer therapeutics be frequently confound by de novo or acquire resistance - .
+5						identification of resistance mechanism in a manner that elucidate alternative ' druggable ' target may inform effective long-term treatment strategy .
+6						here , we express ~ 600 kinase and kinase related open reading frame ( orf ) in parallel to functionally interrogate resistance to a selective raf kinase inhibitor .
+7						we identify map3k8 ( COT and tpl2 ) as a mapk pathway agonist that drive resistance to raf inhibition in b-rafv600e cell line .
+8						cot activate erk primarily through mek dependent mechanism that do not require raf signaling .
+9			e1	c1		moreover , cot expression be associate with de novo resistance in b-rafv600e culture cell line and acquire resistance in melanoma cell and tissue obtain from relapse patient follow treatment with mek or raf inhibition .
+10						we further identify combinatorial mapk pathway inhibition or targeting of cot kinase activity as possible therapeutic strategy for reduce mapk pathway activation in this setting .
+11						together , these result provide new insight into resistance mechanism involve the mapk pathway and articulate a integrative approach through which high-throughput functional screen may inform the development of novel therapeutic strategy .
+12	uaz:UA-CLine-5240	A375	c1,e2	c1		to identify kinase capable of circumvent raf inhibition , we assemble and stably express 597 sequence validate kinase orf clone represent ~ 75 % of annotated kinase ( Center for Cancer Systems Biology ( CCSB ) / Broad Institute kinase orf collection ) in a375 , a b-rafv600e malignant melanoma cell line that be sensitive to the raf kinase inhibitor plx4720 .
+13						orf expressing cell treat with 1 microm plx4720 be screen for viability relative to untreated cell and normalize to a assay specific positive control , mek1s218 and 222d ( mek1dd ) .
+14						nine orf confer resistance at level exceed two standard deviation from the mean and be select for follow-up analysis .
+15						three of nine candidate orf be receptor tyrosine kinase , underscore the potential of this class of kinase to engage resistance pathway .
+16						resistance effect be validate and prioritize across a multi-point plx4720 drug concentration scale in the b-rafv600e cell line a375 and skmel28 .
+17						the Ser and Thr map kinase kinase kinase ( map3k ) map3k8 ( COT and tpl2 ) and raf1 ( c-raf ) emerge as top candidate from both cell line ; these orf shift the plx4720 gi50 by 10-600 fold without affect viability .
+18						both COT and c-raf reduce sensitivity to plx4720 in multiple b-rafv600e cell line confirm the ability of these kinase to mediate resistance to raf inhibition .
+19			e3	c2		next , we test whether overexpression of these gene be sufficient to activate the mapk pathway .
+20						at baseline , cot expression increase erk phosphorylation in a manner comparable to mek1dd , consistent with map kinase pathway activation .
+21			e4,e5	c2		overexpression of wild-type cot or c-raf result in constitutive phosphorylation of erk and mek in the presence of plx4720 , whereas kinase-dead derivative have no effect .
+22						base on these result , we hypothesize that COT and c-raf drive resistance to raf inhibition predominantly through re-activation of mapk signaling .
+23			e6	c2		notably , of the nine candidate orf from we initial screen , a subset ( 3 ) do not show persistent erk and mek phosphorylation follow raf inhibition , suggest mapk pathway independent alteration of drug sensitivity .
+24			e7	c2		several group have show that c-raf activation and heterodimerization with b-raf constitute critical component of the cellular response to b-raf inhibition - .
+25	uaz:UA-CLine-5240	A375	c2,e8	c2		in a375 cell , endogenous c-raf : b-raf heterodimer be measurable and inducible follow treatment with plx4720 .
+26				c2		however , endogenous c-raf phosphorylation at s338 -- a event require for c-raf activation -- remain low .
+27			e10,e11	c2		in contrast , ectopically express c-raf be phosphorylate on s338 and its plx4720 resistance phenotype be associate with sustained mek and erk activation .
+28						moreover , ectopic expression of a high activity c-raf truncation mutant ( c-raf ( w22 ) be more effective than wild-type c-raf in mediate plx4720 resistance and erk activation , further indicate that elevated c-raf activity may direct resistance to this agent .
+29	uaz:UA-CLine-5240	A375	c3,e12	c3		consistent with this model , oncogenic allele of nra and KRAS confer plx4720 resistance in a375 cell and yield sustained c-raf ( s338 ) and erk phosphorylation in the context of drug treatment .
+30						thus , although genetic alteration that engender c-raf activation ( e.g. , oncogenic ra mutation ) tend to show mutual exclusivity with b rafv600e mutation , such co-occurring event , might be favor in the context of acquire resistance to b-raf inhibition .
+31						to investigate the role of COT in melanoma , we first determine its expression in human melanocyte .
+32			e13	c4		we find that primary immortalize melanocyte ( b-raf wild-type ) express COT , although ectopic b-rafv600e expression reduce COT mrna level and render COT protein undetectable .
+33	uaz:UA-CLine-5240	A375	c4			conversely , whereas ectopically express COT be only weakly detectable in a375 cell , shrna mediate depletion of endogenous b-rafv600e cause a increase in COT protein level that correlate with the extent of b-raf knockdown .
+34	uaz:UA-CLine-5240	A375	c5,e14	c5		moreover , treatment of COT express a375 cell with plx4720 lead to a dose dependent increase in COT protein without affect ectopic cot mrna level .
+35						thus , oncogenic b-raf may antagonize cot expression largely through altered protein stability , and b-raf inhibition may potentiate the outgrowth of COT express cell during the course of treatment .
+36			e15,e16	c5		notably , neither c-raf nor b-raf alone or in combination be require for erk phosphorylation in the context of cot expression , even in the presence of plx4720 , suggest that cot expression be sufficient to induce map kinase pathway activation in a raf independent manner .
+37						we predict that cell line express elevated COT in a b-rafv600e background should exhibit de novo resistance to plx4720 treatment .
+38						to identify such instance , we screen a panel of cell line for evidence of map3k8 and cot copy number gain coincident with the b rafv600e mutation .
+39						of 534 cell line that have undergo copy number analysis and mutation profiling , 38 cell line ( 7.1 % ) contain the b rafv600e mutation .
+40	uaz:UA-CLine-100098,uaz:UA-CLine-4664	OUMS-23,RPMI-7951	c6,c7			within this subgroup , two cell line -- oums-23 ( colon cancer ) and rpmi-7951 ( melanoma ) -- also show evidence of chromosomal copy gain span the map3k8 and cot locus and robust cot protein expression .
+41	uaz:UA-CLine-100096	M307	c8,e17	c8		we also screen a panel of melanoma short-term culture for COT protein expression .
+42						only one of these line express COT : m307 , a short-term culture derive from a b-rafv600e tumor that develop resistance to allosteric mek inhibition follow initial disease stabilization .
+43			e18	c6,c7,c8		all three cell line be refractory to plx4720 treatment , exhibit gi50 value in the range of 8-10 microm and show sustained erk phosphorylation in the context of b-raf inhibition .
+44	uaz:UA-CLine-100098,uaz:UA-CLine-4664	OUMS-23,RPMI-7951	e19,c9,c10	c9,c10		OUMS-23 and rpmi-7951 be mapk pathway inhibitor-naive cell line , imply that COT may confer de novo resistance to raf inhibition ( a phenomenon observe in ~ 10 % of b-rafv600e melanoma ) .
+45	taxonomy:9606	patients	s1			next , we examine cot expression in the context of resistance to the clinical raf inhibitor plx4032 by obtain biopsy material from 3 patient with metastatic , b-rafv600e melanoma .
+46						"each case consist of frozen , lesion match biopsy material obtain prior to and during treatment ( "" pre-treatment "" and "" on-treatment "" ; , ) ; additionally , one sample contain two independent biopsy specimen from the same relapsing tumor site ( "" post-relapse "" ; ) ."
+47			e20	s1		consistent with the experimental model present above , quantitative real-time rt-pcr ( qrt and pcr ) analysis reveal increase COT mrna expression concurrent with plx4032 treatment in 2 of 3 case .
+48						cot mrna level be further increase in a relapse specimen relative to its pre-treatment and on-treatment counterpart ( , patient # 1 ) .
+49						a additional , unmatched relapse malignant melanoma biopsy show elevated COT mrna expression comparable to level observe in raf inhibitor resistant , COT amplify cell line .
+50			e21,e22,e23,e24	s1		this specimen also exhibit robust mapk pathway activation and elevated expression of b-raf , c-raf and cot relative to match normal skin or b-rafv600e cell line .
+51						sequencing study of this tumor reveal no additional mutation in braf , nra or KRAS ( datum not show ) .
+52						these analysis provide clinical evidence that cot dependent mechanism may be operant in at least some plx4032 resistant malignant melanoma .
+53	uaz:UA-CLine-4664	RPMI-7951	e25,c11	c11		to determine if COT might actively regulate mek and erk phosphorylation in b-rafv600e cell that harbor naturally elevated cot expression , we introduce shrna construct target COT into rpmi-7951 cell .
+54			e26	c11		depletion of COT suppress rpmi-7951 viability and decrease erk phosphorylation , imply that target cot kinase activity might suppress mek and erk phosphorylation in cancer cell with cot overexpression or amplification .
+55	uaz:UA-CLine-4664	RPMI-7951	c12,e27,e28	c12		treatment of rpmi-7951 cell with a small molecule cot kinase inhibitor - result in dose dependent suppression of mek and erk phosphorylation , provide additional evidence that COT contribute to mek and erk activation in these cell .
+56						we then consider whether COT express cancer cell remain sensitive to mapk pathway inhibition at a target downstream of COT or RAF .
+57	uaz:UA-CLine-100098,uaz:UA-CLine-4664	OUMS-23,RPMI-7951	c13,c14			here , we query the oums-23 and rpmi-7951 cell line for sensitivity to the mek1 and 2 inhibitor ci-1040 .
+58			e30	c13,c14		interestingly , both cell line be refractory to mek inhibition and display sustained erk phosphorylation even at 1 microm ci-1040 .
+59						ectopic cot expression in a375 and skmel28 cell also confer decrease sensitivity to the mek inhibitor ci-1040 and azd6244 , suggest that cot expression alone be sufficient to induce this phenotype .
+60	uaz:UA-CLine-5240	A375	e31,c15	c15		similar to result observe with pharmacological mek inhibitor , mek1 and 2 knockdown only modestly suppress cot mediate erk phosphorylation in a375 cell .
+61			e32	c15		in accordance with prior observation , these datum raise the possibility that COT may activate erk through mek independent and mek dependent mechanism .
+62						to test this hypothesis directly , we perform a in vitro kinase assay use recombinant COT and erk1 .
+63			e33,e34	c15		indeed , recombinant COT induce pthr202 and tyr204 phosphorylation of erk1 in vitro suggest that in certain context , cot expression may potentiate erk activation in a mek independent manner .
+64						in experimental model , the use of raf and mek inhibitor in combination can override resistance to single-agent .
+65						we therefore reason that combine raf and mek inhibition might circumvent COT driven resistance .
+66						in the setting of ectopic cot expression , exposure to azd6244 or ci-1040 in combination with plx470 ( 1 microm each ) reduce cell growth and perk expression more effectively than do single-agent plx4720 , even at concentration of 10 microm .
+67						these datum underscore the importance of this pathway in b-rafv600e tumor cell and support earlier finding that dual b-raf and mek inhibition may help circumvent resistance to raf inhibitor .
+68						b raf mutation be find in ~ 8 % of all cancer and at high frequency in malignant melanoma , colon and thyroid cancer .
+69						the clinical promise of selective raf inhibitor have widespread ramification for patient treatment , yet single agent target therapy be almost invariably follow by relapse due to acquire drug resistance .
+70						we result suggest that orf base , systematic functional screening may offer a powerful means to identify clinically relevant resistance mechanism that also specify novel treatment strategy .
+71						in particular , resistance to raf inhibition can be achieve by multiple map3k dependent mechanism of mek and erk reactivation but might be intercept through combine therapeutic modality for mapk pathway inhibition ( e.g. , raf and mek or raf and cot combination ) .
+72						future systematic drug resistance study may be expand to a genome scale that encompass many compound , thereby enable comprehensive identification of both therapy specific resistance gene and drug target of novel therapeutics .
+73						method summary
+74						the array , lentiviral orf screen be perform as previously describe .
+75						effect of individual orf on drug resistance be determine by measure differential viability ( ratio of raw viability in 1 microm plx4720 : control ) and subsequent normalization to a assay specific positive control , mek1dd .
+76						secondary screen be perform with the top nine candidate orf in 96-well format in a375 and skmel28 cell .
+77						prioritization be accomplish via generation of a gi50 for each orf across a multi-point plx4720 concentration range in both cell line .
+78						the effect of identify resistance orf on mapk pathway activation be demonstrate use both biochemical and cell biological approach .
+79						cell line copy number datum be obtain as previously describe .
+80						detailed description of all procedure be include in Materials and method .
+81						Materials and method
+82						Center for Cancer Systems Biology ( CCSB ) / Broad Institute kinase open read Frame Collection
+83						we assemble a library of 597 kinase orf in pdonr-223 entry vector ( Invitrogen ) .
+84						individual clone be end sequence use vector specific primer in both direction .
+85						clone with substantial deviation from report sequence be discard .
+86						entry clone and sequence be available via Addgene ( www.addgene.org/human_kinases ) .
+87						kinase orf be assemble from multiple source ; 337 kinase be isolate as single clone from the orfeome 5.1 collection ( horfdb.dfci.harvard.edu ) ; 183 kinase be clone from normal human tissue rna ( Ambion ) by reverse transcription and subsequent pcr amplification to add Gateway sequence ( Invitrogen ) ; 64 kinase be clone from template provide by the Harvard Institute of Proteomics ( hip ) ; and 13 kinase be clone into the Gateway system from template obtain from collaborate laboratory .
+88						the gateway-compatible lentiviral vector plx-blast-v5 be create from the plko .1 backbone .
+89						lr reaction be perform to introduce the 597 kinase into plx-blast-v5 accord to manufacturer protocol ( Invitrogen ) .
+90						high throughout orf screening
+91						a375 melanoma cell be plate in 384-well microtiter plate ( 500 cell per well ) .
+92						the follow day , cell be spin infected with the lentivirally package kinase orf library in the presence of 8 ug and ml polybrene .
+93						48 hour post-infection , media be replace with standard growth media ( 2 replicate ) , media contain 1 microm plx4720 ( 2 replicate , 2 time point ) or media contain 10 ug and ml blasticidin ( 2 replicate ) .
+94						after four day and 6 day , cell growth be assay use cell Titer-Glo ( Promega ) accord to manufacturer instruction .
+95						the entire experiment be perform twice .
+96						identification of candidate resistance orf
+97						raw luminescence value be import into Microsoft Excel .
+98						infection efficiency be determine by the percentage of duplicate average raw luminescence in blasticidin select cell relative to non select cell .
+99						orf with a infection efficiency of less than 0.70 be exclude from further analysis along with any orf have a standard deviation of > 15,000 raw luminescence unit between duplicate .
+100						to identify orf whose expression affect proliferation , we compare the duplicate average raw luminescence of individual orf against the average and standard deviation of all control treat cell via the z-score , or standard score , below , z = x-musigma where x = average raw luminescence of a given orf , mu = the mean raw luminescence of all orf and sigma = the standard deviation of the raw luminescence of all well .
+101						any individual orf with a z-score > +2 or < -2 be annotated as affect proliferation and remove from final analysis .
+102						differential proliferation be determine by the percentage of duplicate average raw luminescence value in plx4720 ( 1 microm ) treat cell relative to untreated cell .
+103						subsequently , differential proliferation be normalize to the positive control for plx4720 resistance , mek1s218 and 222d ( mek1dd ) , with mek1dd differential proliferation = 1.0 .
+104						mek1dd normalize differential proliferation for each individual orf be average across two duplicate experiment , with two time point for each experiment ( day 4 and day 6 ) .
+105						a z-score be then generate , as describe above , for average mek1dd normalize differential proliferation .
+106						orf with a z-score of > 2 be consider hit and be follow up in the secondary screen .
+107						orf and shrna expression
+108						orf be express from plx-blast-v5 ( lentiviral ) or pwzl-blast , pbabe-puro or pbabe-zeocin ( retroviral ) expression plasmid .
+109						for lentiviral transduction , 293t cell be transfect with 1 microg of plx-blast-v5-orf or plko.1-shrna , 900 ng delta8 .9 ( gag , pol ) and 100 ng vsv-g use 6 microl fugene6 transfection reagent ( Roche ) .
+110						viral supernatant be harvest 72 h post-transfection .
+111						mammalian cell be infect at a 1:10 -1:20 dilution of virus in 6-well plate in the presence of 5 microg and ml polybrene and centrifuge at 2250 RPM for 1 h at 37degree c. twenty-four hour after infection blasticidin ( plx-blast-v5 , 10 microg and ml ) or puro ( plko .1 , 0.75 microg and ml ) be add and cell be select for 48 hr .
+112						for retrovirus production , 293t be transfect with 1 microg of retroviral plasmid-orf , 1 microg pcl-ampho and 100 ng vsv-g , as describe above .
+113						cell be infect with retrovirus contain supernatant at a 1:2 dilution in 5 microg and ml polybrene overnight , follow by media change to growth medium .
+114						infection be repeat once more ( twice total ) , follow by selection , above .
+115						secondary screen
+116						a375 ( 1.5 x 103 ) and skmel28 cell ( 3 x 103 ) be seed in 96-well plate for 18 h. orf express lentivirus be add at a 1:10 dilution in the presence of 8 microg and ml polybrene , and centrifuge at 2250 RPM and 37degree c for 1 h. follow centrifugation , virus contain media be change to normal growth media and allow to incubate for 18 h. twenty-four hour after infection , dmso ( 1:1000 ) or 10x plx4720 ( in dmso ) be add to a final concentration of 100 , 10 , 1 , 0.1 , 0.01 , 0.001 , 0.0001 or 0.00001 microm .
+117						cell viability be assay use wst-1 ( Roche ) , per manufacturer recommendation , 4 day after the addition of plx4720 .
+118						cell line and reagent
+119						a375 , skmel28 , skmel30 , colo-679 , wm451lu , skmel5 , malme 3M , skmel30 , wm3627 , wm1976 , wm3163 , wm3130 , wm3629 , wm3453 , wm3682 and wm3702 be all grow in rpmus ( Cellgro ) , 10 % fb and 1 % penicillin and streptomycin .
+120						m307 be grow in rpmus ( Cellgro ) , 10 % fb and 1 % penicillin and streptomycin supplement with 1 mm sodium pyruvate .
+121						293t and oums-23 be grow in DMEM ( Cellgro ) , 10 % fb and 1 % penicillin and streptomycin .
+122						RPMI-7951 cell ( atcc ) be grow in MEM ( Cellgro ) , 10 % fb and 1 % penicillin and streptomycin .
+123						wild-type primary melanocyte be grow in HAM 's f10 ( Cellgro ) , 10 % fb and 1 % penicillin and streptomycin .
+124						B-RAFV600E-expressing primary melanocyte be grow in TIVA media [ ham 's f-10 ( Cellgro ) , 7 % fb , 1 % penicillin and streptomycin , 2mm glutamine ( Cellgro ) , 100 um ibmx , 50 ng and ml tpa , 1mm dbcamp ( Sigma ) and 1 microm sodium vanadate ] .
+125						CI-1040 ( PubChem ID : 6918454 ) be purchase from Shanghai Lechen International Trading Co. , AZD6244 ( PubChem ID : 10127622 ) from Selleck Chemicals , and plx4720 ( PubChem ID : 24180719 ) from Symansis .
+126						raf265 ( PubChem ID : 11656518 ) be a generous gift from Novartis Pharma AG .
+127						unless otherwise indicate , all drug treatment be for 16 h. activate allele of nra and kra have be previously describe , .
+128						pharmacologic growth inhibition assay
+129						culture cell be seed into 96-well plate ( 3,000 cell per well ) for all melanoma cell line ; 1,500 cell be seed for a375 .
+130						twenty-four hour after seed , serial dilution of the relevant compound be prepare in dmso add to cell , yield final drug concentration range from 100 microm to 1 x 105 microm , with the final volume of dmso not exceed 1 % .
+131						cell be incubate for 96 h follow addition of drug .
+132						cell viability be measure use the wst1 viability assay ( Roche ) .
+133						viability be calculate as a percentage of control ( untreated cell ) after background subtraction .
+134						a minimum of six replicate be perform for each cell line and drug combination .
+135						datum from growth-inhibition assay be model use a nonlinear regression curve fit with a sigmoid dose response .
+136						these curve be display and gi50 generate use GraphPad Prism 5 for Windows ( GraphPad ) .
+137						sigmoid response curve that cross the 50 % inhibition point at or above 10 microm have gi50 value annotated as > 10 microm .
+138						for single-dose study , the identical protocol be follow , use a single dose of indicate drug ( 1 microm unless otherwise note ) .
+139						immunoblot and immunoprecipitation
+140						cell be wash twice with ice-cold PBS and lyse with 1 % np-40 buffer [ 150 mm nacl , 50 mm Tris ph 7.5 , 2 mm edta ph 8 , 25 mm naf and 1 % np-40 ] contain 2x protease inhibitor ( Roche ) and 1x phosphatase Inhibitor Cocktails I and ii ( CalBioChem ) .
+141						lysate be quantify ( Bradford assay ) , normalize , reduce , denatured ( 95 degreesc ) and resolve by sd gel electrophoresis on 10 % Tris and Glycine gel ( Invitrogen ) .
+142						protein be transfer to pvdf membrane and probe with primary antibody recognize perk1 and 2 ( t202 and y204 ) , pmek1 and 2 ( s217 and 221 ) , mek1 and 2 , mek1 , mek2 , c-raf ( rabbit host ) , pc-raf ( ps338 ) ( cell signaling technology ; 1:1,000 ) , v5-hrp ( Invitrogen ; ( 1:5,000 ) , COT ( 1:500 ) , b-raf ( 1:2,000 ) , actin ( 1:1,000 ) , actin-hrp ( 1:1,000 ; Santa Cruz ) ) , c-raf ( mouse host ; 1:1,000 ; BD Transduction Labs ) , Vinculin ( Sigma ; 1:20,000 ) , AXL ( 1:500 ; R&D Systems ) .
+143						after incubation with the appropriate secondary antibody ( anti-rabbit , anti-mouse igg , HRP link ; 1:1,000 dilution , cell signaling technology or anti-goat igg , HRP link ; 1:1,000 dilution ; Santa Cruz ) , protein be detect use chemiluminescence ( Pierce ) .
+144						immunoprecipitation be perform overnight at 4degree c in 1 % np-40 lysis buffer , as describe above , at a concentration of 1 microg and mul total protein use a antibody recognize c-raf ( 1:50 ; cell signaling technology ) .
+145						antibody : antigen complex be bind to protein a agarose ( 25 microl , 50 % slurry ; Pierce ) for 2 hr .
+146						at 4degree c. Beads be centrifuge and wash three time in lysis buffer and elute and denature ( 95 degreesc ) in 2x reduce sample buffer ( Invitrogen ) .
+147						immunoblot be perform as above .
+148						phospho protein quantification be perform use NIH image J.
+149						lysate from tumor and match normal skin be generate by mechanical homogenization of tissue in ripa [ 50 mm Tris ( ph 7.4 ) , 150 mm nacl , 1mm edta , 0.1 % sd , 1.0 % nadoc , 1.0 % Triton x-100 , 25 mm naf , 1mm na3vo4 ] contain protease and phosphatase inhibitor , as above .
+150						subsequent normalization and immunoblot be perform as above .
+151						biopsy melanoma tumor material
+152						biopsy tumor material consist of discard and de-identified tissue that be obtain with inform consent and characterize under protocol 02-017 ( paired sample , Massachusetts General Hospital ) and 07-087 ( unpaired sample , Dana-Farber Cancer Institute ) .
+153						for paired specimen , ' on-treatment ' sample be collect 10-14 day after initiation of plx4032 treatment .
+154						inhibition of cot kinase activity
+155						adherent rpmi-7951 cell be wash twice with 1x PBS and incubate overnight in serum-free growth media .
+156						subsequently , 4 - ( 3-chloro-4-fluorophenylamino ) -6 - ( pyridin-3-yl-methylamino ) -3 - cyano - [ 1,7 ] - naphthyridine ( emd ; tpl2 inhibitor i ; cat # : 616373 , PubChem ID : 9549300 ) , suspend in dmso at the indicated concentration , be add to cell for 1 hour , after which protein extract be make as describe above .
+157						quantitative rt and pcr
+158						mrna be extract from cell line and fresh-frozen tumor use the RNeasy kit ( Qiagen ) .
+159						total mrna be use for subsequent reverse transcription use the SuperScript III First-Strand synthesis SuperMix ( Invitrogen ) for cell line and unpaired tumor sample , and the SuperScript VILO cdna synthesis kit ( Invitrogen ) for paired frozen tumor sample .
+160						5 microl of the rt reaction be use for quantitative pcr use SYBR Green pcr master Mix and gene specific primer , in triplicate , use a ABI 7300 real Time pcr system .
+161						primer use for detection be as follow ; COT forward : 5 '- CAA GTG AAG AGC cag cagttt -3 ' ; COT reverse : 5 '- gca agc aaatcc tcc aca gtt c -3 ' ; tbp forward : 5 '- CCC GAA ACG CCG AAT ata atc c -3 ' ; tbp reverse : 5 '- gac tgt TCT TCA CTC TTG gct c -3 ' ; gapdh forward : 5 '- cat cat CTC TGC CCC CTC t -3 ' ; gapdh reverse : 5 ' - GGT gct aag cag ttg gtg gt -3 ' .
+162						in vitro kinase assay
+163						in vitro kinase assay be perform as previously describe use 1 microg each of COT ( amino acid 30-397 , R&D Systems ) and inactive erk1 ( Millipore ) .
+164						cellular viability assay
+165						adherent rpmi-7951 cell be infect with virus express shrna against COT or Luciferase as describe above .
+166						follow selection , cell be plate ( 1.5 x105 cell and well ) onto a 24-well plate in quadruplicate .
+167						viable cell be count via trypan blue exclusion use a vi-cell cell Viability Analyzer , per manufacturer 's specification .
+168						quadruplicate cell count be average and normalize relative to that of the control shrna .
+169						the cancer cell line encyclopedia ( ccle )
+170						the cancer cell line encyclopedia ( ccle ) project be a collaboration between the Broad Institute , the Novartis Institutes for Biomedical Research ( nibr ) and the Genomics Institute of the Novartis Research Foundation ( GNF ) to conduct a detailed genetic and pharmacologic characterization of a large panel of human cancer model , to develop integrated computational analysis that link distinct pharmacologic vulnerability to genomic pattern and to translate cell line integrative genomic into cancer patient stratification .
+171						all oncomap mutation datum and snp-array derive copy number datum be available online at www.broadinstitute.org/ccle .
+172						expression profiling of cancer cell line
+173						we carry out oligonucleotide microarray analysis use the GeneChip Human Genome U133 Plus 2.0 Affymetrix expression array ( Affymetrix , Santa Clara , CA ) .
+174						sample be convert to label , fragmented , crna per the Affymetrix protocol for use on the expression microarray .
+175						shrna construct use ( plko .1 )
+176						Supplementary Material
+177						1
+178						figure
+179						Figure 1
+180						a orf base functional screen identify COT and c-raf kinase as driver of resistance to b-raf inhibition
+181						overview of the CCSB and Broad Institute kinase orf collection .
+182						kinase classification and number of kinase per classification be noted.a375 express the CCSB and Broad Institute kinase orf collection be assay for relative viability in 1 microm plx4720 and normalize to constitutively active mek1 ( mek1dd ) .
+183						nine orf ( orange circle ) score 2 standard deviation ( red dash line , 58.64 % ) from the mean of all orf ( green dash line , 44.26 % ) .
+184						indicate orf be express in 5 b-rafv600e cell line and treat with dmso or 1 microm plx4720 .
+185						viability ( relative to dmso ) be quantify after 4 day .
+186						error bar represent standard deviation between replicate ( n = 6 ) .
+187						figure 2
+188						resistance to b-raf inhibition via mapk pathway activation
+189						indicate orf be express in a375 .
+190						level of phosphorylate mek and erk be assay follow 18 h. treatment with dmso ( - ) or plx4720 ( concentration note ) .
+191						proliferation of a375 express indicate orf .
+192						error bar represent standard deviation between replicate ( n = 6 ) .
+193						C-RAF ( s338 ) and erk phosphorylation in lysate from a375 express indicate orfs.cot expression in lysate from immortalize primary melanocyte express brafv600e or empty vector .
+194						cot mrna have a internal start codon ( 30M ) result in two protein product of different length ; amino acid 1-467 or 30-467 , note with arrows.cot and erk phosphorylation in lysate from a375 express indicate orf follow shrna mediate b-raf depletion ( shbraf ) relative to control shrna ( shluc ) .
+195						erk phosphorylation in lysate from a375 express indicate orf follow shrna mediate c-raf depletion ( shcraf ) or control shrna ( shluc ) , follow 18 h. treatment with dmso ( - ) or 1 microm plx4720 ( + ) .
+196						Figure 3
+197						cot expression predict resistance to b-raf inhibition in cancer cell line
+198						map3k8 and cot copy number ; red bar : COT amplification , blue bar : non amplify cot.cot expression in b-rafv600e cell line andshort-term cultures.plx4720 gi50 in b-rafv600e cell line .
+199						color as in .
+200						mek and erk phosphorylation follow treatment with dmso or plx4720 ( concentration indicate ) .
+201						erk phosphorylation in m307 lysate ( azd-r ; azd6244 resistant ) treat with dmso or 1 microm plx4720 ( plx ) or ci-1040 ( ci ) .
+202						cot mrna expression ( qrt and pcr ) in patient and lesion-matched plx4032 treat metastatic melanoma tissue sample .
+203						pt .
+204						1 and 3 have multiple biopsy from the same lesion .
+205						error bar represent sem ( n = 3 ) .
+206						U ; undetermined and undetectable .
+207						erk and mek phosphorylation in rpmi-7951 follow shrna mediate COT depletion ( shcot ) versus control ( shluc ) and treatment with dmso ( - ) or 1 microm plx4720 ( + ) .
+208						erk and mek phosphorylation be quantified.erk and mek phosphorylation in rpmi-7951 follow 1 h. treatment with a small molecule cot kinase inhibitor .
+209						erk and mek phosphorylation be quantify .
+210						Figure 4
+211						COT express b-rafv600e cell line exhibit resistance to allosteric mek inhibitor
+212						CI-1040 gi50 in a panel of b-rafv600e cell line ; red bar : cot expression and amplification , blue bar : undetectable and non-amplified cot.mek and erk phosphorylation in lysate from indicate cell line treat with dmso or ci-1040 ( concentration note ) .
+213						fold change ( relative to mek1 ) gi50 of a375 ectopically express the indicated orf for plx4720 , raf265 , ci-1040 and azd6244.erk phosphorylation in a375 express indicate orf follow treatment with dmso or 1 microm of plx4720 , raf265 , ci-1040 or azd6244.viability of a375 express the indicated orf and treat with dmso , plx4720 ( concentration indicate ) and plx4720 in combination with ci-1040 or azd6244 ( all 1 microm ) .
+214						error bar represent the standard deviation ( n = 6 ) .
+215						erk phosphorylation in a375 express indicate orf follow treatment with dmso , plx4720 ( 1 microm ) or plx4720 in combination with ci-1040 or azd6244 ( all 1 microm ) .

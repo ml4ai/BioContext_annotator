@@ -1,0 +1,366 @@
+0 17-17-MCF-7-uaz:UA-CLine-6345
+1 
+1 
+2 
+2 
+3 1-1-human-taxonomy:9606
+4 9-9-human-taxonomy:9606
+5 
+5 
+6 
+6 3-3-human-taxonomy:9606 12-13-breast_cancer-tissuelist:TS-0591 14-14-MCF-7-uaz:UA-CLine-6345
+7 44-44-MCF-7-uaz:UA-CLine-6345
+8 0-0-MCF-7-uaz:UA-CLine-6345 17-17-serum-tissuelist:TS-0923
+9 
+10 
+10 
+11 
+11 
+12 
+13 
+13 
+14 
+14 
+15 
+16 
+17 
+17 6-6-human-taxonomy:9606
+18 
+19 8-8-membrane-go:GO:0016020
+20 
+21 
+22 
+23 
+24 3-3-sperm-tissuelist:TS-0949
+25 
+25 
+26 28-29-regenerating_liver-tissuelist:TS-0858 34-34-liver-tissuelist:TS-0564 41-41-hepatoma-tissuelist:TS-0455
+27 23-23-serum-tissuelist:TS-0923 25-25-serum-tissuelist:TS-0923 45-45-serum-tissuelist:TS-0923
+28 16-16-hepatoma-tissuelist:TS-0455 25-25-hepatoma-tissuelist:TS-0455
+29 
+30 
+31 
+32 
+32 18-18-human-taxonomy:9606
+33 7-7-human-taxonomy:9606 23-23-human-taxonomy:9606 24-25-breast_cancer-tissuelist:TS-0591 26-26-MCF-7-uaz:UA-CLine-6345
+34 
+34 
+35 
+35 0-0-Human-taxonomy:9606
+36 
+36 16-16-human-taxonomy:9606
+37 13-13-human-taxonomy:9606
+38 7-7-human-taxonomy:9606 16-16-chromosome-go:GO:0005694
+39 
+40 8-8-human-taxonomy:9606
+41 7-7-human-taxonomy:9606 20-21-skeletal_muscle-tissuelist:TS-0933 23-23-kidney-tissuelist:TS-0510
+42 45-45-human-taxonomy:9606
+43 
+44 
+45 35-35-colon-tissuelist:TS-0158
+46 19-19-prostate-tissuelist:TS-0828 21-21-vulva-tissuelist:TS-1168 23-23-thyroid-tissuelist:TS-1047 25-25-skin-tissuelist:TS-0934 49-49-breast-tissuelist:TS-0595 65-65-lung-tissuelist:TS-0568
+47 
+47 
+48 
+48 
+49 
+50 
+51 
+52 
+52 
+53 
+53 
+54 1-1-membranes-go:GO:0016020
+55 
+56 
+56 2-2-human-taxonomy:9606 5-5-MCF-7-uaz:UA-CLine-6345
+57 
+57 11-12-breast_tumor-tissuelist:TS-0597 21-22-breast_cancer-tissuelist:TS-0591 29-29-MCF-7-uaz:UA-CLine-6345
+58 12-12-MCF-7-uaz:UA-CLine-6345 74-74-MCF-7-uaz:UA-CLine-6345
+59 4-4-human-taxonomy:9606
+60 25-25-human-taxonomy:9606 44-44-MCF-7-uaz:UA-CLine-6345
+61 
+62 
+62 
+63 
+63 16-16-MCF-7-uaz:UA-CLine-6345
+64 9-9-MCF-7-uaz:UA-CLine-6345
+65 20-20-MCF-7-uaz:UA-CLine-6345
+66 
+67 
+68 
+69 
+69 
+70 39-39-human-taxonomy:9606
+71 
+72 33-33-membrane-go:GO:0016020
+73 14-14-membranes-go:GO:0016020 27-28-plasma_membranes-go:GO:0005886
+74 
+75 
+75 7-7-MCF-7-uaz:UA-CLine-6345
+76 
+76 49-49-MCF-7-uaz:UA-CLine-6345
+77 
+78 
+79 
+80 
+81 16-16-MCF-7-uaz:UA-CLine-6345
+82 
+83 2-2-MCF-7-uaz:UA-CLine-6345
+84 
+84 
+85 
+85 7-7-MCF-7-uaz:UA-CLine-6345
+86 4-4-MCF-7-uaz:UA-CLine-6345
+87 
+88 
+89 
+89 
+90 
+90 20-20-MCF-7-uaz:UA-CLine-6345
+91 
+92 
+93 
+94 
+95 
+96 
+96 
+97 
+97 9-9-MCF-7-uaz:UA-CLine-6345
+98 4-4-MCF-7-uaz:UA-CLine-6345
+99 
+100 
+101 
+101 
+102 
+102 0-3-In_breast_cancer,-uaz:UA-CLine-100026
+103 14-14-MCF-7-uaz:UA-CLine-6345
+104 
+105 78-78-MCF-7-uaz:UA-CLine-6345
+106 
+107 
+107 
+108 
+108 13-13-MCF-7-uaz:UA-CLine-6345
+109 4-4-MCF-7-uaz:UA-CLine-6345
+110 
+111 
+111 
+112 11-11-breast-tissuelist:TS-0595 13-14-ovarian_cancer-tissuelist:TS-1223
+113 44-44-MCF-7-uaz:UA-CLine-6345
+114 
+114 3-3-MCF-7-uaz:UA-CLine-6345 8-8-serum-tissuelist:TS-0923
+115 
+115 26-26-serum-tissuelist:TS-0923 32-32-MCF-7-uaz:UA-CLine-6345
+116 5-5-MCF-7-uaz:UA-CLine-6345 22-22-MCF-7-uaz:UA-CLine-6345
+117 
+117 
+118 
+118 12-12-serum-tissuelist:TS-0923
+119 39-39-MCF-7-uaz:UA-CLine-6345
+120 
+121 
+121 
+122 
+123 0-0-MCF-7-uaz:UA-CLine-6345
+124 2-2-MCF-7-uaz:UA-CLine-6345
+125 
+126 
+126 
+127 
+127 
+128 
+129 
+130 
+131 
+132 
+132 
+133 
+133 
+134 
+135 
+136 
+136 
+137 
+137 
+138 
+139 
+140 
+141 
+142 
+143 
+143 
+144 
+144 
+145 
+146 
+147 5-5-rabbits-taxonomy:9986 18-18-human-taxonomy:9606
+148 
+149 
+150 
+151 
+152 
+152 
+153 
+153 20-20-serum-tissuelist:TS-0923 24-24-3T3-uaz:UA-CLine-1347 41-41-hepatocytes-tissuelist:TS-0454
+154 8-8-human-taxonomy:9606
+155 
+156 26-26-human-taxonomy:9606 41-41-MCF-7-uaz:UA-CLine-6345 58-58-human-taxonomy:9606
+157 31-31-breast-tissuelist:TS-0595
+158 20-20-mice-taxonomy:10090 35-35-testis-tissuelist:TS-1030 43-43-testis-tissuelist:TS-1030
+159 
+160 
+161 
+161 8-8-human-taxonomy:9606
+162 0-0-MCF-7-uaz:UA-CLine-6345 3-4-breast_cancer-tissuelist:TS-0591 30-31-breast_tumor-tissuelist:TS-0597
+163 
+164 
+165 
+165 35-35-MCF-7-uaz:UA-CLine-6345
+166 19-19-MCF-7-uaz:UA-CLine-6345
+167 23-23-mice-taxonomy:10090
+168 19-20-breast_cancer-tissuelist:TS-0591 34-34-MCF-7-uaz:UA-CLine-6345
+169 
+170 
+170 24-24-MCF-7-uaz:UA-CLine-6345
+171 0-0-MCF-7-uaz:UA-CLine-6345 23-23-serum-tissuelist:TS-0923
+172 
+173 
+173 
+174 
+175 
+176 
+177 
+178 
+179 
+180 
+181 
+181 
+182 30-30-MCF-7-uaz:UA-CLine-6345
+183 3-3-human-taxonomy:9606
+184 
+184 
+185 
+185 
+186 9-9-breast-tissuelist:TS-0595 11-12-testicular_cancer-tissuelist:TS-1228
+187 
+188 17-17-MCF-7-uaz:UA-CLine-6345
+189 
+189 
+190 
+190 2-2-human-taxonomy:9606
+191 
+191 44-44-human-taxonomy:9606 45-45-oligodendroglioma-tissuelist:TS-1153
+192 22-22-human-taxonomy:9606
+193 
+194 
+194 3-3-human-taxonomy:9606 78-78-human-taxonomy:9606
+195 5-5-CA-HPV-10-uaz:UA-CLine-5215 7-7-Capan-1-uaz:UA-CLine-7749 14-14-A549-uaz:UA-CLine-7361 16-16-MDA-MB-231-uaz:UA-CLine-4860 18-18-Panc-1-uaz:UA-CLine-6864 20-20-NCI-H460-uaz:UA-CLine-3820 22-22-LnCaP-uaz:UA-CLine-2558 24-24-MCF-7-uaz:UA-CLine-6345
+196 1-1-human-taxonomy:9606
+197 
+198 
+199 
+200 
+200 54-54-human-taxonomy:9606
+201 14-14-CA-HPV-10-uaz:UA-CLine-5215
+202 
+203 
+204 
+204 6-6-human-taxonomy:9606
+205 
+205 4-4-human-taxonomy:9606
+206 
+207 
+208 
+209 
+209 4-4-human-taxonomy:9606 26-26-MCF-7-uaz:UA-CLine-6345
+210 
+211 
+212 
+212 
+213 
+213 
+214 
+215 
+215 
+216 
+216 
+217 0-0-Human-taxonomy:9606
+218 0-0-MCF-7-uaz:UA-CLine-6345 2-2-MCF-7-uaz:UA-CLine-6345 9-9-MCF-7-uaz:UA-CLine-6345
+219 
+220 
+221 
+222 
+223 
+223 
+224 
+224 
+225 
+226 
+227 
+228 4-4-rabbits-taxonomy:9986 17-17-human-taxonomy:9606
+229 
+230 
+230 
+231 
+231 
+232 
+233 
+234 
+235 
+236 
+237 
+238 
+239 
+240 
+241 
+242 
+243 
+243 
+244 
+245 
+246 
+247 
+248 
+249 
+250 
+250 
+251 
+251 0-0-MCF-7-uaz:UA-CLine-6345
+252 
+253 
+254 10-10-needle-tissuelist:TS-0665
+255 
+256 
+257 
+257 
+258 
+258 
+259 3-3-membranes-go:GO:0016020 9-9-human-taxonomy:9606
+260 83-83-human-taxonomy:9606
+261 
+262 
+262 
+263 
+263 
+264 
+265 
+266 
+267 
+268 0-0-Human-taxonomy:9606 2-3-breast_cancer-tissuelist:TS-0591 16-16-serum-tissuelist:TS-0923
+269 
+270 1-1-seed-tissuelist:TS-0910
+271 8-8-serum-tissuelist:TS-0923
+272 9-9-serum-tissuelist:TS-0923
+273 
+274 
+274 
+275 
+275 
+276 
+277 
+278 
+279 
+280 
+281 
+282 

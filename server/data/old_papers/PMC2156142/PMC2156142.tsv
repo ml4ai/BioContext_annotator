@@ -1,0 +1,245 @@
+1						the developmental role of warthog , the notch Modifier Encoding drab6
+2	taxonomy:7215	drosophila	S1			the warthog ( wrt ) gene , recover as a modifier for notch signaling , be find to encode the drosophila homologue of rab6 , drab6 .
+3						vertebrate and yeast homologue of this protein have be show to regulate golgus network to TGN trafficking .
+4						to study the function of this protein in the development of a multicellular organism , we analyze three different warthog mutant .
+5						the first be a r62c point mutation , the second a genomic null , and the third be a engineered gtp bind form .
+6	taxonomy:4932	yeast	S2			we study show , contrary to yeast , that the drosophila homologue of rab6 be a essential gene .
+7						however , it have limit effect on development beyond the larval stage .
+8						only the mechanosensory bristle on the head , notum , and scutellum be affect by warthog mutation .
+9						we present model for the modify effect of drab6 on notch signaling .
+10						rab protein comprise the largest class of the ra like gtpase superfamily .
+11						genetic and biochemical study have show they involvement in various step of endocytosis , exocytosis , and transcytosis .
+12						particular rab be localized to distinct intracellular compartment , and mutant form of these protein impair the trafficking of vesicle from one intracellular compartment to another .
+13						rab have largely be implicate in the fusion or docking of vesicle to acceptor compartment , although some report have note rab function in the bud of vesicle from the donor compartment .
+14						as gtpase , they act as cyclical switch , alternate between a active gtp bind state and a inactive gdp bind state .
+15						rabgdus extract the GDP bind form from membrane of the acceptor compartment and maintain the rab in this inactive state in the cytosol .
+16			E1,E2	S1	guanine nucleotide exchange factor then promote the exchange of GDP to gtp , convert the rab to a active state , which be presume to bind to membrane of the donor compartment .	guanine nucleotide exchange factor then promote the exchange of GDP to gtp , convert the rab to a active state , which be presume to bind to membrane of the donor compartment .
+17			E3,E4	S1	once bind to gtp , hydrolysis of the nucleotide occur constitutively 	once bind to gtp , hydrolysis of the nucleotide occur constitutively , provide a timer for the length of rab activation .
+18			E5	S1	 effector protein bind to the gtp bind rab 	to slow this constitutive hydrolysis , effector protein bind to the gtp bind rab , provide extended time for the complex to target the donor vesicle to the appropriate acceptor compartment .
+19						Rab proceed through the cycle again .
+20			E6	S1	rab6 , have be show to regulate trafficking from the golgus to the TGN .	one of these protein , rab6 , have be show to regulate trafficking from the golgus to the TGN .
+21						in mammalian tissue culture cell , mutation in rab6 lead to morphological change in the golgus and a delay in the presentation of protein to the cell surface .
+22						in yeast , null mutation of the rab6 homologue , ypt6 and rhy1 , also show defect in post-er processing of various protein .
+23						sequence homologous to rab 6 have also be find in drosophila , but only structural datum have be report .
+24						warthog ( wg ) 1 mutation be first identify as modifier of notch signaling in the course of a genetic screen involve the modulation of a constitutively active notch receptor .
+25						here we report the mapping and cloning of warthog and show that it encode the drosophila homologue of rab6 , drab6 .
+26						give the function of rab protein on intracellular transport , it be not surprising that mutation in drab6 could alter notch signaling .
+27						trafficking of notch through the cell be important to this signal transduction pathway as the availability of notch receptor at the cell surface be tightly regulate .
+28						aberration in transport through the TGN especially would be expect to affect notch as this transmembrane protein undergo a cleavage modification in the TGN to produce the functional heterodimeric receptor at the cell surface .
+29						have find genomic mutation in the drosophila homologue of this gene , we seek to characterize its role in development .
+30						characterization of rab function have mostly be perform in the single cell organism yeast or in tissue culture cell derive from multicellular organism .
+31						whereas rab3 , a protein specific to neuroendocrine cell , have be study by knockout mutation in mouse , the function of rab protein , include rab6 , involve in transport step common to most eukaryotic cell have not be study in a multicellular organism .
+32						we result show that , contrary to study in yeast , drab6 be a essential gene .
+33						however , analysis of drab6 function throughout drosophila development show a very limited requirement of this protein .
+34						it be necessary for proper development of bristle shaft of macrochaete and microchaete on the head , thorax , and scutellum .
+35						Materials and method
+36						fly culture and warthog allele
+37						all fly strain be grow and collect accord to standard condition .
+38						the original screen allele wrter1 , wrtam4 , and wrtas1 , as describe in be progeny of the w1118 stock expose to either EMS ( am4 and er1 ) or x irradiation ( as1 ) .
+39						the wrtmef allele be also derive from the w1118 stock , but as a spontaneous mutation find in homozygose a unrelated transgene on 2r .
+40						from the Bloomington Stock Center , p2352 [ l ( 2 ) 08232 ] be determine to be a warthog allele as it fail to complement the bristle phenotype of the original screen allele .
+41						to create excision allele of the p2352 allele , 50 p2352 and cyo ; d2-3 sb /+ male be independently cross to Adv and CyO ; ry- virgin .
+42						up to four ry-sb+ male progeny carry the altered p2352 chromosome be retain from each pair mating and be use for complementation testing against the start p2352 stock as well as the original screen allele .
+43						if differ phenotype be find to exist for any of the four male progeny , one representative of each be keep .
+44						the progeny could be group into three different phenotypic class .
+45						two of the class constitute new warthog allele : 14 be homozygous lethal , lethal with the p2352 allele , and fail to complement the bristle phenotype of the wrt screen allele ( d1a , d5c , d6e , d9c , d12c , d15a , d17b , d22a , d23d , d24a , d28e , d29d , d37a , d39b , and d40b ) , whereas 9 allele be homozygous viable with the wrt bristle phenotype and fail to complement the bristle phenotype of wrtam4 , wrter1 , wrtas1 , and wrtmef , but do complement the lethality of p2352 ( d2b , d7c , d9a , d9d , d10a , d14e , d23a , d35a , and d40c ) .
+46						13 revertant constitute the third class of excision allele ; they be homozygous viable without any bristle aberration and complement the wrt screen allele as well as the p2352 allele ( d1b , d2d , d3a , d4a , d5a , d6b , d11a , d13e , d17e , d27a , d28b , d30d , and d31b ) .
+47						molecular analysis show this last class of allele to be precise excision of the p2352 insertion , whereas the former two class be imprecise excision with or without duplication and deletion .
+48						for clonal analysis , the wrtp2352 , wrter1 , wrtas1 , wrtd17b , and wrtd23d mutation be recombine onto chromosome 40-2pm ( w ; p [ mini-w+ ; hs-pm ] 21c , 36f , p [ ry+ ; hs-neo ; FRT ] 40a ) .
+49						method describe in be follow use the flipase stock 40y+ f ( y , w , phs-flp ; p [ ry+ ; y+ ] 25f , p [ ry+ ; hs-neo ; FRT ] 40a ) and 40-2pm f ( w phs-flp ; p [ mini-w+ ; hs-pm ] 21c , 36f , p [ ry+ ; hs-neo ; FRT ] 40a ) .
+50						germline mosaic be obtain from phs-flp /+ ; ovod-frt and p2352-frt female .
+51						genomic walk and cdna screening
+52						the Berkeley drosophila Genome Project ( bdgp ) have sequence 300 bp of genomic dna neighbor the p insertion site of l ( 2 ) 08323 .
+53						to determine which p1 in the 33c-d region contain this sequence , primer be design from either end of the corresponding STS 0355 .
+54						these primer [ c : ctt ctc gct ccg ctc cgc tct cac c and d : gat tcc cgct ctg gtc aca cac aac ] be use in a pcr reaction with various bdgp p1 clone assign to this chromosomal region .
+55						with p1 ds00299 as a template , a fragment of the correct size and restriction site pattern be produce , indicate it contain the genomic dna neighbor the p insertion .
+56						the dna from this pcr reaction be use as a probe to start a genomic walk along the p1 ds00299 .
+57						subclone extend 15 kb to the left and 10 kb to the right of the initial fragment be obtain , sequence , and then analyze with dnastar software ( DNASTAR Inc. ) .
+58						the BLASTX program be use for homology comparison .
+59						for cdna within the region , both a 0-12-h embryonic library and a imaginal disc library ( gift of T. Xu and G. Rubin ) be screen with each of the genomic subclone obtain in the walk .
+60						sequencing be perform by the W.M. Keck Foundation Biotechnology Resource Lab at Yale University .
+61						primer be synthesize by the oligoz-r-us at Yale University .
+62						molecular characterization of mutation
+63						whole genomic Southerns be prepare with dna from all warthog allele digest with ecorus or bamhus .
+64						each of the p1 subclone from the genomic walk be use for hybridization .
+65						for a subset of mutant , additional Southerns be prepare use the follow restriction enzyme : ecorv , sacius , pstus , claus , or a combination of these .
+66						from these study , the allele d17b , d39c , and d40b be find to have retain the 3 ' end of the PZ insert , whereas the allele d12c and d23e retain the 5 ' end .
+67						allele d6e , d24a , and d29d have small insertion of genomic or transposon dna , whereas the d23d allele have a 1.8-kb genomic deletion .
+68						for the original screen mutant , no disruption in the restriction pattern be find by whole genomic Southerns , therefore , the particular mutation be determine by sequencing subclon pcr fragment .
+69						dna from wrtam4 and wrtam4 , wrtmef and wrtmef , wrtas1 and df 3344 , wrter1 and df 3344 , and w1118 be use as template for a pcr reaction with primer cs-t7-2 ( ccc cat tat aaa cag tga gg ) and cs-t3-7 ( cgt gtc aat gag tta gca ttc gc ) that encompass the open reading frame ( orf ) of drab6 .
+70						the single band obtain from gel purification be subclon into the pgem-t Easy vector ( stratagene ) and sequence .
+71						more than four independent pcr reaction be perform for each mutant and for w1118 as a control .
+72						to determine the exact extent of the genomic deletion of d23d , pcr be also perform use dna from d23d and cyo fly with the primer cs-t3-8 [ gga atc att gaa cac aga ctg gc ] and 5 ' -1 - s [ cct gct ggt tag ccg ata tcc ] or cs-t3-9 [ ggg ata gtc atg cga aca gag gtg cgc ] and 5 ' -1 - s [ cct gct ggt tag ccg ata tcc ] .
+73						for each reaction , two band of the expected size be obtain , a 3.3-kb fragment derive from the balancer chromosome and a 1.5-kb fragment derive from the mutant d23d chromosome .
+74						sequencing be perform on the 1.5-kb fragment .
+75						transgenic fly
+76						p element mediated germline transformation be perform as per use w1118 as the parental strain for all germline transformation .
+77						genomic rescue fragment be construct in the pcasper4 vector .
+78						for the medrab6 rescue construct , a 4.5-kb ecori-ecorus fragment ( name 9b4 ) from d9 .2 of M. Noll be adjoin to a 2.2-kb ecori-xhous fragment ( name rx11 ) from the p1 subclone .
+79						sequencing of this construct show it contain the entire orf for the rab6 like gene and phae1 but a 0.5-kb deletion remove the last half of phae2 .
+80						all other genomic rescue construct contain dna only from the p1 d 00299 .
+81						the 9-6 construct contain the entire orf of the rab6 like gene .
+82						the x-x5 construct truncate the rab6 like orf three amino acid before the stop codon so any translated protein would not contain the isoprenylation site cac .
+83						the SacII-RI construct truncate the rab6 like gene two third into the orf and the rx11 construct contain no sequence of the rab6 like gene .
+84						transgenic fly of the different cdna construct be create use the phscasper vector .
+85						for wild-type warthog , the pcr product of w1118 fly that be use as a control for sequencing of the screen allele be subclon into the pgem-t Easy vector ( stratagene ) , and then transfer to the phscasper vector .
+86						this dna contain the complete orf of drab6 as well as 110-bp upstream and 310-bp downstream of the code region .
+87						to overexpress the r62c mutant form of drab6 , subclon dna from a pcr reaction of the am4 allele be insert into the phscasper vector .
+88						to generate the q71l mutant form of drab6 , the subcloned w1118 pcr product above be use as a template for site directed mutagenesis ( stratagene ) .
+89						the follow primer be use to induce the point mutation that result in q71 be convert to a leucine : q71l-s ( g gat acg gcg gga CTC gag cga ttc cgc ) and q71l-as ( gcg gaa tcg ctc gag tcc cgc cgt atc c ) .
+90						result
+91						phenotype of the notch modifier warthog
+92						we lab have previously perform a genetic screen to isolate new gene that alter notch signaling .
+93						one complementation group , name warthog ( wrt ) , enhance the notch eye phenotype although it do not visibly affect eye development outside of this interaction .
+94						it be also note to have a recessive bristle phenotype independent of its interaction with the aberrant notch signaling in the eye .
+95						in wild-type fly , bristle be part of mechanosensory organ and develop shortly after puparium formation as the trichogen , or shaft cell , send a cytoplasmic extension from the epidermis into the overlying cuticulin .
+96						at the center of this extension be a longitudinal core of microtubule .
+97						around the circumference and position near the plasma membrane be regularly space bundle of actin filament .
+98						these filament be hexagonally pack and run parallel to the microtubule core .
+99						as development proceeds , continue growth of the shaft occur in two direction .
+100						one be elongation at the distal tip , whereas the second be throughout the width of the shaft as region of the cytoplasm protrude from between the actin fiber to produce the characteristic ridge see in a cross-section of the bristle .
+101						the five warthog allele ( wrtam4 , wrter1 , wrtas1 , wrtbu1 , and wrtbn7 ) recover in the screen have considerably shorten bristle as homozygote or transheterozygote .
+102						this defect be present only for macrochaete of the ocellus , notum , and scutellum , whereas the bristle of the eye , wing , and leg appear normal .
+103						scan electron micrograph of warthog bristle show , in addition to the aberrant length , that the morphology of wrt bristle be alter .
+104						the wrt bristle do not have finely taper end nor do they show the regularly space ridge from the membranous protrusion .
+105						instead , the tip be mangled and the surface be either smooth or have very mild and disorganized ruffling .
+106						cloning and rescue of warthog reveal it encode drab6
+107						the wrt locus have be map to the 32f1-3 ; 33f1-2 region of the second chromosome .
+108						of the p allele in this region , only p2352 [ l ( 2 ) 08323 ] fail to complement the bristle phenotype of the original screen allele .
+109						sequencing of the subcloned dna in a 25-kb genomic walk surround the p insertion site of p2352 reveal five orf .
+110						each of these orf be homologous to a known gene in other organism .
+111						the most distal within the genomic walk be name Patsas ( genbank number af163011 ) , a novel gene with at least six tandem ankyrin like repeat with homology to mouse and human p19 protein , to the drosophila express sequence tag gh10910 .5 prime and gh15747 .5 prime , and the human protein q92556 and baa7679 .1 .
+112						the next two orf have homology to threonyl-trna synthetase and rab6 protein in other organism , respectively .
+113						the p insertion site of allele p2352 be ~ 30 bp upstream of the start methionine of drab6 .
+114						800-bp proximal to this p insertion site be two tandem orf , name phaedra1 ( phae1 ) and phaedra2 ( phae2 ) ( genbank number af163015 ) , both of which be homologous to serine protease of the kallikrein family , include drosophila trypsin protein , mammalian ngf-g subunit , and egf binding protein type 1 .
+115						to determine which potential transcript correspond to the wrt gene , rescue construct contain different portion of the subcloned dna be generate .
+116						only fragment that contain the complete orf of the rab6 like gene be capable of rescue the bristle phenotype of wrtam4 , wrtmef , wrter1 , and wrtas1 ( datum not show ) .
+117						the warthog cdna be obtain by screen two independent cdna library with a genomic subclone that straddle the p insertion site sequence .
+118						a 2.1-kb cdna be recover from a embryonic library and a 1.9-kb cdna from a imaginal disc library .
+119						sequencing show both cdna to be from the same transcript with vary amount of the 5 ' untranslated region .
+120						comparison to genomic dna show no intron but reveal several base pair polymorphism that do not alter the amino acid sequence .
+121						translation of the sequence show this transcript to have 89 % identity to human rab6 , 72 % to the yeast rhy1 protein , and have subsequently be clone as drab6 .
+122						additionally , two putative c. elegan protein be also find to be homologous ( 84 % and 75 % ) .
+123						transgene of this cdna be also capable of rescue the wrt bristle phenotype indicate the wrt gene encode the drosophila homologue of rab6 .
+124						the notch Modifier Alleles Harbor a point mutation in drab6
+125						the molecular lesion in the warthog locus recover from the notch screen be determine .
+126						as none of the allele ( eas1 , eer1 , and eam4 ) show molecular aberration on whole genomic southern blot , pcr product of the code region be sequence .
+127						this datum show they each harbor the same point mutation ; at base pair 313 from the start methionine , a c be convert to a t that result in a amino acid change of arginine 62 to a cysteine ( r62c ) .
+128						the location of this point mutation reside one amino acid from the second conserve gtp binding domain .
+129						it be surprising that each of the allele contain the same mutation as they be from independent mutagenesis cross , and it be unlikely that the same point mutation would be create multiple time from both EMS and x-ray mutagenesis .
+130						it be more probable that the mutation exist in the genetic background of we start stock w1118 and be recover repeatedly give the sensitivity of its interaction with the notch phenotype use in the screen .
+131						consistent with this interpretation , a spontaneous allele ( wrtmef ) , also derive from the w1118 stock , be find to contain the same r62c point mutation .
+132						severe loss-of-function warthog allele
+133						the original allele recover be homozygous viable with short bristle , but the p2352 allele use to clone the warthog gene , produce shorter macrochaete in trans to the r62c allele and be homozygous lethal .
+134						this variability of phenotype be also see in excision allele generate from the p2352 allele .
+135						upon mobilization of the p insert , two class of new wrt mutant be recover .
+136						nine be phenotypically similar to the original screen allele ; they be homozygous viable with the bristle defect and they complement the p2352 lethality give transheterozygotic progeny with the wrt bristle phenotype .
+137						sixteen of the excision allele be phenotypically similar to the parental p2352 allele ; they be homozygous lethal but viable with the bristle defect in trans to the original screen allele .
+138						the phenotypic pattern of these allele suggest the r62c mutation may be a less severe loss-of-function allele , whereas the p2352 allele and several of its excision progeny be more severe loss-of-function allele .
+139						various genomic transformant be test for the ability to rescue the lethality of the parental stock ( p2352 ) and representative excision allele ( d1a , d5c , and d6c ) .
+140						as with the bristle phenotype , only genomic construct with the complete orf of drab6 rescue the lethality .
+141						different line of the ph drab6 cdna transformant be also test and all be capable of rescue the lethality .
+142						these study show that both the lethality and the bristle phenotype be due to perturbation in the same gene , drab6 .
+143						the original screen allele ( as1 , er1 , and am4 ) and the spontaneous allele ( mef ) constitute hypomorphic warthog allele , whereas the lethal allele ( p2352 , d1a , d5c , and d6c ) be more severe allele of wrt .
+144						unexpectedly , a subset of the drab6 cdna transformant line rescue the lethality to produce fly with bristle defect more subtle than the original wrt allele .
+145						as these same transformant line be capable of rescue the bristle defect of the screen allele with the r62c point mutation , this indicate that bristle development be more sensitive to the quantity or timing of drab6 expression or function than be lethality .
+146						molecular characterization of the severe warthog allele
+147						to determine the molecular lesion associate with the different excision allele , whole genomic Southerns be prepared and probe with each subclone of the genomic walk .
+148						the allele wrtp2352 show a single insertion between drab6 and phaedra1 .
+149						restriction digest show the expected pattern for the PZ construct , with the 3 ' end of the insert lie closest to the warthog locus .
+150						generate excision line from this p allele that be homozygous viable without any bristle defect be all precise excision , show a return of the 2.6-kb bamhus fragment to the size of wild-type fly .
+151						the severe loss-of-function excision allele ( homozygous lethal and fail to complement the bristle defect of the original allele ) all contain molecular aberration center around the p insertion site of wrtp2352 .
+152						most be imprecise excision with deletion of only one end of the PZ insert as well as some flanking genomic dna .
+153						of interest be the allele d23d that show complete excision of the PZ insert as well as a 1.8-kb genomic deletion in the region of the warthog gene .
+154						to determine the extent of this deletion , dna from these fly be use as a template in pcr reaction with four different set of primer know to extend beyond the deletion .
+155						sequencing of the pcr product show the deletion extend from 72-bp upstream of phae1 to 365-bp downstream of the stop codon of the wrt gene .
+156						therefore , this allele constitute a genomic null of warthog .
+157						since the deletion extend into a potential upstream regulate region of phae1 , genetic testing with the different rescue construct be perform .
+158						fly that be homozygotic for the d23d chromosome be viable and phenotypically wild-type if they also carry the wrt cdna transgene or a genomic fragment with only the wrt orf .
+159						therefore , the wrt null do not produce any phenotypic defect other than those of the wrt deletion .
+160						severe warthog mutation be larval Lethal
+161						to establish the time period of drab6 expression critical for viability , homozygotic p2352 and p2352 , or d23d and d23d be monitor at different stage of development .
+162						Eggs with these homozygotic genotype would proceed through embryogenesis to the larval stage , but would not continue to develop into pupa .
+163						therefore , the more severe allele of warthog be larval lethal .
+164						to determine if the lack of embryonic lethality be due to a maternal contribution of wrt , the flp-frt system be use to generate female with wrt - / wrt- germline .
+165						all progeny with the genotype p2352 and p2352 develop past embryogenesis , show that a maternal contribution be not responsible for survival of wrtp2352 through embryonic development .
+166						Mosaic analysis of wrt mutation
+167						to study the effect of the more severe disruption in drab6 function during later stage of development , mosaic clone be induce use the flp-frt system .
+168						within heterozygotic fly ( p2352 /+ ) , patch of homozygotic ( p2352 and p2352 ) tissue be generate by heat shock regime throughout development .
+169						as with the original screen mutant , no defect of eye , wing , or leg development be note .
+170						the defect on macrochaete be more severe and more variable than that see with the wrtr62c mutant ( , a-c ) .
+171						contrary to the r62c allele , this mutation also affect the smaller bristle , call microchaete , on the head and thorax ( datum not show ) .
+172						the defect see in these smaller shaft mirror those see in the macrochaete of drab6 r62c mutant ; distal tip growth be stunt and the circumferential ridge produce from cytoplasmic protrusion be nearly absent .
+173						surprisingly , the clonal analysis also show that wrtp2352 be nonautonomous .
+174						whereas portion of the mosaic clone contain mutant bristle , phenotypically wild-type bristle be also present in patch of p2352 and p2352 tissue , indicate that wrt protein be not require within the cell produce the shaft of the bristle .
+175						overexpression of wild-type and mutant wrt
+176						the function of rab protein in mammalian system have be elicit by study the effect of overexpression of wild-type and mutant form of these protein .
+177			E7	S1	the best characterize form be those model after ra mutation and be know to alter the ability of rab to cycle between the gdp-_NN and the gtp bind state .	the best characterize form be those model after ra mutation and be know to alter the ability of rab to cycle between the gdp-_NN and the gtp bind state .
+178			E8,E9	S1	the state of continued gtp binding have be produce by alter the Q of the second conserve gtp binding domain to a leucine ( q72l in mammalian rab6 ; ) .	the state of continued gtp binding have be produce by alter the Q of the second conserve gtp binding domain to a leucine ( q72l in mammalian rab6 ; ) .
+179			E10	S1	 decrease gap stimulate hydrolysis	this abolish intrinsic gtpase activity and decrease gap stimulate hydrolysis as well .
+180						to study the effect of this mutation in the whole organism , we construct the similar mutation in warthog ( drab6-q71l ) .
+181						cdna of wild-type drab6 , the r62c mutation , and the q72l mutation be place under the control of the heat shock promoter to drive expression at different stage of development .
+182						whereas overexpression of the wild-type form and the r62c mutation produce no visible phenotype in the background of wrt+ / wrt+ , the q71l mutation alter the direction of bristle growth at any point along the bristle shaft .
+183						overexpression of this gtp bind mutant produce smoothly curve bristle or bristle with sharp change in the orientation of growth , follow by continued growth in two opposite direction .
+184						normal morphology appear distal to the alteration , presumably because of the return of normal drab6 function after the pulsed overexpression of drab6 q71l pass .
+185						aberration in the circumferential ridge be also see , indicate that the membranous protrusion from between the actin bundle be also disrupt .
+186						interestingly , basal expression of the q71l mutant cdna without heat shock , be capable of rescue the bristle phenotype of the r62c allele , indicate that even small amount of the q71l form of drab6 can rescue the phenotypic effect of the loss-of-function r62c mutation .
+187						discussion
+188						why notch and rab6 ?
+189						the notch signal transduction pathway be use in many species to modulate the ability of precursor cell to respond to developmental cue .
+190						this signal be activate by the binding of the ligand delta to its receptor notch to activate downstream protein .
+191						however , the selection of which cell undergo this activation be influence by the amount of the notch receptor at the cell surface ; notch be one of only a handful of gene to produce a visible phenotype with either a extra copy of the gene or in miss one copy .
+192						in a search for gene that modify a activated notch phenotype , a novel bristle mutant name warthog be find .
+193						cloning of the gene reveal it encode the drosophila homologue of rab6 , or drab6 .
+194						mammalian and yeast form of this gene be involve in golgus trafficking .
+195						in mammalian tissue culture cell , a mutation ( q72l ) in rab6 that impair gtp hydrolysis , lead to a morphological disruption of golgus structure and a decrease of marker protein in the late golgus network .
+196						conversely , a mutation result in a gdp bind form of rab6 ( t27n ) show more prominent golgus structure and a accumulation of marker protein in the late golgus network .
+197						both of these rab6 mutation lead to a kinetic inhibition of protein present to the cell surface ; in pulse-chase experiment , cell that overexpress wild-type or either mutant form of rab6 ( q72l or t27n ) eventually secrete the same quantity of extracellular protein as control , but the rate of release be markedly decrease .
+198						from these tissue culture experiment , mutation in drab6 would be expect to delay the surface presentation of the notch receptor .
+199						give that the amount of notch present on the cell surface be critical for the adoption of different cellular identity , such a delay in transportation of the notch receptor to the plasma membrane would alter notch signaling .
+200						the phenotypic interaction of the wrt screen allele be consistent with a decrease in the amount of n available for signal on the cell surface .
+201						another explanation for the modification of notch signaling by wrt be suggest by a paper from .
+202						they show that rab6 specifically function at the critical junction of sort between the amyloidogenic and nonamyloidogenic pathway for the beta-amyloid precursor protein .
+203						this role of rab6 in the proper sorting of molecule into different compartment within or from the TGN may account for the interaction between notch and warthog .
+204						notch undergo proteolytic cleavage by a furin like convertase within the TGN to produce a heterodimeric receptor at the cell surface .
+205						if rab6 determine which golgus and post-golgi enzyme transport protein encounter , then alteration in warthog function could potentially lead to a missorting of notch into a transport pathway where the receptor be not cleave properly .
+206						phenotypic analysis of warthog mutant
+207						have find genomic mutation in drab6 , we be able to study its effect on the development of a multicellular organism .
+208						in contrast to the single-cell organism saccharomyces cerevisiae and schizosaccharomyces pombe , the rab6 homologue be a essential gene in drosophila .
+209						to determine how drab6 affect drosophila development beyond the larval stage , three different type of mutant be analyze .
+210						the first be the arginine to cysteine point mutation ( r62c ) recover from the screen .
+211						the second type be the more severe allele , which include the p2352 insertion and several of its excision progeny , most notably the genomic null d23d .
+212			E11	S1	 confer a gtp bind state to drab6 .	the third be a engineered mutation , q71l , which by analogy to mutation in other ra like protein , confer a gtp bind state to drab6 .
+213						overexpression of this protein in the background of wild-type drab6 be analyze .
+214						each of these mutant affect bristle morphology in a manner similar to other bristle mutant know to affect the structural integrity of cytoskeletal component .
+215						that drab6 mutation alter cytoskeletal element would be consistent with recent result involve rab interacting protein .
+216			E12,E13	S1	Rabphilin , the effector protein of rab3 , promote the actin bundle activity of alpha-actinin and this activity be block by rab3-gtp .	Rabphilin , the effector protein of rab3 , promote the actin bundle activity of alpha-actinin and this activity be block by rab3-gtp .
+217			E14,E15,E16	S1	 a rab6 interact protein , rabkinesin-6 , be show to bind microtubule | rab6-gtp be postulate to regulate the association and dissociation of rabkinesin-6 to microtubule	also , a rab6 interact protein , rabkinesin-6 , be show to bind microtubule and have atpase activity similar to the plus end motor to which it be homologous ; rab6-gtp be postulate to regulate the association and dissociation of rabkinesin-6 to microtubule .
+218						however , for warthog , no additive or synergistic interaction be see with many mutation know to affect bristle structure ( e.g. , sb , sn3 , f 36a , pr1 , ss , Bsb , Bsb Pr , and Pr Dr ; datum not show ) .
+219						more importantly , the nonautonomous phenotype see in the severe warthog mutant imply the drosophila homologue of rab6 modify the surface presentation of other protein .
+220						nonautonomous phenotype be typically see with secrete or transmembrane protein that signal to neighbor cell .
+221						this effect be consistent with result from yeast and mammalian tissue culture experiment that establish the role of rab6 in the proper secretion of other protein .
+222						r62c define a novel Rab mutation
+223			E17,E18	S1	mutation that have previously be study for rab6 be those engineer base on the gtp-_NN and gdp bind form of ra like molecule .	mutation that have previously be study for rab6 be those engineer base on the gtp-_NN and gdp bind form of ra like molecule .
+224						from we screen , a novel mutation that result in the conversion of a arginine to a cysteine at amino acid 62 ( r62c ) be obtain .
+225			E19	S1	the r62c mutation be expect to lie next to a defined gtp binding domain ( dx2g ) where the invariant aspartate bind the catalytic mg2+ through a intervene water molecule	from biochemical and crystallographic datum of other gtpase , the r62c mutation be expect to lie next to a defined gtp binding domain ( dx2g ) where the invariant aspartate bind the catalytic mg2+ through a intervene water molecule .
+226						however , in vitro study reveal r62c mutant protein be capable of binding and hydrolyze gtp ( datum not show ) , suggest that this point mutation affect drab6 function through another mechanism , perhaps by alter it interaction with regulatory protein .
+227						this hypomorphic mutation altered rab6 function differently than the q71l mutation , which reside next to the same gtp binding domain .
+228						overexpression q71l drab6 disrupt the orientation of bristle growth , whereas overexpression of r62c drab6 in a wild-type background elicit no effect .
+229						q71l drab6 be also capable of rescue the bristle defect of the r62c mutation .
+230						therefore , study the r62c mutation may reveal new information of drab6 function .
+231						warthog and transport redundancy
+232						perhaps the most interesting aspect of this phenotypic analysis be the limited requirement of a rab6 homologue throughout development .
+233						while a essential gene , drab6 mutation do not affect the development of the eye , wing , and leg , nor the bristle structure within these tissue .
+234						this paucity of developmental phenotype mirror yeast study that show null mutation in ypt6 or rhy1 be not lethal , imply transport redundancy exist as protein travel to the cell membrane .
+235						this redundancy could be the result of more than one rab6 protein , which be support by the discovery of two putative rab6 homologue in C. elegan .
+236						alternatively , it may be a functional redundancy where parallel but independent trafficking pathway through the golgus and tgn can compensate for alteration in one another .
+237						recent study in mammalian system support the existence of these independent trafficking pathway .
+238						the study of McConlongue et al. ( 1996 ) show the secreted protein , beta-app , be process in a different compartment if rab6 be mutate and a study of cell surface antigen presentation also show alteration in rab6 affect one transport pathway but not another .
+239						the bristle phenotype of the warthog mutant , however , reveal there be a limitation to which a organism can compensate for mutation in drab6 , even if redundant or independent pathway exist for transport through the golgus .
+240						this limitation may also be see only after prolonged drab6 dysfunction .
+241						show that overexpression of drab6 q71l in a subset of cell within the eye lead to degeneration after two week .
+242						have phenotype associate with this limitation in redundancy through the golgus and TGN will provide a novel means to dissect golgus transport mechanism .
+243						identify protein that modify the wrt bristle phenotype will allow a ordered dissection of the protein cascade require for rab6 function .
+244						these mutant may also lead to a better understanding of how the cell regulate trafficking of signaling receptor such as notch .
+245						capitalize on the interaction between wrt and notch in sensitize background , genetic screen may help identify the protein require for surface presentation of a functional notch receptor .

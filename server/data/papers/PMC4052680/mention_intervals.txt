@@ -1,0 +1,249 @@
+0 
+1 
+2 
+3 4%4%human%taxonomy:9606 5%6%embryonic_kidney%tissuelist:TS-0249
+4 14%14%chromosome%go:GO:0005694
+5 
+6 
+7 
+8 
+9 25%26%eukaryotic_cells%uaz:CL:0000255
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 8%8%mouse%taxonomy:10090 9%10%B-cell_lymphoma%tissuelist:TS-0067
+20 
+21 20%20%lung%tissuelist:TS-0568
+22 2%2%HeLa%cellosaurus:CVCL_0030 8%9%cervical_cancer%tissuelist:TS-1221
+23 
+24 
+25 11%12%hepatocellular_carcinoma%tissuelist:TS-0455
+26 35%35%chromosome%go:GO:0005694
+27 19%19%human%taxonomy:9606
+28 
+29 21%24%vascular_smooth_muscle_cells%uaz:CL:0000359
+30 13%13%human%taxonomy:9606 14%14%hepatoma%tissuelist:TS-0455 18%19%hepatitis_C%taxonomy:11103
+31 
+32 10%10%human%taxonomy:9606 25%26%Caenorhabditis_elegans%taxonomy:6239
+33 
+34 45%45%human%taxonomy:9606
+35 
+36 23%23%helix%uaz:UBERON:0002488
+37 
+38 
+39 
+40 
+41 4%4%human%taxonomy:9606
+42 
+43 1%1%human%taxonomy:9606 16%16%mouse%taxonomy:10090
+44 
+45 
+46 
+47 
+48 
+49 8%8%LB%cellosaurus:CVCL_E751
+50 
+51 
+52 24%24%Life%uaz:UBERON:0000104
+53 
+54 
+55 2%2%human%taxonomy:9606 3%4%embryonic_kidney%tissuelist:TS-0249 6%6%DBTRG-05MG%cellosaurus:CVCL_1169 8%8%U373-MG%cellosaurus:CVCL_2219 10%10%G361%cellosaurus:CVCL_1220 34%34%MDA-MB-468%cellosaurus:CVCL_0419
+56 0%0%HEK-293%cellosaurus:CVCL_0045
+57 0%0%U373-MG%cellosaurus:CVCL_2219
+58 
+59 0%0%MDA-MB-468%cellosaurus:CVCL_0419
+60 
+61 0%0%G361%cellosaurus:CVCL_1220
+62 26%26%G361%cellosaurus:CVCL_1220
+63 
+64 
+65 12%12%HEK-293%cellosaurus:CVCL_0045
+66 
+67 
+68 
+69 
+70 8%8%membranes%go:GO:0016020
+71 
+72 
+73 
+74 
+75 2%2%HEK-293%cellosaurus:CVCL_0045
+76 3%3%human%taxonomy:9606
+77 
+78 
+79 2%2%HEK-293%cellosaurus:CVCL_0045
+80 0%0%HEK-293%cellosaurus:CVCL_0045 16%16%WT%cellosaurus:CVCL_3540 30%30%serum%tissuelist:TS-0923
+81 
+82 
+83 
+84 
+85 
+86 
+87 5%5%human%taxonomy:9606 36%36%Life%uaz:UBERON:0000104
+88 
+89 
+90 12%12%Life%uaz:UBERON:0000104
+91 
+92 14%14%Life%uaz:UBERON:0000104
+93 
+94 
+95 
+96 
+97 
+98 5%5%membranes%go:GO:0016020
+99 0%0%Membranes%go:GO:0016020
+100 0%0%Membranes%go:GO:0016020
+101 
+102 
+103 
+104 
+105 
+106 26%26%human%taxonomy:9606
+107 
+108 
+109 
+110 13%13%human%taxonomy:9606 36%36%human%taxonomy:9606
+111 
+112 
+113 
+114 
+115 
+116 
+117 
+118 
+119 
+120 7%7%human%taxonomy:9606 25%25%human%taxonomy:9606
+121 
+122 
+123 
+124 9%9%WT%cellosaurus:CVCL_3540
+125 
+126 
+127 
+128 13%13%human%taxonomy:9606 25%25%human%taxonomy:9606
+129 21%21%WT%cellosaurus:CVCL_3540
+130 25%25%human%taxonomy:9606
+131 
+132 6%6%liver%tissuelist:TS-0564 20%20%human%taxonomy:9606
+133 
+134 
+135 
+136 
+137 
+138 15%15%HEK-293%cellosaurus:CVCL_0045
+139 
+140 
+141 
+142 5%5%serum%tissuelist:TS-0923
+143 
+144 3%3%WT%cellosaurus:CVCL_3540
+145 
+146 
+147 8%8%serum%tissuelist:TS-0923
+148 
+149 
+150 
+151 
+152 
+153 
+154 
+155 
+156 
+157 23%23%G361%cellosaurus:CVCL_1220 24%24%melanoma%tissuelist:TS-0614
+158 3%3%serum%tissuelist:TS-0923
+159 
+160 
+161 
+162 24%24%glioblastoma%tissuelist:TS-0417 27%27%DBTRG-05MG%cellosaurus:CVCL_1169
+163 
+164 
+165 20%20%MEFs%uaz:CVCL_9115 22%22%mouse%taxonomy:10090 23%24%embryonic_fibroblasts%uaz:CL:2000042
+166 16%16%MEFs%uaz:CVCL_9115 40%40%MEFs%uaz:CVCL_9115
+167 
+168 2%2%DBTRG-05MG%cellosaurus:CVCL_1169
+169 
+170 
+171 
+172 9%9%DBTRG-05MG%cellosaurus:CVCL_1169
+173 
+174 3%3%WT%cellosaurus:CVCL_3540
+175 9%9%WT%cellosaurus:CVCL_3540
+176 6%6%human%taxonomy:9606 14%14%glioblastoma%tissuelist:TS-0417 18%18%MDA-MB-468%cellosaurus:CVCL_0419 21%22%breast_cancer%tissuelist:TS-0591
+177 3%3%DBTRG-05MG%cellosaurus:CVCL_1169
+178 
+179 
+180 
+181 
+182 
+183 
+184 28%28%helix%uaz:UBERON:0002488 33%33%lobe%uaz:UBERON:3010752
+185 1%1%extension%uberon:UBERON:2000106
+186 20%20%human%taxonomy:9606
+187 
+188 
+189 
+190 
+191 14%14%human%taxonomy:9606 30%30%human%taxonomy:9606
+192 9%9%WT%cellosaurus:CVCL_3540
+193 
+194 
+195 
+196 16%16%human%taxonomy:9606 32%32%humans%taxonomy:9606
+197 
+198 
+199 
+200 27%27%human%taxonomy:9606 73%73%human%taxonomy:9606 118%118%HEK-293%cellosaurus:CVCL_0045
+201 35%35%human%taxonomy:9606
+202 
+203 5%5%human%taxonomy:9606
+204 
+205 7%7%human%taxonomy:9606
+206 
+207 
+208 23%23%human%taxonomy:9606
+209 
+210 
+211 2%2%HEK-293%cellosaurus:CVCL_0045
+212 
+213 
+214 3%3%G361%cellosaurus:CVCL_1220
+215 
+216 
+217 25%25%MEFs%uaz:CVCL_9115
+218 27%27%human%taxonomy:9606
+219 4%4%glioblastoma%tissuelist:TS-0417 9%10%breast_cancer%tissuelist:TS-0591
+220 
+221 7%7%DBTRG-05MG%cellosaurus:CVCL_1169 11%11%WT%cellosaurus:CVCL_3540
+222 
+223 
+224 9%9%human%taxonomy:9606 10%10%hepatoma%tissuelist:TS-0455 12%12%Huh-7%cellosaurus:CVCL_0336 18%19%hepatitis_C%taxonomy:11103
+225 2%2%case%cellosaurus:CVCL_1R15 14%14%Huh-7%cellosaurus:CVCL_0336
+226 
+227 
+228 
+229 25%25%human%taxonomy:9606
+230 41%41%human%taxonomy:9606
+231 8%8%human%taxonomy:9606 37%38%C._elegans%taxonomy:6239
+232 38%38%human%taxonomy:9606 44%44%rats%taxonomy:10116
+233 
+234 
+235 2%2%case%cellosaurus:CVCL_1R15
+236 
+237 
+238 
+239 
+240 2%2%extension%uberon:UBERON:2000106 21%21%helix%uaz:UBERON:0002488 25%25%lobe%uaz:UBERON:3010752 40%40%human%taxonomy:9606
+241 
+242 6%6%human%taxonomy:9606
+243 
+244 
+245 21%22%hepatitis_C%taxonomy:11103
+246 
+247 
+248 

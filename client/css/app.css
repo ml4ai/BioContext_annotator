@@ -1,0 +1,300 @@
+/** Loading Spinner **/
+.spinner {
+    color: #BBBBBB;
+    margin: auto;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+/* Fonts */
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.75;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/**
+ **  Layout - Paper selection
+ **/
+#paper-table {
+    line-height: 1.25;
+    font-size: 0.9rem;
+    display: none;
+}
+
+div.dataTables_wrapper div.dataTables_filter label {
+    float: none;
+}
+
+.dt-buttons {
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+/**
+ **  Layout
+ **/
+#main-wrapper {
+    /* Putting a margin on #main-container causes the body to have overflow --
+    Putting padding on a wrapper does not. */
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+#main-container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#side-status-container {
+    width: 100%;
+    padding-right: 1rem;
+}
+
+.side-status-header {
+    font-weight: bold;
+    height: 2.5rem;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#side-status-main {
+    overflow: auto;
+}
+
+#side-status hr {
+    margin: 1rem;
+}
+
+#side-status .button {
+    padding: 0.65rem 0.9rem;
+    font-size: 0.85rem;
+}
+
+#side-status #jump-button {
+    padding: 0.5rem 1rem;
+    height: 2.5rem;
+}
+
+.shadow {
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.15);
+}
+
+#side-status {
+    /* For context list overflow shadows to not be positioned correctly*/
+    padding: 0;
+}
+
+#side-status-nav {
+    /* TRouBLe */
+    padding: 1rem 1rem 0 1rem;
+}
+
+#side-status-events {
+    padding: 0 1rem;
+    margin-bottom: 1em;
+}
+
+#side-status-contexts {
+    padding: 0 1rem;
+    margin-bottom: 1em;
+}
+
+/*#side-status-contexts #new-context-start-interface {*/
+    /*margin-bottom: 1em;*/
+/*}*/
+/*#side-status-contexts #new-context-interface {*/
+    /*margin-bottom: 1em;*/
+/*}*/
+
+#side-status-fp {
+    padding: 0 1rem;
+    margin-bottom: 1em;
+}
+
+#side-status-main {
+    padding: 0 1rem;
+}
+
+#side-status-submit {
+    /* TRouBLe */
+    padding: 0 1rem 1rem 1rem;
+}
+
+#side-status-submit .button-group {
+    margin-bottom: 0;
+}
+
+#submit-button {
+    margin: 0;
+}
+
+.top-inner-shadow {
+    box-shadow: inset 0 7px 9px -7px rgba(0, 0, 0, 0.4);
+}
+
+.bottom-inner-shadow {
+    box-shadow: inset 0 -7px 9px -7px rgba(0, 0, 0, 0.4);
+}
+
+.both-inner-shadow {
+    box-shadow: inset 0 7px 9px -7px rgba(0, 0, 0, 0.4),
+    inset 0 -7px 9px -7px rgba(0, 0, 0, 0.4);
+}
+
+/** Contexts **/
+.context-category-label {
+    font-weight: bold;
+}
+
+.context-checkbox-pair {
+    /* Checkbox + label in the context list */
+    white-space: nowrap;
+    margin-bottom: 0.2rem;
+}
+
+.context-checkbox-pair [type='checkbox'] {
+    vertical-align: middle;
+    margin: 0;
+}
+
+.context-checkbox-pair label {
+    white-space: normal;
+    vertical-align: middle;
+    line-height: 1.25;
+}
+
+/** Comments **/
+#side-status-comments {
+    height: 100%;
+}
+
+#side-status-comments textarea {
+    height: 100%;
+    margin: 0;
+    line-height: 1.5;
+    font-size: 0.9rem;
+}
+
+#comments-instructions {
+    line-height: 1.5;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+/** New Contexts **/
+#new-context-start {
+    margin-bottom: 0;
+}
+
+#new-context-interface input {
+    margin-bottom: 0;
+    height: 2.5rem
+}
+
+/**
+ **  Annotations
+ **/
+
+.event {
+    /* Placeholder class to identify events */
+    border: 1px solid #aaaaaa;
+    z-index: 1;
+}
+
+.event:not(.active-event):hover {
+    cursor: pointer;
+}
+
+.context {
+    /* Placeholder class to identify contexts */
+    z-index: 2;
+}
+
+.active-event {
+    /* Currently selected by user */
+}
+
+/* Colour categories */
+.active-event, .event:not(.active-event):hover, .event-handle {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.active-event.event-cat-0 {
+    background-color: #00ffff;
+}
+
+.event-cat-0:not(.active-event) {
+    background-color: #ccffff;
+    /*margin: 0 1rem;  /* If we want to leave space for the resize handles */
+}
+
+.active-event.event-cat-1 {
+    background-color: #82ffc1;
+}
+
+.event-cat-1:not(.active-event) {
+    background-color: #bfffdf;
+}
+
+.active-event.event-cat-2 {
+    background-color: #ff5959;
+}
+
+.event-cat-2:not(.active-event) {
+    background-color: #ffa6a6;
+}
+
+.selected-context {
+    /* Associated with the currently selected event */
+    background-color: lightgreen;
+    cursor: pointer;
+}
+
+.deselected-context {
+    /* Not associated with the currently selected event */
+    background-color: #dddddd;
+    cursor: pointer;
+}
+
+.sentence-number {
+    color: #666666;
+}
+
+.event-handle {
+    color: #06DCFB;
+    font-weight: bold;
+}
+
+.event-handle:hover {
+    cursor: pointer;
+}
+
+/** Manual contexts will be in bold so that the user know they are removable **/
+.manual-context-type {
+    font-weight: bold;
+}
+
+#manual-context-delete {
+    color: #999999;
+    z-index: 3;
+}
+
+#manual-context-delete:hover {
+    color: darkgreen;
+}
+
+/** Print mode **/
+/* The wide-reaching print mode overrides in foundation.min.css have been commented out to give us more control */
+@media print {
+    html {
+        /* Smaller text */
+        font-size: 75%;
+    }
+}

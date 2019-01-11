@@ -1,0 +1,212 @@
+1						activate mutation in fgfr3 and hra reveal a shared genetic origin for congenital disorder and testicular tumor
+2						gene mutate in congenital malformation syndrome be frequently implicate in oncogenesis , , but the causative germline and somatic mutation occur in separate cell at different time of a organism 's life .
+3						here we unify these process for mutation arise in male germ cell that show a paternal age effect .
+4						screening of 30 spermatocytic seminoma , for oncogenic mutation in 17 gene identify 2 mutation in fgfr3 ( both 1948a > g encode k650e , which cause thanatophoric dysplasium in the germline ) and 5 mutation in HRAS .
+5						massively parallel sequencing of sperm dna show that the fgfr3 mutation increase with paternal age , with a similar mutation spectrum at the k650 codon to that in bladder cancer , .
+6						most spermatocytic seminoma show increase immunoreactivity for fgfr3 and and or HRAS .
+7						"we propose that paternal age effect mutation activate a common "" selfish "" pathway support proliferation in the testis , lead to diverse phenotype in the next generation include fetal lethality , congenital syndrome and cancer ."
+8						spontaneous germline point mutation in human occur at average rate of 4-160 x 10-9 per haploid genome , tend to be paternal in origin with a male and female mutation ratio of 2-7 , and show only a modest effect of parental age on mutation rate - .
+9						however a different pattern be evident in some congenital disorder , which arise from specific point mutation that be 2-3 order of magnitude more common than expect .
+10						the causative mutation nearly always originate from the healthy father ( male and female ratio > 10 ) who , on average , be 2-6 year older than the population mean .
+11						we term mutation with these collective property paternal age effect mutation : the best document example occur in the gene fgfr2 , fgfr3 , HRAS , ptpn11 and ret ( online ) - .
+12						in all case the mutation exhibit dominant inheritance and encode missense substitution with gain-of-function property .
+13						the pathological basis of paternal age effect mutation need to be explain in the context of normal spermatogenesis , in which progeny of diploid stem cell ( spermatogonium ) have a choice either to self-renew , or to differentiate through a series of mitotic and meiotic division , lead to mature sperm .
+14						amongst paternal age effect mutation , the property of the 755C > g transversion in fgfr2 ( a cause of Apert syndrome ) , have be investigate in most detail .
+15						a quantitative assay show that the mutation level be elevated ( 10-6-10-4 ) in the sperm of many healthy man and increase with age .
+16						however , the mutation level be usually distribute very unequally between the two fgfr2 allele , a pattern inconsistent with the notion that the mutation originate from many independent replication error during spermatogenesis .
+17						instead , rare initial mutation could become enriched because of a selective advantage : this would lead to progressive clonal expansion of the mutant spermatogonium and account for the allelic skewing and paternal age effect , .
+18						putative fgfr2-mutant clone have be observe in normal testis , as predict .
+19						additional analysis of sperm and testis for a different apert syndrome fgfr2 mutation , , as well as a fgfr3 mutation that cause achondroplasium - , support a shared mechanism for the origin of paternal age effect disorder .
+20						the propose clonal expansion of spermatogonium be reminiscent of the action of oncogene in neoplasium ; consistent with this , somatic fgfr2 mutation identical to those cause apert syndrome be frequent in endometrial carcinoma , .
+21						we therefore propose that the mutant clone in the testis might themselves progress to testicular tumor .
+22						previous attempt to identify fgfr2 or fgfr3 mutation in common testicular germ cell tumor ( seminoma and non seminoma ) yield negative result , , however these tumor occur predominantly in young man ( aged 25-35 year ) and arise from a fetal precursor state , which be difficult to reconcile with the proposed origin of paternal age effect mutation .
+23						here we have investigate spermatocytic seminoma , a rare type of testicular germ cell tumor with a later mean age of onset ( ~ 54 year ) .
+24						these tumor present as slow grow , well circumscribed swelling that rarely metastasize and be think to originate from the adult spermatogonial lineage , .
+25						we sequence mutation hotspot in fibroblast growth factor receptor gene ( fgfr1 , fgfr2 , fgfr3 ) in 30 spermatocytic seminoma ( online ) and find the identical 1948a > g transition in fgfr3 ( encode k650e ) in two different tumor .
+26						in both case , histopathologically normal testis adjacent to the tumor be negative for the mutation .
+27						this mutation have previously be identify in the germline heterozygous state in the neonatally lethal skeletal disorder thanatophoric dysplasium type ii ( tdius , mim187601 ) , and as a somatic mutation in bladder tumor , , seborrheic keratose , and multiple myeloma ( online ) .
+28						the fgfr3 k650e substitution be strongly activate , allow constitutive autophosphorylation of the intracellular tyrosine kinase domain in the absence of ligand ( online ) , .
+29						a paternal age effect in thanatophoric dysplasium be describe previously , but genetic study be not undertake , .
+30						base on the birth prevalence of thanatophoric dysplasium ( which be cause by several different fgfr3 mutation ) , of 2.4 x 10-5 ( ref .
+31						, ) and by analogy with other fgfr2 and fgfr3 mutation - , we expect the 1948a > g mutation to be present at average level of ~ 10-5 in sperm .
+32						since five other point mutation of the fgfr3 k650 codon ( aag ) have be describe in germline congenital disorder , , and three of these also as somatic mutation in tumor , , , , we aim to quantify all 9 possible substitution at fgfr3 codon 650 .
+33						we divide each dna sample into 3 aliquot , 2 of which be spike with different amount of diluted genomic dna heterozygous for the fgfr3 1948a > c substitution , to provide a internal standard for absolute quantification of mutation level .
+34						sample be digest with bpius ( recognition sequence gaagac ) , to enrich equally for all fgfr3 k650 codon substitution .
+35						during subsequent pcr amplification we use primer contain unique 4-nucleotide tag to identify each sample , then all product for a given spike level be pool to construct 3 independent library for massively parallel sequencing .
+36						to assess the accuracy and reproducibility of the assay , we estimate mutation level for two different fgfr3 k650 substitution ( 1948a > g [ 2 sample ] and 1949a > t ) , when progressively dilute with normal blood dna .
+37						for both 1948a > g sample we find a excellent correspondence between the amount of input dna and the estimated mutation level , at least down to a input concentration of 10-5 ; for the 1949a > t sample , mutation level be underestimate by a factor ~ 3.3 fold , but be also strongly correlate with the amount of input dna .
+38						we estimate level of the 9 possible single nucleotide substitution at the fgfr3 k650 codon in 78 sperm and 8 blood sample obtain from healthy donor .
+39						whereas relatively low count of all mutation be find in the blood sample , level of the 1948a > g substitution be often much higher ( maximum of 2.1 x 10-4 ) in sperm sample and be significantly correlate with donor age ( Spearman rank r = 0.34 , p = 0.002 ) .
+40						1948a > g be the most prevalent substitution in 66 and 78 sperm donor ( ; online ) and account for 73 % of total mutation in these sample .
+41						amongst the other potential substitution , 1949a > c ( k650t ) account for 17 % of total mutation in sperm be the most prevalent mutation in 8 and 78 sample .
+42						this change have be describe as a constitutional mutation in a few individual with acanthosis nigrican and mild short stature , and as a somatic mutation in bladder tumor .
+43						the three other substitution that account for total mutation level > 1 % , 1949a > t ( k650m ) and 1950g > c and t ( k650n ) , have also be observe in constitutional disorder ( , ) , .
+44						by contrast , the three point mutation that encode silent , conservative or stop change , which have not be report as either germline or somatic mutation , be all > 1000-fold less prevalent than 1948a > G.
+45						the marked variation in prevalence of different mutation at the k650 codon , and correspondence with the functional effect of the encoded substitution , suggest differential selection of cell express mutant protein .
+46						we compare the average level in sperm of the 9 fgfr3 k650 point mutation with four other measurement for this codon .
+47						there be a strong correlation ( r = 0.95 ) with total case report of each germline mutation , indicate that the level of mutation in sperm be likely to be the major determinant of the population prevalence of different pathogenic germline mutation .
+48						there be also a strong correlation ( r = 0.94 ) with the total case report of each somatic mutation in bladder tumor , indicate that similar mutation and selection force be likely to act in these distinct biological context .
+49						the correlation be substantially weaker with the mutation distribution observe in seborrheic keratose ( r = 0.33 ) and with the relative activation potential of the tk measure by in vitro kinase assay ( r = 0.27 ) : in both context , the gain-of-function effect of the k650m mutation appear to surpass that of k650e .
+50						however , heterozygosity for k650m ( or the equivalent k644m in mouse ) lead to a viable phenotype in both species , , whereas k650e ( k644e in mouse ) be lethal , , which demonstrate that the in vitro kinase measurement do not capture all dimension of the pathological consequence of these two substitution ( see ) .
+51						we screen 14 additional gene in the spermatocytic seminoma , include gene ( i ) mutate in syndrome exhibit a strong paternal age effect ( hra , ptpn11 , RET ) , ( ii ) involve in signal transduction pathway ( mitogen activated protein kinase [ mapk ] and phosphoinositide-3 kinase [ pi3k ] ) of protein encode by class ( i ) gene and for which pathogenic activating mutation have be report ( akt1 , braf , KRAS , map2k1 , map2k2 , nra , pik3ca , sos1 ) and ( iii ) gene for which oncogenic mutation be commonly find in tumor ( bladder , thyroid , and endometrial cancer ) where paternal age effect mutation have also be describe ( ctnnb1 , egfr , kit ) .
+52						five mutation ( all in tumor negative for fgfr3 mutation ) , be find in HRAS at the q61 codon hotspot of activate mutation : 3 be 182A > g ( q61r ) transition and 2 be 181C > a ( q61k ) transversion .
+53						all mutation be apparently homozygous , and be absent in adjacent normal tissue in the four available case .
+54						q61r and q61k substitution be common in human cancer ( catalogue of somatic mutation in cancer : http://www.sanger.ac.uk/perl/genetics/cgp/cosmic ) and be both highly activate in a transformation assay .
+55						in the germline , heterozygous hra mutation cause Costello syndrome ( mim218040 ) , , , but no substitution at q61 have be identify , which likely reflect lethality of these mutation , , ( see ) .
+56						no mutation be identify in the other 13 gene screen .
+57						the average age of patient positive for fgfr3 or hra mutation ( 74.9 year ) be significantly greater than for mutation negative case ( 57.6 year ) ( student t-test p = 0.0009 ) .
+58						to evaluate further the role of fgfr3 and hra in spermatocytic seminoma , we examine protein distribution in 26 tumor , include all 7 mutation positive case .
+59						fgfr3 ( ref . )
+60	tissuelist:TS-0951	spermatocytes	e1,c1	c1	 perk1 and 2 , a activated effector of the mapk pathway	and HRAS be express in subpopulation of cell in normal seminiferous tubule ( inset ) ; perk1 and 2 , a activated effector of the mapk pathway , be present in the nucleus of a subset of spermatogonium , primary spermatocyte and a subset of round spermatid ( not show ) .
+61						in spermatocytic seminoma , we find strong positive staining for fgfr3 in 5 and 24 tumor ( include 1 and 2 that be fgfr3 mutation positive ) and for hra in 15 and 26 tumor ( include 4 and 5 that be hra mutation positive ) ; 18 and 26 ( 70 % ) of tumor be strongly positive for one or both protein .
+62						in most tumor ( 18 and 24 ) , include 6 and 7 mutate case , the presence of fgfr3 and hra be mutually exclusive , but this do not show a simple correlation with the gene mutate in the mutation positive case .
+63						perk1 and 2 be detect in 14 and 25 ( 56 % ) of tumor .
+64						we result support the proposal that clonal expansion result from selective advantage of paternal age effect mutation can lead to testicular tumor .
+65						to we knowledge this work link for the first time in any organism the process of mutation in the soma ( cause neoplasium ) and germline ( cause heritable disorder in the next generation ) , which normally occur in different cell , to a mutational event likely occur in the same cell .
+66						the clonal expansion presumably involve altered dynamics of stem cell self-renewal , through a proliferative advantage ( possibly enhance by preferential survival ) compare to neighbor non mutant cell , analogous to the role of oncogene in cancer .
+67						only weak advantage ( selection coefficient of 0.002-0 .01 per cell generation ) , , be necessary to account for the observed mutation level in sperm and paternal age excess ( 2-6 year ) observe for the associated germline disorder .
+68						we datum favour a premeiotic origin , for spermatocytic seminoma , which be support by the observation that transfection of murine spermatogonial stem cell with mutant HRAS ( encode g12v ) cause seminomatous tumor .
+69						man originate tumor contain fgfr3 and hra mutation be significantly older than those without mutation , suggest that the mutated tumor represent a distinct pathological subset .
+70						base on these and previous datum - , activate mutation in fgfr2 , fgfr3 and hra promote clonal expansion in the testis .
+71						the encoded protein be physiologically connect , as hra lie downstream of fgfr in the growth factor receptor signaling pathway , .
+72						by consider the additional gene ( RET , ptpn11 ) subject to paternal age effect mutation , these connection can be extend .
+73			e2,e3	c1	 RET be , like fgfr , a receptor tyrosine kinase ( rtk )	hence , RET be , like fgfr , a receptor tyrosine kinase ( rtk ) that signal through ra and play a critical role in spermatogonial renewal .
+74	uaz:UA-CT-200012,tissuelist:TS-1030,taxonomy:10090	spermatogonia,testicular,mice	e4,c2,c3,s1	c2,c3,s1	GDNF , the RET ligand	overexpression of GDNF , the RET ligand , lead to accumulation of undifferentiated spermatogonium and testicular tumor in older mouse .
+75			e5	c2,c3,s1	ptpn11 ( encode shp2 ) positively regulate rtk-ra signaling .	ptpn11 ( encode shp2 ) positively regulate rtk-ra signaling .
+76						a central role for abnormal fgfr3-ra signaling in the origin of spermatocytic seminoma be support by the immunohistochemical analysis .
+77						both fgfr3 and ra be present in normal testis , but be markedly elevated in spermatocytic seminoma , include case lack fgfr3 and hra mutation ( in which other mechanism be presumably lead to upregulation of the protein ) .
+78						the reciprocal pattern of increase fgfr3 or hra staining in many tumor suggest that elevation of either component be sufficient for pathway activation .
+79						similar observation have be make in low grade bladder cancer , in which mutation in fgfr3 and ra gene be mutually exclusive and fgfr3 mutation status and protein expression do not always correlate .
+80						the spectrum of fgfr3 k650 codon mutation in sperm be very similar to that present in bladder cancer , suggest that similar mutation-selection mechanism operate in these distinct cellular context .
+81			e6,e7	c4	ra activate multiple pathway include those typically involve in proliferation ( mapk ) and survival ( pi3k ) .	ra activate multiple pathway include those typically involve in proliferation ( mapk ) and survival ( pi3k ) .
+82						activate mutation of gene encode downstream component of the mapk pathway ( braf , raf1 , mek1 and mek2 ) , cause neuro-cardio-facial-cutaneous syndrome that overlap with ptpn11 and hra mutation , ; inhibition of the mapk pathway in mouse modeling specific fgfr2 and ptpn11 mutation ameliorate they abnormal phenotype , .
+83						we observe perk1 and 2 staining in 56 % of spermatocytic seminoma , indicate pathological activation of the mapk pathway .
+84	uaz:UA-CT-200012	spermatogonial	c4			however the pi3k pathway have also be functionally implicate in spermatogonial self-renewal .
+85						we envisage a range of consequence for these selfish mutation occur in spermatogonial cell .
+86						heterozygosity for the most highly activate mutation , such as fgfr3 k650e and hra q61r and k , cause severe , lethal phenotype when transmit in the germline , .
+87						additional secondary genetic change at these locus would lead , in combination with other mutation , to spermatocytic seminoma .
+88						moderately activate mutation , for example those encode substitution at g12 and g13 in HRAS ( Costello syndrome ) , , , in fgfr2 ( Apert syndrome ) , - and fgfr3 ( achondroplasium ) , , , lead to clonal expansion that be eventually limit by growth arrest or senescence before overt tumor become apparent .
+89						we view this process as analogous to that occur in skin , where a spectrum of activate fgfr3 mutation in keratinocyte lead to seborrheic keratose .
+90						diverse mutation in spermatogonium that confer weaker selective advantage may lead to lower level of enrichment ( > 1-50 fold ) in sperm .
+91						as well as encode missense substitution , mutation could confer altered gene expression , which show a high fraction of positively select change in testis .
+92						such subtle effect would be technically challenge to detect , yet could contribute substantially to the burden of human disease , through a common disease-rare variant mechanism .
+93						Cancer predispose mutation be especially likely to be favor by this process , pose a increased risk to offspring of older father .
+94						method
+95						method and any associated reference be available in the online version of the paper at http://www.nature.com/naturegenetics/ .
+96						Accession code
+97						genbank : fgfr3 genomic dna , nt_006081 ; fgfr3 exon iiic cdna , nm_000142 ; HRAS cdna , nm_005343 .
+98						cdna numbering be give relative to the a ( = 1 ) of the atg initiation codon ; note that the fgfr3 k650 codon be alternatively number k652 in the exon iiib spliceform .
+99						online method
+100						ethical approval
+101						approval for the study be provide by the Oxfordshire Research Ethics Committee C ( oxrec c03 .076 ) and the Joint Research Ethics committee of the Copenhagen and Frederiksberg Communes ( kf 01 265848 ) .
+102						biological sample
+103						we obtain 43 spermatocytic seminoma collect from tissue archive at hospital in Denmark , Sweden and Oxford , UK , and include mutation and immunohistochemistry datum on 30 sample for which > 30 % ( average 64 % ; range 30 % -98 % ) of exon amplify .
+104						the mean age of patient at the time of tumor removal be 61.9 year ( range 33-87 year ) .
+105						in addition to have typical morphological feature , the tumor type be confirm by stain with mage-a4 , while plap and oct3 and 4 be negative , .
+106						none of the tumor be invasive .
+107						single ejaculate from 78 man ( aged 22.1-73 .9 year ) and 8 blood sample from individual aged 36.6-73 year be donate anonymously .
+108						dna sample from 2 patient heterozygous for fgfr3 1948a > g ( td3 and td6 ) , one patient heterozygous for 1949a > t ( sad4 ) and one patient heterozygous for 1948a > c ( hch1-spike , use as the spike dna ) be a kind gift from L. Legeai-Mallet ( Hopital Necker-Enfants Malades , Paris , France ) .
+109						analysis of oncogenic mutation in spermatocytic seminoma
+110						dna be extract from paraffin embedded sample as describe and mutation hotspot be analyze by pcr amplification and dna sequencing of the following gene : akt1 , braf , ctnnb1 , egfr , fgfr1 , fgfr2 , fgfr3 , HRAS , KIT , KRAS , map2k1 , map2k2 , nra , pik3ca , ptpn11 , RET and sos1 .
+111						all pcr be set up in a sterile uv-hood in a 30 mul reaction volume use 1x FastStart Buffer , 150 mum dntp , 0.16 mum primer ( forward and reverse ) , 0.5 U FastStart taq dna polymerase and 0.05 U Pwo DNA polymerase ( both from Roche ) .
+112						when available , restriction digest be use to screen for the mutation of interest .
+113						the pcr primer , condition and genotype method be give in and the result in .
+114						the product be clean ( 30 min at 37 degreesc in 0.2 x Exo I buffer , 10 U Exonuclease I [ New England Biolabs ] and 2 U Shrimp Alkaline phosphatase [ sap , United States biochemical ] , follow by 15 min at 85 degreesc ) , sequence in both orientation , and run on a ABI 3700 dna sequencer ( Applied Biosystems ) .
+115						position where germline and and or somatic mutation have be previously report be specifically interrogate on chromatogram and score independently .
+116						to evaluate the zygosity status of the tumor sample , we genotype 4 single nucleotide polymorphism ( snp ) ( rs2071616 , rs2659871 , rs41279090 and rs2075526 ) .
+117						immunohistochemistry
+118						Representative core ( 2 mm ) of tumor and adjacent normal tissue ( when available ) be punch from paraffin embedded block of spermatocytic seminoma and control tissue ( epididymi , prostate , classical seminoma and embryonal carcinoma ) .
+119						two tissue microarray contain 40 core each be construct and section at 4 mum .
+120						larger section from some tumor be individually stain .
+121						immunohistochemical staining be perform use diluted monoclonal mouse antibody to fgfr3 ( b-9 , 1:50 ) , HRAS ( f-235 , 1:80 ) , oct-3 / 4 ( c-10 , 1:250 ) ( all from Santa Cruz Biotechnology ) , mage-a4 ( 1:2000 ; a kind gift from Dr. G. Spagnoli , Basel , Switzerland ) and plap ( 1:50 ; DAKO ) , and a monoclonal rabbit antibody to perk1 and 2 ( 20g11 , 1:150 ; cell signalling technology ) , by means of a standard indirect peroxidase method .
+122						deparaffinize and rehydrate section be microwave , incubate first in 0.5 % h2o2 , then in goat serum ( Histostain kit , Zymed ) before the addition of the primary antibody overnight at 4degreesc , while control section of each specimen be incubate in the dilution buffer alone .
+123						after wash in Tris buffer and incubation with a peroxidase conjugate anti-mouse antibody ( or anti-rabbit for perk ) , the reaction be develop in the presence of 3-amino-9-ethyl carbazole ( aec ) and h2o2 ( Histostain kit ) .
+124						all section be counterstain with Mayer 's haematoxylin .
+125						the section be evaluate by two independent observer and semi-quantitative score be use to assess the relative abundance of stain cell .
+126						quantification of fgfr3 k650 codon mutation level in sperm and blood sample
+127						dna be extract from blood and whole ejaculate as describe and concentration be precisely estimate at 3 dilution against a dilution series of human genomic dna ( Roche ) use the TaqMan pcr condition , design to a unique 91 bp amplicon located on chromosome 16 ( courtesy of M. de Gobbi ) .
+128						measurement of mutation level around the fgfr3 k650 codon ( cdna position 1948-1950 ) be perform use a strategy similar to that describe .
+129						Triplicate sample each contain 10 mug of genomic dna and either 2 ng ( spike level 10-4 ) , 0.2 ng ( spike level 10-5 ) or 0 ng ( unspiked ) of the hch1-spike dna be digest with 120 U XbaI and 40 u bpius ( both fermentas ) for 4 h .
+130						the digested dna sample , flank by 2 lane of Lambda dna and eco91us marker ( Fermentas ) , be electrophorese in a 0.9 % tris-borate-edta ( tbe ) agarose gel ( without ethidium bromide ) .
+131						this double digestion generate a 4,453 bp xbaus fragment carry mutant fgfr3 k650 sequence , while the normal bpius digest k650 sequence yield 2 fragment of 2,446 bp and 2,007 bp ( note that the fgfr3 genomic reference sequence contain a rare g allele at a known a and g snp rs7688609 , located at cdna position 1953 ; this nucleotide be show as a in and ) .
+132						to select for mutant sequence , a gel slice correspond to 4.2-4 .6 kb ( the marker lane be cut out of the gel , stain with ethidium bromide and the 4,325 bp and 4,822 bp fragment be label with dye before be replace in they original position in the gel ) , be excise and gel purify with a E.Z.N.A. MicroElute kit ( Omega Bio-Tek ) .
+133						pcr amplification be perform ( pcr1 , ) follow by a second round of selection with 30 U BpiI for 4 h in 100 mul volume to yield select material refer to as ' pool2 ' .
+134						for each biological sample , a aliquot of 5 mul of the pool2 material be use as template for a nested amplification ( pcr2 ) in order to prepare the Illumina library ( see below ) .
+135						reconstruction dilution experiment
+136						genomic sample heterozygous for fgfr3 1948a > g ( td3 and td6 ) and 1949a > t ( sad4 ) mutation be use in reconstruction experiment in which 10 mug of blood genomic dna be mix with a diluted series of mutant dna correspond to final mutation concentration of 0 ( no add mutant dna ) , 3 x 10-6 ( 0.06 ng ) , 10-5 ( 0.2 ng ) , 3 x 10-5 ( 0.6 ng ) , 10-4 ( 2 ng ) and 3 x 10-4 ( 6 ng ) and take through the same protocol as the sperm and blood sample ( i.e. each dilution sample be mix with 3 dilution of the hch1-spike dna ) .
+137						the dilution sample be analyze together with the blood and sperm sample .
+138						Control dna
+139						mutant genomic sample td3 , td6 and sad4 and 4 normal ( wild-type ) genomic dna sample be include as control in the analysis .
+140						these sample be take through the same protocol of amplification with the exception of the omission of the bpius enzyme from all the incubation step , hence there be no selection impose on these sample .
+141						preparation of the Illumina library for massively parallel sequencing
+142						"three independent library be prepare for massively parallel sequencing use a modified version of the Illumina protocol "" Digital Gene Expression-Tag profile with dpnius "" ."
+143						each library contain a mixture of 112 dna species and be characterize by a specific amount of the hch1-spike dna ( library 1 be unspiked , library 2 contain the spike at 10-5 and library 3 contain the spike at 10-4 ) .
+144						primer sequence and reaction condition be provide in .
+145						five microlitre of each pool2 sample be use for pcr amplification ( pcr2 ) use 112 different forward 4nt-tag-fw primer ( contain a common fgfr3 sequence precede by a unique 4 nt tag and a dpnius clone site ; ) .
+146						the tag primer be synthesize , hplc purify and check for synthesis error by mass spectroscopy ( Thermo Electron Corporation ) .
+147						after confirm efficient amplification , equal volume of pcr product be mix so as to be represent in a roughly equimolar ratio in the library .
+148						in parallel , the reconstruction-dilution sample and control dna be also amplify with unique 4nt-tag-fw primer and add to the pcr mix .
+149						for each library , pool pcr product be purify ( E.Z.N.A. pcr purification kit ) , digest with 100 u of dpnius ( New England Biolabs ) for 1 h 30 min , dephosphorylate use 4 u of sap ( United States biochemical ) for 1 h at 37 degreesc and heat inactivate for 15 min at 80 degreesc , follow by purification ( E.Z.N.A. MicroElute pcr purification kit ) and resuspension in 15 mul sterile water .
+150						10 mul of the purified fragment be ligate to the Illumina Gex Adapter 1 ( anneal adapter1a and adapter1b sequence ) use the adapter ligation condition .
+151						the ligation reaction be electrophorese in a 3 % tris-acetate-edta ( TAE ) agarose gel and a slice of the expected size ( 137 bp ) be excise , purify ( E.Z.N.A. gel purification kit ) and resuspend in 25 mul sterile water .
+152						each library be then enrich by a final amplification ( Gex pcr ) use 1.5 mul of purify ligate product .
+153						the 3 library be prepared independently to avoid cross contamination and be quantify use a fluorometer ( Qubit ) before be validate by direct sequencing , pyrosequence ( biotage ) and bioanalyzer ( Agilent ) .
+154						massively parallel sequencing of the library be perform on 3 different channel of a Illumina GAII sequencer by servicex ( Leiden , the Netherlands ) for 36 cycle use the gex-dpnii sequencing primer .
+155						estimation of mutation level from Illumina GAII sequencing datum
+156						to estimate the level of each single nucleotide mutation at the fgfr3 k650 codon ( correspond to cycle 23-25 of the Illumina sequencing scheme ) , we use a bayesian approach to fit a model to the observed count at each nucleotide in the sequencing datum that allow for bias in frequency derive from sequencing error and noise introduce by the round of pcr and digestion .
+157						the model be similar to that use previously for pyrosequencing , but allow for a different error structure arise from the GAII Illumina technology .
+158						we discard read where the minimum phred quality score for any of the four basis of the tag ( cycle 1-4 ) , or three basis of the k650 codon ( cycle 23-25 ) , be under 10 .
+159						we also eliminate read with apparent frameshift error or mutation outside the bpius restriction site ( i.e. in the invariant 16 bp primer sequence ) .
+160						let zi be the log10 frequency of mutation i in the sample .
+161						we prior for zus be normal ( -8 , 2 ) for all non-wild-type species .
+162						after add the spike at concentration sj in experiment j ( s0 = 0 , s1 = 10-5 , s2 = 10-4 ) the normalized frequency of the non-wild-type mutation be give by fij = 10zi+ ii = spikesjsj+ sumi10zus , where I be a indicator function that take the value 0 or 1 depend on whether the mutation in question be the same as the hch1-spike ( 1948a > c ) .
+163						we allow each experiment ( define by the level of spike and the lane of the machine on which sequencing be carry out ) to have separate bias and signal to noise ratio parameter .
+164						specifically , we assume that the count for the mutation in the sequencing datum be multinomial with frequency vector xj = dirichlet ( bjf1j+ w1j , bjf2j+ w2j , ... ) , where Bj represent the signal to noise ratio for experiment j and wij represent the background for mutation i in experiment j .
+165						we assume a uniform ( 0,1000 ) prior for each Bj and a uniform ( 0,100 ) prior for each wij .
+166						through use of the multinomial-dirichlet model , we can integrate over x to give the contribution to the total likelihood from experiment j in a given sample lj = gamma ( bj+ wj ) productigamma ( bijfij+ wij ) xproductigamma ( bijfij+ wij+ cij ) gamma ( bj+ wj+ cj ) , where wj = sumiwij , cij be the number of read observe with mutation i in experiment j , and cj = sumicij .
+167						likelihood be combine across sample and experiment to give a total likelihood .
+168						to estimate parameter we use Metropolis-Hastings MCMC with sequential update of each parameter , a burn-in period of 3,000 complete parameter update and a subsequent 10,000 sample .
+169						multiple run from different start point be conduct to check for convergence and visual inspection be use to compare observe to expect value as a means of check model adequacy .
+170						titration datum , normal wild-type control dna and biological sample be analyze together .
+171						sample from the chain be summarize by the posterior mean value and the 95 % equal tail probability interval ( ETPI ) .
+172						estimate level of all fgfr3 k650 codon substitution for sperm and blood sample be give in .
+173						Supplementary Material
+174						1
+175						2
+176						3
+177						Figure 1
+178						Strategy use to quantify mutation level at the fgfr3 k650 codon .
+179						dna sequence around the k650 codon , the relative position of xbaus and bpius restriction enzyme site use for selection , the pcr primer use for amplification ( black arrow , 1st set of pcr primer ; orange arrow , nested pcr primer ) , the 9 potential single nucleotide substitution of the k650 codon ( located at cdna position 1948-1950 ) and the associated germline defect ( hch , hypochondroplasium ; TDII , thanatophoric dysplasium type ii ; Fam a , familial acanthosis nigrican ; SADDAN , severe achondroplasium with developmental delay and acanthosis nigrican ; -, not report as germline mutation ; * indicate that the change have also be report as a somatic mutation in cancer .
+180						note that all substitution at the k650 codon abolish the bpius recognition site ( pink box ) and hence be select by digestion with this enzyme .
+181						( b ) flow diagram summarize the strategy adopt for quantification of mutation level use tagged-oligonucleotide pooled pcr and massively parallel sequencing ( see also ) .
+182						figure 2
+183						mutation level at the fgfr3 k650 codon in sperm and blood quantify by massively parallel sequencing .
+184						mutation level estimate in reconstruction dilution series of 3 heterozygous control sample ( td3 and td6 , 1948a > g ; sad4 , 1949a > t ) mixed with normal blood dna .
+185						( b ) estimate level of the 1948a > g ( k650e ) mutation in blood ( red circle , n = 8 ) and sperm ( blue diamond , n = 78 ) in relation to the age of the sample donor .
+186						r refer to the Spearman 's rank correlation coefficient base on the sperm sample .
+187						vertical bar indicate the 95 % equal tail probability interval .
+188						( c ) cumulative level of each of 9 different nucleotide substitution at the k650 codon in sperm ( leave ) and blood ( right ) sample .
+189						correlation of the relative mutation level in sperm with other pathological feature of the fgfr3 k650 codon .
+190						from leave to right be show the overall proportion of the 9 different nucleotide substitution at the k650 codon in sperm ( this work ) ; the relative proportion of mutation in germline disorder , bladder tumor and seborrheic keratose , each compile from the literature ; and the relative level of tk activation by each substitution as measure by in vitro kinase assay .
+191						the Pearson coefficient of correlation r between datum for sperm mutation and each of the other four dataset be indicate above the corresponding panel .
+192						Color coding of mutation be identical to key in ( c ) .
+193						Figure 3
+194						Age distribution in spermatocytic seminoma and immunohistochemical staining of fgfr3 and hra .
+195						Age distribution of subject at the time of removal of they spermatocytic seminoma .
+196						the mutation positive sample be fill in blue ( fgfr3 k650e ) or green ( hra q61r and k ) , while the yellow bar indicate the sample without identify mutation .
+197						Age datum be unavailable for 2 tumor .
+198						( b ) Representative immunohistochemical staining for fgfr3 ( leave ) and hra ( right ) antibody in sample from spermatocytic seminoma mutant for fgfr3 k650e ( 2 top row ) or HRAS q61r and k mutation ( remain row ) .
+199						the mutation status of each tumor be indicate .
+200						inset show staining of adjacent normal testicular parenchyma demonstrate ongoing spermatogenesis : note that fgfr3 be normally present in the cell membrane and cytoplasm of spermatogonium at the base of the seminiferous tubule , whereas HRAS be find in the nucleus of some basal spermatogonium and in the cytoplasm of primary spermatocyte and round spermatid at the tubular luman ( scale bar , 50 mum ) .
+201						Figure 4
+202						pathway and phenotypic consequence of selfish mutation in the testis .
+203						simplify depiction of component of the growth factor receptor-ra and mapk signaling pathway ( oval ) , and associate congenital disorder ( box ) .
+204						the disorder and protein for which a paternal age effect have be document in the causative gene be label in blue ; red highlight those case with additional experimental evidence for increase level of causative mutation in testis .
+205						( CFC , cardio-facio-cutaneous syndrome ; MEN , multiple endocrine neoplasium ; RTK , receptor tyrosine kinase ) .
+206						( b ) propose consequence of mutation depend on the level of mutant protein activation .
+207						the original mutation be rare event that occur randomly in spermatogonial stem cell or progenitor .
+208						strongly activate mutation ( leave column ) , such as fgfr3 k650e , lead over time to the formation of large clone within the testis ( red oval ) , potentially ( with additional mutational event ) cause spermatocytic seminoma .
+209						the high relative enrichment increase the risk of fertilization by mutant sperm , cause lethal germline phenotype such as thanatophoric dysplasium .
+210						for moderately activate mutation ( central column ) , absence of mutation in spermatocytic seminoma suggest that clonal expansion ( orange oval ) occur to a lesser degree and be more likely to be self limit .
+211						these mutation lead to classical congenital disorder .
+212						for weakly activate mutation ( right , yellow oval ) , the limited clonal expansion would be undetectable use current experimental method , but could contribute to a increased burden of many new , potentially oncogenic , mutation in the next generation .

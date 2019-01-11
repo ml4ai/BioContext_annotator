@@ -1,0 +1,297 @@
+1						arfgap1 dynamics and its role in COPI coat assembly on golgus membrane of living cell
+2						"secretory protein trafficking rely on the COPI coat , which by assemble into a lattice on golgus membrane concentrate cargo at specific site and deform the membrane at these site into coated bud and carrier ."
+3			e1	s1		"the gtpase activate protein ( gap ) responsible for catalyze arf1 gtp hydrolysis be a important part of this system , but the mechanism whereby arfgap be recruit to the coat , its stability within the coat , and its role in maintenance of the coat be unclear ."
+4						"here , we use frap to monitor the membrane turnover of gfp tag version of arfgap1 , arf1 , and coatomer in living cell ."
+5						"arfgap1 undergo fast cytosol and golgus exchange with ~ 40 % of the exchange dependent on engagement of arfgap1 with coatomer and arf1 , and affect by secretory cargo load ."
+6						permanent activation of arf1 result in arfgap1 be trap on the golgus in a coatomer dependent manner .
+7						"these datum suggest that arfgap1 , coatomer and arf1 play interdependent role in the assembly-disassembly cycle of the COPI coat in vivo ."
+8						introduction
+9						cytosolic coat protein that bind reversibly to membrane carry out a central role in membrane trafficking by concentrate macromolecule into specialized membrane patch that deform into coated bud to produce coated carrier ( for review see ; ) ; .
+10						the coatomer ( COPI ) - type coat help mediate protein sorting and transport within the golgus membrane system .
+11						"comprise of the seven and subunit complex of coatomer , it be recruit onto membrane by the ra related , small gtpase-adp-ribosylation factor ( arf1 ; ) ."
+12						Coatomer-Arf1-GTP complex then undergo low affinity interaction to generate a membrane deform lattice capable of bud coated carrier .
+13						"the lattice disassemble through the activity of a arf1 direct gtpase activate protein ( gap ) , which by hydrolyze gtp on arf1 lead to the release of arf1-gdp into the cytoplasm and the destabilization of coatomer on membrane ."
+14						proper growth and disassembly of the coat lattice be largely dependent on the mechanism control arfgap activity ( for review see ; ) .
+15						these mechanism guarantee that disassembly of the lattice do not occur before the lattice have grow large enough to deform the membrane and to pinch off a carrier .
+16						they further ensure that the lattice disassemble quickly enough so a carrier can fuse with its target membrane .
+17						arfgap comprise a family of protein with divergent noncatalytic domain and a conserve catalytic domain of ~ 70 aa that include a zinc finger motif ( for review see ; ) .
+18						"within this family , arfgap1 catalyze gtp hydrolysis on arf1 within the COPI coat lattice localized on golgus membrane ."
+19						"binding of arfgap1 to golgus membrane be mediate through interaction between its noncatalytic domain and the kdel receptor , a transmembrane protein that constitutively cycle between the er and golgus apparatus ."
+20						"interaction of arfgap with the cytoplasmic tail of p23 and 24 family member , with coatomer , or with snare might further stabilize arfgap1 on membrane or help recruit it into the coat lattice ."
+21						"stimulation of arfgap1 activity be believe to result from interaction of arfgap1 with coatomer and and or by arfgap1 localization to membrane of high curvature , such as a coated bud or vesicle ."
+22						"at first glance , the role of arfgap1 in coat lattice dynamics be simple : complex of arf1 and coatomer form on membrane polymerize into a lattice that bud off the membrane as a coated vesicle ."
+23						arfgap1 be then recruit to the lattice and stimulate lattice disassembly by catalyze gtp hydrolysis on arf1 .
+24						support this view be study show that COPI coated vesicle can be assemble in vitro in the absence of arfgap and that these vesicle undergo rapid uncoating upon addition of purify gap .
+25						"however , other in vitro study have show that cargo recruitment into coated vesicle , a process that occur before vesicle bud , depend on gtp hydrolysis by arf1 ."
+26						"furthermore , in coated vesicle reconstitution assay use arfgap1 , coatomer , and arf1 , the purify coated vesicle be enrich in arfgap1 and coatomer and relatively deplete of arf1 ."
+27						this have give rise to a different model for arfgap1 's role in coat lattice dynamics in which arfgap1 be a basic component of the coat on membrane ( form a ternary complex with arf1 and coatomer ) that undergo change in catalytic activity ( from inactive to active ) as the coat assemble into a lattice .
+28						to determine which of these model best apply to the living cell what be need be a way to visualize the temporal and spatial operation of arfgap1 and the molecule with which it interact .
+29						"previous study have successfully visualize arf1 and coatomer in living cell , but the dynamic behavior of arfgap1 have not yet be observe ."
+30						"here , we use gfp tag arfgap1 , as well as gfp tag version of arf1 , coatomer , and arfgap1 lack its zinc finger contain gap domain , to study the dynamics of arfgap1 and its role in COPI lattice assembly and disassembly in vivo ."
+31						we finding favor a model in which arfgap1 be a bona fide component of the coat lattice that regulate the dynamics of the lattice independently of coated vesicle production .
+32						"furthermore , we find that level of arfgap1 and coatomer bind to golgus membrane can be modulate by transit secretory cargo , imply a role of cargo in the regulation of coat lattice dynamics ."
+33						result
+34						ArfGAP1-GFP localize to the golgus and function as a gap for arf1
+35	uaz:UA-CLine-3989	NRK	c1			"to study arfgap dynamics in living cell , we fuse cfp or yfp to the carboxy terminus of arfgap1 ( arfgap1-c and yfp ) and generate a stable nrk cell line express the chimera at low level ."
+36						"in these cell , arfgap1-yfp could be see distribute on golgus membrane ( colocalize with the golgus marker , galactosyltransferase tag with cfp ) in the cytoplasm ( a ) with approximately four time more arfgap1-yfp in the cytoplasm than on golgus membrane ."
+37						"in addition to be present in the cytoplasm and on golgus membrane , a small amount of arfgap1-yfp could be see associate with peripheral structure contain epsiloncopi-yfp ( i.e. , ergic ; fig ."
+38						"s1 , available at http://www.jcb.org/cgi/content/full/jcb.200410142/dc1 ) ."
+39						"a similar arfgap1 distribution pattern have be report by antibody labeling , indicate that arfgap1-yfp distribute in a similar manner to endogenous untagged arfgap1 ."
+40						Figure 1 .
+41						in vivo gap activity of arfgap1-yfp .
+42						( a ) golgus and cytoplasmic distribution of arfgap1-yfp in a stable nrk cell line express arfgap1-yfp at low level .
+43						( b ) golgus associate pool of arf1-cfp ( express as a percentage of total cellular fluorescence ) measure in nrk cell stably express arf1-cfp alone ( control ) ( n = 16 ) or after cotransfection with arfgap1-yfp ( n = 16 ) .
+44						note that the steady-state golgus pool of arf1-cfp be reduce in cell coexpress arfgap1-yfp .
+45						"( c ) kinetics of dissociation of arf1-cfp during bfa treatment ( 5 mug and ml -1 ) measure in nrk cell stably express arf1-cfp alone ( black delta ) , with cotransfect arfgap1-yfp ( red o ) , or with cotransfect arfgap1delta64n-yfp ( green * ) ."
+46						( d ) nrk cell transiently express arfgap1-cfp and galt-yfp be image 20 h after transfection .
+47						"in cell with high level of arfgap1-cfp expression ( arrow ) , galt-yfp be redistribute into the er while arfgap1-yfp be find mainly in the cytoplasm ."
+48						"bar , 5 mum ."
+49			e2	c1		"to determine whether arfgap1-c and yfp function as a gap for arf1 in vivo , we look for evidence of increase arf1 gtp hydrolysis in cell express arfgap1-c and yfp at moderate-to-high expression level by transient transfection ."
+50						three line of evidence be find .
+51			e3	c1		"first , in cell coexpress arfgap1-yfp and arf1-cfp , the golgus pool of arf1-cfp be reduce relative to cell express arf1-cfp alone ( b ) , which be consistent with increase arfgap1 activity from expression of arfgap1-yfp shift the steady-state distribution of arf1 from membrane to cytoplasm due to increase arf1 gtp hydrolysis and release from membrane ."
+52			"e7,e8,e5"	c1		"second , in cell treat with brefeldin a ( BFA ) , a drug that block arf1 recruitment to membrane ( permit arf1 dissociation to be observe in the absence of rebinding ; ) , arf1-cfp 's dissociation rate be increase in the presence of arfgap1-yfp ( c ) as expect for condition in which arf1 gtp hydrolysis on membrane be increase ."
+53						no increased arf1-cfp release be observe in bfa treat cell overexpress yfp tag arfgap1 mutant that lack the zinc finger motif and have negligible gap activity ( arfgap1delta64n-yfp ; ) .
+54			e6	c1		"indeed , in these cell , the arf1-cfp dissociation rate during bfa treatment be reduce ( c ) possibly due to competition between endogenous and mutate arfgap1 for bind site on golgus membrane ( see below ) ."
+55						"Third , in cell coexpress arfgap1-cfp and the golgus enzyme marker galactosyltransferase tag with yfp ( galt-yfp ) , GalT-YFP redistribute into the er while arfgap1-cfp become cytoplasmic at high arfgap1-cfp expression level ( 10-50 time greater than in low expressing cell ; d , see arrow ) ."
+56						"because this type of redistribution be characteristic of cell with reduce level of arf1 gtp on membrane , the result suggest there be increase arfgap1 activity in these cell due to arfgap1-yfp expression ."
+57						"base on these finding , we conclude that arfgap1-yfp correctly function as a gap for arf1 when express in cell ."
+58						arfgap 's membrane association dissociation cycle and its modulation by arf1
+59						"give that arfgap1-yfp appropriately target and function within cell , we use the chimera in experiment aim at investigate the kinetic property of arfgap1 's association with golgus membrane ."
+60	uaz:UA-CLine-3989	NRK	c2			"these and subsequent experiment be perform in the stable nrk cell line that express arfgap1-yfp at low level ( 2.5-fold above endogenous arfgap1 ) , unless indicate otherwise ."
+61						we first address whether arfgap1 reside stably or only transiently after be recruit to golgus membrane .
+62						this be accomplish use frap .
+63						"upon photobleach the golgus pool of fluorescence , we observe rapid recovery from the nonbleached cytoplasmic pool , with the original , prebleach fraction of golgus fluorescence ( i.e. , 20 % of the total cellular pool ) completely restore in just under 1 min ."
+64						"as arfgap1-yfp in the cytoplasm recover into a photobleached box with a half-time of 1 s ( not depict ) , the recovery rate of arfgap1-yfp observe after photobleach the golgus be determine primarily by membrane association dissociation process ( and be not limit by arfgap1-yfp diffusion through the cytoplasm ) ."
+65			"e9,e10"	c2		"we conclude , therefore , that golgus associate arfgap1-yfp molecule undergo rapid exchange with freely diffuse arfgap1-yfp molecule in the cytoplasm , and that a individual arfgap1-yfp molecule spend only a short period bind to golgus membrane ."
+66			e11	c2		"evidence that all golgus associate arfgap1-yfp molecule be dynamically associate with the golgus in this manner be suggest by the fact that when the cytoplasm be repeatedly photobleach use the technique of fluorescence loss in photobleach ( flip ; for review see ) , virtually all golgus associate arfgap1-yfp fluorescence be lose over time ( b , flip ) ."
+67						"hence , arfgap1 reside only transiently after be recruit to golgus membrane ."
+68						figure 2 .
+69						kinetics of arfgap1 binding to and dissociation from golgus membrane .
+70						( a and c ) nrk cell stably express arfgap1-yfp in a or transiently express arfgap1delta64n-yfp in c be image before ( prebleach ) and after photobleach the golgus region ( outline in red ) with high intensity laser light .
+71						note the rapid fluorescence recovery into the golgus .
+72						( b ) repeated photobleach ( flip ) of the cytoplasm define by the area between the two red line cause all golgus fluorescence within a nrk cell express arfgap1-yfp to disappear over time .
+73						"( d ) quantification of the FRAP experiment from a and c , as well as from a similar frap experiment in nrk cell stably express arfgap1-yfp in which a arf1 [ q71l ] plasmid be microinject 9 h before microscopy ."
+74						golgus fluorescence in this as well as all other frap and bfa experiment be represent as the ratio of golgi-to-total cell fluorescence divide by the initial ratio .
+75						"bar , 5 mum ."
+76						"to determine whether cycling of arfgap1 on and off golgus membrane depend on arfgap1 's catalytic activity , we use arfgap1delta64n-yfp ."
+77						cell express arfgap1delta64n-yfp show a similar golgus and cytoplasmic pattern of fluorescence as observe in arfgap1-yfp-expressing cell ( c ) .
+78						"moreover , when the golgus pool of arfgap1delta64n-yfp-expressing cell be photobleach , rapid and complete recovery occur from nonbleached molecule in the cytoplasm ."
+79						these result indicate that the noncatalytic domain within arfgap1 be sufficient both for golgus targeting of arfgap1 and for mediate arfgap1 cycling on and off golgus membrane .
+80			"e12,e13,e14"	c2		"hence , arfgap1 's capacity to dynamically associate with and dissociate from the golgus be not dependent on its ability to catalyze the gtp hydrolysis by arf1 ."
+81						we next examine whether interaction with arf1 can affect arfgap1 's dynamics on the golgus .
+82						"ArfGAP1-YFP expressing cell be microinject with arf1 [ q71l ] , a gtp lock form of arf1 that be unable to hydrolyze gtp and dissociate from membrane ."
+83						the golgus pool of arfgap1-yfp be then photobleach and the extent of recovery of fluorescence in the golgus region be monitor over time .
+84						"notably , ~ 30-40 % of the initial arfgap1-yfp fluorescence on the golgus do not recover ( d ) , suggest this proportion of arfgap1 be irreversibly bind to golgus membrane ( i.e. , in a complex with arf1 [ q71l ] ) , whereas the remain proportion continue to cycle between golgus membrane and the cytoplasm ."
+85						"give that there be ~ 100 % recovery of the fluorescent golgus pool in cell coexpress arfgap1delta64n-yfp and arf1 [ q71l ] ( not depict ) , as well as in cell express arfgap1-yfp or arfgap1delta64n-yfp alone ( d ) , the result indicate that the membrane dissociation property of arfgap1 be sensitive to the gtp state of arf1 ."
+86						arfgap1 follow both arf1 dependent and -independent pathway on golgus membrane
+87			e17	c2		"the above result suggest that arfgap1 be recruit to membrane in a arf1 independent fashion , but once on membrane , its fate differ depend on whether or not it interact with arf1 ( a , scheme ) ."
+88			e18	c2		"with no such interaction , arfgap1 release from membrane via a arf1 independent pathway , whereas with such a interaction , arfgap1 release via a arf1 dependent pathway that require gtp hydrolysis on arf1 ."
+89			e19	c2		"within either pathway , arfgap1 reside on membrane for only short period ( ~ 30 s ) before release into the cytoplasm , whereupon it mix with other arfgap1 molecule and then rebind to golgus membrane ."
+90						Figure 3 .
+91						arfgap1 follow both arf1 dependent and -independent pathway on golgus membrane .
+92						( a ) scheme for arfgap1 membrane binding and dissociation pathway .
+93						"( b ) Release of arf1-cfp , arfgap1-yfp , and arfgap1delta64n-yfp from golgus membrane after BFA addition ( 5 mug and ml -1 ) in nrk cell stably express arf1-cfp and cotransfect with arfgap1-yfp or arfgap1delta64n-yfp ."
+94						Notice the difference in the rate and extent of release of the three protein from the golgus during the bfa treatment .
+95						"bar , 5 mum ."
+96						"( c ) quantification of the release kinetics show in B. ( d ) after 300 s of bfa treatment , the persist golgus pool of arfgap1-yfp in a nrk cell such as that show in b , be photobleach and recovery into the golgus region be quantify ."
+97						the result indicate that the BFA resistant golgus pool of arfgap1-yfp continue to cycle on and off golgus membrane before golgus disassembly ( which occur sometime after 600 s in BFA ) .
+98						to address what proportion of arfgap1 follow such arf1 dependent and -independent pathway on golgus membrane we use BFA .
+99						"by prevent arf1 from bind to golgus membrane without affect arf1 's dissociation rate , bfa treatment lead to rapid depletion of arf1 from membrane , which later cause the golgus to disassemble ."
+100						a consequence of remove arf1 from golgus membrane in this manner should be that arfgap1 no longer enter the arf1 dependent pathway .
+101						"give that the arfgap1 molecule within this pathway still dissociate from membrane , the net effect of bfa treatment should be to redistribute arfgap1 molecule within the arf1 dependent pathway into the cytoplasm ."
+102						"upon addition of BFA to arfgap1-yfp-expressing cell , ~ 40 % of the golgus pool of arfgap1-yfp redistribute into the cytoplasm during the first 300 s , with the remain golgus pool persist until golgus disassembly ."
+103						"four line of evidence support the interpretation that the released golgus fraction of arfgap1-yfp correspond to arfgap1 molecule within the arf1 dependent pathway , whereas the persist golgus fraction represent arfgap1 molecule that do not interact with arf1 ."
+104						"first , arf1 level on the golgus , assess in bfa treat cell express arf1-cfp , be significantly deplete by 300 s of bfa treatment , indicate the arf1 dependent pathway be not operate at this time point ."
+105						"second , bfa treatment do not cause cytoplasmic redistribution of arfgap1delta64n-yfp , which do not interact with arf1 and so associate with golgus membrane only in a arf1 independent manner ."
+106						"Third , when the golgus pool of arfgap1-yfp persist on the golgus at 300 s of bfa treatment be photobleach almost complete recovery occur ( d ) ."
+107						this be predict for arfgap1 molecule that cycle on and off golgus membrane in the absence of interaction with arf1 .
+108						"finally , the percentage of the golgus pool of arfgap1 that be release into the cytoplasm during bfa treatment ( i.e. , ~ 40 % ) be similar to the percentage of the golgus pool of arfgap1 that become immobilize on golgus membrane during expression of arf1 [ q71l ] , which stabilize arfgap1 within the arf1 dependent pathway ."
+109			"e21,e20"	c2		"these finding lead we to conclude that at a steady state , ~ 40 % of the golgus pool of arfgap1 bind to and dissociate from golgus membrane in a arf1 dependent manner , whereas ~ 60 % do so in a arf1 independent manner ."
+110						the rate of arf1 dependent dissociation of arfgap1-yfp from golgus membrane during bfa treatment be slower than that of arf1-cfp and resemble that of coatomer as report in a previous study .
+111						alf treatment stabilize arfgap1 within the arf1 dependent pathway
+112						"addition of alf to cell lead to the formation of ionic complex of aluminum and fluoride that can mimic the gamma-phosphate of gtp on g protein , cause they to switch into a stable , gtp like conformation ."
+113			e22	c2		"in small g protein , the switch to a gtp like conformation only occur when alf bind to they in the presence of they corresponding gap ."
+114						"give these property , we use alf as a tool to investigate the mechanism ( s ) whereby arfgap1 be recruit into the arf1 dependent pathway and the role of this pathway in coat lattice production ."
+115						"addition of alf to cell express arfgap1-yfp result in ~ 40 % of arfgap1-yfp on the golgus become irreversibly bind , as assess by photobleach ( a ) ."
+116						"because no stable golgus pool of arfgap1-yfp be observe in untreated cell , we conclude that the irreversibly bind pool represent complex of fluoride-arf1-arfgap1 ."
+117						"the size of the stabilized pool be similar to the arfgap1 pool populate the arf1 dependent pathway , assess by either bfa treatment or arf1 [ q71l ] expression ( c and d ) ."
+118			e23	c2		this suggest that the complex of fluoride-arf1-arfgap1 be form within the arf1 dependent pathway .
+119						Figure 4 .
+120						golgus association dissociation kinetics of arfgap1-yfp in alf treat cell .
+121						"( a , c , e , and f ) frap of golgus fluorescence in nrk cell express respectively arfgap1-yfp ( as a stable cell line ) in a , arfgap1delta64n-yfp ( as a transient transfectant ) in c , epsiloncop-yfp ( as a stable cell line ) in e , or gga-yfp ( as a transient transfectant ) in f with or without alf ( 50 mum alcl3 , 20 mm naf ) treatment for 10 min ."
+122						( b ) Release kinetics of arfgap1-yfp from golgus membrane after addition of BFA ( 5 mug and ml -1 ) with or without alf pretreatment for 10 min in nrk cell stably express arfgap1-yfp .
+123						( d ) ldlf cell be transfect with arfgap1-yfp and incubate at 32degreesc or at 40degreesc for 3 h to deplete COPI from golgus membrane .
+124						alf be add for 10 min or not .
+125						ArfGAP1-YFP in the golgus region be then photo bleached and recovery of golgus fluorescence be measure over time .
+126						"consistent with this possibility , when BFA be add to alf treated cell express arfgap1-yfp , no drop in arfgap1-yfp level on the golgus occur ( b ) ."
+127						this can be explain if golgus associate arfgap1-yfp molecule in these cell consist of a fraction that be stably bind up as fluoride-arf1-arfgap1 complex within the arf1 dependent pathway and a fraction that be still cycling on and off golgus membrane within the arf1 independent pathway ( which be BFA insensitive ) .
+128						"in support of this interpretation , alf treatment be find to have no affect on the dynamics of arfgap1 molecule incapable of interact with arf1 , with no stabilize fluorescent golgus pool form in alf treat cell express arfgap1delta64n-yfp ( c ) ."
+129						"hence , alf treatment only affect arfgap1 molecule move through the arf1 dependent pathway , cause arfgap1 to be trap as stable fluoride-arf1-arfgap1 complex within this pathway ."
+130						role of coatomer in the arf1 dependent pathway
+131			e24	c2		Coatomer be know to be recruit to membrane by arf1-gtp where it can assemble into a coat lattice .
+132						"give this , we ask whether arfgap1 molecule move through the arf1 dependent pathway serve to catalyze gtp hydrolysis on arf1 molecule associate specifically with coatomer ."
+133						"to address this , we test whether stabilize fluoride-arf1-arfgap1 complex could form in alf treat cell deplete of coatomer ."
+134						"we express arfgap1-yfp in ldlf cell , which contain a temperature sensitive form of epsiloncop that be degrade at 40degreesc ."
+135						the cell be incubate either at the permissive temperature of 32degreesc or for 3 h at the restrictive temperature of 40degreesc ( which cause depletion of > 75 % of all cellular coatomer ; ) .
+136						alf be then add for 10 min .
+137						golgus fluorescence be subsequently photobleach and the extent of fluorescence recovery onto the golgus be measure .
+138	uaz:UA-CLine-100116	ldlF cells	c3			"the effect of alf in ldlf cell incubate at 32degreesc be similar to what we observe for other cell type treat with alf , with ~ 40 % of the golgus pool of arfgap1-yfp fail to recover after photobleach ( d ) ."
+139						"by contrast , after alf treatment of ldlf cell incubate at 40degreesc , close to 100 % of the golgus pool of arfgap1-yfp recover after photobleach ."
+140						"recovery in these cell be slightly slower than in cell incubate at 32degreesc in the absence of alf , potentially due to coatomer not be completely deplete during the 3 h of incubation at 40degreesc ."
+141			e25	c3		"together , these result suggest that depletion of coatomer prevent stabilize fluoride-arf1-arfgap1 complex from form during alf treatment ."
+142			e26	c3		this imply that interaction between coatomer and arfgap1 occur within the arf1 dependent pathway and be necessary for entry of arfgap1 into this pathway .
+143			e27	c3		"this interpretation would predict that coatomer itself become irreversibly bind on golgus membrane during alf treatment , which previous study have show and we confirm in photobleach experiment in cell express epsiloncop-yfp ( e ) ."
+144						"interestingly , alf treatment do not lead to the stabilization of a different golgus associate , arf1 dependent coat protein , GGA , when yfp tag version of this protein be express within cell and golgus fluorescence be photobleach ( f ) ."
+145			e28	c3		"this suggest that during alf treatment , fluoride-arf1-arfgap1 complex associate with coatomer and not other golgus coat protein ."
+146			e29	c3		"this property could serve to ensure that arfgap1 only interact with arf1 molecule that have coatomer associate with they , thereby allow the arf1 dependent pathway to function specifically in COPI lattice formation ."
+147			e30	"c4,c5"		"to obtain biochemical evidence that arfgap1 interact with coatomer , we examine whether arfgap1 and beta-cop undergo coimmunoprecipitation ."
+148	"uaz:UA-CLine-100020,uaz:UA-CLine-3989"	"COS-7 cells, NRK cells"	"c4,c5"			"in both cos-7 cell and nrk cell , endogenous beta-cop coimmunoprecipitate with endogenous arfgap1 ( a ) ."
+149						"and , in cell express arfgap1-gfp , immunoprecipitation use gfp antibody result in coimmunoprecipitation of beta-cop ."
+150			e31	"c4,c5"		"the complex between arfgap and beta-cop be dependent on arf1-gtp on membrane as bfa treatment , which inactivate arf1 , prevent arfgap1 and beta-cop from interact ( b ) ."
+151			e32	"c4,c5"		"alf treatment increase the association between arfgap and beta-cop , as predict if alf stabilize complex of fluoride-arf1-arfgap1-coatomer on membrane ."
+152						"this stabilization be dependent on arf1 be present on membrane because treat cell with bfa before alf treatment prevent arfgap1 and beta-cop from associate , whereas treat cell with alf before bfa treatment do not ( c ) ."
+153						the datum thus support we morphological finding suggest that arfgap1-coatomer-arf1 ternary complex form within cell and be affect by treatment with bfa or alf .
+154						Figure 5 .
+155						biochemical evidence for membrane coatomer and arfgap1 complex formation .
+156						"( a ) cos-7 and nrk cell lysate be immunoprecipitate with polyclonal anti-arfgap1 antibody , and the immunocomplex be subject to immunoblot assay with the monoclonal anti-beta-cop antibody ."
+157						"( b and c ) nrk cell express arfgap1-yfp be treat without or with bfa ( 5 mug and ml -1 ) for 30 min , alf for 10 min , BFA 30 min then alf 10 min , or alf 10 min then BFA 30 min ."
+158						"the cell lysate be immunoprecipitate with monoclonal anti-gfp antibody , and be follow by western blotting with polyclonal anti-beta-cop ( top ) antibody or anti-gfp antibody ( bottom ) ."
+159						arf1 dependent arfgap1 cycling on and off membrane in the absence of vesicle bud
+160						the two oppose model for arfgap1 's role in COPI lattice formation ( introduction ) differ in they respective prediction for when and where arfgap1 be recruit to and release from membrane .
+161						"in the first model , arfgap1 be not a coat component but be selectively recruit to the lattice after the lattice have bud off as a coated vesicle ( where it then catalyze vesicle uncoating ; ; ) ."
+162						"in the second model , arfgap1 be a stoichiometric component of the coat ( form a ternary complex with arf1 and coatomer ) that be recruit to membrane before coat lattice assembly and undergo change in its catalytic activity as the coat assemble into a lattice ."
+163						"to test these prediction we examine by photobleach whether or not arf1 dependent , arfgap1 cycling on and off membrane occur in cell express arfgap1-yfp incubate at 4degreesc , a temperature in which vesicle bud be inhibit ."
+164						"under the first model , cycling should be inhibit because such recruitment and release rely on vesicle bud ."
+165						"under the second model , cycling should continue because arfgap1 recruitment to and release from the lattice do not depend on coated vesicle bud ."
+166						cell express arfgap1-yfp be incubate at 4degreesc and they golgus pool of fluorescence be photobleach .
+167						"significantly , complete recovery into the golgus region ( with kinetics similar to that in cell incubate at 37degreesc ) be observe , indicate arfgap1 still cycle on and off golgus membrane at 4degreesc ( a ) ."
+168			e34	"c4,c5"		"to determine whether such cycling involve movement of arfgap1 through the arf1 dependent pathway ( e.g. , require arf1 dependent gtp hydrolysis catalyze by arfgap1 ) , we test by photobleach whether alf treatment for 10 min could induce a irreversibly bind pool of arfgap1 ( correspond to stabilize complex of fluoride-arf1-arfgap1-coatomer ) at this temperature ."
+169						"notably , ~ 40 % of the fluorescent golgus pool show no recovery after photobleach ( b ) , indicate this percentage of arfgap1 on the golgus have become immobilize during the alf treatment ."
+170						"these datum , combine with previous datum show gtp hydrolysis dependent release of arf1 and coatomer from membrane at 4degreesc , indicate that arfgap1-yfp molecule could enter and pass through the arf1 dependent pathway at 4degreesc ."
+171						"hence , arfgap1 catalytic activity within the coat lattice be not couple to or dependent on vesicle bud ."
+172						the finding thus favor a model in which arfgap1 be a stoichiometric component of the coat whose catalytic activity be necessary both for coat lattice assembly and disassembly .
+173						Figure 6 .
+174						membrane association dissociation kinetics of arfgap1-yfp at 4degreesc .
+175						( a ) Prebleach and recovery image of NRK cell stably express arfgap1-yfp whose golgus pool be photobleach after incubation at 4degreesc for 1 h or more .
+176						"bar , 5 mum ."
+177						( b ) quantification of frap experiment show in a and from a parallel experiment in which cell at 4degreesc express arfgap1-yfp be treat with alf for 10 min before photobleach the golgus .
+178						"note the appearance of a immobile pool in the cell treat with alf , which suggest that both arf1 independent and arf1 dependent pathway operate at 4degreesc ."
+179						modulation of arfgap1 association with golgus membrane in response to increase secretory traffic
+180						"arfgap1 's short presence on golgus membrane ( irrespective of whether it pass through arf1 dependent or -independent pathway ) could serve to allow cell to rapidly modulate membrane bind pool of arfgap1 so that coat lattice assembly can be regulate in response to change in secretory cargo level , thereby facilitate the membrane sort event necessary for secretory transport ."
+181						"if so , then a change in the amount of golgus associate arfgap1 should occur under change condition of cargo transport through the golgus ."
+182						"to investigate this possibility , we visualize the behavior of arfgap1-yfp during release of a bolus of vsvg-cfp into the secretory pathway by temperature shift from 40degreesc to 32degreesc ."
+183			e35	"c4,c5"		"notably , a dramatic increase in the amount of golgus associate arfgap1-yfp be observe at the time when vsvg-cfp molecule pass through the golgus apparatus , with golgus associate arfgap1-yfp level more than double ."
+184						"when vsvg-cfp molecule reach the plasma membrane , golgus associate arfgap1-yfp level drop back down to the level observe before release of VSVG cargo from the er ( not depict ) ."
+185			"e36,e37"	"c4,c5"		"the increased size of the golgus pool of arfgap1-yfp be not a general effect of increase cargo transport through the golgus , but be specific and dependent on arfgap1 's ability to interact with arf1 and coatomer ."
+186						"this be demonstrate in cell express arfgap1delta64n-yfp , which show no change in the size of they golgus pool during vsvg-cfp transport through the golgus ."
+187						this be further confirm by a similar increase in golgus membrane bind beta-cop in response to vsvg flow into the golgus .
+188						"when the golgus pool of arfgap1-yfp be photobleach at the time when vsvg-cfp pass through the golgus , rapid and complete recovery of golgus fluorescence occur ( c ) ."
+189						"this indicate that the additional arfgap1-yfp molecule recruit onto the golgus during this time period be not stably associate but undergo continuous binding and release , as observe for arfgap1-yfp molecule normally associate with the golgus ( a ) ."
+190						"together , these result indicate that arfgap1 and coatomer level on the golgus be modulate in response to change in secretory cargo transport through the golgus ."
+191						the modulation occur as arfgap1 continuously cycle on and off golgus membrane and be dependent on arfgap1 's ability to interact with arf1 .
+192						Figure 7 .
+193						recruitment of coat protein onto golgus membrane during cargo transport through the golgus .
+194						"( a ) cos-7 cell transiently express vsvg-cfp only , vsvg-cfp and arfgap1-yfp , or vsvg-cfp and arfgap1delta64n-yfp be incubate at 40degreesc shortly after transfection to retain vsvg-cfp in the er ."
+195						cell be image over time upon shift from 40degreesc to 32degreesc .
+196						show be the distribution at 0 and 30 min .
+197						"to observe the change on golgus bind coatomer , cos-7 cell be infect with ts045 vsv and be culture at 40degreesc for 4 h ."
+198						"then the cell be shift to 32degreesc for 30 min , fix , and follow by immunofluorescence staining with anti-beta-cop antibody and Alexa Fluor 594 tag second antibody ."
+199						"( b ) to assess change in arfgap1 and coatomer association with golgus membrane during vsvg transport , the total arfgap1-yfp ( n = 6 ) , arfgap1delta64n-yfp ( n = 6 ) , or beta-cop ( n = 6 ) fluorescence associate with the golgus be measure under nonsaturating condition , express as a fraction of the total cellular fluorescence , and normalize to the initial zero minute value ."
+200						"( c ) after shift from 40degreesc to 32degreesc for 30 min , arfgap1-yfp in the golgus region in cell express both vsvg-cfp and arfgap1-yfp be photobleach , and the fluorescence recovery into the bleached area be monitor over time ."
+201						the observe rapid recovery of arfgap1-yfp fluorescence into the golgus region indicate that arfgap1-yfp molecule continue to cycle between golgus membrane and the cytoplasm during vsvg-cfp transport through this organelle .
+202						"bar , 5 mum ."
+203						discussion
+204						"in this study , we have use fluorescence imaging and frap technique to characterize the membrane association dissociation kinetics of arfgap1 in single living cell ."
+205						"building on model from in vitro reconstitution system , we have then ask what role these kinetics play in the assembly and disassembly of the COPI coat lattice on golgus membrane ."
+206						we find that arfgap1 undergo fast exchange between golgus membrane and cytosol .
+207						"once bind to membrane , arfgap1 follow either a arf1 dependent pathway ( productive for coat lattice assembly ) or be release directly into the cytoplasm in a arf1 independent manner ( nonproductive for coat lattice assembly ; , model ) ."
+208						"the extent of arfgap1 's cytosol and golgus exchange could be modulate by secretory cargo load , be independent of vesicle bud , and could be block in a coatomer dependent fashion when arf1 be permanently activate ."
+209						"these finding lead we to a model , discuss below , in which arfgap1 , coatomer , and arf1 play interdependent role in the assembly-disassembly cycle of the COPI coat ."
+210						Figure 8 .
+211						propose model for arfgap1 's behavior on golgus membrane and its role in coat lattice assembly .
+212						"upon bind to membrane , arfgap1 follow either a arf1 independent pathway that be nonproductive for coat assembly or a arf1 dependent pathway that be productive for coat assembly ."
+213						arfgap1 molecule follow either pathway persist on golgus membrane for only short period .
+214						"recruitment of arfgap1 into the arf1 dependent pathway be mediate by coatomer , which by form a ternary complex with arfgap1 and arf1 generate the basic coat unit ."
+215						these unit diffuse in the membrane and nucleate into small aggregate .
+216						"upon assembly of the aggregate into basket like lattice , the underlying membrane begin to bend , which stimulate arfgap1 activity ."
+217						"this lead to the release of arf1 from the lattice , with arfgap1 and coatomer become destabilize and release soon thereafter ."
+218						"hence , there be a constant flux of arf1 , coatomer , and arfgap1 through the lattice during the assembly of the lattice whether or not the lattice pinch off as a coated vesicle ."
+219			e38	"c4,c5"		"we find that recruitment of arfgap1 to golgus membrane be not dependent on interaction with arf1 or coatomer , as arfgap1delta64n-yfp show the same golgus membrane binding property as arfgap1-yfp in photobleaching assay ."
+220						"moreover , such recruitment occur even at 4degreesc , in which vesicle production be inhibit ."
+221						this argue against a model in which arfgap1 target directly from the cytoplasm on to coated vesicle and then release .
+222						"rather , the datum support the idea that the initial membrane recruitment of arfgap1 can occur at widely dispersed site on the golgus , potentially through interaction of arfgap1 with the kdel receptor or with the cytoplasmic tail of p23 and 24 protein ."
+223						we datum show that arfgap1 's fate once bind to golgus membrane differ depend on whether or not it interact with arf1 and coatomer .
+224						"in the absence of such interaction , arfgap1 dissociate from membrane by a arf1 independent manner that be nonproductive for coat lattice assembly as show by the fact that it be insensitive to bfa or alf treatment and do not respond to arf1 [ q71l ] expression ."
+225						"in the presence of interaction with arf1 on golgus membrane , arfgap1 follow a arf1 dependent pathway that be productive for coat lattice assembly ."
+226			e39	"c4,c5"		"significantly , release of arfgap1 into the cytoplasm from this pathway be dependent on gtp hydrolysis on arf1 ."
+227			e40	"c4,c5"		"this be support by we finding that when gtp hydrolysis on arf1 be inhibit by arf1 [ q71l ] expression or by alf treatment , a proportion of the golgus pool of arfgap1 no longer cycle between golgus and cytoplasm ."
+228						arfgap1 entry into the arf1 dependent pathway be find to be dependent on coatomer .
+229	uaz:UA-CLine-100116	ldlF cells	"e41,c6,e42"	c6		"this be support by we finding that COPI and ArfGAP1 interact in biochemical assay , and ( b ) in ldlf cell deplete of coatomer and treat with alf , no formation of stable complex of fluoride-arf1-arfgap1 occur ."
+230	taxonomy:4932	yeast	"s1,e43"	s1		the formation of immobilize pool of arfgap1 and coatomer on the golgus observe normally in cell treat with alf likely correspond to complex of fluoride-arf1-arfgap1-coatomer .
+231						"this would be consistent with previous study in yeast show interaction between coatomer subunit and arfgap , and a recent in vitro system report direct binding of coatomer to arfgap1 , as well as with study examine the effect of alf on liposome incubate with arf1 , arfgap1 , and coatomer ."
+232						"because virtually all coatomer become stabilize on membrane during alf treatment , compare with ~ 40 % of arfgap1 and < 10 % of arf1 ( unpublished datum ) , coatomer would appear to be the rate limit component of the complex of arf1-arfgap1-coatomer in the cell be examine ."
+233			e44	c6		the formation of arf1-arfgap1-coatomer complex suggest that coatomer serve to spatially localize arfgap1 on membrane so that arfgap1 catalytic activity be confine to arf1 molecule in association with the COPI coat .
+234			e45	c6		"this would imply that different arf1 dependent coat and effector protein be use for recruit gap protein to different location to hydrolyze arf1 gtp , which recent datum show a interaction between agap1 and ap3 on endosome support ."
+235			e46	"c4,c5"		"a different function of these complex could be to allow coatomer to exert a stimulatory effect on gtpase activity ; for example , by increase the affinity of arfgap1 for arf1 , by assist arfgap1 in orient the arf1 catalytic machinery , or by supply a arginine finger residue to the arf1 active site ."
+236			e47	"c4,c5"		"such stimulatory effect , in turn , may depend on change in membrane curvature cause by assembly of the arf1-arfgap1-coatomer complex into a coat lattice ."
+237						"base on these and previous datum , a role for arfgap1 in coat lattice dynamics can be propose ."
+238			e48	"c4,c5"		"in this scheme , membrane bind arfgap1 be recruit by coatomer into a ternary unit comprise of arfgap1-coatomer-arf1 ."
+239						"this unit serve as a basic coat unit , which upon diffusing in the membrane and encounter other unit begin to nucleate into small aggregate ."
+240						once the aggregate have grow large enough they begin to bend the membrane by form basket like lattice .
+241						"in this scenario , arfgap1 's gtpase activity be inactive during the formation and diffusion of individual ternary unit , and stimulate once the aggregate have begin to bend the membrane ."
+242			e49	"c4,c5"		"once arf1-gtp be hydrolyze and release from membrane , coatomer and arfgap1 within the lattice become destabilize ."
+243						"a consequence of this model be that arfgap1 would be expect to move into the lattice from the rim ( bind to arf1 and coatomer ) and then to be release from the interior ( after arf1 have hydrolyze its gtp and be release from membrane ) , result in a continuous flux of arfgap1 through the lattice whether or not detachment of a coated vesicle occur ."
+244						this would explain why arfgap1 be able to cycle on and off golgus membrane at 4degreesc and become immobilize on membrane as fluoride-arf1-arfgap1-coatomer complex upon alf treatment at this temperature .
+245			e50	"c4,c5"		the short duration of arfgap1 on golgus membrane would allow arf1 mediate gtp hydrolysis to be a ongoing process during the formation of the COPI coated vesicle .
+246						"this be analogous to the behavior of microtubule , which show similar dynamics ( e.g. , high energy gtp bind unit enter the polymer be transform to a lower energy gdp bind form that dissociate from the structure over time ) ."
+247						"just as microtubule maintain they length for certain period without significant growth or shrinkage ( through treadmilling ) , the coat lattice could be metastable , in which it remain associate with membrane for considerable period without bud off as a vesicle ."
+248						"a attractive feature of this model be that it allow the coat lattice to be constantly modulate : the lattice can dissipate , go on to pinch off as a coated carrier , or persist as a coated bud ."
+249						"in the latter case , the coated bud could act to stabilize microdomain on golgus membrane or create membrane tension ."
+250						"the constant flux of coat protein through the lattice would also allow rapid modulation of the lattice in response to change level of cargo move through the secretory pathway , as we datum have demonstrate ."
+251						the ensue change in coat lattice growth or dissipation could thereby serve to facilitate the membrane sort event involve in secretory transport .
+252						Materials and method
+253						"dna construct , reagent , and antibody"
+254						"Arf1-GFP , arf1-cfp , arf1 [ q71l ] , and galt-yfp plasmid be describe previously ."
+255						"ArfGAP1-YFP , arfgap1-cfp , and arfgap1delta64n-yfp be make by clone the rat arfgap1 orf into pecfp-n1 or peyfp-n1 vector use the Kpn I ( 5 ' ) and age I ( 3 ' ) restriction site ."
+256						"GGA-YFP be a gift from J.S. Bonifacino ( National Institutes of Health , Bethesda , MD 20892 ) ."
+257						BFA be purchase from Epicentre Technologies and use at 5 mug and ml .
+258						"in all experiment with alf , 50 mum alcl3 , and 20 mm naf be use and be add to medium separately for 10 min ."
+259						"the follow antibody be use : rabbit polyclonal antiserum to arfgap1 ( a gift from D. Casso , Technion-Israel Institute of Technology , Haifa , Israel ) ; rabbit polyclonal antibody to beta-cop ( affinity bioreagent , Inc. ) ; mouse monoclonal antibody to beta-cop ( Abcam Inc. ) ; and mouse monoclonal antibody to GFP ( BD Biosciences ) ."
+260						Alexa Fluor 594 tag second antibody be purchase from molecular probe .
+261						cell transfection and dna microinjection
+262						"NRK and cos-7 cell be grow in dme supplement with 10 % fc , 2 mm glutamine , 100 U and ml of penicillin , and 100 U and ml of streptomycin ."
+263						ldlf cell be maintain in rpmus with full supplement at 32degreesc .
+264						transient transfection be perform use fugene 6 transfection reagent accord to the manufacturer 's instruction ( Roche molecular biochemical ) .
+265						cell be analyze 15-24 h after transfection .
+266						"cell line express arfgap1-yfp , arf1-cfp , or epsiloncop-yfp be create by transiently transfection follow by selection with g418 ."
+267						"microinjection be perform use the Eppendorf Transjector 5242 and micromanipulator 5171 system mount on a inverted microscope ( Carl Zeiss MicroImaging , Inc. ) ."
+268						arf1 [ q71l ] cdna be microinject 9 h before the microscopic observation in nrk cell that have be transfect with arfgap1-yfp or arfgap1delta64n-yfp and be grow on etched glass coverslip .
+269						Texas red dextrin be include in the injectate to identify the injected cell .
+270						vsv infection and immunofluorescence staining
+271						COS-7 cell grow on sterile glass coverslip be infect with ts045 vsv ( 50-100 plague form unit and cell ) for 1 h at 32degreesc .
+272						"cell be wash twice in serum-free dme to remove unabsorbed virus , and then shift in serum contain dme to 40degreesc for 4 h to maintain vsvg protein in the er ."
+273						"cell be either keep at 40degreesc or incubate at 32degreesc for another 30 min , then be fix by 2 % formaldehyde ."
+274						"after two time PBS wash , cell be incubate in PBS and FBS ( PBS , ph 7.4 , contain 10 % fb ) to block nonspecific site of antibody adsorption ."
+275						"cell be incubate with polyclonal anti-beta-cop plus monoclonal anti-vsvg ( p5d4 ) antibody follow with Alexa Fluor 594 label goat anti-rabbit and fitc label goat anti-mouse secondary antibody , respectively ."
+276						immunoprecipitation and western blotting
+277						"for each immunoprecipitation , 2 mul of polyclonal anti-arfgap1 or monoclonal anti-gfp ( jl-8 ) be preincubate with sepharose 4b bead for 1 h at RT. ."
+278						the antibody bind bead be wash with PBS and incubate with cell lysate at 4degreesc for 2 h .
+279						"the complex then be wash three time with wash buffer ( 0.1 % Triton x-100 and 5 mm edta in 150 mm nacl , 50 mm tris-hcl , ph 7.5 ) and use for western blotting ."
+280						western blotting be perform as describe previously .
+281						"in brief , protein obtain from lysed cell or immunoprecipitate be denature and load on 4-20 % tris-glycine gel ( Invitrogen ) ."
+282						"they be transfer to polyvinylidene difluoride membrane , incubate in 5 % nonfat milk , and be stain with specific anti-beta-cop or anti-gfp antibody follow by HRP conjugate goat-anti-rabbit or goat-anti-mouse antibody ."
+283						the specific band be detect by ecl plus western blotting detection system ( Amersham Biosciences ) .
+284						"fluorescence microscope , imaging and photobleaching analysis"
+285						"cell in LabTek chamber ( Nalge Nunc International ) be image in buffered medium with a confocal microscope ( model 510 ; Carl Zeiss MicroImaging , Inc. ) with a stage heat to 37degreesc use a 488-nm laser excitation for GFP , 514 nm for yfp and 413 nm for cfp ."
+286						"for quantification of fluorescence intensity , nonsaturated image be take with 40x1 .3 na objective and a full-open pinhole , whereas a 63x1 .4 NA objective and a pinhole diameter equivalent to 1-3 Airey unit be use for nonquantitative imaging ."
+287						selective photobleaching be perform use appropriate laser line at full power and the recovery be then monitor by time lapse imaging at 1.5-10-s interval at low intensity illumination .
+288						fluorescence quantification be do as describe previously .
+289						"basically , intensity for total cellular fluorescence or golgus associate fluorescence be measure use NIH image software after subtraction of background outside the cell or cytoplasm overlap ."
+290						the golgus associate fluorescence in BFA or FRAP experiment be represent as the ratio of golgi-to-total cellular fluorescence at each time point divide by the initial ratio ( before bfa treatment or frap ) .
+291						cell be image with no saturated pixel .
+292						the experiment that be quantify and represent graphically be each do on 16-20 cell under identical condition .
+293						"each of the datum point in the graph , therefore , represent the average value of the 16-20 similarly treat cell at that time point ."
+294						online supplemental material
+295						fig .
+296						s1 show colocalization of arfgap1-gfp with coatomer in golgus and peripheral ergic structure .
+297						online supplemental material be available at http://www.jcb.org/cgi/content/full/jcb.200410142/dc1 .

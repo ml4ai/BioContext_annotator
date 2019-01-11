@@ -1,0 +1,296 @@
+1						activation of tyrosine kinase by mutation of the gatekeeper threonine
+2						protein kinase target by small-molecule inhibitor develop resistance through mutation of the ' gatekeeper ' threonine residue of the active site .
+3	uaz:UA-CLine-6116	BaF3 cells	e1,c1	c1	of c-abl , c-src , platelet derive growth factor receptor-alpha and -beta , and epidermal growth factor receptor activate the kinase	here we show that the gatekeeper mutation in the cellular form of c-abl , c-src , platelet derive growth factor receptor-alpha and -beta , and epidermal growth factor receptor activate the kinase and promote malignant transformation of baf3 cell .
+4						structural analysis reveal that a network of hydrophobic interaction -- the hydrophobic spine -- characteristic of the active kinase conformation be stabilize by the gatekeeper substitution .
+5						substitution of glycine for the residue constitute the spine disrupt the hydrophobic connectivity and inactivate the kinase .
+6			e2	c1	a small-molecule inhibitor that maximize complementarity with the dismantled spine ( compound 14 ) inhibit the gatekeeper mutation of bcr-abl-t315us .	furthermore , a small-molecule inhibitor that maximize complementarity with the dismantled spine ( compound 14 ) inhibit the gatekeeper mutation of bcr-abl-t315us .
+7						these result demonstrate that mutation of the gatekeeper threonine be a common mechanism of activation for tyrosine kinase and provide structural insight to guide the development of next generation inhibitor .
+8						deregulated protein kinase have be link to numerous disease include cancer and diabetes as well as inflammation .
+9						the targeted inhibition of protein tyrosine kinase be now well establish as a effective therapeutic regimen for chronic myeloid leukemia ( cml ) and several solid tumor - .
+10						many small-molecule kinase inhibitor have exploit a conserved threonine residue within the atp binding site for bind specificity .
+11						this threonine control access of the inhibitor to a hydrophobic pocket deep in the active site that be not contact by atp , hence lead to its designation as a ' gatekeeper ' residue .
+12						substitution of the gatekeeper threonine residue with bulky side chain be a common mechanism of resistance to pharmacological atp-competitive kinase inhibitor , .
+13						Imatinib have be use successfully to inhibit bcr-abl in cml , c-kit in gastrointestinal stromal tumor ( gist ) and platelet derive growth factor receptor-alpha ( pdgfra ) in hypereosinophilic syndrome ( he ) , .
+14						the first imatinib resistant mutation describe in cml patient be a isoleucine substitution at the gatekeeper residue thr315 ( number accord to the sequence for the type ia isoform of c-abl ) .
+15						the t315us mutation have be detect in imatinib-naive cml patient and account for ~ 20 % of the total burden of clinical resistance .
+16						mutation at the analogous position to thr315 in other imatinib target such as c-kit ( thr670 ) and pdgfra ( thr674 ) have be link to imatinib resistance in patient with gist and he , respectively , .
+17						similarly , the gatekeeper mutation t790m in egfr cause resistance to gefitinib and erlotinib , and have be detect in lung cancer patient before drug treatment and in the germ line of a family pedigree with several case of lung cancer , .
+18						the association of gatekeeper residue mutation with malignancy even in the absence of treatment with kinase inhibitor imply a role in activation of the transform function of several protein tyrosine kinase .
+19						however , the mechanism for this oncogenic activation have not be define .
+20						recent inference draw from crystallographic and chemical genetic study suggest that abl and src be regulate in a similar fashion and have highly conserve tertiary structure - .
+21						interestingly , mutation of the gatekeeper residue have be note in the sequence of v-src from several independent strain of avian rous sarcoma virus ( rsv ) , but the mechanism responsible for cellular transformation be not clearly define - .
+22						on the basis of the strong correlation between substitution of the gatekeeper threonine and oncogenic activation of v-src , and on structural consideration glean from we previous study with dual src-abl kinase inhibitor , we reason that substitution of the gatekeeper threonine residue with bulkier residue would be a common mechanism of activation of tyrosine kinase .
+23						in this study , we show that the substitution of a bulkier hydro-phobic residue for the gatekeeper threonine in the human tyrosine kinase activate tyrosine phosphorylation .
+24						in silico modeling of the native and gatekeeper variant of different kinase and crystallographic analysis of src-t341us suggest that a isoleucine substitution for the gatekeeper threonine stabilize a ' hydrophobic spine ' that be a characteristic feature of the active state of several kinase .
+25						in support of this hypothesis , we show that disruption of hydrophobic connectivity either pharmacologically or by mutagenesis of residue constitute the spine can effectively inhibit the kinase activity of the gatekeeper variant of c-abl and bcr-abl .
+26						result
+27						gatekeeper mutation in c-src and c-abl activate the kinase
+28						the gatekeeper residue threonine be find in many tyrosine kinase .
+29						it lie in the hinge region between the n and c lobe of the kinase , where it control access to a hydrophobic pocket that help anchor kinase inhibitor to the active site .
+30						because v-src and bcr-abl be already deregulate , enzymatically activate protein kinase , we examine the effect of mutation of the gatekeeper residue on the kinase function of c-src and c-abl isoform1b ( the gatekeeper threonine be residue 334 ) .
+31	tissuelist:TS-0510,uaz:UA-CLine-100104	kidney, HEK293T	t1,c2			transient expression in human embryonic kidney cell ( hek293t ) of C-terminally he tag t334us , t334a and g2a c abl mutant reveal elevated kinase activity as compare to native c-abl .
+32			e3	t1,c2	myristoylation defective g2a mutant of c-abl , which activate the c-abl kinase	the myristoylation defective g2a mutant of c-abl , which activate the c-abl kinase , be include as a positive control for kinase activation .
+33						the t334us variant induce equivalent level of total cellular phosphotyrosine in cell lysate as bcr-abl , whereas t334a and g2a substitution have weaker effect .
+34			e4	t1,c2	 increase autophosphorylation of abl variant	after purification of c-abl and its variant by nickel-resin , we likewise observe increase autophosphorylation of abl variant , with t334us show the greatest degree of phosphotyrosine .
+35			e5	t1,c2	 induce high level of total cellular phosphotyrosine and increase tyrosine autophosphorylation	similarly , we find that substitution of isoleucine and methionine at the homologous gatekeeper threonine residue in c-src ( t341 ) induce high level of total cellular phosphotyrosine and increase tyrosine autophosphorylation ; methionine substitution , which likewise introduce hydophobicity , have a more dramatic effect than isoleucine substitution .
+36						to further explore the structural consequence of amino acid substitution at the gatekeeper threonine , we create the t341k and t341p mutation .
+37						lysine , which introduce a strong positive charge into the enzymatic active site , cause reduce kinase activation relative to isoleucine and methionine .
+38						proline , which be expect to kink the polypeptide backbone at hinge region , inactivate the enzyme .
+39						these observation demonstrate the sensitivity of the enzyme to amino acid substitution at the threonine residue of the hinge region .
+40			e6	t1,c2	 tyr416 of c-src , which be phosphorylate in the enzymatically active state , and tyr527 , which be phosphorylate in the inactive state	immuno blotting with phosphospecific antibody against tyr416 of c-src , which be phosphorylate in the enzymatically active state , and tyr527 , which be phosphorylate in the inactive state , reveal that several gatekeeper variant of SRC be express as catalytically active enzyme .
+41						Gatekeeper variant of c-abl and c-src transform baf3 cell
+42	uaz:UA-CLine-6116	BaF3 cells	e7,c3	c3	kinase activate variant of c-abl and c-src would show similar pattern of autophosphorylation and induce leukemic transformation	next , we seek to determine whether kinase activate variant of c-abl and c-src would show similar pattern of autophosphorylation and induce leukemic transformation in baf3 cell , a cytokine dependent hematopoietic progenitor line that have be widely use in assay of oncogenicity by activate tyrosine kinase , .
+43						we express gatekeeper mutant and other variant of c-abl and c-src in baf3 cell by retroviral transduction and puromycin selection .
+44	uaz:UA-CLine-100104,uaz:UA-CLine-100104	HEK293T cells,HEK293T cells	e8,c4,e9,c5	c4,c5	kinase activation  |  kinase activation	immuno blotting of total cell protein lysate and purify c-abl and c-src show a comparable pattern of kinase activation as hek293t cell for all variant except c-src-g2a , which show partial kinase activation in hek293t cell but not in baf3 cell .
+45	uaz:UA-CLine-6116	BaF3 cells	e10,c6	c6	expression of bcr-abl and activate pdgfrb , pdgfra , fm like tyrosine kinase-3 ( flt3 ) , egfr and janus kinase-2 ( jak2 ) induce interleukin-3 ( il-3 ) - independent proliferatio	expression of bcr-abl and activate pdgfrb , pdgfra , fm like tyrosine kinase-3 ( flt3 ) , egfr and janus kinase-2 ( jak2 ) induce interleukin-3 ( il-3 ) - independent proliferation of baf3 cell , which correlate tightly but not absolutely with malignant transformation , - .
+46						we therefore test baf3 cell express c-abl and c-src variant for they capacity to survive and proliferate when culture in the absence of il-3 .
+47						like bcr-abl , c-abl-t334us support robust survival in short-term assay ( online ) and rapid il-3-independent proliferation of baf3 cell in prolonged cell culture .
+48						in contrast , cell express the weakly activate c-abl variant t334a and g2a or overexpress native c-abl show no detectable enhance survival or proliferation .
+49						cell express the activated c-src variant t341us , t341m , t341k , t381k and y530f demonstrate only modest degree of survival and delay il-3-independent cell growth after 10 d of culture .
+50						the c-src-g2a and c-src-t341a cell show neither survival nor proliferation .
+51						take together with the autophosphorylation datum , these result demonstrate a correlation between the level of kinase activation and cellular transformation for c-abl and further suggest that c-abl be more effective at transform this hematopoietic cell line than activate variant of SRC .
+52						the longer latency of transformation by src kinase variant may be due to the fact that activate src kinase alone be not sufficient for transformation and may require additional epigenetic or genetic alteration to transform the baf3 cell .
+53	taxonomy:10090	mouse	s1			to determine whether the in vitro assay of il-3-independent cell survival and proliferation correlate with the development of leukemia in vivo , we inject baf3 cell express the c-abl and c-src variant into syngenic balb and c mouse and observe for leukemia induction , with bcr-abl-expressing baf3 cell serve as a control .
+54						mouse inject with c-abl-t334us or bcr-abl-transformed baf3 cell die within 4 week with peripheral blood leukocytosis and massive splenomegaly .
+55						in contrast , none of the other variant of c-abl or c-src develop leukemia .
+56	uaz:UA-CLine-6116	BaF3 cells	e11,c7	s1,c7	mutation at the gatekeeper threonine can activate the intrinsic tyrosine kinase activity of both c-abl and c-src , but only activate variant of c-abl induce leukemia	these datum demonstrate that mutation at the gatekeeper threonine can activate the intrinsic tyrosine kinase activity of both c-abl and c-src , but only activate variant of c-abl induce leukemia in baf3 cell , consistent with a long standing observation that activate src be ineffective at transform baf3 cell .
+57						gatekeeper mutation in receptor tyrosine kinase be activate
+58	uaz:UA-CLine-100104	HEK293T cells	e12,c8	c8	transient expression of the receptor tyrosine kinase pdgfrb and its gatekeeper mutation variant ( t681a , t681us and t681m ) in hek293t cell show enhance kinase autophosphorylation and increase tyrosine phosphorylation of total cellular protein .	transient expression of the receptor tyrosine kinase pdgfrb and its gatekeeper mutation variant ( t681a , t681us and t681m ) in hek293t cell show enhance kinase autophosphorylation and increase tyrosine phosphorylation of total cellular protein .
+59						like the c-src kinase , introduction of the methionine residue ( pdgfrb-t681m ) generate the most active kinase ( online ) .
+60						for PDGFRA , only the t674m variant be associate with kinase activation , as demonstrate by autophosphorylation of purify protein .
+61						for unknown reason , we be unable to achieve adequate expression of egfr in hek293t cell .
+62	uaz:UA-CLine-6116	BaF3 cells	c9			we next express these receptor tyrosine kinase mutant in baf3 cell .
+63			e13	c9	 kinase activation for each of the gatekeeper variant of pdgfrb ( t681a , t681us and t681m ; ) , PDGFRA ( t674us and t674m ; ) and egfr ( t790us , t790m and l858r ; )	immunoblotting of total cell lysate and partially purify protein show kinase activation for each of the gatekeeper variant of pdgfrb ( t681a , t681us and t681m ; ) , PDGFRA ( t674us and t674m ; ) and egfr ( t790us , t790m and l858r ; ) .
+64			e14	c9	this mutation36 .	for these experiment , egfr-l858r serve as a control , because egfr activation and baf3 cell transformation have be describe previously for this mutation .
+65					the result of these gatekeeper mutagenesis study reveal that , like c-abl and c-src , pdgfrb be maximally activate by the substitution with bulkier residue ( isoleucine and methionine ) and more modestly activate by alanine substitution , whereas pdgfra and egfr can be activate only by the substitution with isoleucine or methionine but be tolerant of substitution with smaller side chain substitution such as alanine .	the result of these gatekeeper mutagenesis study reveal that , like c-abl and c-src , pdgfrb be maximally activate by the substitution with bulkier residue ( isoleucine and methionine ) and more modestly activate by alanine substitution , whereas pdgfra and egfr can be activate only by the substitution with isoleucine or methionine but be tolerant of substitution with smaller side chain substitution such as alanine .
+66						unlike bcr-abl or c-abl-t334us , none of the receptor bear gatekeeper mutation support short term il-3-free survival in baf3 cell ( online ) .
+67						like c-src-t341m / I , baf3 cell carry receptor bear the gatekeeper variant pdgfrb-t681us , pdgfrb-t681m ; pdgfra-t674us , pdgfra-t674m ; egfr-t790us , egfr-t790m and egfr-l858r show delay but robust growth of baf3 cell after 9-10 d .
+68						the longer latency of transformation by these receptor kinase variant may be due to the fact that the activated kinase alone be not sufficient for transformation and may require additional epigenetic or genetic alteration to transform the baf3 cell .
+69						these datum demonstrate that the gatekeeper mutation activate the kinase activity in receptor tyrosine kinase and can transform the cytokine dependent cell line baf3 , although with longer latency than for activate variant of c-abl .
+70						a hydrophobic spine be assemble during kinase activation
+71						Crystal structure of protein kinase in they active and inactive conformation have provide a general understanding of they regulation via intramolecular autoregulatory interaction .
+72						typically , activation involve change in the position and orientation of the activation loop and the catalytic c-helix .
+73						a surface comparison of active kinase structure have reveal a network of highly conserve hydrophobic or amino-aromatic interaction call the hydrophobic spine , which stabilize the active kinase conformation .
+74						in abl kinase , the spine comprise four residue , leu320 , met309 , phe401 and his380 , which form a chain of hydrophobic interaction from the n lobe via the active site to the tyr412 of the activation loop .
+75						these interaction be disrupt in the inactive state .
+76						the gatekeeper residue thr334 be situate near the tip of the hydrophobic spine .
+77						we modeling analysis suggest that substitution of a bulkier hydrophobic residue at this position would stabilize the active state by strengthen the spine .
+78						in we model , leu403 serve as a bipositional switch that position asp400 of the dfg motif in the correct orientation to enable catalysis ( online ) .
+79						in the active state the backbone of leu403 coordinate arg381 of the catalytic hrd motif , whereas in the inactive state the sidechain of leu403 stabilize phe401 in the catalytically quiescent ' dfg-out ' conformation .
+80						furthermore , computational modeling of the published structure of src and egfr reveal similar hydrophobic interaction in SRC ( online ) and egfr ( online ) , where the gatekeeper residue sit at the top of the spine , stabilize the active state .
+81						the active src and egfr kinase maintain a hydrophobic spine from the gatekeeper threonine to tyr419 and tyr869 of the activation loop , respectively .
+82						these interaction be disrupt in the inactive state .
+83						as in ABL , leu410 of src and leu858 of egfr serve as a bipositional switch for kinase regulation , .
+84						altogether , these in silico analysis suggest that gatekeeper mutant stabilize the active state of the kinase by contribute to the hydrophobic spine .
+85						SRC-T341I adopt a active conformation
+86	taxonomy:9031	chicken	s2,e15	s2	c-src kinase domain ( residue 251-533 ) in complex with atpgammaS	we crystallize the isoleucine substitution of the gatekeeper residue of the chicken c-src kinase domain ( residue 251-533 ) in complex with atpgamma and determine the structure to a resolution of 2.0 a .
+87						the four molecule present in the asymmetric unit be in virtually identical conformation ; further discussion focus on one of these .
+88						there be well define electron density for the adenine , ribose and the alpha-phosphate group of atpgamma and less well define density for the beta-_NN and gamma-phosphate .
+89			e16	s2	the activation loop be fully order and tyr419 be phosphorylate .	the activation loop be fully order and tyr419 be phosphorylate .
+90						the overall conformation of the c-src-t341us mutant resemble that of the activation loop phosphorylate lck ( pdb 1qpc ) , where phe408 of the dfg motif form contact with residue his387 and met317 of the hydrophobic spine , such that the hydrophobic spine be assemble .
+91						however , in the inactive state of the src kinase conformation , the hydrophobic spine be cripple and the activation loop be not phosphorylate and extend .
+92						gatekeeper mutation efficiently organize the active site
+93						we compare the structure of the gatekeeper variant of c-src with a high-resolution structure of a wild-type src family kinase -- lck bind to the atp analog amp-pnp , also in the active conformation ( pdb 1qpc ) .
+94						in both structure , a active-site lysine residue ( src lys298 and lck lys273 ) form a hydrogen bond with a glutamate residue in helix alphac ( src glu310 and lck glu288 ) , but the conformation of the lysine residue be different in the two structure .
+95						in the wild-type lck , two water molecule be interdigitate between thr316 and lys273 , and the lysine side chain do not form hydrogen bond with the phosphate group of the atp analog ( the closest distance between the lysine nitrogen and a phosphate oxygen be 5.5 a ) .
+96						in the src structure , the substitution of isoleucine lead to the exclusion of these water molecule and the rearrangement of the lysine side chain , which pack closely to the isoleucine residue and form a hydrogen bond to the alpha-phosphate of the nucleotide ( n-o distance of 3.4 a ) .
+97						the hydrophobic packing of ile341 and lys298 seal off the interior of the kinase domain , thereby exclude water and potentiate the hydrophobic spine and interaction of lys298 with atp relative to the wild-type structure .
+98						a similar orientation of the lysine residue and atp be see in the structure of kinase with hydrophobic residue at the gatekeeper position of the insulin receptor kinase .
+99						on the basis of these observation , we infer that the t341us mutation activate the kinase by optimize the coordination of atp and by stabilize the hydrophobic spine .
+100						mutagenesis of the hydrophobic spine cause kinase inactivation
+101						we model predict that kinase activity be dependent on assembly of the hydrophobic spine .
+102						to test this , we mutate all four residue that constitute the spine in the abl kinase ( leu320 , met309 , phe401 and thr334 ) to glycine and analyze kinase activity in a cell base assay .
+103						m309g , f401g and t334g completely abrogate kinase activity , whereas l320g show a decreased level of phosphorylation relative to abl-t334us .
+104						molecular modeling of the l320g reveal only a modest effect on spine assembly , consistent with the modestly reduce kinase activation of abl-t315us , whereas , m309g and f401g mutation completely disrupt the assembly of the spine , inactivate the kinase .
+105						similarly , double or triple mutation of the residue that disrupt the spine assembly also result in a inactive kinase .
+106						these mutagenesis datum suggest that the hydrophobic spine be a key structural element of the enzymatically active conformation of the abl kinase .
+107			e18	c11,c10	compound 14 inhibit the gatekeeper variant of bcr-abl	compound 14 inhibit the gatekeeper variant of bcr-abl
+108						give we hypothesis that gatekeeper mutation stabilize the hydrophobic spine , we reason that a small-molecule atp-competitive inhibitor that can disrupt the hydrophobic spine may achieve the necessary binding affinity to successfully inhibit the kinase activity of gatekeeper mutant .
+109						we perform structural alignment of the abl kinase crystallize with different inhibitor to identify a inhibitor that can dismantle the spine without any physical interaction with the activation loop .
+110						by this analysis , we identify compound 14 as be able to efficiently compete for the spine residue without directly affect the mobility of the activation loop .
+111						compound 14 be generate by a rational ' hybrid design ' approach by append a trifluoromethyl group to the parent inhibitor pd166326 ( ref ; ) .
+112						compound 14 , like imatinib , disrupt the assembly of the hydrophobic spine , thereby lock the kinase in a inactive ' dfg-out ' conformation .
+113						the shape of compound 14 resemble that of the core of imatinib , with the key difference that the hydrophilic methyl-piperazine group in imatinib be replace with the more hydrophobic trifluoromethyl moiety .
+114						the structure also suggest that the trifluoromethylbenzamide ring of compound 14 compete for phe401 of the dfg motif without have any direct physical interaction with the activation loop .
+115						therefore , we reason that compound 14 may , at a higher concentration , efficiently inhibit the gatekeeper mutant abl t315us by destabilizing the active state .
+116						additionally , the trifluoromethyl group of compound 14 fit into a hydrophobic cavity create by the disruption of the spine residue phe401 and his387 , and this may provide extra anchorage for affinity .
+117						we test compound 14 and the parent inhibitor pd166326 for they ability to inhibit native and gatekeeper variant of abl and bcr-abl .
+118						compound 14 inhibit c-abl-t334us , bcr-abl and bcr-abl-t315us variant with a 50 % inhibitory concentration ( ic50 ) of 0.25 mum , 0.09 mum and 0.590 mum , respectively .
+119						in contrast , pd166326 barely inhibit c-abl-t334us , with a ic50 of 8.0 mum , and show a complete lack of activity up to 10 mum against bcr-abl-t315us .
+120						similarly , imatinib and nilotinib have be show to be completely resistant against the gatekeeper mutant , , .
+121						these result demonstrate that the gatekeeper mutant stabilize the active state by potentiate the hydrophobic spine , and disruption of the spine by a small-molecule inhibitor can efficiently inhibit the gatekeeper mutant .
+122						although imatinib and nilotinib disrupt the hydrophobic spine , the fact that they fail to show any activity against the gatekeeper mutant may be due to the requirement of higher free energy to destabilize the active state impose by they physical interaction with the activation loop .
+123						discussion
+124						substitution of the gatekeeper threonine residue by isoleucine in the bcr-abl oncoprotein ( t315us ) be the first resistance mutation note in imatinib treated patient , and mutation in the homologous residue have emerge as a common mechanism of resistance for numerous kinase .
+125						structural study have show that this threonine stabilize imatinib binding through hydrogen-bond interaction and regulate access to a deep hydrophobic pocket in the active site , thus provide a compelling reason why Rstitution should mediate drug resistance via a steric mechanism alone .
+126						however , the identification of t315us in a significant cohort of cml patient with primary imatinib resistance , , the association of germline mutation in the gatekeeper residue of egfr in familial lung cancer and the historical identification of gatekeeper residue mutation in transform isolate of the v-src viral oncoprotein imply a role for this mutation in promote malignancy that have hitherto be unexplained .
+127			e19	s2	in this study , we demonstrate that the highly conserve threonine gatekeeper residue that lie within the hinge region of the enzymatic cleft of many kinase represent a crucial structural feature whose mutation promote kinase activation .	in this study , we demonstrate that the highly conserve threonine gatekeeper residue that lie within the hinge region of the enzymatic cleft of many kinase represent a crucial structural feature whose mutation promote kinase activation .
+128					we datum demonstrate that threonine mutation be sufficient to activate kinase activity and transform function for several native nonreceptor and receptor tyrosine kinase .	we datum demonstrate that threonine mutation be sufficient to activate kinase activity and transform function for several native nonreceptor and receptor tyrosine kinase .
+129					evidence that the t315us variant of bcr-abl have higher oncogenic penetrance in in vitro model support a direct role in disease pathogenesis , .	evidence that the t315us variant of bcr-abl have higher oncogenic penetrance in in vitro model support a direct role in disease pathogenesis , .
+130			e190	s2	however , the enhanced oncogenicity have be attribute to increase tyrosine phosphorylation at tyr257 of bcr-abl , rather than increase kinase activity , which may be difficult to discern within the context of bcr-abl , because of its high intrinsic kinase activity .	however , the enhanced oncogenicity have be attribute to increase tyrosine phosphorylation at tyr257 of bcr-abl , rather than increase kinase activity , which may be difficult to discern within the context of bcr-abl , because of its high intrinsic kinase activity .
+131			e191	s2	additionally , the increased binding of atp demonstrate by the gatekeeper mutant of abl and egfr , may further contribute to increase phosphorylation of cellular subtrate .	additionally , the increased binding of atp demonstrate by the gatekeeper mutant of abl and egfr , may further contribute to increase phosphorylation of cellular subtrate .
+132						biochemical and structural analysis of protein kinase have reveal that a complex set of conformational mechanism regulate the catalytically active and quiescent state .
+133						conformational dynamics of the activation loop and the conserved c helix contribute to formation of a ion pair between a crucial lysine residue within the beta3 strand of the n lobe and a crucial glutamate residue within the c helix .
+134						ultimately , protein dynamics ensure that a conserved dfg motif lie at the tip of the activation loop be orient in a manner that allow coordinate binding of magnesium and atp .
+135						in adopt the enzymatically competent ' dfg in ' conformation , the n lobe and c lobe move toward one another to accommodate these structural change .
+136						we study support a model whereby the hydrophobic spine serve as a structural element link the n and c lobe .
+137						the gatekeeper residue , by virtue of its location , stabilize the spine in the active conformation , whereas the inactive state be stabilize by autoinhibitory regulatory domain interaction and by association with negative regulatory protein , .
+138						mutation that disrupt this autoinhibition promote enzymatically active kinase conformation that be intrinsically resistant to imatinib binding , .
+139						although direct steric hindrance have be invoke to explain the resistance of bcr-abl-t315us , kit-t670us , pdgfra-t674us and egfr-t790m to kinase inhibitor binding , , , , we datum suggest that threonine mutation act as well to promote the assembly of a enzymatically active kinase conformation by stabilize the hydrophobic spine .
+140						we anticipate that this regulatory mechanism be conserve across the kinase family .
+141						substitution of the gatekeeper threonine residue with alanine , a smaller hydrophobic residue , likewise cause kinase activation , but less robustly than substituton with isoleucine or methionine .
+142						a recent report use hydrogen-exchange ( hx ) study of the native and gatekeeper mutate erk2-q103a kinase demonstrate that substitution of smaller hydrophobic residue create a cavity within the hydrophobic cluster that destabilize the autoinhibited state and increase the flexibility of the dfg motif and activation loop , and increase flexibility of the activation segment would be expect to favor autophosphorylation .
+143						give we datum show that gatekeeper residue mutation cause kinase activation in several receptor and nonreceptor tyrosine kinase , we speculate that this phenomenon may be a generic feature of kinase regulation that help to explain why this class of mutation have be observe in drug-naive patient .
+144						in future drug design , structure that maximize complementarity to the dismantled spine should be favor , as these represent a inhibitor class that optimize specificity by recognize inactive kinase conformation while gain sufficient affinity to be active against kinase that carry mutation at the gatekeeper residue .
+145						method
+146						plasmid construct
+147						we clone full-length c-abl isoform ib by replace the bcr portion of bcr-abl with the n terminus of c-abl-ib .
+148						a 0.6-kb n-terminal dna fragment of c-abl-ib ( start with initiation codon atg and end with the amino acid residue g163 of the sh2 domain ) be amplify by pcr use gene specific primer ( online ) and cdna from hek293t cell .
+149						this 0.6-kb fragment be digest with kpnus and bamhus and ligate to bamhus and kpnus digest peykba , yield peykabl-ib .
+150						because peyk vector lack a selectable marker , we construct two different selectable expression vector ( pop-ires-gfp-puro and pop-ires-rfp-puro ) for stable expression of transgene in mammalian cell .
+151						to construct pop-ires-gfp-puro , peyk3 .1 be digest with ecor i and dna end be fill in by Klenow polymerase , follow by ligation with dna fragment contain ires-gfp ( pmscv-iresgfp be digest with salus and the end be fill in by Klenow polymerase , follow by dna purification by agarose gel electrophoresis ) and sv40-puro ( pbabe be digest with sal1 and mluus , follow by dna purification by agarose gel electrophoresis ) .
+152						to construct pop-ires-rfp-puro , pop-ires-gfp-puro be digest with salus and dna end be fill by the Klenow polymerase , follow by digestion with bam h1 .
+153						the vector backbone be purify and ligate to a dna fragment contain ires-rfp , which be derive from the pires2 dsred ( Clontech ) vector by digest it with notus and bglius .
+154						pEYKABL-Ib be digest with ecorus .
+155						the dna fragment contain abl-ib be purify from peykabl-ib by ecorus digestion and ligate to ecorus digest pop-ires-gfp-puro , yield popabl-ib .
+156						a six-histidine tag be attach at the c terminus of popabl-ib by pcr ( primer be list in ) use the quickchange mutagenesis kit ( stratagene ) .
+157						we find no difference in the activity of the histidine tag and native version of abl and src or they gatekeeper variant ( datum not show ) , and therefore the kinase activation observe be unlikely to be influence by the histidine tag .
+158						src , pdgfra and egfr be clone by pcr use hi-fidelity polymerase ( Roche ) , gene specific primer , and cdna from hek293t cell .
+159						pdgfrb be clone from total human cdna ( Clontech ) by pcr use gene specific primer .
+160						these pcr product be clone into TA cloning vector pcrxl-topo ( Invitrogen ) and pscb ( stratagene ) .
+161						c-SRC and pdgfrb be clone in pcrxl-topo vector to yield pcrxl-src and pcrxl-pdgfrb , whereas pdgfrb and egfr be clone into the psc vector to yield psc-egfr and psc-pdgfra .
+162						four different clone for each gene be sequence .
+163						the clone that be devoid of mutation be use for subcloning into pop expression vector .
+164						the ecorus fragment of pcrxl-src contain the SRC coding gene be purify and ligate to ecorus digest pop-ires-gfp-puro vector , yield pop-src-ires-gfp-puro .
+165						similarly , pdgfrb be clone into the ecorus site of the pop-ires-gfp-puro vector to give rise pop-pdgfrb-ires-gfp-puro .
+166						the plasmid psc-pdgfra be digest with bamhus and ageus to excise the fragment contain the code region , follow by clone in pop-ires-rfp-puro at the bamhus site to yield pop-pdgfra-ires-rfp-puro .
+167						finally , pscegfr be digest with xhous and pvuus ; the dna fragment be purify and ligate to salus and xhoi-digested pop-ires-gfp-puro to yield pop-egfr-puro .
+168						to construct gatekeeper mutant version of these kinase , oligonucleotide overlap the gatekeeper residue be synthesize and use to perform site directed mutagenesis on the respective plasmid template ( Quickchange XL mutagenesis kit ; Stratagene ) .
+169						each mutant be confirm by sequencing .
+170						cell culture , transfection and retroviral transduction
+171						we carry out hek293t cell culture , proviral transfection and viral production , and transduce baf3 cell as describe previously .
+172						at 24 h after transduction , 2.5 mug ml-1 puromycin be add to the media to select for transduce cell .
+173						after 4-6 d , puromycin resistant cell be count and plate at 5,000 cell per well in 96-well plate , with and without il-3 , in quadruplicate .
+174						cell be incubate at 37 degreesc , and the viable cell number be assess 60 h later use the wst-1 reagent ( Roche ) , accord to the manufacturer 's specification .
+175						for prolonged il-3 survival , 5,000 baf3 cell be plate in quadruplicate in 96-well plate in rpmus without il3 .
+176						cell be incubate at 37 degreesc for 14 d. number of confluent well be score as il-3-independent growth .
+177						balb and c mouse injection
+178						we inject 106 baf3 cell express c-src , c-abl and gatekeeper variant intravenously into balb and c mouse by tail vein injection .
+179						ten mouse be inject for each construct .
+180						analysis of baf3 inject mouse be perform as describe previously .
+181						immunoblotting
+182	uaz:UA-CLine-100104,uaz:UA-CLine-6116	hek293t, baf3	c10,c11			hek293t and baf3 cell be lyse in a buffer contain 50 mm sodium phosphate , ph 7.4 , 300 mm nacl , 1 mm edta , 10 mm imidazol , 4 mm sodium vanadate , 2 mm sodium floride , 5 mm benzamidine hydrochloride , 2 mm sodium glycerophosphate and 1 mul ml-1 Triton x-100 ; 50 mul ml-1 of glycerol protease inhibitor ( Roche ) and phosphatase inhibitor i and ii ( Sigma ) be add immediately before use .
+183						cell be suspend in lysis buffer and homogenize by 4-6 burst of sonication .
+184						sample be normalize for total protein content and total cell lysate be clarify by centrifugation for 5 min at 15,000 g. for partial purification , 50 mul of ni-nta bead be add to each sample and incubate 2-4 h at 4 degreesc .
+185						afterwards , ni-bead be wash twice with lysis buffer .
+186						total cell lysate and ni-bead-purified protein be suspend in sample buffer and denature at 70 degreesc .
+187						for drug treatment , 10 mm stock of pd166326 and compound 14 in dmso be use to supplement the growth media for the desired concentration , 6 x 106 cell be treat for each drug concentration for 6 h , follow by wash with chill PBS , and crude extract be prepare as report previously .
+188						protein be resolve by 7 % sds-page ( biorad ) under denature condition , transfer to nitrocellulose and probe as describe .
+189						antibody use for immunoblotting be : anti-egfr , anti-phospho-egfr-y1068 , anti-phospho-egfr-y845 , anti-phospho-pdgfrb , anti-phospho-pdgfra , anti-src , anti-phospho-src-416 , anti-phospho-src-527 , anti-nonphospho-src-416 , anti-nonphospho-src-527 and anti-phospho-abl-y412 , from cell signaling technology ; anti-phosphotyrosine-py99 , anti-abl , anti-pdgfra and anti-pdgfrb from Santa Cruz Biotechnology .
+190						band be visualize use ecl reagent ( Pierce ) accord to the supplier 's instruction .
+191						protein preparation and crystallization
+192						wild-type and t338us mutant chicken c-src kinase domain ( residue 251-533 ) be express in escherichia coli and purify as describe previously .
+193						crystal be grow at 25 degreesc by the hanging-drop method , mix 1 mul of protein at a concentration of 10 mg ml-1 ( in 20 mm Tris , ph 8.0 , 100 mm nacl , 5 % ( v and v ) glycerol , 0.5 mm ( v and v ) Tris - ( 2-carboxyethyl ) phosphine ( tcep ) , 1 mm atpgamma ) with 1 mul well solution ( 10 % ( v and v ) peg4000 , 50 mm ammonium acetate , 100 mm ( v and v ) Bis-Tris , ph 5.5 , 5 % ( v and v ) glycerol ) .
+194						plate shape crystal of approximate dimension 200 mum x 200 mum x 50mum grow overnight .
+195						crystal be cryoprotect by serial soak in well solution with increase glycerol concentration up to 20 % ( v and v ) and snap frozen and store in liquid nitrogen .
+196						datum collection and structure determination
+197						Diffraction datum be collect at the Advanced Light Source ( ALS ) , Lawrence Berkeley National Laboratory beamline 8.3.1 and 8.2.1 , and process to a resolution of 2.0 a ( src-t338us ) and 2.3 a ( src wild type ) with denzo and scalepack .
+198						SRC-T338I crystallize in space group p21 with unit cell dimension of a = 82.4 a , b = 103.7 a , c = 83.7 a , alpha = gamma = 90degree , beta = 103.9 degree and four kinase molecule in the asymmetric unit .
+199						wild-type src crystallize in space group p21 with unit cell dimension of a = 42.5 a , b = 119.2 a , c = 63.7 a , alpha = gamma = 90degree , beta = 90.4 degree and two kinase molecule in the asymmetric unit .
+200						the structure be solve by molecular replacement use the kinase domain of chicken c-src residue 250-533 ( pdb 2src ) 24 with the c helix and the activation loop delete as a search model in the program phaser .
+201						the model be build in Coot .
+202						SRC-T338I be refine with cn 1.2 ( ref . )
+203						and Phenix .
+204						the rwork and rfree value be 0.205 and 0.247 , respectively .
+205						wild-type src be refine in refmac 5.2 ( ref . )
+206						with tl refinement with a rwork and rfree of 19.7 and 0.245 , respectively .
+207						Supplementary Material
+208						Supp .
+209						file
+210						Figure 1
+211						sequence conservation and structural feature of the gatekeeper residue threonine in tyrosine kinase and activation of kinase activity by gatekeeper residue mutation .
+212						sequence alignment of the kinase domain hinge region and conservation of the gatekeeper residue in v-src , c-src , c-abl and several receptor tyrosine kinase .
+213						( b ) structural alignment of inactive c-src ( cyan ; PDB 1Y57 ) and c-abl ( gray ; pdb 2g2us ) show the conformational similarity ; the kinase hinge region be mark by the arrow .
+214						( c ) a enlarged view of the ABL active site bind to pd166326 ( above ; PDB 1opk ) and a atp analog ( below ; pdb 2g2f ) , show the specific interaction of pd166326 but not atp with the gatekeeper threonine .
+215						immunoblot analysis of hek293t cell express bcr-abl and different variant of c-abl .
+216						above , total cell lysate probe with anti-phosphotyrosine antibody ( anti-py ) .
+217						the blot be strip and reprobe with anti-abl .
+218						below , immunoblot of ni-nta-purified histidine tag c-abl protein probe with anti-py , follow by strip and reprobe with anti-abl antibody .
+219						( e ) immunoblot analysis of hek293t cell express different c-src kinase variant .
+220						above , total cell lysate probe with anti-py .
+221						the blot be strip and reprobe with anti-src , anti-phosphotyrosine-416 ( anti-src-py416 ) and anti-phosphotyrosine-527 ( anti-src-py527 ) antibody .
+222						( f ) immunoblot of ni-nta-purified c-src kinase variant probe with anti-py follow by strip and reprobe as describe in e. mw , molecular weight .
+223						figure 2
+224						kinase activation and baf3 cellular transformation by gatekeeper mutant of src and abl .
+225						immunoblot analysis of baf3 cell express bcr-abl and gatekeeper mutant of c-abl .
+226						above , total cell lysate probe with anti-phosphotyrosine antibody ( anti-py ) .
+227						blot be strip and reprobe with anti-abl .
+228						below , immunoblot of ni-nta-purified histidine tag c-abl protein probe with anti-py , follow by strip and reprobe with anti-abl antibody .
+229						MW , molecular weight .
+230						( b ) immunoblot analysis of baf3 cell express different c-src kinase variant .
+231						above , total cell lysate probe with anti-py .
+232						blot be strip and reprobe as describe in .
+233						( c ) immunoblot of ni-nta-purified histidine tag c-src protein probe with anti-py .
+234						blot be strip and reprobe as in .
+235						cell proliferation assay of baf3 cell express bcr-abl and different construct of abl variant .
+236						cell be plate in quadruplicate in 96-well plate at a density of 5,000 cell per well in the absence of il-3 , and score when the well become confluent .
+237						( e ) cell proliferation assay of baf3 cell express c-src kinase variant .
+238						( f ) survival of mouse inject with baf3 cell express bcr-abl and gatekeeper variant of c-src and c-abl .
+239						ten mouse be inject for each construct .
+240						Figure 3
+241						kinase activation and baf3 cellular transformation by gatekeeper residue mutation of receptor tyrosine kinase .
+242						immunoblot analysis of baf3 cell express gatekeeper mutant of pdgfrb .
+243						above , total cell lysate probe with anti-phosphotyrosine antibody ( anti-py ) .
+244						blot be strip and reprobe with anti-pdgfrb antibody and anti-pdgfrb-phosphotyrosine-751 ( anti-py751 ) .
+245						below , immunoblot of ni-nta-purified histidine tag pdgfrb protein probe with anti-py , follow by strip and reprobe with anti-pdgfrb antibody and anti-py751 .
+246						( b ) immunoblot analysis of baf3 cell express gatekeeper mutant of pdgfra .
+247						above , total cell lysate probe with anti-py .
+248						blot be strip and reprobe with anti-pdgfra antibody and anti-pdgfra-phosphotyrosine-754 ( anti-py754 ) .
+249						below , immunoblot of ni-nta-purified histidine tag pdgfra protein probe with anti-py , follow by strip and reprobe with anti-pdgfra antibody and anti-py754 .
+250						( c ) immunoblot analysis of baf3 cell express gatekeeper mutant of egfr .
+251						above , total cell lysate probe with anti-py .
+252						blot be strip and reprobe with anti-egfr antibody and anti-egfr-phosphotyrosine-845 ( anti-py845 ) .
+253						below , immunoblot of ni-nta-purified histidine tag egfr protein probe with anti-py , follow by strip and reprobe with anti-egfr antibody and anti-py845 .
+254						( d-f ) cell proliferation assay of baf3 cell express wild-type and gatekeeper mutant of PDGFRB , PDGFRA ( e ) and egfr ( f ) .
+255						cell be plate in quadruplicate in 96-well plate at a density of 5,000 cell per well in the absence of il-3 and score when the well become confluent .
+256						Figure 4
+257						the active conformation of ABL be stabilize by a hydrophobic spine link the gatekeeper threonine to the activation loop .
+258						the surface projection of the hydrophobic spine that assemble during abl kinase activation in abl-adp conformation ( show in blue ; pdb 2g2us ) .
+259						the gatekeeper residue , thr334 , be show as a orange surface .
+260						( b ) the surface projection of the dismantle hydrophobic spine in the inactive kinase conformation of abl-imatinib ( pdb 1opj ) .
+261						imatinib bind to the inactive kinase which be stabilize by the dfg-out conformation cause by dismantle of the hydrophobic spine .
+262						Figure 5
+263						the hydrophobic spine in active and inactive src kinase .
+264						Crystal structure of chicken c-src-t338us bind to atpgamma .
+265						SRC-T338I be homologous to t334us in human c-src .
+266						Chicken SRC residue be number accord to the human c-src kinase numbering .
+267						the residue leu328 , met317 , phe408 and his387 , which constitute the hydrophobic spine , be show in blue .
+268						the gatekeeper isoleucine residue be show in orange .
+269						the activation loop be show in red .
+270						( b ) the inactive conformation of chicken c-src ( pdb 2src ) , color as in a. ( c ) active site of lck kinase ( pdb 1qpc ) in the active state bind with amp-pnp show in yellow .
+271						Gatekeeper residue thr316 and the catalytic lys273 be show as green surface .
+272						the water molecule sandwich between the residue thr316 and lys273 be show as red circle .
+273						the interaction of lysine with anp and the catalytic glu288 be show ; bond distance be present in angstrom .
+274						active site of src-t341us kinase domain ( pdb 3dqw ) bind with atpgamma show in yellow .
+275						the surface of the side chain for residue ile341 and lys298 be show in green .
+276						interaction of lys298 with glu310 and atpgamma be map and the bond distance be indicate in angstrom .
+277						( e ) active site of insulin receptor kinase ( irk ; PDB entry 1gag ) bind with anp show in yellow .
+278						the surface of the side chain for residue met1076 and lys1030 be show in green .
+279						interaction of catalytic lys1030 with glu1047 and anp be map , and the bond distance be indicate in angstrom .
+280						Figure 6
+281						disruption of hydrophobic-spine assembly by mutagenesis inactivate the abl-t334us kinase .
+282						immunoblot analysis of hek293t cell express bcr-abl and different variant of abl-t334us ( analogous to the t315us substitution in bcr-abl ) .
+283						above , total cell lysate probe with anti-phosphotyrosine antibody ( anti-py ) follow by strip and reprobe with anti-abl antibody .
+284						( b-e ) surface projection of the hydrophobic spine in the active abl-anp conformation ( pdb 2g2us ) .
+285						isoleucine substitution enhance spine assembly ( b ) .
+286						l320g ( c ) , m309g and f401g ( e ) substitution disrupt the spine .
+287						WT , wild type .
+288						Figure 7
+289						the atp competitive inhibitor compound 14 disrupt the hydrophobic spine and inhibit c-abl-t334us and bcr-abl-t315us .
+290						Chemical structure of pd166326 , compound 14 and imatinib .
+291						( b ) superimpose structure of pd166326 , compound 14 and imatinib in the active and inactive conformation of abl kinase , show the physical interaction with activation loop .
+292						( c ) the abl-compound 14 cocrystal structure ( pdb 2hiw ) indicate that compound 14 bind to the inactive dfg-out conformation , and the trifluoromethyl group of compound 14 bind deeply into the hydrophobic pocket partially form by the dismantle hydrophobic spine .
+293						the additional anchorage gain through this interaction may drive conformational adjustment in the presence of the bulkier isoleucine side chain .
+294						( d-f ) immunoblot analysis of lysate of baf3 cell transform by c-abl-t334us , bcr-abl-native ( e ) and bcr-abl-t315i ( f ) , and expose to various concentration of pd166326 ( leave ) and compound 14 ( right ) .
+295						blot be probe with anti-phosphotyrosine-412 antibody , anti-phosphotyrosine antibody and anti-abl antibody as indicate on the right side of each blot .
+296						concentration of drug be give above each lane .

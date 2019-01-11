@@ -1,0 +1,402 @@
+0 4-4-myotube-tissuelist:TS-0654
+1 
+1 3-3-myoblasts-tissuelist:TS-0650
+2 
+3 4-5-cell_surface-go:GO:0009986
+4 8-8-axon-go:GO:0030424 20-21-nervous_system-tissuelist:TS-1313
+5 4-4-myoblasts-tissuelist:TS-0650
+6 3-3-myotube-tissuelist:TS-0654
+7 12-12-myoblasts-tissuelist:TS-0650
+8 25-26-cell_surface-go:GO:0009986
+9 
+9 
+10 
+10 1-2-skeletal_muscle-tissuelist:TS-0933 11-11-myoblasts-tissuelist:TS-0650 23-23-embryo-tissuelist:TS-0229 31-31-muscle-tissuelist:TS-0642
+11 
+12 
+13 
+14 
+14 13-13-myoblasts-tissuelist:TS-0650
+15 2-2-myoblast-tissuelist:TS-0650 40-40-muscle-tissuelist:TS-0642
+16 26-26-serum-tissuelist:TS-0923
+17 
+17 5-6-skeletal_muscle-tissuelist:TS-0933
+18 
+19 14-14-mice-taxonomy:10090 22-22-muscle-tissuelist:TS-0642
+20 
+21 6-7-cell_surface-go:GO:0009986
+22 
+23 
+23 14-15-cell_membranes-uniprot:SL-0039
+24 5-5-axon-go:GO:0030424 21-22-cell_surface-go:GO:0009986
+25 
+26 
+27 8-9-nervous_system-tissuelist:TS-1313
+28 
+28 
+29 16-17-skeletal_muscle-tissuelist:TS-0933
+30 5-5-neurons-uaz:UA-ORG-623
+31 4-4-axons-go:GO:0030424 13-14-actin_cytoskeleton-go:GO:0015629 16-17-growth_cones-go:GO:0030426
+32 16-16-myotube-tissuelist:TS-0654 23-23-cytoskeleton-go:GO:0005856
+33 17-18-mammary_gland-tissuelist:TS-0595
+34 4-4-zebrafish-taxonomy:7955 15-15-muscle-tissuelist:TS-0642
+35 
+35 5-5-myoblasts-tissuelist:TS-0650
+36 10-10-myotube-tissuelist:TS-0654
+37 2-2-myoblasts-tissuelist:TS-0650 7-7-myotube-tissuelist:TS-0654
+38 
+39 26-27-cell_surface-go:GO:0009986
+40 
+40 
+41 
+41 8-8-myoblasts-tissuelist:TS-0650
+42 
+42 
+43 4-4-C2C12-uaz:UA-CLine-1001000 5-5-myoblasts-tissuelist:TS-0650
+44 
+45 
+46 3-3-myoblast-tissuelist:TS-0650 9-11-10T1/2-uaz:UA-CLine-5106 12-12-fibroblasts-uaz:UA-CLine-100060
+47 0-2-10T1/2-uaz:UA-CLine-5106 3-3-fibroblasts-uaz:UA-CLine-100060 5-7-10T1/2-uaz:UA-CLine-5106 11-11-myoblasts-tissuelist:TS-0650
+48 7-7-C2C12-uaz:UA-CLine-1001000
+49 
+50 
+50 
+51 
+51 9-9-muscle-tissuelist:TS-0642 13-13-C2C12-uaz:UA-CLine-1001000 18-20-10T1/2-uaz:UA-CLine-5106
+52 7-7-C2C12-uaz:UA-CLine-1001000
+53 
+54 
+55 
+56 8-8-myoblasts-tissuelist:TS-0650
+57 7-9-10T1/2-uaz:UA-CLine-5106
+58 0-2-10T1/2-uaz:UA-CLine-5106
+59 11-11-C2C12-uaz:UA-CLine-1001000
+60 
+61 
+61 
+62 5-5-C2C12-uaz:UA-CLine-1001000
+63 11-11-C2C12-uaz:UA-CLine-1001000
+64 
+65 3-3-C2C12-uaz:UA-CLine-1001000 27-27-chick-taxonomy:9031 35-36-spinal_cord-tissuelist:TS-0953 45-46-cell_membranes-uniprot:SL-0039
+66 0-2-10T1/2-uaz:UA-CLine-5106
+67 4-4-myoblast-tissuelist:TS-0650 8-10-10T1/2-uaz:UA-CLine-5106
+68 
+68 3-3-myotube-tissuelist:TS-0654
+69 
+69 16-16-C2C12-uaz:UA-CLine-1001000 30-30-human-taxonomy:9606
+70 
+71 11-11-C2C12-uaz:UA-CLine-1001000
+72 10-10-C2C12-uaz:UA-CLine-1001000 48-48-serum-tissuelist:TS-0923
+73 14-14-C2C12-uaz:UA-CLine-1001000
+74 4-4-C2C12-uaz:UA-CLine-1001000 20-20-C2C12-uaz:UA-CLine-1001000
+75 7-7-C2C12-uaz:UA-CLine-1001000
+76 27-27-C2C12-uaz:UA-CLine-1001000 40-40-C2C12-uaz:UA-CLine-1001000
+77 0-0-C2C12-uaz:UA-CLine-1001000
+78 5-5-muscle-tissuelist:TS-0642 23-23-C2C12-uaz:UA-CLine-1001000 38-38-C2C12-uaz:UA-CLine-1001000
+79 
+80 
+80 
+81 
+81 4-4-myotube-tissuelist:TS-0654 7-7-C2C12-uaz:UA-CLine-1001000
+82 3-3-C2C12-uaz:UA-CLine-1001000
+83 
+84 
+85 5-5-C2C12-uaz:UA-CLine-1001000 9-9-C2C12-uaz:UA-CLine-1001000
+86 
+87 5-5-myotube-tissuelist:TS-0654
+88 
+89 7-7-muscle-tissuelist:TS-0642 11-11-C2C12-uaz:UA-CLine-1001000
+90 
+90 9-9-myotube-tissuelist:TS-0654
+91 4-4-mouse-taxonomy:10090 24-24-C2C12-uaz:UA-CLine-1001000
+92 
+93 
+94 7-7-C2C12-uaz:UA-CLine-1001000
+95 
+96 18-18-myotube-tissuelist:TS-0654 34-34-myotube-tissuelist:TS-0654
+97 36-36-nucleus-go:GO:0005634
+98 20-20-nucleus-go:GO:0005634
+99 
+100 
+100 
+101 
+101 7-7-myotube-tissuelist:TS-0654
+102 
+103 0-0-C2C12-uaz:UA-CLine-1001000
+104 
+105 3-3-C2C12-uaz:UA-CLine-1001000
+106 
+107 
+108 5-5-myotube-tissuelist:TS-0654
+109 
+110 3-3-C2C12-uaz:UA-CLine-1001000 41-41-human-taxonomy:9606
+111 
+112 
+113 5-5-myotube-tissuelist:TS-0654
+114 
+115 
+116 
+116 24-24-human-taxonomy:9606
+117 9-9-mouse-taxonomy:10090 17-17-human-taxonomy:9606 23-23-human-taxonomy:9606
+118 8-8-C2C12-uaz:UA-CLine-1001000 21-21-human-taxonomy:9606 46-46-human-taxonomy:9606 68-68-human-taxonomy:9606
+119 
+120 
+121 
+122 9-9-myoblasts-tissuelist:TS-0650
+123 22-22-C2C12-uaz:UA-CLine-1001000
+124 
+124 3-3-myotube-tissuelist:TS-0654
+125 
+125 7-7-myoblast-tissuelist:TS-0650 17-17-mouse-taxonomy:10090 20-20-COS-uaz:UA-CLine-100020 22-22-293T-uaz:UA-CLine-100002
+126 0-0-Mouse-taxonomy:10090 5-5-human-taxonomy:9606 13-13-chicken-taxonomy:9031
+127 7-7-chicken-taxonomy:9031
+128 0-0-C2C12-uaz:UA-CLine-1001000 16-16-chicken-taxonomy:9031
+129 0-0-C2C12-uaz:UA-CLine-1001000
+130 42-42-myotube-tissuelist:TS-0654
+131 5-5-muscle-tissuelist:TS-0642
+132 10-10-C2C12-uaz:UA-CLine-1001000 19-19-myotube-tissuelist:TS-0654 32-32-muscle-tissuelist:TS-0642
+133 
+133 
+134 
+134 2-2-myotube-tissuelist:TS-0654
+135 5-5-C2C12-uaz:UA-CLine-1001000 17-17-chicken-taxonomy:9031
+136 
+137 5-5-myotube-tissuelist:TS-0654
+138 
+139 7-7-muscle-tissuelist:TS-0642 11-11-C2C12-uaz:UA-CLine-1001000 22-22-chicken-taxonomy:9031
+140 
+140 8-8-myotube-tissuelist:TS-0654 18-18-C2C12-uaz:UA-CLine-1001000
+141 16-16-C2C12-uaz:UA-CLine-1001000
+142 
+143 12-12-myotube-tissuelist:TS-0654 15-15-C2C12-uaz:UA-CLine-1001000
+144 
+144 
+145 
+145 5-5-myotube-tissuelist:TS-0654
+146 
+147 
+148 
+149 5-5-myotube-tissuelist:TS-0654
+150 
+151 
+151 
+152 
+152 
+153 
+154 4-4-C2C12-uaz:UA-CLine-1001000
+155 2-4-10T1/2-uaz:UA-CLine-5106 5-5-fibroblasts-uaz:UA-CLine-100060
+156 
+157 
+157 
+158 
+158 
+159 3-3-C2C12-uaz:UA-CLine-1001000
+160 3-5-10T1/2-uaz:UA-CLine-5106
+161 3-3-C2C12-uaz:UA-CLine-1001000
+162 3-5-10T1/2-uaz:UA-CLine-5106
+163 
+164 9-9-C2C12-uaz:UA-CLine-1001000 11-13-10T1/2-uaz:UA-CLine-5106 24-24-chicken-taxonomy:9031
+165 
+166 
+167 9-9-C2C12-uaz:UA-CLine-1001000
+168 
+169 
+169 8-8-C2C12-uaz:UA-CLine-1001000 10-12-10T1/2-uaz:UA-CLine-5106
+170 15-15-C2C12-uaz:UA-CLine-1001000 16-16-myoblasts-tissuelist:TS-0650
+171 9-9-C2C12-uaz:UA-CLine-1001000 11-13-10T1/2-uaz:UA-CLine-5106 19-19-chicken-taxonomy:9031
+172 
+173 
+173 14-14-C2C12-uaz:UA-CLine-1001000
+174 15-15-C2C12-uaz:UA-CLine-1001000
+175 1-1-C2C12-uaz:UA-CLine-1001000
+176 7-7-myotube-tissuelist:TS-0654
+177 
+177 
+178 
+178 
+179 
+180 12-12-C2C12-uaz:UA-CLine-1001000
+181 
+182 
+183 9-9-C2C12-uaz:UA-CLine-1001000
+184 7-7-myoblasts-tissuelist:TS-0650
+185 11-11-C2C12-uaz:UA-CLine-1001000
+186 
+186 
+187 
+187 
+188 
+189 
+190 5-5-C2C12-uaz:UA-CLine-1001000
+191 
+192 3-3-C2C12-uaz:UA-CLine-1001000
+193 5-5-293T-uaz:UA-CLine-100002
+194 3-3-293T-uaz:UA-CLine-100002
+195 3-3-293T-uaz:UA-CLine-100002
+196 
+196 15-15-293T-uaz:UA-CLine-100002
+197 
+198 3-3-C2C12-uaz:UA-CLine-1001000 10-10-293T-uaz:UA-CLine-100002
+199 3-3-293T-uaz:UA-CLine-100002
+200 
+201 
+201 24-24-tail-tissuelist:TS-1006
+202 
+203 0-0-293T-uaz:UA-CLine-100002
+204 
+205 
+206 
+207 
+208 
+209 
+210 
+211 
+212 
+213 
+213 19-19-myoblasts-tissuelist:TS-0650 23-23-mice-taxonomy:10090 25-25-mice-taxonomy:10090 40-40-chicken-taxonomy:9031
+214 9-9-myoblasts-tissuelist:TS-0650
+215 6-6-myoblasts-tissuelist:TS-0650
+216 14-14-myoblasts-tissuelist:TS-0650
+217 40-40-myoblasts-tissuelist:TS-0650
+218 
+219 
+219 
+220 
+220 
+221 17-17-myoblasts-tissuelist:TS-0650 32-32-mice-taxonomy:10090
+222 10-10-myoblasts-tissuelist:TS-0650
+223 
+224 
+224 
+225 
+225 
+226 8-8-myoblast-tissuelist:TS-0650 23-23-serum-tissuelist:TS-0923
+227 2-2-serum-tissuelist:TS-0923
+228 14-14-myoblast-tissuelist:TS-0650 24-25-cell_surface-go:GO:0009986
+229 
+230 19-19-myotube-tissuelist:TS-0654
+231 16-17-nervous_system-tissuelist:TS-1313
+232 
+232 4-4-myotube-tissuelist:TS-0654
+233 
+233 12-12-myoblast-tissuelist:TS-0650 15-15-myoblast-tissuelist:TS-0650 20-20-myoblasts-tissuelist:TS-0650 34-34-myotube-tissuelist:TS-0654 37-37-C2C12-uaz:UA-CLine-1001000 55-55-chicken-taxonomy:9031 58-58-myotube-tissuelist:TS-0654
+234 18-18-myotube-tissuelist:TS-0654
+235 
+235 3-3-chicken-taxonomy:9031 14-14-myotube-tissuelist:TS-0654
+236 8-8-C2C12-uaz:UA-CLine-1001000
+237 
+238 12-13-cell_membranes-uniprot:SL-0039
+239 8-8-C2C12-uaz:UA-CLine-1001000
+240 
+241 13-13-myoblasts-tissuelist:TS-0650 21-21-chicken-taxonomy:9031
+242 
+243 9-9-C2C12-uaz:UA-CLine-1001000 27-27-C2C12-uaz:UA-CLine-1001000
+244 13-13-myoblasts-tissuelist:TS-0650
+245 
+245 9-9-myoblasts-tissuelist:TS-0650 15-15-myotube-tissuelist:TS-0654 24-24-muscle-tissuelist:TS-0642
+246 7-7-muscle-tissuelist:TS-0642 18-18-C2C12-uaz:UA-CLine-1001000 30-30-C2C12-uaz:UA-CLine-1001000
+247 
+248 
+249 16-16-myotube-tissuelist:TS-0654 35-35-myotube-tissuelist:TS-0654
+250 13-13-myotube-tissuelist:TS-0654 37-37-cytoskeleton-go:GO:0005856 42-43-growth_cones-go:GO:0030426
+251 22-22-myotube-tissuelist:TS-0654 33-33-muscle-tissuelist:TS-0642
+252 15-17-axonal_growth_cones-go:GO:0044295
+253 
+253 0-1-Cell_surface-go:GO:0009986
+254 
+254 
+255 16-16-muscle-tissuelist:TS-0642
+256 5-6-cell_surface-go:GO:0009986
+257 
+258 
+259 8-9-actin_cytoskeleton-go:GO:0015629
+260 
+261 
+262 
+263 10-10-myoblasts-tissuelist:TS-0650 16-16-axon-go:GO:0030424 21-22-growth_cones-go:GO:0030426
+264 
+265 
+266 
+266 
+267 
+267 6-7-cell_surface-go:GO:0009986
+268 3-4-cell_surface-go:GO:0009986 13-13-myoblast-tissuelist:TS-0650
+269 
+270 
+271 23-24-actin_cytoskeleton-go:GO:0015629
+272 
+273 
+274 
+275 
+275 5-5-axon-go:GO:0030424 13-13-myoblasts-tissuelist:TS-0650
+276 
+277 7-7-myoblast-tissuelist:TS-0650
+278 15-15-C2C12-uaz:UA-CLine-1001000 30-30-C2C12-uaz:UA-CLine-1001000 60-60-myotube-tissuelist:TS-0654
+279 55-55-myoblasts-tissuelist:TS-0650
+280 
+281 
+281 
+282 
+282 
+283 
+283 0-0-C2C12-uaz:UA-CLine-1001000 5-7-10T1/2-uaz:UA-CLine-5106
+284 2-2-C2C12-uaz:UA-CLine-1001000 23-23-horse-taxonomy:9796 24-24-serum-tissuelist:TS-0923
+285 2-2-myotube-tissuelist:TS-0654
+286 0-0-COS-uaz:UA-CLine-100020 2-2-293T-uaz:UA-CLine-100002
+287 1-1-myoblasts-tissuelist:TS-0650 15-15-mice-taxonomy:10090
+288 3-4-muscle_tissue-uaz:UA-CT-31 15-15-muscles-uaz:UA-ORG-599
+289 
+290 
+291 12-12-myoblasts-tissuelist:TS-0650
+292 5-5-chicken-taxonomy:9031
+293 
+293 
+294 
+294 5-5-human-taxonomy:9606
+295 0-0-C2C12-uaz:UA-CLine-1001000
+296 7-7-mouse-taxonomy:10090
+297 44-44-C2C12-uaz:UA-CLine-1001000
+298 
+299 
+300 
+301 
+302 9-9-myotube-tissuelist:TS-0654 15-15-C2C12-uaz:UA-CLine-1001000
+303 
+304 
+305 
+306 
+306 
+307 
+307 
+308 67-67-Hybridoma-tissuelist:TS-0463
+309 
+309 
+310 
+311 
+312 
+313 
+313 
+314 
+315 0-0-Mouse-taxonomy:10090 9-9-mouse-taxonomy:10090
+316 
+316 
+317 
+317 0-0-C2C12-uaz:UA-CLine-1001000 2-4-10T1/2-uaz:UA-CLine-5106
+318 7-9-10T1/2-uaz:UA-CLine-5106
+319 
+320 
+320 
+321 
+321 
+322 5-5-Spot-taxonomy:59837 14-14-Spot-taxonomy:59837
+323 
+323 
+324 
+324 
+325 5-5-C2C12-uaz:UA-CLine-1001000 9-9-C2C12-uaz:UA-CLine-1001000
+326 
+327 8-8-myotube-tissuelist:TS-0654
+328 
+329 5-5-C2C12-uaz:UA-CLine-1001000
+330 
+331 

@@ -1,0 +1,304 @@
+0 
+1 
+1 
+2 
+3 
+4 
+5 
+6 17-17-mice-taxonomy:10090 25-25-mice-taxonomy:10090
+7 
+8 
+8 
+9 
+9 
+10 
+10 14-14-retinoblastoma-tissuelist:TS-0871 16-16-children-taxonomy:9606
+11 41-41-human-taxonomy:9606
+12 7-7-SV40-taxonomy:10633 12-12-adenovirus-taxonomy:10535 13-13-E1A-uaz:UA-CLine-2876 16-18-human_papilloma_virus-taxonomy:10566
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+19 
+20 
+20 11-11-humans-taxonomy:9606 13-13-mice-taxonomy:10090 15-15-chickens-taxonomy:9031
+21 
+22 6-7-Chlamydomonas_reinhardtii-taxonomy:3055
+23 1-1-yeast-taxonomy:4932
+24 22-22-maize-taxonomy:381124 24-24-rice-taxonomy:4530
+25 0-1-Caenorhabditis_elegans-taxonomy:6239
+26 4-4-scale-tissuelist:TS-0895 20-20-Drosophila-taxonomy:7215
+27 3-4-C._elegans-taxonomy:6239
+28 34-35-Gallus_gallus-taxonomy:9031 37-37-chicken-taxonomy:9031 40-41-Danio_rerio-taxonomy:7955 43-43-zebrafish-taxonomy:7955
+29 
+29 
+30 
+30 
+31 
+32 
+33 
+34 
+35 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+48 
+49 
+49 21-21-SV40-taxonomy:10633 26-26-adenovirus-taxonomy:10535 27-27-E1A-uaz:UA-CLine-2876
+50 
+51 
+52 
+53 
+54 
+54 
+55 
+55 
+56 
+57 
+58 
+59 
+59 
+60 8-8-cytoplasm-go:GO:0005737 11-11-nucleus-go:GO:0005634
+61 15-15-cytoplasm-go:GO:0005737 26-26-nucleus-go:GO:0005634
+62 
+63 
+64 
+65 11-11-cytoplasm-go:GO:0005737 14-14-nucleus-go:GO:0005634
+66 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+72 
+73 
+73 
+74 
+75 
+76 29-29-2A-uaz:UA-CLine-7484
+77 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+88 
+89 
+90 
+91 
+91 
+92 1-1-SAOS-2-uaz:UA-CLine-3553
+93 
+94 40-40-2A-uaz:UA-CLine-7484
+95 
+96 
+97 
+97 
+98 
+99 
+100 
+101 
+102 
+102 
+103 29-29-chick-taxonomy:9031 30-30-myoblasts-tissuelist:TS-0650
+104 
+105 38-38-nucleus-go:GO:0005634
+106 3-3-nucleus-go:GO:0005634
+107 
+108 
+109 
+110 
+110 9-9-mice-taxonomy:10090
+111 
+111 
+112 
+113 
+114 
+115 
+116 
+116 2-2-mice-taxonomy:10090 20-22-mouse_embryonic_fibroblasts-uaz:UA-CT-100028 24-24-MEFs-uaz:UA-CLine-6096
+117 4-4-mice-taxonomy:10090 25-25-spleen-tissuelist:TS-0956 27-27-liver-tissuelist:TS-0564
+118 0-0-MEFs-uaz:UA-CLine-6096 2-2-myoblasts-tissuelist:TS-0650
+119 1-1-mice-taxonomy:10090 7-8-white_adipose-tissuelist:TS-1119
+120 
+120 13-13-mouse-taxonomy:10090 29-29-mouse-taxonomy:10090
+121 7-7-embryos-uaz:UA-ORG-239
+122 1-1-keratinocytes-tissuelist:TS-0500 17-17-epidermis-tissuelist:TS-0283 22-22-hair-tissuelist:TS-0430 30-30-hair-tissuelist:TS-0430 35-35-tooth-tissuelist:TS-1055
+123 25-25-epidermis-tissuelist:TS-0283
+124 
+124 9-9-bone-tissuelist:TS-0088 11-11-cartilage-tissuelist:TS-0118
+125 9-9-embryos-uaz:UA-ORG-239 20-20-embryos-uaz:UA-ORG-239 27-28-long_bones-uaz:UA-ORG-527 30-30-chondrocyte-tissuelist:TS-0138
+126 
+127 8-8-chondrocytes-tissuelist:TS-0138
+128 
+129 
+130 
+130 
+131 
+131 11-11-bone-tissuelist:TS-0088
+132 
+133 2-2-bone-tissuelist:TS-0088
+134 29-29-bone-tissuelist:TS-0088 31-31-chondrocyte-tissuelist:TS-0138
+135 
+135 3-3-mouse-taxonomy:10090 4-4-brain-tissuelist:TS-0095 42-42-neurons-uaz:UA-ORG-623
+136 12-12-neuron-tissuelist:TS-0683
+137 3-3-cortex-tissuelist:TS-0091 7-7-brain-tissuelist:TS-0095
+138 
+139 2-2-neurons-uaz:UA-ORG-623
+140 7-7-mice-taxonomy:10090 15-15-neurons-uaz:UA-ORG-623 19-20-frontal_cortex-tissuelist:TS-0389
+141 
+141 
+142 
+143 37-37-brains-uaz:UA-ORG-114
+144 
+145 
+146 
+146 23-23-brains-uaz:UA-ORG-114
+147 17-18-embryonic_brain-tissuelist:TS-0231
+148 25-25-brains-uaz:UA-ORG-114
+149 29-29-brain-tissuelist:TS-0095
+150 24-24-brains-uaz:UA-ORG-114
+151 
+152 
+152 4-4-chondrocytes-tissuelist:TS-0138 6-6-neurons-uaz:UA-ORG-623
+153 
+154 
+154 
+155 11-11-embryos-uaz:UA-ORG-239 33-35-central_nervous_system-tissuelist:TS-0150 39-39-lens-tissuelist:TS-0545 43-43-embryos-uaz:UA-ORG-239
+156 10-10-heart-tissuelist:TS-0445 24-24-embryos-uaz:UA-ORG-239
+157 1-1-heart-tissuelist:TS-0445 8-9-blood_vessel-tissuelist:TS-0080 10-10-endothelium-tissuelist:TS-0278
+158 3-3-cerebellar-tissuelist:TS-0125 10-10-mice-taxonomy:10090 20-20-brain-tissuelist:TS-0095 25-25-mice-taxonomy:10090
+159 21-21-neuron-tissuelist:TS-0683 44-44-neurons-uaz:UA-ORG-623
+160 
+161 
+161 
+162 
+162 10-10-human-taxonomy:9606 17-17-retinoblastoma-tissuelist:TS-0871 19-19-osteosarcoma-tissuelist:TS-0723
+163 9-9-human-taxonomy:9606
+164 21-21-chromosome-go:GO:0005694
+165 10-10-human-taxonomy:9606
+166 
+167 
+168 
+168 15-15-mice-taxonomy:10090
+169 25-25-mice-taxonomy:10090
+170 18-18-mice-taxonomy:10090
+171 12-12-mice-taxonomy:10090 35-35-mouse-taxonomy:10090
+172 
+173 
+173 
+174 0-0-Mice-taxonomy:10090 8-8-epidermis-tissuelist:TS-0283 17-17-mice-taxonomy:10090
+175 20-21-squamous_cell-tissuelist:TS-1249
+176 
+177 23-23-mice-taxonomy:10090
+178 1-2-lung_epithelium-tissuelist:TS-0574
+179 7-7-lungs-uaz:UA-ORG-537 16-16-lungs-uaz:UA-ORG-537 21-22-lung_epithelia-tissuelist:TS-0574
+180 10-10-lungs-uaz:UA-ORG-537 36-37-lung_epithelium-tissuelist:TS-0574
+181 
+181 5-5-human-taxonomy:9606 10-10-retinoblastoma-tissuelist:TS-0871 12-12-osteosarcoma-tissuelist:TS-0723 14-14-mice-taxonomy:10090 29-29-thyroid-tissuelist:TS-1047 39-39-retinoblastoma-tissuelist:TS-0871 41-41-osteosarcoma-tissuelist:TS-0723
+182 7-7-mice-taxonomy:10090
+183 18-18-retinas-uaz:UA-ORG-805
+184 
+185 5-6-retinal_progenitors-uaz:UA-ORG-805
+186 18-18-neurons-uaz:UA-ORG-623
+187 
+188 9-9-mouse-taxonomy:10090 18-18-retina-tissuelist:TS-0865
+189 11-11-retinoblastoma-tissuelist:TS-0871 13-13-mice-taxonomy:10090
+190 8-8-mouse-taxonomy:10090
+191 0-0-Retina-tissuelist:TS-0865 16-16-mice-taxonomy:10090
+192 9-9-retinas-uaz:UA-ORG-805
+193 15-15-retinas-uaz:UA-ORG-805
+194 
+195 2-2-mouse-taxonomy:10090 3-3-retinas-uaz:UA-ORG-805 20-20-retinoblastoma-tissuelist:TS-0871 38-38-retinoblastoma-tissuelist:TS-0871
+196 
+196 14-15-retinal_progenitors-uaz:UA-ORG-805 31-31-mouse-taxonomy:10090 32-32-retina-tissuelist:TS-0865
+197 4-4-neurons-uaz:UA-ORG-623 15-15-retina-tissuelist:TS-0865
+198 20-20-retinoblastoma-tissuelist:TS-0871
+199 20-20-retinoblastoma-tissuelist:TS-0871
+200 18-18-neurons-uaz:UA-ORG-623 34-34-retinas-uaz:UA-ORG-805
+201 10-10-retina-tissuelist:TS-0865
+202 
+203 
+203 3-3-retinoblastoma-tissuelist:TS-0871 9-9-humans-taxonomy:9606 16-16-retinoblastoma-tissuelist:TS-0871 18-18-mice-taxonomy:10090
+204 3-3-mice-taxonomy:10090
+205 2-2-human-taxonomy:9606 16-16-mouse-taxonomy:10090
+206 13-13-mouse-taxonomy:10090 15-15-human-taxonomy:9606 16-16-retinas-uaz:UA-ORG-805 19-19-mouse-taxonomy:10090 21-21-human-taxonomy:9606
+207 1-1-mouse-taxonomy:10090
+208 
+209 
+210 15-15-human-taxonomy:9606 36-36-retinoblastoma-tissuelist:TS-0871
+211 
+212 15-15-mouse-taxonomy:10090 16-17-retinal_progenitors-uaz:UA-ORG-805 21-21-keratinocytes-tissuelist:TS-0500 25-25-hepatocytes-tissuelist:TS-0454 30-30-lung-tissuelist:TS-0568
+213 
+214 
+214 
+215 
+215 10-10-human-taxonomy:9606
+216 
+217 
+217 
+218 
+219 
+220 
+221 
+222 
+223 
+223 
+224 
+225 
+226 
+227 
+228 
+229 
+230 
+231 
+231 
+232 9-9-mice-taxonomy:10090 14-14-mice-taxonomy:10090
+233 
+234 
+235 
+235 
+236 9-9-mouse-taxonomy:10090
+237 
+238 
+238 
+239 
+239 2-2-Retinoblastoma-tissuelist:TS-0871 22-22-bone-tissuelist:TS-0088
+240 
+240 
+241 
+241 
+242 
+242 
+243 
+243 
+244 
+245 
+245 
+246 
+246 
+247 10-10-Children-taxonomy:9606
+248 

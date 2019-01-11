@@ -1,0 +1,130 @@
+0 3-4-plasma_membrane-go:GO:0005886
+1 
+1 
+2 
+3 
+4 
+5 
+6 21-21-T-cell-tissuelist:TS-1001
+7 
+7 24-24-membrane-go:GO:0016020 25-25-ruffles-go:GO:0001726
+8 21-22-immunological_synapse-go:GO:0001772
+9 
+10 9-10-plasma_membrane-go:GO:0005886
+11 
+12 20-20-nucleus-go:GO:0005634
+13 
+13 12-12-cytosol-go:GO:0005829 15-16-plasma_membrane-go:GO:0005886
+14 33-33-cytosol-go:GO:0005829
+15 5-6-endoplasmic_reticulum-go:GO:0005783
+16 
+17 
+18 
+19 28-28-macrophages-uaz:UA-CT-16 32-32-fibroblasts-uaz:UA-CLine-100060 42-42-mice-taxonomy:10090
+20 
+20 
+21 
+22 
+23 
+24 22-22-horses-taxonomy:9796
+25 6-6-nucleus-go:GO:0005634
+26 10-10-membranes-go:GO:0016020
+27 
+28 6-7-endoplasmic_reticulum-go:GO:0005783 33-34-plasma_membrane-go:GO:0005886
+29 
+30 
+30 5-6-endoplasmic_reticulum-go:GO:0005783 13-13-cytosol-go:GO:0005829
+31 
+32 
+33 
+34 
+35 25-25-membrane-go:GO:0016020
+36 33-34-plasma_membrane-go:GO:0005886
+37 
+37 10-11-plasma_membrane-go:GO:0005886 26-26-nucleus-go:GO:0005634
+38 
+39 
+40 
+41 20-21-plasma_membrane-go:GO:0005886 35-35-vesicles-go:GO:0031982
+42 8-8-SH3-uaz:UA-CLine-8476
+43 
+44 40-41-plasma_membrane-go:GO:0005886
+45 
+46 22-23-plasma_membrane-go:GO:0005886
+47 10-10-nucleus-go:GO:0005634 28-28-nucleus-go:GO:0005634
+48 
+49 9-9-cytosol-go:GO:0005829
+50 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+56 24-25-plasma_membrane-go:GO:0005886
+57 
+58 18-18-humans-taxonomy:9606
+59 
+60 17-17-cytoskeleton-go:GO:0005856
+61 23-24-plasma_membrane-go:GO:0005886
+62 
+63 11-11-COS1-uaz:UA-CLine-100091 13-13-293T-uaz:UA-CLine-100002 15-15-Jurkat-uaz:UA-CLine-2244 30-30-T-cell-tissuelist:TS-1001
+64 
+64 
+65 
+66 16-16-human-taxonomy:9606 17-18-T_cells-uaz:UA-CLine-100050
+67 8-8-HEK293T-uaz:UA-CLine-100104
+68 
+69 33-34-plasma_membrane-go:GO:0005886
+70 
+71 
+72 
+73 
+74 
+74 
+75 28-29-plasma_membrane-go:GO:0005886
+76 20-20-cytoplasm-go:GO:0005737
+77 12-12-membrane-go:GO:0016020 13-13-ruffles-go:GO:0001726
+78 
+79 
+80 26-27-plasma_membrane-go:GO:0005886
+81 
+82 
+83 41-42-plasma_membrane-go:GO:0005886
+84 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+91 
+92 
+93 
+94 
+95 7-7-membrane-go:GO:0016020
+96 
+97 
+98 
+99 26-27-plasma_membrane-go:GO:0005886
+100 
+101 27-28-plasma_membrane-go:GO:0005886
+102 10-10-membrane-go:GO:0016020
+103 
+104 20-20-cytosol-go:GO:0005829 35-35-membrane-go:GO:0016020
+105 26-27-plasma_membrane-go:GO:0005886
+106 19-20-plasma_membrane-go:GO:0005886
+107 20-21-plasma_membrane-go:GO:0005886
+108 
+109 
+110 35-36-plasma_membrane-go:GO:0005886
+111 9-9-membrane-go:GO:0016020
+112 14-14-membrane-go:GO:0016020
+113 
+114 
+115 
+115 
+116 

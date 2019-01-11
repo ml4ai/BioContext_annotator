@@ -1,0 +1,184 @@
+1						up regulation of c-myc and sirt1 expression correlate with malignant transformation in the serrated route to colorectal cancer
+2						approximately 7.5 % of all colorectal cancer be consider to originate from the alternative , serrated route .
+3						here , we investigate the expression of the c-myc oncogene and the sirt1 protein deacetylase by immunohistochemical staining in subgroup of colorectal serrated lesion that be characterize by different molecular alteration .
+4						the expression of c-myc and sirt1 correlate with the presence of KRAS and BRAF mutation and high expression of c-myc and sirt1 be strongly associate with higher grade of malignancy .
+5						in contrast , in the majority of serrated lesion without KRAS or BRAF mutation , c-myc and sirt1 expression be not find increase .
+6						in this group only a subset of mostly high grade intraepithelial neoplasium and carcinoma be characterize by elevated c-myc and sirt1 expression .
+7						this be associate with nuclear localization of beta-catenin , indicate that wnt pathway activation may confer transcriptional induction of c-myc .
+8						in summary , we establish a link between oncogenic k-ra and b-raf , suggest post-transcriptional regulation of c-myc through mapk/erk1/2 pathway activation , as well as for wnt signalling to the activation of the c-myc oncogene , and consequently of sirt1 in the serrated route .
+9						the increase expression with higher grade of malignancy suggest crucial function for c-myc and sirt1 in the progression of serrated lesion to colorectal cancer .
+10						these function may include antagonize of apoptosis and senescence , which be characteristic feature of serrated lesion .
+11						introduction
+12	tissuelist:TS-20003	colorectal	t1			colorectal cancer be the third most common cancer in the world and be one of the lead cause of cancer related death .
+13			e1	t1	 the activation of the wnt and beta-catenin signaling pathway which lead to the transcriptional induction of the c-myc oncogene .	malignant transformation in the classical adenoma - carcinoma sequence be crucially associate with the activation of the wnt and beta-catenin signaling pathway which lead to the transcriptional induction of the c-myc oncogene .
+14						besides the classical adenoma - carcinoma sequence , strong evidence for a alternative serrated pathway in the development of colorectal cancer have emerge in recent year .
+15						"the serrated pathway include lesion with "" saw-tooth "" crypt morphology like hyperplastic polyp , sessile serrate adenoma , traditional serrated adenoma and invasive serrated adenocarcinoma ."
+16	tissuelist:TS-20003	colorectal	e2,t2	t2	deregulation of the wnt and beta-catenin pathway be rarely observe , whereas mutation of braf , and less frequently KRAS	in contrast to the classical adenoma-carcinoma sequence , deregulation of the wnt and beta-catenin pathway be rarely observe , whereas mutation of braf , and less frequently KRAS have be show to be the initiate event in the serrated route to colorectal cancer [ - ] .
+17	tissuelist:TS-0158	colon	e3,t3	t3	lesion with braf mutation be frequently locate in the right colon and be strongly associate with msus and dna methylation abnormality , whereas lesion initiate with KRAS mutation predominantly arise in the left colon and be characterize by microsatellite stability ( mss ) or microsatellite instability low ( msi-l ) .	lesion with braf mutation be frequently locate in the right colon and be strongly associate with msus and dna methylation abnormality , whereas lesion initiate with KRAS mutation predominantly arise in the left colon and be characterize by microsatellite stability ( mss ) or microsatellite instability low ( msi-l ) .
+18						besides lesion with mutant KRAS or BRAF , a third subset exist which do not display any known aberrant oncogene activation .
+19			e4,e101,e1020	t4	c-myc activate the sirt1 enzyme which critically contribute to suppression of senescence and inhibition of c-myc-induced apoptosis .	we have show previously that c-myc activate the sirt1 enzyme which critically contribute to suppression of senescence and inhibition of c-myc-induced apoptosis .
+20			e102	t4	the nad+ dependent sirt1 protein deacetylase inhibit various pro-apoptotic factor , include p53 and be necessary for cancer cell , and as recently show , for cancer stem cell survival .	the nad+ dependent sirt1 protein deacetylase inhibit various pro-apoptotic factor , include p53 and be necessary for cancer cell , and as recently show , for cancer stem cell survival .
+21					sirt1 have therefore be suggest to exert tumor promote function in human cancer ( [ - ] , review in ) .	sirt1 have therefore be suggest to exert tumor promote function in human cancer ( [ - ] , review in ) .
+22	tissuelist:TS-20003	colorectal	t4			in colorectal cancer of the classical route sirt1 be overexpress , which correlate with high c-myc expression .
+23	tissuelist:TS-20003	colorectal	t5			in order to determine a involvement of c-myc and sirt1 in the tumorigenesis of the serrated route to colorectal cancer , we analyze they expression in a well characterize collection of serrated polyp and carcinoma .
+24			e5	t5	high c-myc and sirt1 level be associate with oncogenic braf and KRAS , and with activate wnt signalling .	we demonstrate that high c-myc and sirt1 level be associate with oncogenic braf and KRAS , and with activate wnt signalling .
+25					furthermore , with higher grade of malignancy and invasiveness the expression of c-myc and sirt1 consistently increase	furthermore , with higher grade of malignancy and invasiveness the expression of c-myc and sirt1 consistently increase , implicate a so far unrecognized role of c-myc and sirt1 in the tumorigenesis of the serrated route to colorectal cancer .
+26						result
+27						classification and clinical datum of serrated lesion
+28						the final case collection include 121 lesion .
+29						braf mutation be find in 73 case comprise 20 hyperplastic polyp , 24 sessile serrated adenoma without intraepithelial neoplasium , 2 sessile serrated adenoma with low grade intraepithelial neoplasium , 8 sessile serrated adenoma with high grade intraepithelial neoplasium , 10 traditional serrated adenoma with low grade intraepithelial neoplasium , 1 traditional serrated adenoma with high grade intraepithelial neoplasium and 8 invasive serrated adenocarcinoma .
+30						KRAS mutation be present in 22 case include 1 hyperplastic polyp , 1 sessile serrated adenoma without intraepithelial neoplasium , 2 sessile serrated adenoma with high grade intraepithelial neoplasium , 9 traditional serrated adenoma with low grade intraepithelial neoplasium , 1 traditional serrated adenoma with high grade intraepithelial neoplasium and 8 invasive serrated adenocarcinoma .
+31						braf and kra mutation be mutually exclusive .
+32						the 26 case without braf and kra mutation be comprise of 1 hyperplastic polyp , 7 sessile serrated adenoma without intraepithelial neoplasium , 2 sessile serrated adenoma with low grade intraepithelial neoplasium , 1 sessile serrated adenoma with high grade intraepithelial neoplasium , 2 traditional serrated adenoma with low grade intraepithelial neoplasium , 4 traditional serrated adenoma with high grade intraepithelial neoplasium and 9 invasive serrated adenocarcinoma .
+33						Table give a summary of the location and age of patient .
+34						take together , sessile serrate lesion with and without intraepithelial neoplasium be more often located in the right colon ( 72 % right side versus 26 % leave side , table ) and frequently show braf mutation ( 72 % braf mutation versus 6 % kra mutation , table ) .
+35						traditional serrated adenoma with low and high grade intraepithelial neoplasium derive from the distal colon ( 19 % right side versus 67 % leave side , table ) and exhibit considerably more often KRAS mutation than sessile serrated adenoma ( 41 % braf mutation versus 37 % kra mutation , table ) .
+36						c-MYC and sirt1 expression in normal colon mucosa and serrated lesion
+37						in normal mucosa a moderate c-myc expression be restricted to the proliferative zone in the basal third of the crypt .
+38						some of these cell be also positive for sirt1 .
+39						in hyperplastic polyp and sessile serrated adenoma without intraepithelial neoplasium c-myc expression be mainly localized to one or two third of the base of the crypt , correspond to a low or moderate expression in the majority of case ( 51 of 54 case ( 94 % ) ) .
+40						sirt1 be either detect in some scattered cell in the proliferative zone or restricted also to the basal third or two third of the crypt ( 51of 54 case ( 95 % ) .
+41						irrespective of the molecular alteration and histologic subtype , lesion with low grade intraepithelial neoplasium reveal a moderate to high expression of both , c-myc ( 23 of 25 case ( 93 % ) ) and of sirt1 ( 17 of 25 case ( 68 % ) , table ) .
+42						most lesion with high grade intraepithelial neoplasium and invasive carcinoma be characterize by high c-myc and sirt1 expression ( c-myc : 76 % and 72 % ; respectively , sirt1 : 64 % ( both group ) , table ) .
+43						take together , a higher tumor grade be accompany by a correlate , increase expression of c-myc and sirt1 irrespective of the histologic subtype and side of localization .
+44						Figure 1
+45						c-MYC and sirt1 expression in normal mucosa
+46						c-MYC expression in normal mucosa be find in the proliferative zone in the basal third of the crypt .
+47						some of these cell be also positive for sirt1 ( b , higher magnification in d ) ( original magnification a , b : 100 x , c , d : 630 x )
+48						c-MYC and sirt1 expression with respect to the braf and KRAS mutational status
+49						in lesion with braf or kra mutation c myc and sirt1 expression be low to moderate in hyperplastic polyp and sessile serrated adenoma , moderate to high in lesion with low grade intraepithelial neoplasium , and high in lesion with high grade intraepithelial neoplasium and invasive serrated carcinoma ( summarize in Figure , ) .
+50						figure 2
+51						c-MYC and sirt1 expression in serrated lesion with braf mutation
+52						in sessile serrated adenoma without intraepithelial neoplasium c-myc and sirt1 ( b ) expression be frequently localized to the basal third of the base of the crypt , correspond to a low expression pattern .
+53						in sessile serrated adenoma with low grade intraepithelial neoplasium c-myc ( c ) and sirt1 be frequently find in the complete dypsplastic area correspond to a strong expression pattern .
+54						in sessile serrated adenoma with high grade intraepithelial neoplasium strong expression of c-myc ( e ) and sirt1 ( f ) be find , which be define as staining from the base to the surface of the dysplastic crypt .
+55						in invasive serrated adenocarcinoma strong expression of c-myc ( g ) and sirt1 ( h ) be find define as more than 70 % positive tumor cell .
+56						serrated lesion with kra mutation exhibit a comparable expression pattern .
+57						( original magnification a , b , e , f : 100 x , c , d , g , h : 200 x )
+58						Figure 3
+59						summary of c-myc and sirt1 expression in different group of serrated lesion and carcinoma express mutant or wild type KRAS and BRAF
+60						lesion exhibit no detectable ( 0 ) , low ( 1 ) , moderate ( 2 ) and strong ( 3 ) c-myc and sirt1 expression be give as the percentage of the total number of case in the respective group of serrated lesion and carcinoma ( see ) HP hyperplastic polyp ; SSA sessile serrate adenoma ; LGIEN low grade intraepithelial neoplasium ; HGIEN high grade intraepithelial neoplasium , t1 and 3 : invasive carcinoma , wt wild type , mut .
+61						mutant ; n number of case .
+62			e6	t5	lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .	in contrast , lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .
+63			e105	t5	lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .	in sessile serrated adenoma and hyperplastic polyp , c-myc expression be detect in the basal third of the crypt .
+64			e106	t5	lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .	in all case , some scattered cell at the basis of the crypt express sirt1 .
+65						these stain pattern and intensity for c-myc and sirt1 be reminiscent of normal crypt .
+66			e107	t5	lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .	in lesion with low grade intraepithelial neoplasium , c-myc be express at low level with very few weakly positive sirt1 expressing cell distribute throughout the lesion .
+67			e108	t5	lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .	in lesion with high grade intraepithelial neoplasium , c-myc expression be find at a moderate to high level , whereas sirt1 expression be restricted to single cell .
+68			e109	t5	lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .	in invasive carcinoma , we identify two group with respect to the c-myc and sirt1 level : one group comprise four case ( 45 % ) which display negative to low c-myc expression and negative sirt1 staining .
+69			e110	t5	lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .	the other group with five case ( 55 % ) show moderate to high c-myc expression and low to moderate sirt1 expression .
+70						all invasive carcinoma show similar histologic feature with no difference between any of the subgroup .
+71			e111	t5	lesion with wild type KRAS and BRAF display considerably lower c-myc and sirt1 level .	Noteworthy , none of the serrated lesion with wild type braf and KRAS display a equivalently high c-myc and sirt1 expression as the lesion with oncogenic kra or braf .
+72						Figure 4
+73						c-MYC and sirt1 expression in serrated lesion with wild type braf and kra
+74						in sessile serrated adenoma without intraepithelial neoplasium c-myc and sirt1 ( b ) expression be restricted to the basal third of the crypt correspond to a low expression pattern .
+75						in lesion with low grade intraepithelial neoplasium c-myc ( c ) and sirt1 expression be find in some scattered cell correspond to a low expression pattern .
+76						in invasive carcinoma two group be find .
+77						in one group expression of c-myc be low ( e ) with only few positive cell ( < 30 % ) and expression of sirt1 be frequently negative ( f ) .
+78						in the other group c-myc expression be high ( g ) and sirt1 expression be at least low to moderate ( h ) .
+79						( original magnification : 100 x )
+80						nuclear beta-catenin expression in serrated lesion
+81						to elucidate whether activation of the wnt pathway may be involve in c-myc over-expression , all serrated lesion , with and without KRAS or BRAF mutation be analyze for nuclear beta-catenin expression .
+82						as document by the lack of nuclear beta-catenin expression there be no sign of activate wnt signalling in all sessile serrated adenoma and hyperplastic polyp , except for some cell at the base of the crypt .
+83						nuclear beta-catenin be only find in one sessile serrated adenoma with low grade intraepithelial neoplasium out of 25 ( 4 % ) lesion with low grade intraepithelial neoplasium .
+84						in lesion with high grade intraepithelial neoplasium nuclear beta-catenin be detect in seven out of 17 case ( 41 % ) comprise three sessile serrated adenoma with high grade intraepithelial neoplasium , and four traditional serrated adenoma with high grade intraepithelial neoplasium .
+85						in invasive carcinoma nuclear beta-catenin be find in 14 out of 25 case ( 51 % ) , whereby this be not associate with morphological change .
+86						therefore , nuclear beta-catenin expression do not correlate with any morphological subtype of serrated lesion .
+87						nuclear beta-catenin in relation to the braf and KRAS mutational status , c-myc and sirt1 expression
+88						nuclear beta-catenin expression occur in all three category of lesion , with increase prevalence with higher grade of malignancy .
+89						however , the percentage of case positive for nuclear beta-catenin differ strongly depend on the braf and KRAS mutational status : compare to 38 % in the braf and KRAS wild type group , and 27 % in the mutant KRAS group , nuclear beta-catenin be notably lower in lesion with braf mutation ( 8 % ) .
+90						interestingly , high grade intraepithelial lesion with wild type braf and kra reveal a marked predominance of nuclear beta-catenin ( 80 % versus 27 % in the braf and KRAS mutant case ) .
+91						in lesion with braf or kra mutation , high c-myc and sirt1 expression be independent of nuclear beta-catenin expression as the expression level do not differ between beta-catenin positive and negative case .
+92						for instance in some lesion with high grade intraepithelial neoplasium and kra mutation that display high c-myc and sirt1 expression , no nuclear beta-catenin be detect , whereas other lesion with equally high c-myc and sirt1 level be positive for nuclear beta-catenin ( datum not show ) .
+93						in the majority of case with kra or braf mutation , high c-myc expression be consistently observe in lesion with low grade intraepithelial neoplasium to invasive carcinoma ( summarize in Figure ) .
+94						this do not correlate with nuclear beta-catenin , which be only detect in higher grade lesion .
+95						interestingly , in wild type braf and kra lesion with high grade intraepithelial neoplasium , moderate to strong c-myc expression correlate with nuclear beta-catenin localization .
+96						in wild type KRAS and BRAF invasive adenocarcinoma with nuclear beta-catenin , increase c-myc expression be associate with a up regulation of sirt1 .
+97						conversely , invasive adenocarcinoma negative for nuclear beta-catenin do not reveal any substantial c-myc and sirt1 staining ( datum not show ) .
+98						thus , transcriptional activation through the beta-catenin and tcf complex may result in increase c-myc , and consequently elevated sirt1 protein level in serrated lesion without constitutive k-ra or b-raf activation .
+99						generally , however the molecular difference between the invasive serrated carcinoma be not associate with any overt morphological alteration .
+100						Figure 5
+101						expression of c-myc and sirt1 in correlation with beta-catenin localization
+102						high c-myc and sirt1 ( b ) expression in lesion with braf ( show here ) or KRAS mutation , in the absence of nuclear beta-catenin staining ( c , inset show higher magnification of negative nuclear staining ) .
+103						in invasive serrated adenocarcinom with wild type KRAS and BRAF , c-myc expression be high and sirt1 expression be frequently moderate ( e ) only in those case which show nuclear beta-catenin expression ( f ) .
+104						( original magnification a , b , c : 200 x , Inset c 630 x , d , e , f : 100 x )
+105						Figure 6
+106						nuclear beta-catenin expression in KRAS and BRAF wild type and mutate serrated lesion with high c-myc expression
+107						percentage of case with nuclear beta-catenin that exhibit strong ( staining : 3 ) c-myc expression in wild type and mutant braf and KRAS serrate lesion and invasive carcinoma .
+108						HP hyperplastic polyp ; SSA sessile serrate adenoma ; LGIEN low grade intraepithelial neoplasium ; HGIEN high grade intraepithelial neoplasium .
+109						discussion
+110						the evolve concept of serrated lesion of the colon comprise the notion of a sessile and traditional serrated pathway .
+111						sessile serrated adenoma be more frequently find in the proximal colon , initiate through braf mutation and be commonly MSI .
+112						in contrast , traditional serrated adenoma be more often find in the distal colon , harbour KRAS mutation and be msi-l or mss .
+113						in we collection the distribution and mutation status of case reflect this concept .
+114						but despite the clear preference of location and mutation status of serrated lesion , c-myc and sirt1 expression be unrelated to the morphologic subtype and side distribution .
+115						a characteristic feature of serrated lesion of the colon be the resistance to apoptosis that have be link to mutational activation of KRAS and BRAF [ , - ] .
+116						however , the molecular event downstream of oncogenic kra and braf responsible for the anti-apoptotic function in serrated lesion have not be completely define .
+117			e7	t5	the pleiotropic sirt1 deacetylase negatively regulate various pro-apoptotic factor , include p53 , thereby antagonize senescence and apoptosis in cancer cell [ - , , ] and in cell immortalize by c-myc .	the pleiotropic sirt1 deacetylase negatively regulate various pro-apoptotic factor , include p53 , thereby antagonize senescence and apoptosis in cancer cell [ - , , ] and in cell immortalize by c-myc .
+118						here , we provide evidence that sirt1 expression be elevated and correlate with c-myc in serrated lesion .
+119						furthermore , the expression level of both protein increase with higher malignancy of tumor .
+120			e8	t5	that c-myc induce a increase in the level and activity of the NAD+ - dependent sirt1 protein deacetylase	this be in accordance with recent observation , that c-myc induce a increase in the level and activity of the NAD+ - dependent sirt1 protein deacetylase [ , - ] ( review in ) .
+121			e9	t5	the induction of nicotinamide phosphoribosyltransferase ( NAMPT ) and the sequestration of the endogenous sirt1 inhibitor protein , delete in breast cancer 1 ( dbc1 ) mediate the c-myc-induced activation of sirt1 .	in this context we have previously identify a positive feedback loop , in which two process involve the induction of nicotinamide phosphoribosyltransferase ( NAMPT ) and the sequestration of the endogenous sirt1 inhibitor protein , delete in breast cancer 1 ( dbc1 ) mediate the c-myc-induced activation of sirt1 .
+122			e112	t5	finally , sirt1 itself potentiate these effect by reduce the rate of degradation of c-myc .	finally , sirt1 itself potentiate these effect by reduce the rate of degradation of c-myc .
+123						in lesion and invasive carcinoma of the serrated route , high c-myc and sirt1 level be associate with k-ra , b-raf , or in a minor fraction , with wnt pathway activation .
+124			e113	t6	oncogenic mutation of KRAS and BRAF result in constitutive activation of the mapk/erk1/2 pathway and c-myc phosphorylation .	oncogenic mutation of KRAS and BRAF result in constitutive activation of the mapk/erk1/2 pathway and c-myc phosphorylation .
+125			e10	t6	upon phosphorylation by erk1 and 2 , degradation of c-myc be inhibit through the k-ras-induced activation of pi3k .	upon phosphorylation by erk1 and 2 , degradation of c-myc be inhibit through the k-ras-induced activation of pi3k .
+126			e114	t6	thus , the association with mutant KRAS and BRAF suggest that the up regulation of c-myc may be mediate by protein stabilization through mapk/erk1/2 pathway activation .	thus , the association with mutant KRAS and BRAF suggest that the up regulation of c-myc may be mediate by protein stabilization through mapk/erk1/2 pathway activation .
+127			e115	t6	in a smaller group of more advanced lesion without these mutation , c-myc may be transcriptionally induce by the beta-catenin and tcf complex , since high level of c-myc be associate with the nuclear localization of beta-catenin .	in a smaller group of more advanced lesion without these mutation , c-myc may be transcriptionally induce by the beta-catenin and tcf complex , since high level of c-myc be associate with the nuclear localization of beta-catenin .
+128						aberrant nuclear accumulation of beta-catenin have be report previously for serrated lesion [ - ] .
+129			e116	t6	whereas mutation of the apc gene be very rare in serrated lesion , and mutation in the gene encode for beta-catenin have not be observe so far , hypermethylation of the apc promoter have be describe for a subset of serrated adenoma .	whereas mutation of the apc gene be very rare in serrated lesion , and mutation in the gene encode for beta-catenin have not be observe so far , hypermethylation of the apc promoter have be describe for a subset of serrated adenoma .
+130					intriguingly , nuclear beta-catenin display the highest prevalence in wild type kra and braf lesion .	intriguingly , nuclear beta-catenin display the highest prevalence in wild type kra and braf lesion .
+131	tissuelist:TS-20003	colorectal	e117,t6	t6	therefore , we datum suggest , that enable c-myc activation either through oncogenic k-ra or b-raf , or transcriptionally by deregulation of wnt signalling	therefore , we datum suggest , that enable c-myc activation either through oncogenic k-ra or b-raf , or transcriptionally by deregulation of wnt signalling be crucial in both , the serrated route as well as in the classical route to colorectal cancer .
+132			e11	t7	higher level of c-myc can induce activation of p53 and apoptosis .	higher level of c-myc can induce activation of p53 and apoptosis .
+133			e118	t7	however , as we have show before , the c-myc-mediated sirt1 activation interfere therewith , since it suppress p53 dependent and -independent apoptosis and antagonize senescence .	however , as we have show before , the c-myc-mediated sirt1 activation interfere therewith , since it suppress p53 dependent and -independent apoptosis and antagonize senescence .
+134			e119	t7	hence , unscheduled c-myc expression together with elevated sirt1 activity in serrated lesion and invasive carcinoma may repress the two major tumor suppressive mechanism , apoptosis and senescence and thus support cell survival , expansion and cancer progression .	hence , unscheduled c-myc expression together with elevated sirt1 activity in serrated lesion and invasive carcinoma may repress the two major tumor suppressive mechanism , apoptosis and senescence and thus support cell survival , expansion and cancer progression .
+135	tissuelist:TS-20003	colorectal	t7			in line with such a role of sirt1 , only 17 % of colorectal carcinoma with braf mutation and MSI , which be believe to originate from serrated precursor lesion , display p53 mutation .
+136	taxonomy:9606,taxonomy:10090	human, mouse	s1,s2,e12	s1,s2,t8	high expression of the cdk inhibitor p16ink4a , a characteristic mark for senescence , which be lose in invasive carcinoma by cdkn2a promoter hypermethylation .	we previous study of human sample and of a mouse model have reveal that serrated polyp and adenoma display high expression of the cdk inhibitor p16ink4a , a characteristic mark for senescence , which be lose in invasive carcinoma by cdkn2a promoter hypermethylation .
+137			e13	s1,s2,t8	sirt1 localize to promoter of aberrantly methylate gene and it be weakly express in senescent , but high in immortalize cell .	sirt1 localize to promoter of aberrantly methylate gene and it be weakly express in senescent , but high in immortalize cell .
+138					in serrated lesion sirt1 may therefore also be involve in antagonize oncogene induce senescence .	in serrated lesion sirt1 may therefore also be involve in antagonize oncogene induce senescence .
+139					this may be mediate through effect of sirt1 on dna methyltransferase 1 ( dnmt1 ) activity , a key enzyme in dna methylation .	this may be mediate through effect of sirt1 on dna methyltransferase 1 ( dnmt1 ) activity , a key enzyme in dna methylation .
+140					deacetylation of dnmt1 at specific lysine by sirt1 enhance its methyltransferase activity .	deacetylation of dnmt1 at specific lysine by sirt1 enhance its methyltransferase activity .
+141	tissuelist:TS-20003	colorectal	t8	s1,s2,t8	in line with these finding , increase sirt1 expression be find significantly associate with cpg island methylator phenotype ( cimp ) - high , msi-high phenotype , and a high tumor grade	in line with these finding , increase sirt1 expression be find significantly associate with cpg island methylator phenotype ( cimp ) - high , msi-high phenotype , and a high tumor grade in colorectal carcinoma .
+142						future study will reveal the relevance of the effect in this novel crosstalk of the epigenetic regulator dnmt1 and the histone deacetylase sirt1 in different cellular context and especially in serrated lesion of the colon .
+143						interestingly , recent study reveal that in chronic myelogenous leukemia ( cml ) sirt1 inhibition can prevent the acquisition of mutation and may therefore represent a treatment to overcome drug resistance .
+144						in addition , in a bcr-abl transgenic mouse model inhibition of sirt1 in combination with the tyrosine kinase inhibitor imatinib lead to p53 activation mediate elimination of cancer stem cell , indicate that sirt1 inhibition may represent a strategy for target cancer stem cell .
+145						take together , we provide evidence that c-myc and sirt1 be crucially involve in the alternative , serrated pathway to colorectal cancer .
+146						thereby , oncogenic function of c-myc and property of sirt1 , such as antagonize apoptosis and senescence and and or epigentic regulation may contribute to tumorigenesis and may represent a novel target for future therapy .
+147						however , further study will have to elucidate the exact functional role of sirt1 in serrated lesion and determine the signalling pathway involve in the development of lesion without oncogenic braf or kra mutation .
+148						method
+149						specimen
+150						patient material be take from the archive of the Department of Pathology , Ludwig-Maximillians-University , Munich .
+151						in total , formalin fix paraffin embedded tissue from 121 serrated lesion be obtain .
+152						two independent observer ( T.K. and L.K. ) classify all sample by apply the criterion of Torlakovic et al. .
+153						we study enrol hyperplastic polyp , sessile serrate adenoma without intraepithelial neoplasium , sessile serrate adenoma with low grade intraepithelial neoplasium , traditional serrated adenoma with low grade intraepithelial neoplasium , traditional serrated adenoma and sessile serrated adenoma with high grade intraepithelial neoplasium and invasive serrated adenocarcinoma .
+154						all case be classify with regard to braf and KRAS mutational status .
+155						KRAS be mutate in 22 ( 18 % ) case , and braf mutation be detect in 73 ( 60 % ) case , respectively .
+156						in 26 ( 22 % ) case , neither KRAS nor BRAF be mutate .
+157						immunohistochemistry
+158						immunohistochemical staining be do on 5 mum tissue section of ffpe tumor sample .
+159						for sirt1 and c-myc , consecutive tissue section be use for immunohistochemistry .
+160						sirt1 monoclonal rabbit antibody ( epitomic , CA , USA , dilution 1 : 80 , cat .
+161						no. 1104-1 ) , c-myc monoclonal rabbit antibody ( epitomic , CA , USA , dilution 1 : 150 , cat .
+162						no. 1472-1 ) , and beta-catenin monoclonal mouse antibody ( BD Biosciences , NJ , USA , dilution 1:300 , cat .
+163						no. 610154 ) be use as primary antibody .
+164						for detection of sirt1 and c-myc , section be pre-treat for antigen retrieval by boil in a microwave oven , twice for 15 min at 750 w in target Unmasking Fluid ( Pan path , Budel , Netherlands ) .
+165						for the beta-catenin staining , antigen retrieval be do by pre-treatment in ProTaqs iv Antigen-Enhancer ( Quartett , Berlin , Germany ) .
+166						endogenous peroxidase be block use 7.5 % hydrogen peroxide for 10 minute .
+167						Vectastain ABC-Kit Elite Universal ( Vector Laboratories , CA , USA ) be use for beta-catenin detection .
+168						aec+ high sensitivity substrate chromogen ( Dako , Glostrup , Denmark ) be use as a chromogen for sirt1 , dab+ substrate chromogen system ( Dako , Glostrup , Denmark ) for c-myc and beta-catenin .
+169						all slide be counterstain with hematoxylin ( Vector Laboratories , CA , USA ) .
+170						to confirm staining specificity , system control without primary antibody , as well as immunoglobulin isotype control antibody be include .
+171						evaluation of c-myc , sirt1 and beta-catenin staining
+172						c-MYC and sirt1 expression be evaluate regard nuclear expression pattern range from 0 - 3 , for negative , low , moderate and strong staining .
+173						in hyperplastic polyp and sessile serrated adenoma , positive staining of the basal third of the crypt be define as low .
+174						moderate be define as staining of the basal two third of the crypt , and strong be define as staining from the base to the surface of the crypt .
+175						in sessile serrated adenoma with low grade and high grade intraepithelial neoplasium , only area with intraepithelial neoplasium be take into account .
+176						in traditional serrated adenoma and invasive adenocarcinoma , the percentage of positive cell be evaluate include negative ( 0 % ) , low ( 1-30 % ) , moderate ( 31-70 % ) and strong ( 71-100 % ) expression .
+177						regard beta-catenin staining , only nuclear beta-catenin expression be take into account .
+178						beta-catenin , c-myc and sirt1 staining that be confine to some nucleus of scatter cell at the basis of crypt ( < 5 % positive cell ) be consider as a normal mucosa staining pattern , which be consistent with the proliferative zone due to physiologically active wnt signalling within the progenitor population of intestinal epithelium .
+179						analysis of KRAS - / braf mutation
+180						for the analysis of KRAS exon 2 codon 12 and 13 and braf ( v600e ) exon 15 mutation , genomic dna be extract from microdissect serrated lesion , as previously describe for KRAS .
+181						pyro sequencing be do use the Pyro-Gold kit ( Qiagen , Germany ) and HotStar Taq-Polymerase ( Qiagen , Germany ) .
+182						the pf2 primer be use to determine anti-sense sequence .
+183						the PyroMark q24 device ( Qiagen , Germany ) and the PyroMark ( tm ) q24 software be use for sequencing , and sequence analysis .
+184						Supplementary Tables

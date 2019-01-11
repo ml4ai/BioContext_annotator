@@ -1,0 +1,152 @@
+0 15-16-Immune_System-uaz:UA-ORG-406
+1 
+1 
+2 
+3 
+4 
+5 
+5 
+6 
+7 
+8 7-8-endoplasmic_reticulum-go:GO:0005783 9-9-membrane-go:GO:0016020
+9 
+10 
+11 
+12 18-18-nucleus-go:GO:0005634
+13 
+14 
+14 6-6-mouse-taxonomy:10090 8-8-human-taxonomy:9606 16-16-human-taxonomy:9606
+15 
+16 
+17 
+18 
+19 
+20 
+20 21-21-human-taxonomy:9606
+21 
+22 
+23 
+24 
+25 
+26 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+48 
+49 
+50 
+51 
+52 
+52 
+53 
+54 
+55 2-2-mouse-taxonomy:10090 15-15-human-taxonomy:9606 28-28-mouse-taxonomy:10090
+56 
+57 10-10-mouse-taxonomy:10090
+58 
+59 
+59 
+60 
+61 
+62 
+63 
+63 15-15-human-taxonomy:9606
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+71 1-1-human-taxonomy:9606 11-11-HEK293T-uaz:UA-CLine-100104 23-23-mouse-taxonomy:10090
+72 2-2-mouse-taxonomy:10090 8-8-human-taxonomy:9606
+73 
+74 
+75 
+76 10-10-mouse-taxonomy:10090
+77 
+77 
+78 
+79 
+80 
+81 
+82 14-14-human-taxonomy:9606 24-24-human-taxonomy:9606
+83 6-6-mouse-taxonomy:10090
+84 
+84 
+85 
+86 
+87 
+88 
+89 7-7-membrane-go:GO:0016020
+90 
+91 
+92 
+93 
+93 
+94 
+94 
+95 
+95 
+96 
+96 
+97 
+97 
+98 4-4-human-taxonomy:9606
+99 
+100 
+101 2-2-human-taxonomy:9606
+102 
+103 
+104 
+104 
+105 
+105 
+106 
+107 
+108 
+109 
+110 
+111 
+112 
+113 
+114 
+115 
+116 
+117 
+118 
+119 
+120 
+121 
+121 
+122 
+122 
+123 
+124 
+125 
+126 17-17-mouse-taxonomy:10090 21-21-HEK293T-uaz:UA-CLine-100104
+127 16-16-mouse-taxonomy:10090 36-36-human-taxonomy:9606
+128 
+129 

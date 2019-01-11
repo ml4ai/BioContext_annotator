@@ -1,0 +1,207 @@
+0 
+1 
+1 
+2 12-12-mast-uaz:UA-CLine-100061 15-15-basophils-uaz:UA-ORG-83
+3 20-21-cell_surface-go:GO:0009986
+4 3-3-serum-tissuelist:TS-0923 19-20-cell_surface-go:GO:0009986
+5 
+6 
+6 
+7 
+7 
+8 9-9-people-taxonomy:9606
+9 
+10 
+10 
+11 
+12 1-1-humans-taxonomy:9606 7-7-mast-uaz:UA-CLine-100061 10-10-basophils-uaz:UA-ORG-83 37-38-Langerhans_cells-uaz:UA-CT-10 40-40-macrophages-uaz:UA-CT-16 43-43-eosinophils-uaz:UA-ORG-246
+13 38-39-T_cell-uaz:UA-CLine-100050
+14 3-4-cell_surface-go:GO:0009986 17-18-cell_surface-go:GO:0009986
+15 4-5-cell_surface-go:GO:0009986
+16 4-4-mast-uaz:UA-CLine-100061 7-7-basophils-uaz:UA-ORG-83
+17 
+18 4-5-B_cells-uaz:UA-CLine-100005
+19 
+19 19-19-serum-tissuelist:TS-0923
+20 
+21 3-3-serum-tissuelist:TS-0923 6-7-cell_surface-go:GO:0009986 13-13-mast-uaz:UA-CLine-100061 16-16-basophils-uaz:UA-ORG-83
+22 3-4-mast_cell-tissuelist:TS-0603 6-6-basophil-tissuelist:TS-0073
+23 45-45-serum-tissuelist:TS-0923
+24 
+25 8-9-mast_cell-tissuelist:TS-0603 34-34-mast-uaz:UA-CLine-100061
+26 
+27 
+27 9-10-Cell_Surface-go:GO:0009986
+28 
+28 14-14-mast-uaz:UA-CLine-100061
+29 
+30 
+31 
+32 1-2-cell_surface-go:GO:0009986 6-6-human-taxonomy:9606
+33 3-4-endoplasmic_reticulum-go:GO:0005783
+34 16-17-cell_surface-go:GO:0009986
+35 22-23-cell_surface-go:GO:0009986
+36 24-25-cell_surface-go:GO:0009986 35-36-cell_surface-go:GO:0009986
+37 
+37 4-5-cell_surface-go:GO:0009986 13-13-membrane-go:GO:0016020
+38 19-20-cell_surface-go:GO:0009986
+39 
+40 
+41 
+42 
+43 
+44 6-6-membrane-go:GO:0016020
+45 
+46 
+46 
+47 
+47 
+48 
+49 10-10-mast-uaz:UA-CLine-100061
+50 14-15-mast_cell-tissuelist:TS-0603
+51 
+52 6-6-mast-uaz:UA-CLine-100061 27-27-mast-uaz:UA-CLine-100061
+53 8-9-mast_cell-tissuelist:TS-0603 31-31-mouse-taxonomy:10090
+54 
+55 9-9-mice-taxonomy:10090 17-17-serum-tissuelist:TS-0923 23-23-mast-uaz:UA-CLine-100061 28-29-mast_cell-tissuelist:TS-0603
+56 3-3-mice-taxonomy:10090 14-14-mice-taxonomy:10090 25-26-mast_cell-tissuelist:TS-0603
+57 4-4-mice-taxonomy:10090 25-25-mice-taxonomy:10090 45-46-mast_cell-tissuelist:TS-0603
+58 
+58 
+59 
+59 3-3-mast-uaz:UA-CLine-100061
+60 2-2-mast-uaz:UA-CLine-100061
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+67 
+68 9-10-mast_cell-tissuelist:TS-0603 18-18-mast-uaz:UA-CLine-100061
+69 
+70 
+71 2-2-mast-uaz:UA-CLine-100061
+72 
+73 13-13-humans-taxonomy:9606
+74 4-4-mice-taxonomy:10090
+75 7-7-mouse-taxonomy:10090 8-8-mast-uaz:UA-CLine-100061 14-15-mast_cell-tissuelist:TS-0603
+76 
+76 
+77 
+78 
+79 4-5-mast_cell-tissuelist:TS-0603
+80 8-9-mast_cell-tissuelist:TS-0603
+81 
+81 
+82 
+82 
+83 50-51-mast_cell-tissuelist:TS-0603
+84 
+85 24-24-mouse-taxonomy:10090 28-28-human-taxonomy:9606
+86 
+87 
+88 
+89 
+90 
+91 
+91 
+92 
+92 
+93 11-11-membrane-go:GO:0016020 21-21-D3-uaz:UA-CLine-3599
+94 
+94 
+95 
+96 
+97 
+98 
+99 9-9-mast-uaz:UA-CLine-100061
+100 18-19-mast_cell-tissuelist:TS-0603
+101 7-8-mast_cell-tissuelist:TS-0603
+102 
+103 12-13-mast_cell-tissuelist:TS-0603
+104 4-4-mast-uaz:UA-CLine-100061 9-9-mice-taxonomy:10090 16-16-mast-uaz:UA-CLine-100061 20-20-mice-taxonomy:10090
+105 11-11-mast-uaz:UA-CLine-100061 16-16-mice-taxonomy:10090 38-39-mast_cell-tissuelist:TS-0603
+106 
+106 14-15-cell_membrane-uniprot:SL-0039
+107 
+108 
+109 
+110 0-0-Mast-uaz:UA-CLine-100061 5-5-mice-taxonomy:10090
+111 14-14-mast-uaz:UA-CLine-100061
+112 
+112 
+113 17-18-mast_cell-tissuelist:TS-0603
+114 21-22-mast_cell-tissuelist:TS-0603
+115 14-14-mast-uaz:UA-CLine-100061 24-25-mast_cell-tissuelist:TS-0603 30-31-mast_cell-tissuelist:TS-0603
+116 26-26-mast-uaz:UA-CLine-100061
+117 10-11-mast_cell-tissuelist:TS-0603
+118 
+118 
+119 
+119 
+120 5-5-mast-uaz:UA-CLine-100061 33-34-extracellular_space-go:GO:0005615
+121 
+122 
+123 
+124 24-25-mast_cell-tissuelist:TS-0603
+125 
+125 
+126 
+127 7-7-membrane-go:GO:0016020
+128 4-4-humans-taxonomy:9606
+129 5-5-mast-uaz:UA-CLine-100061 25-26-extracellular_space-go:GO:0005615 31-32-mast_cell-tissuelist:TS-0603
+130 
+131 
+131 
+132 
+132 11-12-cell_surface-go:GO:0009986
+133 
+134 
+135 
+136 6-6-D5-uaz:UA-CLine-3797 23-23-D3-uaz:UA-CLine-3599
+137 
+138 0-0-Mast-uaz:UA-CLine-100061
+139 0-1-Cell_surface-go:GO:0009986 4-4-mast-uaz:UA-CLine-100061 37-37-nematodes-taxonomy:6239
+140 
+140 
+141 
+141 11-12-cell_surface-go:GO:0009986
+142 
+143 
+144 
+145 0-1-Cell_surface-go:GO:0009986 32-32-nematodes-taxonomy:6239
+146 5-6-cell_surface-go:GO:0009986
+147 7-8-cell_surface-go:GO:0009986
+148 
+149 
+149 3-4-cell_surface-go:GO:0009986 20-20-mast-uaz:UA-CLine-100061
+150 
+151 
+152 
+153 
+154 
+155 4-5-cell_surface-go:GO:0009986
+156 
+156 
+157 
+157 
+158 11-12-mast_cell-tissuelist:TS-0603
+159 27-27-human-taxonomy:9606
+160 
+161 
+162 
+163 
+163 24-25-cell_surface-go:GO:0009986
+164 17-18-cell_surface-go:GO:0009986
+165 
+166 
+167 
+168 
+168 
+169 
+169 
+170 9-9-membrane-go:GO:0016020 16-17-cell_surface-go:GO:0009986
+171 
+172 

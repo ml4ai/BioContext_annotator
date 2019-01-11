@@ -1,0 +1,237 @@
+0 
+1 
+1 
+2 
+3 
+4 
+5 8-8-wing-tissuelist:TS-1122
+6 
+7 
+8 
+8 
+9 
+9 
+10 
+11 
+12 14-15-focal_adhesions-go:GO:0005925 20-21-adherens_junction-go:GO:0005912
+13 
+13 15-15-epidermis-tissuelist:TS-0283
+14 
+15 12-13-other_organisms-go:GO:0044215
+16 6-7-focal_adhesions-go:GO:0005925
+17 
+18 
+19 
+20 
+21 3-4-focal_adhesion-go:GO:0005925 12-13-LE_cells-uaz:UA-CT-30007
+22 
+22 
+23 
+24 
+25 
+26 12-13-epithelial_cell-tissuelist:TS-0288 18-18-wing-tissuelist:TS-1122
+27 13-13-muscle-tissuelist:TS-0642
+28 
+29 
+29 
+30 
+30 16-16-embryos-uaz:UA-ORG-239
+31 12-12-amnioserosa-uaz:UA-ORG-252
+32 1-1-amnioserosa-uaz:UA-ORG-252 4-5-extraembryonic_tissue-tissuelist:TS-0304 13-13-embryo-tissuelist:TS-0229
+33 10-10-amnioserosa-uaz:UA-ORG-252 13-13-epithelium-tissuelist:TS-0288 33-33-epithelium-tissuelist:TS-0288 36-36-amnioserosa-uaz:UA-ORG-252
+34 3-3-embryos-uaz:UA-ORG-239
+35 16-16-nodes-uaz:UA-ORG-626 20-21-adherens_junctions-go:GO:0005912 23-24-B,-uaz:UA-CLine-100007
+36 
+36 
+37 
+37 
+38 8-8-embryo-tissuelist:TS-0229 33-33-amnioserosa-uaz:UA-ORG-252
+39 
+40 20-20-embryo-tissuelist:TS-0229
+41 
+42 5-5-embryos-uaz:UA-ORG-239
+43 3-3-embryos-uaz:UA-ORG-239
+44 2-2-embryos-uaz:UA-ORG-239
+45 
+46 
+46 
+47 
+48 
+49 18-18-head-tissuelist:TS-0436 31-31-embryo-tissuelist:TS-0229
+50 2-2-embryos-uaz:UA-ORG-239
+51 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+57 
+58 
+58 
+59 26-26-embryos-uaz:UA-ORG-239
+60 
+61 6-6-embryos-uaz:UA-ORG-239
+62 21-21-embryos-uaz:UA-ORG-239
+63 
+64 12-13-wing_disc-tissuelist:TS-1123
+65 
+66 22-22-thorax-tissuelist:TS-1039
+67 
+68 
+69 
+69 
+70 15-16-LE_cells-uaz:UA-CT-30007
+71 1-1-embryos-uaz:UA-ORG-239
+72 
+73 
+73 0-0-Thorax-tissuelist:TS-1039
+74 2-3-wing_disc-tissuelist:TS-1123 14-15-LE_cells-uaz:UA-CT-30007
+75 
+76 8-9-wing_disc-tissuelist:TS-1123
+77 
+78 
+78 31-31-thorax-tissuelist:TS-1039
+79 6-6-thorax-tissuelist:TS-1039
+80 43-43-thorax-tissuelist:TS-1039
+81 
+81 
+82 3-3-embryos-uaz:UA-ORG-239
+83 8-8-embryos-uaz:UA-ORG-239 19-19-Drosophila-taxonomy:7215
+84 
+85 
+86 
+87 
+88 12-12-human-taxonomy:9606
+89 
+90 
+91 
+91 
+92 
+92 
+93 
+94 
+95 
+96 
+97 3-3-Yeast-taxonomy:4932
+98 22-22-embryo-tissuelist:TS-0229 41-42-muscle_attachment-uaz:UA-ORG-600 50-50-pharynx-tissuelist:TS-0785
+99 
+100 
+100 24-24-yeast-taxonomy:4932
+101 
+102 
+103 
+104 
+105 11-11-yeast-taxonomy:4932
+106 
+107 21-22-muscle_attachment-uaz:UA-ORG-600 26-26-embryos-uaz:UA-ORG-239
+108 
+108 
+109 
+110 
+111 8-8-wing-tissuelist:TS-1122 17-17-wing-tissuelist:TS-1122 29-29-wing-tissuelist:TS-1122
+112 
+113 
+114 
+114 
+115 
+115 
+116 10-10-chromosome-go:GO:0005694
+117 
+118 
+119 9-9-wing-tissuelist:TS-1122
+120 6-6-wing-tissuelist:TS-1122
+121 
+121 11-11-thorax-tissuelist:TS-1039
+122 25-25-embryos-uaz:UA-ORG-239
+123 23-23-thorax-tissuelist:TS-1039
+124 28-28-embryos-uaz:UA-ORG-239
+125 
+126 2-2-wing-tissuelist:TS-1122
+127 27-27-embryos-uaz:UA-ORG-239
+128 
+129 
+129 
+130 
+130 
+131 15-15-embryos-uaz:UA-ORG-239 53-53-embryos-uaz:UA-ORG-239
+132 19-19-wing-tissuelist:TS-1122
+133 
+134 18-18-germ-tissuelist:TS-0410 34-35-whole_embryo-tissuelist:TS-0229
+135 
+136 
+137 
+137 13-13-embryos-uaz:UA-ORG-239
+138 1-1-embryos-uaz:UA-ORG-239
+139 4-4-embryos-uaz:UA-ORG-239
+140 
+141 
+142 
+143 
+144 
+144 
+145 
+146 
+147 
+148 
+149 
+150 
+151 10-11-actin_cytoskeleton-go:GO:0015629
+152 
+153 
+154 21-21-thorax-tissuelist:TS-1039
+155 
+156 
+156 
+157 
+157 
+158 
+158 
+159 10-10-TM3-uaz:UA-CLine-3486 25-25-TM3-uaz:UA-CLine-3486 35-35-TM3-uaz:UA-CLine-3486
+160 
+161 9-9-TM3-uaz:UA-CLine-3486 24-24-TM3-uaz:UA-CLine-3486 34-34-TM3-uaz:UA-CLine-3486
+162 0-0-Embryos-uaz:UA-ORG-239
+163 
+163 
+164 
+164 0-0-Rabbit-taxonomy:9986
+165 3-3-rabbit-taxonomy:9986 16-16-mouse-taxonomy:10090
+166 1-1-embryos-uaz:UA-ORG-239 6-6-wing-tissuelist:TS-1122
+167 
+168 3-3-wing-tissuelist:TS-1122
+169 
+169 
+170 
+170 
+171 
+172 
+172 
+173 
+173 4-4-embryos-uaz:UA-ORG-239 10-10-Drosophila-taxonomy:7215
+174 
+175 
+176 
+177 
+177 
+178 
+178 
+179 
+180 
+181 9-9-Drosophila-taxonomy:7215
+182 
+183 
+183 0-0-Yeast-taxonomy:4932
+184 
+184 
+185 
+186 1-1-yeast-taxonomy:4932 2-2-host-go:GO:0018995
+187 
+187 
+188 
+188 
+189 
+190 
+191 
+192 
+193 

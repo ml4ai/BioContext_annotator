@@ -1,0 +1,381 @@
+1						Semaphorin 4d and plexin-b 1 mediate r-ras gap activity inhibit cell migration by regulate beta1 integrin activity
+2			E1	C1	plexin be cell surface receptor for semaphorin	plexin be cell surface receptor for semaphorin and regulate cell migration in many cell type .
+3			"E2,E3"	C1	"the semaphorin 4d ( sema4d ) receptor plexin-b1 function as a gtpase activate protein ( gap ) for r-ra , a member of ra family gtpase implicate in regulation of integrin activity and cell migration"	"we recently report that the semaphorin 4d ( sema4d ) receptor plexin-b1 function as a gtpase activate protein ( gap ) for r-ra , a member of ra family gtpase implicate in regulation of integrin activity and cell migration ( Oinuma , I. , Y. Ishikawa , H. Katoh , and M. Negishi ."
+4						2004 .
+5						science .
+6						305:862 -865 ) .
+7			"E4,E5,E6,E7"	C1		we characterize the role of r-ras downstream of sema4d and plexin-b 1 in cell migration .
+8					"activation of plexin-b1 by sema4d suppress the ecm dependent r-ra activation , r-ras-mediated phosphatydylinositol 3-kinase activation , and beta1 integrin activation"	"activation of plexin-b1 by sema4d suppress the ecm dependent r-ra activation , r-ras-mediated phosphatydylinositol 3-kinase activation , and beta1 integrin activation through its r-ra gap domain , lead to inhibition of cell migration ."
+9			"E8,E9"	C1	 inactivation of r-ra by overexpression of the r-ras-specific gap or knockdown of r-ra by rna interference be sufficient for suppress beta1 integrin activation	"in addition , inactivation of r-ra by overexpression of the r-ras-specific gap or knockdown of r-ra by rna interference be sufficient for suppress beta1 integrin activation and cell migration in response to the ecm stimulation ."
+10			E10	C1	 inactivation of r-ra by sema4d and plexin-b 1 mediate r-ras gap activity 	"thus , we conclude that r-ra activity be critical for ECM mediate beta1 integrin activation and cell migration and that inactivation of r-ra by sema4d and plexin-b 1 mediate r-ras gap activity control cell migration by modulate the activity of beta1 integrin ."
+11						introduction
+12						semaphorin comprise a large family of secrete and transmembrane molecule that play central role in axon guidance in the develop nervous system .
+13						"the function of semaphorin be mediate by plexin , which be classify into four subfamily : plexin-a , -b , -c , and -d ."
+14						"semaphorin be originally identify as repulsive axonal guidance molecule , but they have recently be show to regulate integrin mediate cell migration in a variety of cell ."
+15						sema3a exert a essential permissive role in the execution of vasculature remodeling by inhibit integrin mediate adhesion of endothelial cell to the ECM .
+16	uaz:UA-CLine-7618	NIH-3T3 cells	C2			activation of plexin-b1 negatively regulate integrin base cell adhesion and migration of nih-3t3 cell .
+17						Plexin-C1 inhibit integrin mediated adhesion and chemokine induce migration of dendritic cell .
+18						"thus , semaphorin and plexin signaling play a important role in the migration of a variety of cell ."
+19						"however , the molecular mechanism underlie the inhibition of integrin mediate cell migration by semaphorin through plexin remain unclear ."
+20						rho family small gtpase be signal transduction molecule that remodel the actin cytoskeleton and play fundamental role in numerous cellular process .
+21			E11	"C1,C2"	"the small gtpase rnd1 , a constitutively active gtpase , be know to interact directly with the cytoplasmic domain of plexin-b1 ."	"the small gtpase rnd1 , a constitutively active gtpase , be know to interact directly with the cytoplasmic domain of plexin-b1 ."
+22			"E12,E13,E14"	"C1,C2"	" plexin-b1 function as a r-ras gtpase activate protein ( gap ) and directly and specifically down-regulate r-ras activity in response to sema4d , induce repulsive response in hippocampal neuron , and that the expression of r-ra gap activity of plexin-b1 require rnd1 association with the receptor ."	"we recently reveal that plexin-b1 function as a r-ras gtpase activate protein ( gap ) and directly and specifically down-regulate r-ras activity in response to sema4d , induce repulsive response in hippocampal neuron , and that the expression of r-ra gap activity of plexin-b1 require rnd1 association with the receptor ."
+23						"furthermore , expression of constitutively active r-ra prevent growth cone collapse induce by sema4d and plexin-b 1 as well as sema3a and plexin-a 1 , whereas r-ra sirna cause a growth cone collapse similar to those induce by semaphorin ."
+24			E15	"C1,C2"	"integrin be a family of alpha and beta heterodimeric cell surface receptor that bind to the ECM , such as collagen and fibronectin"	"integrin be a family of alpha and beta heterodimeric cell surface receptor that bind to the ECM , such as collagen and fibronectin , and play a central part in regulate cell growth , survival , migration , and tumor metastasis ."
+25						"activation of integrin be essential for cell adhesion and cell migration , and several study show that the ra family of small gtpase regulate integrin activity ."
+26			E16	"C1,C2"	"among the ra family gtpase , activate r-ra be show to induce integrin activation"	"among the ra family gtpase , activate r-ra be show to induce integrin activation and increase cell adhesion and matrix assembly , suggest that r-ra play a important role in the regulation of integrin activity ."
+27			E17	"C1,C2"	r-ras activity be regulate and how r-ra activate integrin	"however , how r-ras activity be regulate and how r-ra activate integrin remain obscure ."
+28						"significantly , sema4d be the first extracellular stimulus show to influence the activity of r-ra ."
+29						these fact collectively prompt we to speculate that plexin regulate integrin mediated cell migration by they r-ra gap activity .
+30			E18	C1	 r-ras downstream of sema4d and plexin-b 1 in regulation of integrin activation	"in this study , we characterize the role of r-ras downstream of sema4d and plexin-b 1 in regulation of integrin activation and cell migration ."
+31			"E19,E20"	C1	activation of r-ra by ecm be require for ECM	"the activation of r-ra by ecm be require for ECM mediate integrin activation and cell migration , and sema4d and plexin-b 1 inhibit integrin activation and cell migration through r-ra gap activity ."
+32			E21	C1	 sema4d and plexin-b 1 induce suppression of beta1 integrin activity	we also reveal that down regulation of phosphatydylinositol 3-kinase ( pi3-k ) activity be responsible for sema4d and plexin-b 1 induce suppression of beta1 integrin activity and cell migration .
+33						result
+34						sema4d antagonize integrin mediated cell migration
+35	uaz:UA-CLine-100093	PC12 cells	C1			we examine the effect of sema4d on integrin mediated migration of pc12 cell in a cell migration assay .
+36						"transwell chamber be coat on the lower side with vary concentration of collagen i. pc12 cell exhibit a collagen concentration dependent promotion of cell migration , which be antagonize by sema4d ."
+37						"the collagen dependent pc12 cell migration be mediate by alpha1 and beta1 integrin subunit , as functional block antibody against alpha1 and beta1 integrin subunit strongly impair the migration ."
+38	uaz:UA-CLine-100093	PC12	"E22,C3"	C3	sema4d antagonize the collagen receptor	"these result indicate that sema4d antagonize the collagen receptor , alpha1 and beta1 integrin dependent pc12 cell migration ."
+39						Figure 1 .
+40						sema4d antagonize integrin mediated cell migration .
+41						( a ) pc12 cell be test in the transwell assay either in the presence or absence of sema4d .
+42						transwell chamber be coat on the lower side with vary concentration of collagen i. migrate cell be visualize by the staining of crystal violet .
+43						"( c and e ) pc12 cell be pretreat with 5 mug and ml of functional block monoclonal antibody against alpha1 and beta1 integrin subunit ( 3a3 and p5d2 , respectively ) or control mouse igg1 and subject to the transwell assay ."
+44						migrate cell be visualize by the staining of crystal violet .
+45						"( b , d , and f ) relative cell migration be determine by the number of the migrated cell normalize to the total number of cell ."
+46						result be the means + /- sem of three independent experiment .
+47						"bar , 1 mm ."
+48						sema4d through plexin-b1 inhibit ECM mediate activation of r-ra and beta1 integrin
+49						"R-Ras be implicate in integrin mediate cell migration , and expression of a constitutively active form of r-ra have be show to stimulate cell migration ."
+50			E23	C4	sema4d stimulation down-regulate ngf stimulate r-ra activity via the r-ra gap activity of plexin-b1 to induce neurite retraction .	we previously report that sema4d stimulation down-regulate ngf stimulate r-ra activity via the r-ra gap activity of plexin-b1 to induce neurite retraction .
+51	uaz:UA-CLine-100093	PC12 cells	C4			we next test whether stimulation of pc12 cell with collagen and sema4d affect r-ras activity .
+52						"pc12 cell be plate onto collagen coated dish and lyse , and the lysate be incubate with the gst fuse ra binding domain of c-raf-1 ( gst-rbd ) to pull down activate r-ra ."
+53						"as show in , cell plate on collagen coated dish show a collagen concentration dependent increase in endogenous r-ra activity , whereas those keep in suspension or plate onto the non-integrin-dependent substrate poly-d-lysine do not ."
+54			"E24,E25"	C4	"collagen dependent activation of r-ra be inhibit by a functional block antibody against beta1 integrin , p5d2 , and be enhance by affinity related activation of beta1 integrin by the monoclonal antibody 8a2 , which mechanically induce a high-affinity state of beta1 integrin ."	"furthermore , the collagen dependent activation of r-ra be inhibit by a functional block antibody against beta1 integrin , p5d2 , and be enhance by affinity related activation of beta1 integrin by the monoclonal antibody 8a2 , which mechanically induce a high-affinity state of beta1 integrin ."
+55			E26	C4	beta1 integrin be require for r-ras activation	these datum suggest that beta1 integrin be require for r-ras activation upon ECM mediate adhesion .
+56			"E29,E30,E31,E32"	C4	sema4d stimulation strongly inhibit the collagen induced activation of r-ra | affinity related activation of beta1 integrin by the 8a2 antibody attenuate the inhibitory effect of sema4d on ECM mediate r-ras activation .	"sema4d stimulation strongly inhibit the collagen induced activation of r-ra , and affinity related activation of beta1 integrin by the 8a2 antibody attenuate the inhibitory effect of sema4d on ECM mediate r-ras activation ."
+57						R-Ras be know to regulate beta1 integrin activation .
+58						"to examine the effect of sema4d on beta1 integrin activity , we measure the activity of beta1 integrin in cell with or without sema4d stimulation by the immunoprecipitation assay with the monoclonal antibody against active conformation of beta1 integrin , huts-4 , which detect hybrid domain swing-out in beta1 integrin , a process most commonly associate with ligand binding ."
+59			"E33,E34"	C4	sema4d antagonize the collagen dependent activation of beta1 integrin .	sema4d antagonize the collagen dependent activation of beta1 integrin .
+60					inhibition of beta1 integrin activity by sema4d	"inhibition of beta1 integrin activity by sema4d be also observe in the elisa use the huts-4 antibody , which be perform under a detergent-free condition ."
+61						"to further ascertain that sema4d indeed affect the activity of beta1 integrin , we perform flow cytometry analysis use the huts-4 antibody ."
+62						"as show in , cell treat with sema4d show a decrease in the level of huts-4 binding ( fitc staining ) ."
+63			"E35,E36,E37"	C4	"mn2+ treatment , which induce the activation of beta1 integrin , result in the effective interaction with the ecm ligand and increase huts-4 binding , completely overcome the sema4d induce decrease in huts-4 binding ."	"mn2+ treatment , which induce the activation of beta1 integrin , result in the effective interaction with the ecm ligand and increase huts-4 binding , completely overcome the sema4d induce decrease in huts-4 binding ."
+64						these result suggest that decrease huts-4 binding induce by sema4d be due to affinity modulation of beta1 integrin .
+65			"E38,E39,E40"	C4	"fak be know to be autophosphorylate at tyrosine upon integrin activation , and fak phosphorylation downstream of beta1 integrin be the important step for integrin mediate cell migration ."	"fak be know to be autophosphorylate at tyrosine upon integrin activation , and fak phosphorylation downstream of beta1 integrin be the important step for integrin mediate cell migration ."
+66			"E41,E42"	C4	"as show in , sema4d inhibit the collagen mediated fak tyrosine phosphorylation ."	"as show in , sema4d inhibit the collagen mediated fak tyrosine phosphorylation ."
+67			"E43,E44,E45,E46"	C4	these result suggest that sema4d inhibit ECM mediate activation of r-ra and beta1 integrin .	these result suggest that sema4d inhibit ECM mediate activation of r-ra and beta1 integrin .
+68						figure 2 .
+69						sema4d inhibit ECM mediate activation of r-ra and functional activation of beta1 integrin .
+70						( a ) pc12 cell be collect and keep in suspension ( susp ) or replate onto poly-d-lysine ( PDL ) - or collagen ( col ) - coated ( 1 or 10 mug and ml ) dish with or without sema4d in the plate media .
+71						"15 min after plate , the cell be lyse and the lysate be incubate with gst-rbd , and bind r-ras protein and total lysate be analyze by immunoblotting ."
+72						"for the indicated sample , cell be treat with 5 mug and ml of monoclonal beta1 integrin block ( p5d2 ) or activate ( 8a2 ) antibody before replate ."
+73						relative r-ra activity be determine by the amount of r-ra bind to gst-rbd normalize to the amount of r-ra in cell lysate analyze by NIH image software ( bottom ) .
+74						"( b and e ) pc12 cell be seed onto noncoated or collagen coated ( 10 mug and ml ) dish , with or without sema4d in the plate media ."
+75						"cell be lyse , and the lysate be immunoprecipitate with a antibody against the active beta1 integrin , huts-4 ( b ) , or a antibody against FAK ( e ) to measure the activity of beta1 integrin or tyrosine phosphorylated fak , respectively ."
+76						( c ) the elisa use huts-4 antibody be perform to confirm the effect of sema4d on activity of beta1 integrin under a detergent-free condition .
+77						result be the means + /- sem of three independent experiment .
+78						( d ) pc12 cell be treat for 3 h at 37degreesc with control medium or with medium contain sema4d or sema4d plus 1 mm mn2+ .
+79						"cell be incubate with huts-4 antibody or buffer alone ( -1 st ab ) , follow by label with the FITC conjugate secondary antibody ."
+80						fluorescence intensity be determine by flow cytometry analysis .
+81						error bar indicate sem .
+82					 sema4d dependent inhibition of r-ra activity	we also confirm the involvement of the endogenous plexin-b1 receptor in sema4d dependent inhibition of r-ra activity and integrin function .
+83			"E48,E49,E50,E51"	C4	"as show in , both sema4d dependent inhibition of collagen mediated activation of r-ra and cell migration be block by the monoclonal antibody against plexin-b1"	"as show in , both sema4d dependent inhibition of collagen mediated activation of r-ra and cell migration be block by the monoclonal antibody against plexin-b1 , which recognize the extracellular ligand binding region of the receptor ."
+84			"E52,E53,E54"	C4	"sema4d through plexin-b1 inhibit ECM mediate activation of r-ra , functional activation of beta1 integrin "	"these result suggest that sema4d through plexin-b1 inhibit ECM mediate activation of r-ra , functional activation of beta1 integrin , and inhibition of cell migration ."
+85						Figure 3 .
+86						sema4d dependent inhibition of r-ra activity and ecm mediate cell migration involve the endogenous plexin-b1 receptor .
+87						( a ) pc12 cell be pretreat with 5 mug and ml of a mouse monoclonal antibody against the extracellular ligand binding region of plexin-b1 ( plexb1 ab ) or the control mouse igg2b ( control ab ) .
+88						"pc12 cell be seed onto noncoated or collagen coated ( 10 mug and ml ) dish with or without sema4d in the plate media , and relative r-ras activity be determine as describe in the legend to ."
+89						( b ) pc12 cell be pretreat with 5 mug and ml of the monoclonal antibody against plexin-b1 and be subsequently subject to the transwell assay in either the presence or absence of sema4d .
+90						migrate cell be visualize by the staining of crystal violet .
+91						( c ) relative cell migration be determine by the number of the migrated cell normalize to the total number of cell .
+92						result be the means + /- sem of three independent experiment .
+93						"bar , 1 mm ."
+94	uaz:UA-CLine-100093	PC12 cells	"E55,C5"	C5	sema4d be mediate by suppression of beta1 integrin activity	inhibition of cell migration by sema4d be mediate by suppression of beta1 integrin activity
+95						we test whether sema4d mediate inhibition of cell migration be mediate by suppression of beta1 integrin activity .
+96						pc12 cell preincubate with 5 mug and ml beta1 integrin activate monoclonal antibody ( 8a2 ) be subject to the transwell assay .
+97						we test the migration at relatively low concentration of collagen ( ~ 3.0 mug and ml ) because this antibody inhibit cell migration at high concentration of the ecm ligand by freezing beta1 at a high-affinity state .
+98			E56	C5	affinity related activation of beta1 integrin by 8a2 stimulation	"as show in , affinity related activation of beta1 integrin by 8a2 stimulation overcome the inhibitory effect of sema4d on collagen mediated cell migration , whereas a control igg2a antibody do not ."
+99						these result suggest that the inhibition of beta1 integrin activity be require for the inhibition of cell migration by sema4d .
+100						Figure 4 .
+101						affinity related activation of beta1 integrin overcome the inhibitory effect of sema4d on collagen mediated pc12 cell migration .
+102						( a and b ) pc12 cell be pretreat with 5 mug and ml of beta1 integrin activate monoclonal antibody ( 8a2 ) or control igg2a ( control ab ) and be subsequently subject to the transwell assay in either the presence or absence of sema4d .
+103						migrate cell be visualize by the staining of crystal violet .
+104						( b ) relative cell migration be determine by the number of migrate cell normalize to the total number of cell .
+105						result be the means + /- sem of three independent experiment .
+106						"bar , 1 mm ."
+107			"E57,E58,E59,E60"	C6	Plexin-B1 inhibit ecm dependent activation of r-ra and beta1 integrin	Plexin-B1 inhibit ecm dependent activation of r-ra and beta1 integrin through its r-ra gap activity
+108			E61	C6	plexin-b1 associate with the rho family gtpase rnd1	we recently report that plexin-b1 encode r-ra gap within its cytoplasmic tail and that plexin-b1 associate with the rho family gtpase rnd1 function as a specific gap toward r-ra .
+109			E62	C6	sema4d and plexin-b 1-rnd1-mediated r-ra gap activity suppress adhesion dependent r-ra activation .	we examine whether sema4d and plexin-b 1-rnd1-mediated r-ra gap activity suppress adhesion dependent r-ra activation .
+110	uaz:UA-CLine-100020	COS-7 cells	C6			"COS-7 cell express r-ras-wild type ( WT ) be plate onto fibronectin coated dish or nonadherent control dish and lyse , and the lysate be incubate with gst-rbd to pull down activate r-ra ."
+111						the same cell lysate be also use for the immunoprecipitation assay use huts-4 for measurement of the activity of beta1 integrin .
+112	uaz:UA-CLine-100020	COS-7 cells	"C7,E63,E64"	C7	fibronectin stimulation activate both r-ra and beta1 integrin .	"in cos-7 cell , fibronectin stimulation activate both r-ra and beta1 integrin ."
+113			"E65,E66"	C7	expression of plexin-b1-wt and rnd1 inhibit the fibronectin mediate r-ras activation in the presence of sema4d .	"as show in , expression of plexin-b1-wt and rnd1 inhibit the fibronectin mediate r-ras activation in the presence of sema4d ."
+114						"however , this inhibitory effect be not observe in cell express plexin-b1-gga , a mutant lack the ability to associate with rnd1 , or plexin-b1-ra , a mutant lack primary and secondary arginine residue require for the catalytic activity of gap ."
+115			"E67,E68"	C7	 sema4d and plexin-b 1-rnd1-mediated r-ra gap activity inhibit adhesion dependent r-ra activation .	these result suggest that sema4d and plexin-b 1-rnd1-mediated r-ra gap activity inhibit adhesion dependent r-ra activation .
+116						"to examine the effect of sema4d and plexin-b 1-rnd1-mediated r-ra gap activity on beta1 integrin activity , we measure the activity of beta1 integrin in cell express plexin-b1 and rnd1 with or without sema4d stimulation by the immunoprecipitation assay ."
+117			"E69,E70"	C7	expression of plexin-b1 and rnd1 strongly inhibit the fibronectin mediate beta1 integrin activation in the presence of sema4d	"as show in , expression of plexin-b1 and rnd1 strongly inhibit the fibronectin mediate beta1 integrin activation in the presence of sema4d , whereas inhibition of beta1 integrin activation be not observe in cell express plexin-b1-gga or plexin-b1-ra ."
+118						the same result be also obtain by the elisa use the huts-4 antibody perform under a detergent-free condition .
+119						we also confirm the result by flow cytometry analysis .
+120	uaz:UA-CLine-100020	COS-7 cells	C8			"COS-7 cell transiently cotransfect with gfp-rnd1 and plexin-b1 be treat with sema4d , and gfp expression and huts-4 binding ( phycoerythrin [ pe ] staining ) be simultaneously analyze by two-color flow cytometry ."
+121						HUTS-4 binding ( pe staining ) be analyze on a gated subset of cell positive for gfp expression to discriminate beta1 integrin activity of transfect cell from that of untransfected cell .
+122						"as show in , a sema4d dependent decrease in huts-4 binding be observe in plexin-b1-wt and rnd1 expressing cell ."
+123						"however , cell coexpress rnd1 with plexin-b1-ra or plexin-b1-gga , which lack r-ra gap activity , do not show a sema4d dependent reduction in huts-4 binding ."
+124			"E71,E72,E73"	C8	sema4d and plexin-b 1-rnd1 also inhibit the fibronectin mediate FAK tyrosine phosphorylation	"in addition , sema4d and plexin-b 1-rnd1 also inhibit the fibronectin mediate FAK tyrosine phosphorylation , whereas inhibition of fak phosphorylation be not observe in cell express plexin-b1-gga or plexin-b1-ra ."
+125			E74	C8	sema4d and plexin-b 1-rnd1-mediated r-ra gap activity inhibit adhesion dependent activation of r-ra and thereby inhibit functional activation of beta1 integrin .	these result suggest that sema4d and plexin-b 1-rnd1-mediated r-ra gap activity inhibit adhesion dependent activation of r-ra and thereby inhibit functional activation of beta1 integrin .
+126						Figure 5 .
+127						Plexin-B1-mediated r-ra gap activity inhibit ecm dependent activation of r-ra and beta1 integrin .
+128						"( a ) cos-7 cell transfect with ha tag wild-type r-ra be detach with 1.5 mm edta , replate onto the dish coat with or without 10 mug and ml fibronectin ( fn ) , and incubate at 37degreesc for 15 min ."
+129						"( top ) the cell lysate be incubate with either the antibody against the active conformation of beta1 integrin huts-4 or gst-rbd to see the activity of beta1 integrin or r-ra , respectively ."
+130						( bottom ) relative activity of r-ra or beta1 integrin be normalize to the amount of r-ra or beta1 integrin in cell lysate analyze by NIH image software .
+131						"( b , c , and f ) cos-7 cell transfect with mutant of myc tag plexin-b1 and ha tag rnd1 be detach with 1.5 mm edta ."
+132						the cell be either keep in suspension ( susp ) or replate onto the dish coat with 10 mug and ml fibronectin and incubate at 37degreesc for 15 min in the presence or absence of sema4d .
+133						relative activity of r-ras ( b ) and beta1 integrin ( c ) and tyrosine phosphorylation of fak ( f ) be measure .
+134						"( d , top ) the elisa use huts-4 antibody be perform to confirm the effect of sema4d and plexin-b 1 mediate r-ras gap activity on activity of beta1 integrin under the detergent-free condition ."
+135						( bottom ) expression level of each construct be verify by immunoblot analysis .
+136						result be the means + /- sem of three independent experiment .
+137						( e ) cos-7 cell transiently cotransfect with gfp-rnd1 and plexin-b1 be stimulate for 5 min with sema4d and analyze by two-color flow cytometry .
+138						"HUTS-4 binding ( pe staining ) be analyze on a gated subset of cell , positive for gfp expression to discriminate beta1 integrin activity of transfect cell from that of untransfected cell ."
+139						"level of huts-4 binding in cell express gfp-rnd1 and various plexin-b1 expression construct , with or without sema4d stimulation , be analyze ."
+140						error bar indicate sem .
+141			"E75,E76"	C9	R-Ras activity be require for the ECM mediate activation of beta1 integrin	R-Ras activity be require for the ECM mediate activation of beta1 integrin
+142			E77	C9	ECM mediate activation of beta1 integrin .	we next examine whether regulation of r-ra activity play key role in the ECM mediate activation of beta1 integrin .
+143			E78	C9	activity of beta1 integrin be increase upon adhesion to fibronectin .	"as show in , in untransfected cell , activity of beta1 integrin be increase upon adhesion to fibronectin ."
+144			E79	C9	this activation be completely block by the down regulation of endogenous r-ra activity	"this activation be completely block by the down regulation of endogenous r-ra activity by the expression of the myristoylated gap domain of p98-r-rasgap ( myr-r-rasgap ) , which exhibit a specific gap activity toward r-ra ."
+145			E80	C9	constitutively active form of r-ra have be show to increase the affinity of beta1 integrin for fibronectin 	"R-Ras be implicate in integrin regulation , and the constitutively active form of r-ra have be show to increase the affinity of beta1 integrin for fibronectin and to stimulate cell migration ."
+146			E81	C9	expression of r-ras-ql actually induce remarkable activation of beta1 integrin	"expression of r-ras-ql actually induce remarkable activation of beta1 integrin , and this be not further enhance by fibronectin ."
+147			E82	C9	FAK tyrosine phosphorylation	we also test whether r-ra activity affect FAK tyrosine phosphorylation .
+148			"E83,E84,E85,E86,E87,E88,E89,E90,E91"	C9	" expression of myr-r-rasgap completely block the fibronectin induce fak phosphorylation , whereas r-ras-ql markedly stimulate fak phosphorylation independent of fibronectin , indicate that endogenous r-ra activity be also require for ECM mediate fak phosphorylation ."	"as show in , expression of myr-r-rasgap completely block the fibronectin induce fak phosphorylation , whereas r-ras-ql markedly stimulate fak phosphorylation independent of fibronectin , indicate that endogenous r-ra activity be also require for ECM mediate fak phosphorylation ."
+149			"E92,E93"	C9	requirement of r-ra in the ECM mediate functional activation of beta1 integrin .	we further confirm requirement of r-ra in the ECM mediate functional activation of beta1 integrin .
+150	uaz:UA-CLine-100020	COS-7 cells	"C9,E94"	C9	 phosphorylation of fak	we reduce expression of r-ra in cos-7 cell by r-ras-specific sirna expression vector and examine the effect on the activation of beta1 integrin and phosphorylation of fak .
+151			"E95,E96,E97,E98"	C9	reduction in r-ras protein block both the fibronectin dependent activation of beta1 integrin and phosphorylation of fak .	"as show in ( c and d ) , expression of r-ras sirna effectively reduce endogenous r-ra protein , and reduction in r-ras protein block both the fibronectin dependent activation of beta1 integrin and phosphorylation of fak ."
+152			E99	C9	suppression of beta1 integrin activation by inactivation of r-ra	"the elisa use huts-4 , under detergent-free condition , also confirm suppression of beta1 integrin activation by inactivation of r-ra by expression of myr-r-rasgap or knockdown of r-ra by r-ras rna interference ."
+153						we also confirm these result by two-color flow cytometry .
+154						"COS-7 cell transiently transfect with myr- r-rasgap or a r-ras sirna together with gfp be stain with huts-4 , and huts-4 binding ( pe staining ) be analyze on gfp positive cell ."
+155						"as show in , the level of huts-4 binding be reduce in cell express myr-r-rasgap or r-ras sirna ."
+156			"E100,E101"	C9	 activation of the endogenous r-ra protein be essential for the ECM mediate functional activation of beta1 integrin .	these result demonstrate that activation of the endogenous r-ra protein be essential for the ECM mediate functional activation of beta1 integrin .
+157						Figure 6 .
+158						R-Ras activity be require for ecm mediated activation of beta1 integrin .
+159						( A-D ) cos-7 cell express the indicated expression plasmid be detach with 1.5 mm edta in PBS and keep in suspension ( susp ) or replate onto the dish coat with 20 mug and ml poly-d-lysine ( PDL ) or 10 mug and ml fibronectin ( fn ) .
+160						"after 15 min , activity of beta1 integrin ( a and c ) and tyrosine phosphorylated fak ( b and d ) be measure ."
+161						"( e and f , top ) the elisa use huts-4 be perform under a detergent-free condition ."
+162						( bottom ) expression level of each construct or the level of endogenous r-ras protein in cell transfect with sirna be verify by immunoblot analysis .
+163						result be the means + /- sem of three independent experiment .
+164						"( g ) cos-7 cell transiently transfect with myr-r-rasgap or a r-ras sirna together with gfp be stain with huts-4 , and huts-4 binding ( pe staining ) be analyze on gfp positive cell ."
+165						Plexin-B1 inhibit cell migration through r-ra gap activity
+166						we next examine the effect of sema4d and plexin-b 1 signaling on integrin mediate cell migration .
+167	uaz:UA-CLine-100020	COS-7 cells	C10			"COS-7 cell express a control gfp alone exhibit a fibronectin concentration dependent promotion of cell migration , and ectopic expression of gfp-_NN r-ras-wt enhance this fibronectin dependent cell migration ."
+168						"coexpression of plexin-b1-wt and rnd1 with r-ras-wt block the r-ras-induced promotion of cell migration toward fibronectin , in the presence of sema4d at the lower well ."
+169						"on the other hand , expression of plexin-b1-ra , a mutant of plexin-b1 that lack r-ra gap activity , do not exhibit the sema4d dependent inhibition of cell migration toward fibronectin ."
+170			"E102,E103"	C10	Association of rnd1 with plexin-b1 be essential for the expression of r-ra gap activity of plexin-b1	"Association of rnd1 with plexin-b1 be essential for the expression of r-ra gap activity of plexin-b1 , and inhibition of cell migration be not observe in the cell without rnd1 or in the cell express plexin-b1-gga , a mutant of plexin-b1 unable to interact with rnd1 ."
+171			E104	C10	the plexin-b subfamily have be show to activate rhoa via its cooh-terminal pdz domain binding motif .	the plexin-b subfamily have be show to activate rhoa via its cooh-terminal pdz domain binding motif .
+172						"however , plexin-b1-deltac , a mutant of plexin-b1 that lack the pdz domain binding motif but still have r-ras gap activity , inhibit fibronectin dependent cell migration in the presence of sema4d ."
+173						"cell migration mediate by constitutively active r-ra , r-ras-ql , be not suppress by the sema4d and plexin-b 1 and rnd1 complex ."
+174						"expression level of these construct use in the assay be similar , as verify by immunoblot analysis ( not depict ) ."
+175						"furthermore , r-ras activity be essential for ECM mediate cell migration , as both inactivation of r-ra by expression of myr-r-rasgap or knockdown of r-ra by r-ras rna interference almost completely suppress the fibronectin dependent cell migration ."
+176						Figure 7 .
+177						Plexin-B1 inhibit ECM mediate cell migration through r-ra gap activity .
+178						"( a and b ) cos-7 cell express gfp or gfp-r-ras-wt be use in a cell migration assay , use transwell chamber coat on the lower side with vary concentration of fibronectin ( fn ) ."
+179						"migrate cell be visualize by the fluorescence of gfp ( a ) , and relative cell migration be determine ( b ) ."
+180						( c ) cos-7 cell express gfp-r-ras-wt together with plexin-b1-wt and rnd1 be test in the transwell assay in either the presence or absence of sema4d .
+181						( d ) cos-7 cell express the listed plasmid be test in the transwell assay use the chamber coat with vary concentration of fibronectin in either the presence ( close symbol ) or absence ( open symbol ) of sema4d .
+182						migrate cell be visualize by the fluorescence of gfp .
+183						( e ) relative cell migration at the point of 20 mug and ml fibronectin with or without sema4d be determine .
+184						expression level of the construct be verify by immunoblot analysis ( not depict ) .
+185						( f ) cos-7 cell transfect with the indicated plasmid be test in a cell migration assay use the transwell coat on the lower side with vary concentration of fibronectin .
+186						relative cell migration be determine by the number of the migrated cell normalize to the total number of the transfected cell .
+187						result be the means + /- sem of three independent experiment .
+188						"bar , 1 mm ."
+189	uaz:UA-CLine-100093	PC12 cells	C11			we further confirm that the r-ra gap activity exhibit by endogenous plexin-b1 be require for sema4d mediate inhibition of ECM mediate pc12 cell migration .
+190			E105	C11	we recently report that the cytoplasmic region of plexin-b1 by nature take the intramolecularly tethered form and that disruption of the interaction between the nh2-terminal region ( n-cyt ) and the cooh-terminal region ( c-cyt ) within the cytoplasmic domain by rnd1 binding to n-cyt be essential for exhibit the r-ra gap activity .	we recently report that the cytoplasmic region of plexin-b1 by nature take the intramolecularly tethered form and that disruption of the interaction between the nh2-terminal region ( n-cyt ) and the cooh-terminal region ( c-cyt ) within the cytoplasmic domain by rnd1 binding to n-cyt be essential for exhibit the r-ra gap activity .
+191						"C-Cyt associate with n-cyt-gga , which have no ability to interact with rnd1 , and rnd1 can not disrupt this interaction ."
+192			"E106,E107,E108"	C11	" overexpression of plexin-b1-n-cyt-gga could effectively block the sema4d and plexin-b 1 and rnd1 complex mediate r-ras gap activity , suggest that plexin-b1-_NN n-cyt-gga could be a effective tool to inhibit the r-ra gap activity of plexin-b1 in a dominant negative manner ."	"as show in , overexpression of plexin-b1-n-cyt-gga could effectively block the sema4d and plexin-b 1 and rnd1 complex mediate r-ras gap activity , suggest that plexin-b1-_NN n-cyt-gga could be a effective tool to inhibit the r-ra gap activity of plexin-b1 in a dominant negative manner ."
+193						overexpression of plexin-b1-n-cyt-gga in pc12 cell almost completely block the sema4d mediate inhibition of ECM mediate cell migration .
+194						Figure 8 .
+195						R-Ras gap activity of endogenous plexin-b1 be require for sema4d mediate inhibition of integrin mediate pc12 cell migration .
+196						( a ) schematic representation of the plexin-b1-n-cyt-gga construct use in the experiment .
+197						the rnd1 binding region and the r-ra gap domain ( c1 and c2 ) be indicate .
+198						"letter indicate the specific amino acid residue within domain ( a , alum ; f , phe ; g , gly ; l , leu ; p , pro ; r , arg ; v , val ) , and number indicate amino acid position within the sequence ."
+199						( b ) relative activity of r-ra be determine as describe in the legend to .
+200						( c ) pc12 cell transfect with gfp alone or gfp plus ha-plexin-b1-n-cyt-gga be test in the transwell assay in either the presence or absence of sema4d .
+201						( d ) relative cell migration be determine by the number of the migrated cell normalize to the total number of cell .
+202						migrate cell be visualize by the fluorescence of gfp .
+203						result be the means + /- sem of three independent experiment .
+204						"bar , 1 mm ."
+205						we also examine the role of endogenous r-ras protein in pc12 cell migration .
+206	uaz:UA-CLine-100093	PC12 cells	C12			"transfection of the r-ras sirna effectively reduce the expression of endogenous r-ras protein in pc12 cell , whereas the control sirna do not work , and expression of r-ras sirna almost completely suppress the collagen dependent cell migration , suggest that r-ra be a prime regulator for integrin mediate cell migration in pc12 cell ."
+207			E109	C12	sema4d and plexin-b 1 mediate r-ras gap activity	these result demonstrate that activation of endogenous r-ras protein be essential for the ecm mediate cell migration and that regulation of r-ra activity through sema4d and plexin-b 1 mediate r-ras gap activity play a key role in ECM mediate cell migration .
+208			E110	C13	sema4d and plexin-b 1-rnd1 inhibit pi3-k activity through its r-ra gap activity	sema4d and plexin-b 1-rnd1 inhibit pi3-k activity through its r-ra gap activity
+209						"PI3-K be the predominant effector of r-ra , and r-ras-mediated cell migration be sensitive to pharmacological pi3-k inhibitor ."
+210	uaz:UA-CLine-100020	COS-7 cell	"E111,E112,C13"	C13	expression of r-ras-ql induce the ecm independent functional activation of beta1 integrin and tyrosine phosphorylation of fak	expression of r-ras-ql induce the ecm independent functional activation of beta1 integrin and tyrosine phosphorylation of fak and cause cos-7 cell migration in the absence of ecm ligand .
+211			E113	C13	 pi3-k inhibitor ly294002	the d64a mutation of r-ra or the pharmacological pi3-k inhibitor ly294002 abrogate the cell migration induce by r-ras-ql .
+212			"E114,E115,E116,E117"	C13	"R-Ras-QL-64A , the effector loop mutant of r-ra , impair the ability of r-ra to activate pi3-k , and r-ras-ql-mediated phosphorylation of the pi3-k effector akt ( pkb ) be abolish by the d64a mutation ."	"R-Ras-QL-64A , the effector loop mutant of r-ra , impair the ability of r-ra to activate pi3-k , and r-ras-ql-mediated phosphorylation of the pi3-k effector akt ( pkb ) be abolish by the d64a mutation ."
+213			"E118,E119"	C13	r-ras-ql-induced activation of beta1 integrin and subsequent fak phosphorylation .	we further examine the involvement of pi3-k in r-ras-ql-induced activation of beta1 integrin and subsequent fak phosphorylation .
+214			"E120,E121,E122,E123"	C13	d64a mutation or ly294002 treatment markedly block both r-ras-ql-induced activation of beta1 integrin and phosphorylation of the downstream effector fak .	"as show in , d64a mutation or ly294002 treatment markedly block both r-ras-ql-induced activation of beta1 integrin and phosphorylation of the downstream effector fak ."
+215			E124	C13	prominent pi3-k-dependent phosphorylation of akt	it have be report that prominent pi3-k-dependent phosphorylation of akt occur in response to beta1 integrin mediate adhesion .
+216			E125	C13	the effect of sema4d and plexin-b 1 mediate r-ras gap activity on pi3-k activity by measure the phosphorylation of akt .	we examine the effect of sema4d and plexin-b 1 mediate r-ras gap activity on pi3-k activity by measure the phosphorylation of akt .
+217			"E126,E127,E128"	C13	expression of plexin-b1-wt and rnd1 inhibit the fibronectin mediate akt phosphorylation in the presence of sema4d .	"as show in , expression of plexin-b1-wt and rnd1 inhibit the fibronectin mediate akt phosphorylation in the presence of sema4d ."
+218						"however , this inhibition be not observe in cell express plexin-b1-gga or plexin-b1-ra that have no ability to exhibit r-ras gap activity ."
+219			"E130,E133"	C13	 pi3-k activity be necessary for r-ras-mediated activation of beta1 integrin and that sema4d and plexin-b 1-rnd1 inactivate pi3-k through down regulation of r-ra activity .	these result suggest that pi3-k activity be necessary for r-ras-mediated activation of beta1 integrin and that sema4d and plexin-b 1-rnd1 inactivate pi3-k through down regulation of r-ra activity .
+220						Figure 9 .
+221						sema4d and plexin-b 1-rnd1 inhibit pi3-k activity through inactivation of r-ra .
+222						"( a ) cos-7 cell transfect with gfp-r-ras-ql or its effector loop mutant , r-ras-ql-64a , be test in a cell migration assay use the noncoated bare transwell in either the presence or absence of 20 mum ly294002 ."
+223						"bar , 1 mm ."
+224						( b ) relative cell migration be determine .
+225						result be the means + /- sem of three independent experiment .
+226						( c ) phosphorylate and total akt be analyze by immunoblot with phospho-akt ( ser473 ) and total akt antibody .
+227						( d and e ) the state of beta1 integrin activity ( d ) and fak tyrosine phosphorylation ( e ) be analyze .
+228						"( f ) cos-7 cell prepare as describe in the legend to be directly lyse on dish , and the lysate be analyze by the immunoblot analysis with phospho-akt ( ser473 ) and total akt antibody ."
+229						result be the means + /- sem of three independent experiment .
+230			"E134,E135"	C14	down regulation of pi3-k activity be responsible for sema4d and plexin-b 1 induce suppression of beta1 integrin activity	down regulation of pi3-k activity be responsible for sema4d and plexin-b 1 induce suppression of beta1 integrin activity
+231			E136	C14	sema4d and plexin-b 1 to inhibit beta1 integrin activation .	"to clear out the role of pi3-k downstream of sema4d and plexin-b 1 , lead to suppression of beta1 integrin activity , we transfect p110alpha-caax , a constitutively active form of pi3-k , and test the ability of sema4d and plexin-b 1 to inhibit beta1 integrin activation ."
+232	uaz:UA-CLine-100020	COS-7 cells	C14			"in cos-7 cell , overexpression of p110alpha-caax by itself do not induce beta1 integrin activation in the absence of fibronectin ."
+233			"E137,E138"	C14	overexpression of the kinase-dead form of p110alpha block the fibronectin dependent beta1 integrin activation .	"on the other hand , overexpression of the kinase-dead form of p110alpha block the fibronectin dependent beta1 integrin activation ."
+234			E139	C14	pi3-k activity be necessary but that pi3-k activity by itself be not sufficient for induce beta1 integrin activation .	these result suggest that pi3-k activity be necessary but that pi3-k activity by itself be not sufficient for induce beta1 integrin activation .
+235			E140	C14	down regulation of pi3-k activity downstream of sema4d and plexin-b 1 be necessary for inhibition of beta1 integrin activity .	we next examine whether the down regulation of pi3-k activity downstream of sema4d and plexin-b 1 be necessary for inhibition of beta1 integrin activity .
+236			"E141,E142"	C14	 overexpression of p110alpha-caax block sema4d and plexin-b 1 dependent inactivation of beta1 integrin .	"as show in , overexpression of p110alpha-caax block sema4d and plexin-b 1 dependent inactivation of beta1 integrin ."
+237						we also examine the ability of sema4d to inhibit cell migration in cell express p110alpha-caax .
+238	uaz:UA-CLine-100093	PC12 cells	C15			"as show in , overexpression of p110alpha-caax in pc12 cell almost completely block the sema4d mediate inhibition of cell migration ."
+239			E143	"C14,C15"	"down regulation of pi3-k activity , downstream of sema4d and plexin-b 1 , be responsible for suppression of beta1 integrin activity"	"these result suggest that down regulation of pi3-k activity , downstream of sema4d and plexin-b 1 , be responsible for suppression of beta1 integrin activity and inhibition of the ecm mediate cell migration ."
+240						Figure 10 .
+241						down regulation of pi3-k activity be responsible for sema4d and plexin-b 1 induce suppression of beta1 integrin activity .
+242						"( a , leave ) lysate of cos-7 cell express p110alpha-caax , a constitutively active form of pi3-k , or its kinase-dead ( kd ) form be immunoprecipitate with huts-4 ."
+243						( right ) relative beta1 integrin activity be analyze .
+244						( b ) activity of beta1 integrin in cos-7 cell express the indicated expression plasmid with or without sema4d stimulation be examine .
+245						( c and d ) pc12 cell transfect with gfp alone ( open symbol ) or gfp plus p110alpha-caax ( close symbol ) be test in the transwell assay in either the presence or absence of sema4d .
+246						result be the means + /- sem of three independent experiment .
+247						"bar , 1 mm ."
+248						discussion
+249						"cell migration be a fundamental cellular process in many cell type , and semaphorin be know to act as a negative regulator for integrin mediate cell migration ."
+250			"E144,E145"	"C14,C15"	"sema4d receptor , plexin-b1 , down-regulate r-ra activity and inhibit ECM mediate integrin activation and cell migration through its r-ra gap activity ."	"we show that the sema4d receptor , plexin-b1 , down-regulate r-ra activity and inhibit ECM mediate integrin activation and cell migration through its r-ra gap activity ."
+251			E146	"C14,C15"	a constitutively active form of r-ra have be show to increase the affinity of integrin for fibronectin	"R-Ras be implicate in integrin regulation , and a constitutively active form of r-ra have be show to increase the affinity of integrin for fibronectin and to stimulate cell migration ."
+252			"E147,E148,E149,E150,E151,E152"	"C14,C15"	 r-ra in ECM mediate integrin activation | inactivation of r-ra activity by expression of the gap domain of p98-r-rasgap or knockdown of r-ra by r-ras-specific sirna markedly reduce ECM mediate integrin activation	"we have examine a role of r-ra in ECM mediate integrin activation and cell migration and show that r-ra be markedly activate by the ecm and that this activation be require for activation of beta1 integrin and subsequent cell migration , as inactivation of r-ra activity by expression of the gap domain of p98-r-rasgap or knockdown of r-ra by r-ras-specific sirna markedly reduce ECM mediate integrin activation and cell migration ."
+253			E153	"C14,C15"	 beta1 integrin be require for r-ras activation upon ECM mediate adhesion .	we result also reveal that beta1 integrin be require for r-ras activation upon ECM mediate adhesion .
+254						"this suggest a positive feedback during cell-substrate adhesion , implicate r-ras activation and the consequent further strengthening of integrin mediate function ."
+255						"therefore , r-ra be a central regulator for ECM mediate integrin activation and cell migration , and the regulation of r-ra activity be critical for integrin mediate cell migration ."
+256						semaphorin be implicate in migration of a variety of cell .
+257	uaz:UA-CLine-7618	NIH-3T3 cells	"E154,C16"	C16	stimulation of plexin-b1 by sema4d	stimulation of plexin-b1 by sema4d be report to hamper integrin base adhesion and cell migration in nih-3t3 cell .
+258	uaz:UA-ORG-623	neuronal growth cone	"E155,E156,C17"	C17	stimulation of the plexin-b1-rnd1 complex by sema4d induce the r-ra gap activity	we have report that plexin-b1 encode a r-ra gap in the cytoplasmic tail and that stimulation of the plexin-b1-rnd1 complex by sema4d induce the r-ra gap activity and resultant repulsive response of neuronal growth cone .
+259			"E157,E158"	"C14,C15"	plexin-b1 / rnd1 mediate r-ras gap activity	we demonstrate here that plexin-b1 / rnd1 mediate r-ras gap activity be also involve in sema4d induce inhibition of integrin activation and cell migration .
+260			E159	"C14,C15"	the cooh-terminal pdz domain binding motif of plexin-b1 be dispensable for suppression of integrin activity 	"furthermore , the cooh-terminal pdz domain binding motif of plexin-b1 be dispensable for suppression of integrin activity and cell migration by sema4d ."
+261						"in addition to sema4d , class 3 semaphorin have be show to control adhesion and migration of endothelial cell by inhibit integrin function , and sema3a signaling deficient mouse have show defective migration of neural crest cell ."
+262						"furthermore , plexin-c1 , a receptor of semaphorin a39r , be recently report to inhibit integrin mediated adhesion and chemokine induce migration ."
+263						"the r-ras gap-homologous domain be well conserve among plexin family , include plexin-a and -c1 ."
+264	uaz:UA-ORG-623	hippocampal neurons	"E160,C18"	C18	down regulation of r-ra activity be also require for the sema3a and plexin-a-induced repulsive response	"in addition , we recently report that the down regulation of r-ra activity be also require for the sema3a and plexin-a-induced repulsive response in hippocampal neuron ."
+265						we speculate that the direct regulation of r-ra activity by plexin be likely to be a mutual signaling pathway among plexin family and that this r-ra gap activity of plexin family may be a critical signaling system for semaphorin regulate cell migration .
+266						"semaphorin be initially identify as repulsive factor for axon guidance , and many neuron use member of the integrin family of cell surface receptor for response to neurite growth promote factor , and integrin activation regulate neurite outgrowth ."
+267	uaz:UA-ORG-623	retinal neurons	C19			"recently , expression of constitutively active r-ra be show to promote integrin dependent neurite outgrowth of retinal neuron , suggest that r-ra activity play a important role in integrin dependent neurite outgrowth ."
+268			"E161,E162"	C19	down regulation of r-ra activity by plexin-b1 via r-ra gap activity suppress r-ras-mediated integrin activation	"therefore , it be propose that the down regulation of r-ra activity by plexin-b1 via r-ra gap activity suppress r-ras-mediated integrin activation and thereby induce growth cone collapse and inhibition of neurite outgrowth ."
+269			"E163,E164"	C19	"the ephrin-b1 receptor ephb2 , another family of the repulsive factor receptor , be also report to suppress integrin mediate function by inactivate r-ra"	"with respect to signaling of other repulsive factor , the ephrin-b1 receptor ephb2 , another family of the repulsive factor receptor , be also report to suppress integrin mediate function by inactivate r-ra , suggest that repulsive guidance cue inhibit integrin mediated function by inactivate r-ra in general and that r-ras act as a common regulator of integrin activation and cell migration ."
+270			"E165,E166,E167"	"C14,C15"	sema4d and plexin-b 1 mediate r-ras gap activity lead to inactivation of beta1 integrin and find that down regulation of pi3-k activity be responsible for sema4d and plexin-b 1 induce suppression of beta1 integrin activity	we also examine the downstream signaling of sema4d and plexin-b 1 mediate r-ras gap activity lead to inactivation of beta1 integrin and find that down regulation of pi3-k activity be responsible for sema4d and plexin-b 1 induce suppression of beta1 integrin activity and cell migration .
+271						PI3-K activity be know to be require for r-ras-mediated enhancement of cell migration .
+272						"PI3-K have emerge as the predominant effector for r-ra , and r-ra be a more potent activator of pi3-k than other ra family member ."
+273						"on the other hand , pi3-k activity have be show to promote interaction between talin with the beta1 integrin cytoplasmic tail , lead to the clustering and activation of integrin ."
+274						integrin activation by mechanical stretch be also mediate by pi3-k and be follow by a increase in integrin binding to the extracellular matrix protein .
+275						"therefore , elevated pi3-k activity by activate r-ra may trigger a sequence of event lead to clustering and activation of integrin , although overexpression of p110alpha-caax by itself be not sufficient for induce beta1 integrin activation ."
+276			"E168,E169,E170"	"C14,C15"	sema4d and plexin-b 1 mediate r-ras gap activity suppress affinity of beta1 integrin through inactivation of pi3-k activity .	"we use the monoclonal antibody huts-4 , which detect hybrid domain swing-out in beta1 integrin , a process most commonly associate with ligand binding affinity , to measure activity of beta1 integrin and reveal that sema4d and plexin-b 1 mediate r-ras gap activity suppress affinity of beta1 integrin through inactivation of pi3-k activity ."
+277	uaz:UA-CLine-100061	mast cells	"E171,C20"	C20	r-ras-mediated increase in affinity of the beta1 integrin be dependent on pi3-k activity	"consistent with we result , a previous report demonstrate that a r-ras-mediated increase in affinity of the beta1 integrin be dependent on pi3-k activity by perform the ligand binding assay in mast cell ."
+278	uaz:UA-CLine-100019	CHO cells	"E172,C21"	C21	 r-ras-mediated integrin activation	"on the other hand , have show that pi3-k activity be not require for r-ras-mediated integrin activation in cho cell by use a ligand-mimetic antibody , pac-1 ."
+279						"therefore , we speculate that this discrepancy may be due to the difference in way to measure integrin activity or that r-ra may regulate integrin activity via both pi3-k-dependent and -independent pathway , depend on the cell type ."
+280						"in conclusion , we result demonstrate that r-ra activity be require for ECM mediate integrin activation and cell migration and that the sema4d and plexin-b 1 and rnd1 complex regulate integrin activation and cell migration through the r-ra gap activity ."
+281						"however , a variety of molecule such as erbb-2 and Met have be know to be involve in plexin signaling , induce diverse physiological function ."
+282						it be recently show that plexin-b1 enhance chemotaxi of endothelial cell through the activation of multiple intracellular tyrosine kinase cascade independent of the r-ra gap activity .
+283						"regulation of r-ra activity , tyrosine kinase , and other signaling mechanism may participate in diverse action of plexin ."
+284						"further work will be require to delineate the precise mechanism of r-ras-mediated integrin activation and its regulation by plexin for cell migration during physiological and pathological process , include neural cell migration , angiogenesis , and tumor metastasis ."
+285						Materials and method
+286						dna construct and site directed mutagenesis
+287						"Plexin-B1 cdna be provide by L. Tamagnone ( Torino University , Torino , Italy ) ."
+288						"ha tag rnd1 ; ha-_NN and gfp tag human r-ra and r-ras-ql ( q87l ) ; the gst fuse ra binding domain of c-raf-1 ( amino acid 53-130 ) ; the nh2-terminal ha tag myristoylate form of r-rasgap ; and myc tag plexin-b1 , plexin-b1-gga ( l1849g , v1850g , and p1851a ) , plexin-b1-ra ( r1677a , r1678a , and r1984a ) , plexin-b1-deltac ( lack the last seven cooh-terminal amino acid ) , and plexin-b1-_NN n-cyt-gga ( amino acid 1511-1915 ) be describe previously ."
+289						"the effector loop mutant of r-ra , r-ras-da ( d64a ) , be generate by a pcr mediated mutagenesis ."
+290						"nh2-terminal flag tag p110alpha be a gift from t. katada ( Tokyo University , Tokyo , Japan ) , and caax sequence be fuse to the cooh terminus to create a constitutively active form as describe previously ."
+291						"the specific sirna for r-ra be design to target 19 nucleotide at nucleotide 359 and 377 ( 5 ' - gcaagctcttcactcagat-3 ' ) , whereas the control sirna be design at nucleotide 426 and 444 ( 5 ' - caaggcagatctggagaca-3 ' ) , and both be express by use a sirna expression vector ( Ambion ) as describe previously ."
+292						antibody and reagent
+293						the pharmacological pi3-k inhibitor ly294002 be purchase from Calbiochem .
+294						"a soluble form of sema4d fuse to human igg1-fc be a gift from H. Kikutani ( Osaka University , Osaka , Japan ) ."
+295						"we use the follow antibody : mouse monoclonal antibody against myc and phosphotyrosine ; a rabbit polyclonal antibody against p125-fak ( Upstate Biotechnology ) ; mouse monoclonal antibody against alpha-tubulin ( Sigma-Aldrich ) , beta1 integrin ( BD Biosciences ) , and active beta1 integrin , huts-4 ( Chemicon ) ; a rabbit polyclonal antibody against r-ras ( Santa Cruz Biotechnology , Inc. ) ; a rat monoclonal antibody against HA ( Roche ) ; and HRP conjugate secondary antibody ( dakocytomation ) ."
+296						"for functional study in the transwell assay , we use the follow antibody : the affinity related beta1 integrin activate monoclonal antibody 8a2 ( igg2a ) ; the functional block monoclonal antibody against the integrin alpha1 subunit , 3a3 ( igg1 ; Serotec ) ; the functional block monoclonal antibody against the integrin beta1 subunit , p5d2 ( igg1 ; Chemicon ) ; and a mouse monoclonal antibody against the extracellular ligand binding region ( raise against amino acid 771-1070 of human origin ) of plexin-b1 ( igg2b ; Santa Cruz Biotechnology , Inc. ) ."
+297						fitc-_NN and pe conjugate f ( ab ' ) 2 specific secondary antibody for flow cytometry be purchase from Jackson ImmunoResearch Laboratories .
+298						the phosphoplus akt antibody kit ( cell signaling ) be use for the analysis of the phosphorylation state of akt .
+299						immunoblotting
+300						protein be separate by 12.5 % sds-page and be electrophoretically transfer onto a polyvinylidene difluoride membrane ( Millipore ) .
+301						the membrane be block with 3 % low-fat milk in tb and incubate with primary antibody .
+302						the primary antibody be detect with hrp conjugate secondary antibody and a chemiluminescence detection kit ( Chemi-Lumi one ; Nacalai Tesque ) .
+303						image be capture use a LAS 1000 analyzer ( Fuji ) equip with image gauge 4.0 software ( Fuji ) .
+304						immunofluorescence microscopy
+305						cell on coverslip be fix with 4 % pfa in PBS for 15 min and wash with PBS five time .
+306						cell be permeabilized with 0.2 % Triton x-100 in PBS for 10 min and incubate with 10 % fb in PBS for 30 min to block nonspecific antibody binding .
+307						cell be incubate with a anti-r-ras antibody ( 1:200 dilution ) for 1 h and then incubate with a Alexa Fluor 594 conjugate secondary antibody for 1 h. cell be wash in PBS for 1 h and mount in 90 % glycerol contain 0.1 % p-phenylenediamine dihydrochloride in PBS .
+308						image be capture at rt use a microscope ( Eclipse e800 ; Nikon ) and a 40 x 0.75 objective ( Nikon ) equip with a digital camera ( dc350f ; Leica ) .
+309						the image be arrange and label use Photoshop software ( Adobe ) .
+310						cell culture and transfection
+311						"COS-7 cell be culture in dme contain 10 % fb , 4 mm glutamine , 100 U and ml penicillin , and 0.2 mg and ml streptomycin under humidified condition in 95 % air and 5 % co2 at 37degreesc ."
+312						pc12 cell be maintain in rpmus 1640 with 10 % horse serum ( h ) and 5 % fb .
+313						transient transfection be perform with lipofectamine 2000 ( Invitrogen ) accord to the manufacturer 's instruction .
+314						a soluble form of sema4d be express as a fusion protein with the fc fragment of human igg1 .
+315						stimulation with sema4d be perform by incubation of the cell with sema4d-fc-containing medium at 37degreesc .
+316						cell migration assay
+317						"104 cell be detach with 1.5 mm edta in PBS , wash three time with serum-free medium , resuspend in dme contain 1 % bsa , seed on the upper side of 8-mum pore filter of transwell chamber ( costar ) , which be coat on the lower side with vary concentration of either fibronectin or collagen I ( Sigma-Aldrich ) , and incubate for 7 h. cell on the upper side of the filter be mechanically remove , and cell on the lower side be fix with 4 % pfa ."
+318						the number of migrate cell through the filter be count by the fluorescence of gfp or the staining with crystal violet ( a ) .
+319						"at the same time , the cell be seed onto 24-well plastic culture plate to count the total number of transfect cell ( b ) ."
+320						relative cell migration be then determine by the number of migrate cell normalize to the total number of transfect cell ( a and b ) .
+321						"unless describe , the value from the gfp transfect cell in the absence of coating be define as 1 ."
+322						"for functional study use activate or inhibitory monoclonal antibody , cell be pretreat with 5 mug and ml of antibody or corresponding negative igg control for 5 min before seed onto the transwell ."
+323						image be capture at rt in PBS use a microscope ( Eclipse te300-fn ; Nikon ) and a plan Fluor 10 x 0.30 objective ( Nikon ) equip with digital camera ( ds-l1 and ds-5m ; Nikon ) .
+324						the image be arrange and label use Photoshop 7.0 software .
+325						measurement of the activity of beta1 integrin by immunoprecipitation
+326						measurement of beta1 integrin activity by immunoprecipitation be perform as describe previously .
+327						3 x 106 cos-7 cell be maintain in dme contain 1 % fb after transfection .
+328						"16 h after transfection , cell be detach with 1.5 mm edta in PBS , wash three time with serum-free medium , and resuspend in 10 ml of 1 % bsa in dme with or without sema4d-fc ."
+329						the cell suspension be plate onto 10-cm plate coat with or without 10 mug and ml fibronectin and incubate at 37degreesc for 15 min .
+330						"the cell be lyse directly on dish with ice-cold cell lysis buffer ( 50 mm tris-hcl , ph 7.5 , 150 mm nacl , 1 % Triton x-100 , 10 % glycerol , 1 mm sodium vanadate , 25 mm naf , 10 mug and ml pepstatin , 1 mm pmsf , 10 mug and ml aprotinin , and 10 mug and ml leupeptin ) contain 5 mug and ml huts-4 , immunoprecipitate for 2 h , and subsequently incubate with protein g-sepharose bead ( GE Healthcare ) for 1 h at 4degreesc ."
+331						"after the bead be wash twice with the ice-cold cell lysis buffer , the bound protein be elute in laemmli sample buffer and analyze by sds-page and immunoblotting with the monoclonal antibody against beta1 integrin ."
+332						"to measure the activity of beta1 integrin in pc12 cell , 106 cell be maintain in rpmus 1640 contain 1 % h for 12 h , detach with 1.5 mm edta in PBS , wash three time with serum-free medium , and resuspend in 10 ml of 1 % bsa in rpmus 1640 with or without sema4d-fc ."
+333						the cell suspension be plate onto 10-cm plate coat with or without 10 mug and ml collagen i and incubate at 37degreesc for 3 h .
+334						the cell be lyse directly on dish with ice-cold cell lysis buffer .
+335						measurement of the activity of beta1 integrin by elisa
+336						measurement of the activity of beta1 integrin by elisa under detergent-free condition be perform as describe previously .
+337						"105 cell transfect in 24-well plastic culture plate be detach with 1.5 mm edta in PBS , wash three time with serum-free medium , and resuspend in 1 ml dme contain 1 % bsa , with or without sema4d-fc ."
+338						"one tenth of the resuspended cell ( 100 mul ) be seed onto the 96-well assay plate , which be coat with 10 mug and ml of either fibronectin or collagen i. cell adhesion be allow for 15 min at 37degreesc ."
+339						"then , the cell be delicately wash once with PBS and the adherent cell be fix with 4 % pfa ."
+340						"after the fixative , the cell be thoroughly rinse with PBS contain 0.1 % bsa ."
+341						"to avoid nonspecific binding , the cell be incubate with PBS contain 5 % bsa for 3 h at RT. ."
+342						cell be then incubate overnight at 4degreesc with 2 mug and ml huts-4 .
+343						"after the incubation with primary antibody , the well be rinse and block with PBS contain 5 % bsa for 3 h at rt before they be expose to a hrp- conjugate secondary antibody ."
+344						"after the incubation , cell be rinse again with PBS follow by distil h2o ."
+345						"the peroxidase color reaction be develop in the dark use o-phenylenediamine accord to the manufacturer 's instruction ( elisa OPD kit ; Nacalai Tesque ) , and the plate be read on a kinetic microtiter plate reader ( genio ; Tecan ) use the xfluor4 program ( Tecan ) ."
+346						the antibody concentration and incubation time be optimize to ensure testing in the linear range .
+347						expression level of the construct use in the assay be also verify by immunoblot analysis .
+348						flow cytometry analysis
+349						analysis of cell surface expression of active beta1 integrin by flow cytometry be perform as describe previously .
+350						106 pc12 cell be seed onto 6-cm noncoated plate in rpmus 1640 contain 10 % h and 5 % fb .
+351						"18 h after seed , cell be treat with medium contain sema4d-fc or sema4d-fc plus 1 mm mn2+ for 3 h at 37degreesc ."
+352						cell be wash once with PBS and resuspend in block solution contain 5 % dissociation buffer ( Invitrogen ) and 2 % sheep serum in PBS .
+353						"cell be then incubate with 2.5 mug huts-4 or buffer alone for 1 h at 4degreesc , wash with the block solution , and label with fitc conjugate secondary antibody for 30 min at 4degreesc ."
+354						cell be then wash and analyze with a epics elite flow cytometer use the expo32 analysis program ( Beckman Coulter ) .
+355						"for the analysis of active beta1 integrin in transiently transfect cos-7 cell , 106 cell be transfect with a gfp expression vector together with various other expression vector ."
+356						"cell be keep for 18 h in dme contain 10 % fb after transfection , stimulate for 5 min at 37degreesc with or without sema4d-fc , and be collect and incubate with huts-4 antibody or buffer alone as describe previously in this section ."
+357						"cell be label with a pe conjugate secondary antibody , and expression of gfp and activity of beta1 integrin ( pe staining ) be simultaneously analyze by two-color flow cytometry ."
+358						analysis of the intensity of pe staining in a gfp positive population be perform as describe previously .
+359						"approximately 10,000 cell be analyze in each experiment , and the result show be representative of two independent experiment ."
+360						measurement of r-ra activity
+361						measurement of r-ra activity in cell be perform as describe previously .
+362						7 x 105 cos-7 cell be maintain in dme contain 1 % fb after transfection .
+363						the cell suspension be prepare as describe ( see Measurement of the activity of beta1 integrin by immunoprecipitation ) and plate onto plastic dish coat with or without 10 mug and ml fibronectin and incubate at 37degreesc for 15 min .
+364						"the cell be lyse directly on dish with ice-cold cell lysis buffer ( 25 mm hepes-naoh , ph 7.5 , 150 mm nacl , 1 % np-40 , 0.25 % sodium deoxycholate , 0.1 % sd , 10 % glycerol , 10 mm mgcl2 , 1 mm edta , 1 mm dtt , 10 mug and ml aprotinin , and 10 mug and ml leupeptin ) contain 75 mug of gst fuse ra binding domain of c-raf-1 ( gst-rbd ) ."
+365						"to examine the effect of collagen i and sema4d stimulation on r-ra activity in pc12 cell , 106 cell be maintain in rpmus 1640 contain 1 % h for 12 h , detach with 1.5 mm edta in PBS , wash three time with serum-free medium , and resuspend in 10 ml of 1 % bsa in rpmus 1640 with or without sema4d-fc ."
+366						"for sample indicate , cell be treat with 5 mug and ml of monoclonal beta1 integrin block ( p5d2 ) or activate ( 8a2 ) antibody before replate ."
+367						cell be either keep in suspension or plate onto 6-cm plate coat with ( 1 or 10 mug and ml ) or without collagen i and incubate at 37degreesc for 15 min .
+368						"the cell be lyse directly on dish with ice-cold cell lysis buffer , and the lysate be use in a pull-down assay use gst-rbd ."
+369						detection of fak tyrosine phosphorylation
+370						detection of tyrosine phosphorylation of fak be perform as describe elsewhere .
+371						"the cell be lyse directly on dish with ice-cold cell lysis buffer ( 50 mm tris-hcl , ph 7.5 , 150 mm nacl , 1 % Triton x-100 , 0.25 % sodium deoxycholate , 10 % glycerol , 1 mm sodium vanadate , 25 mm naf , 10 mug and ml pepstatin , 1 mm pmsf , 10 mug and ml aprotinin , and 10 mug and ml leupeptin ) contain 4 mug and ml of the polyclonal antibody against FAK , immunoprecipitate for 2 h , and subsequently incubate with protein a-sepharose bead ( GE Healthcare ) for 1 h at 4degreesc ."
+372						detection of akt serine phosphorylation
+373						COS-7 cell be maintain in dme with 0.5 % fb after transfection for 36 h .
+374						we add 20 mum ly294002 directly to the culture medium after transfection and change it at every 12 h to reduce the basal level of pi3-k activity .
+375						cell be directly lyse on dish with 1x laemmlus sample buffer and analyze by sds-page and immunoblotting .
+376						online supplemental material
+377						fig .
+378						s1 show reduction in endogenous r-ras protein by rna interference in pc12 cell and requirement of endogenous r-ras protein in collagen mediated pc12 cell migration .
+379						online supplemental material be available at http://www.jcb.org/cgi/content/full/jcb.200508204/dc1 .
+380						Supplementary Material
+381						[ Supplemental Material Index ]

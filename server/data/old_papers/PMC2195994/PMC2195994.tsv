@@ -1,0 +1,284 @@
+1						cdc42h facilitate cytoskeletal reorganization and neurite outgrowth by localize the 58-kd insulin receptor substrate to Filamentous Actin
+2	uaz:UA-CLine-6607	n1e-115 cell	C1			cdc42h be involve in cytoskeletal reorganization and be require for neurite outgrowth in n1e-115 cell .
+3						to investigate the molecular mechanism by which cdc42h regulate these process , a search for novel cdc42h protein partner be undertake by yeast two-hybrid assay .
+4			E1	C1,C2	the 58-kd substrate of the insulin receptor tyrosine kinase ( irs-58 ) as a cdc42h target .	here , we identify the 58-kd substrate of the insulin receptor tyrosine kinase ( irs-58 ) as a cdc42h target .
+5						IRS-58 be a brain enriched protein comprise at least four protein protein interaction site : a cdc42h binding site , a src homology ( sh ) 3 binding site , a sh3 domain , and a tryptophan , tyrptophan ( ww ) - binding domain .
+6						expression of irs-58 in swiss 3t3 cell lead to reorganization of the filamentous ( f ) - actin cytoskeleton , involve loss of stress fiber and formation of filopodium and cluster .
+7						in n1e-115 cell irs-58 induce neurite outgrowth with high complexity .
+8						expression of a deletion mutant of irs-58 , which lack the sh3-_NN and ww binding domain , induce neurite extension without complexity in n1e-115 cell .
+9	uaz:UA-CLine-1347	swiss 3t3 cell	C2			in swiss 3t3 cell and n1e-115 cell , irs-58 colocalize with f-actin in cluster and filopodium .
+10						a IRS 581267n mutant unable to bind cdc42h fail to localize with f-actin to induce neurite outgrowth or significant cytoskeletal reorganization .
+11						these result suggest that cdc42h facilitate cytoskeletal reorganization and neurite outgrowth by localize protein complex via adaptor protein such as irs-58 to f-actin .
+12						introduction
+13						"rho family gtpase 's ( e.g. , rac1 , rhoa , and cdc42h ) be molecular switch that cycle between "" on "" ( gtp bind ) and "" off "" ( GDP bind ) state ."
+14						extracellular factor , such as pdgf , bradykinin , and lysophosphatidic acid , regulate the activity of GDP and gtp-exchange factor and gtpase activating protein ( gap ) and thereby control the cycling of rho family gtpase .
+15						rho family gtpase coordinate signal from membrane receptor to pathway that control actin base cell morphology and cell growth ( for review see ) .
+16			E2	C3	cdc42h play a role in cytokinesis , cell transformation , cell polarization , cell-cell adhesion , hiv viral replication , and can stimulate c-jun nh2-terminal kinase activity .	cdc42h play a role in cytokinesis , cell transformation , cell polarization , cell-cell adhesion , hiv viral replication , and can stimulate c-jun nh2-terminal kinase activity .
+17						"cdc42h induce the formation of filopodium and retraction fiber with associated "" focal complex "" ( fc ) in response to growth factor such as bradykinin ."
+18			E3	C3	cdc42h can also induce the loss of stress fiber and , as a secondary event , the formation of membrane ruffle and lamellipodium via activation of rac1 .	cdc42h can also induce the loss of stress fiber and , as a secondary event , the formation of membrane ruffle and lamellipodium via activation of rac1 .
+19	uaz:UA-CLine-6607	n1e-115 cell	C3			cdc42h be essential and sufficient to drive neurite outgrowth in neuroblastoma n1e-115 cell .
+20						one approach to understand the mechanism by which cdc42h regulate cellular process be to isolate and characterize protein that interact with it .
+21						cdc42h target have be isolate by protein purification ( e.g. , activate cdc42 associated kinase [ ack ] , p21 activate kinase [ pak ] , myotonic dystrophy kinase related cdc42 binding kinase [ mrck ] , and wiskott-aldrich syndrome protein [ WASP ] ; , ; ; ) and by yeast two-hybrid screening .
+22						overexpression of pak in swiss 3t3 cell can induce membrane ruffling and filopodium formation , and loss of focal adhesion .
+23						WASP and neural WASP ( n-wasp ) regulate actin polymerization through coupling with protein such as WIP and the arp2 and 3 complex .
+24						interestingly , n-wasp , unlike WASP , have be report to induce filopodium formation .
+25						in this study we have use a yeast two-hybrid screen of a human brain library to identify novel cdc42h target .
+26						we describe in detail one of these clone , a 58-kd substrate of the insulin receptor tyrosine kinase ( irs58 ) , initially identify by .
+27						IRS-58 be a adaptor protein with at least four protein protein interaction site .
+28						expression of irs-58 in swiss 3t3 cell lead to formation of peripheral actin microspike and loss of stress fiber with a associated redistribution of fc .
+29						in n1e-115 neuroblastoma cell , irs-58 induce neurite outgrowth where the neurite be complex with multiple branch point and elaborate growth cone .
+30						a IRS 58 mutant delete for the src homology ( sh ) 3- and tryptophan , tryptophan ( ww ) - binding domain induce neurite extension , but not complexity .
+31						in both swiss 3t3 cell and n1e-115 cell , irs-58 colocalize with f-actin .
+32						in contrast , a IRS 58i267n mutant unable to bind cdc42h no longer colocalize with f-actin and fail to induce neurite outgrowth or significant cytoskeletal reorganization .
+33						these result suggest that cdc42h facilitate cytoskeletal change and neurite outgrowth by localize the adaptor protein irs-58 to f-actin .
+34						Materials and method
+35						yeast two-hybrid screen
+36						the Matchmaker gal4 system ( CLONTECH Laboratories , Inc. ) be use in two-hybrid screening .
+37						the cdc42h double mutant ( l61s189 ; see below ) be subclon from a pgex vector into pas2-1 ( gal4 binding domain [ bd ] vector ) .
+38						to establish the expression of the gal4bd-cdc42h fusion protein , whole yeast lysate from y190 yeast be probe with anti-gal4bd antibody on western blot as describe by CLONTECH Laboratories , Inc. .
+39						the expect 40-kd cdc42hs-gal4 fusion protein be detect .
+40						Library screen be carry out by transform y190 ( pas2-1-cdc42hsl61s189 ) cell with 100 mug of cdna human adult brain library in the pact-2 vector ( activation domain vector ) .
+41						clone that grow in the absence of histidine and in the presence of 25 mm 3-at be streak out and assay for lacz ( beta-galactoside ) activity use x-gal ( Life Technologies ) .
+42						of 358 clone isolate , 7 be analyze further .
+43						pACT-2 clone dna be isolate use electroporation of miniprep yeast dna into escherichia coli hb101 cell and select for growth to leucine prototrophy .
+44						the seven clone test positive ( his+ lacz+ ) when retransform into y190 ( pas2-1-cdc42hsl61s189 ) , but not into y190 ( pas2-1 ) .
+45						5 ' and 3 ' end of clone be sequence use ABI automate sequencing to establish they identity with either universal primer or primer upstream from the multiple cloning site of pact-2 .
+46						dna cloning , site direct mutagenesis , and sequencing
+47						standard dna manipulation technique be use .
+48						for sequencing , a 2.1-kb bgl2 fragment of irs-58 be subclon into the bgl2 site of a bluescript ( pbs.sk+ ) vector .
+49						abus automate sequencing be carry out use commercial primer , as well as irs-58-based primer .
+50						for protein expression , the 2.1-kb bgl2 fragment of irs-58 be subclon into the bamh1 site of a pgex-2t derivative p265 .
+51						deletion of irs-58 be make use the restriction enzyme sma1 , xho1 , and hind3 in irs-58-_NN and pcr based method .
+52						for pcr amplification of cdna , forward primer be synthesize with a clamp and bamh1 site ( gacgtcggatcc ) and all reverse primer be synthesize with a clamp and ecor1 ( gacgtcgaattc ) site for clone into bamh1-ecor1 site of p265 .
+53						pcr be carry out with taq ( long plus ) polymerase and 25 cycle .
+54						mutation be introduce into irs-58 ( between nucleotide 798-915 ) by use the follow mutate primer for amplification of the fragment : mutant 1 , 5 ' - gtcaattccgaccccattccg-3 ' ; mutant 2 , 5 ' - gtcattcccgaccccattccg-3 ' ; mutant 3 , 5 ' - gtcaattccgacgccattccg-3 ' .
+55						for expression in eukaryotic cell , the pxj40 vector be use .
+56						the 2.1-kb bgl2 fragment of irs-58 be subclon into the bamh1 site of pxj40 to generate a cdna encode hemagglutinin ( HA ) - tag protein .
+57						pcr amplify insert be generate and clone as bamh1 blunt end fragment .
+58						cdc42h and irs-58 point mutant be make use the Transformer site Directed mutagenesis kit ( CLONTECH Laboratories , Inc. ) as describe previously , or the quick-change mutagenesis kit ( stratagene ) .
+59						IRS-58 and mutant cdna be express in vitro or detect by ha antibody staining of cell extract obtain from transfect cell .
+60						the molecular weight of protein produce both in vitro and in cell extract be as predict from the cdna .
+61						protein expression
+62						IRS-58 , betapak fragment ( 300 bp , nco1 fragment ) , and p190 gap domain be express in e. coli use pgex vector as describe previously .
+63						bacterial culture be grow in l-broth ( 50 mug and ml ampicillin ) from freshly transform cell to a od595 of 0.5 .
+64						at this point 0.5-1 mm isopropylthiogalactoside ( Sigma-Aldrich ) be add and cell be grow for a further 1-2 h and then harvest .
+65						cell be pelleted ( 10-15 min , 3,000 rpm ) , wash in PBS , and then pellete and leave overnight at -20 degreesc .
+66						pellet be thaw on ice in PBS and 1 % Triton x-100 / 1 mm pmsf and inhibitor cocktail and then sonicate five time for 20 s .
+67						the cell suspension be pelleted ( 15 min , 20,000 rpm ) and the supernatant be incubate with glutathione-sepharose bead for 1 h. bead be pelleted and washed three time for 10 min each in 10 column volume of PBS and 1 % Triton x-100 .
+68						glutathione s-transferase ( gst ) fusion protein be elute from the bead by incubate with 10 ml of 5 mm glutathione in 50 mm tris-hcl , ph 8.0 , for 10 min at 4degreesc .
+69						protein be dialyze against 2 liter of 50 mm tris-hcl , 150 mm nacl , 2.5 mm cacl2 , ph 7.5 , for 1 h , follow by overnight and finally once more for 1 h.
+70						cdc42h , rac1 , and rhoa protein be make essentially as describe above , except that Tris base buffer be use rather than PBS , and thrombin ( 5 U and liter culture ; Sigma-Aldrich ) be use to cleave gst from the p21 protein .
+71						protein be then concentrate to 1-2 mg and ml by ultrafiltration use centricon-10 tube ( Amicon ) by spin three to four time at 3,000 rpm for 10 min .
+72						protein be freeze in aliquot of 10-50 mul and store at -20 degreesc .
+73						protein concentration be determine use the Bio-Rad Laboratories method and purity be assess by Coomassie blue staining of sds-page .
+74						cdc42h , rac1 , and rhoa binding assay
+75						p21 ( cdc42h , rac1 , and rhoa ) probe be prepare by incubate protein ( ~ 5 mug ) with 1 mul ( 10 mucus ) of [ gamma-32p ] gtp ( 6,000 ci and mmol , 10 mci and ml , 1.6 m ; DuPont ) in 50 mul of exchange buffer ( 50 mm nacl , 25 mm me , ph 6.5 , 25 mm tris-hcl , ph 7.5 , 1.25 mm edta , 1.25 mg and ml bsa , 1.25 mm dtt ) for 10 min at room temperature .
+76						probe be then dilute into 4 ml of binding buffer ( 50 mm nacl , 25 mm me , ph 6.5 , 25 mm tris-hcl , ph 7.5 , 1.25 mm mgcl2 , 1.25 mg and ml bsa , 1.25 mm dtt , 0.5 mm gtp ) .
+77						to determine the nucleotide dependence of cdc42h binding to irs-58 , wild-type cdc42h be incubate with [ alpha-32p ] gtp and be either use immediately ( gtp form ) , or after incubation at room temperature for 60 min ( GDP form ) .
+78						the high intrinsic cdc42h gtpase activity be use to generate [ alpha32p-gdp ] cdc42h5 .
+79						IRS-58 ( and pak ) gst fusion protein be either dot blot onto 1 cm2 nitrocellulose and leave to air-dry or separate on sds-page and transfer to nitrocellulose .
+80						filter be then incubate in renaturation buffer ( 3 % bsa , 0.1 % Triton x-100 , 0.5 mm mgcl2 , 5 mm dtt ) for 1 h or overnight , respectively , with shake at 4degreesc .
+81						filter be incubate with probe for 5 min at room temperature before be wash six time for 5 min in wash buffer ( 50 mm nacl , 25 mm me , ph 6.0 , 5 mm mgcl2 , 0.25 % Triton x-100 ) on ice .
+82						filter be dry by place on Whatman 3MM paper and then expose to x-omat film ( Eastman Kodak Co. ) for 5-25 h. quantification of binding be carry out by determine the amount of radioactivity by scintillation counting of each 1 cm2 of nitrocellulose .
+83						mrna expression by northern analysis
+84						a multiple tissue northern ( MTN ) blot be probe with irs-58 dna accord to the manufacturer 's protocol ( CLONTECH Laboratories , Inc. ) .
+85						the MTN membrane be prehybridize with 5 ml of ExpressHyb solution at 68degreesc for 30 min .
+86						a radioactive probe ( encode amino acid residue 1-414 of irs-58 ) be prepare use a random prime dna labeling kit ( Boehringer ) and purify on a G-50 sephadex column .
+87						the probe be then dilute into 5 ml of ExpressHyb solution .
+88						the mtn blot be then incubate with the probe solution for 1 h at 68degreesc .
+89						after incubation the blot be wash several time in wash solution 1 ( 2x ssc and 0 .05 % sd ) for 40 min at room temperature and then at a higher stringency with wash solution 2 ( 0.1 x ssc and 0 .1 % sd ) at 50degreesc for 40 min .
+90						the blot be then expose to x-omat film ( Eastman Kodak Co. ) at -70 degreesc for 48 h.
+91						cell culture and microinjection
+92	uaz:UA-CLine-1347,uaz:UA-CLine-6607	swiss 3t3, n1e-115	C4,C5			swiss 3t3 and n1e-115 cell be grow and maintain as describe previously .
+93						swiss 3t3 cell be grow on acid wash glass coverslip .
+94						dna be inject at 0.5 mug and ml into the nucleus use a eppendorf microinjector and axiovert microscope ( ZEISS ) and cell be leave to express protein for between 30 min and 3 h. for phase-contrast time-lapse analysis , cell be incubate on a heated stage at 37degreesc with co2 .
+95						for transient transfection , n1e-115 cell be plate out at ~ 105 cell per laminin ( 100 mug and ml ) coated slide ( 6 x 2 cm ) and grow overnight at 37degreesc in dme and 5 % fc and 1 % antibiotic .
+96						before transfection , cell be starve for 1 h in 1 ml of dme .
+97						transfection mix be make with 200 mul dme , 1-1 .5 mug dna , and 6 mul lipofectamine and leave at room temperature for 45 min for the formation of dna liposome .
+98						for cotransfection the amount of lipofectamine be double .
+99						the transfection mix be add to the cell and incubate at 37degreesc .
+100						after 4-5 h medium be remove and replace with 1 ml of dme and 5 % fc and 1 % antibiotic .
+101						cell be then leave overnight at 37degreesc .
+102						immunofluorescence microscopy
+103						before fix , n1e-115 cell be wash briefly with PBS to remove residual medium .
+104						cell be then incubate with 3 % paraformaldehyde and PBS for 20 min at room temperature follow by wash in PBS for 10 min .
+105						residual paraformaldehyde be quench in 100 mm glycine and PBS for 10 min .
+106						cell be then permeabilized in PBS and 0 .2 % Triton x-100 for 10 min and then wash again in PBS before incubate for a further 10 min in PBS and 3 % bsa .
+107						cell be then incubate for 1 h with the primary antibody ( anti-ha , 1:100 dilution in PBS and 1 % bsa ) .
+108						cell be then wash in PBS ( three time for 15 min ) before incubation with secondary antibody ( fitc , 1:50 in PBS and 1 % bsa ) and tritc label phalloidin at 1:100 .
+109						finally , slide be wash in PBS ( three time for 15 min ) .
+110						coverslip be then mount with mowiol .
+111						monoclonal antibody be raise to cleave gst irs-58 ( 1-364 amino acid ) fusion protein and clone be select use a maltose binding irs-58 ( 1-391 ) fusion protein .
+112						cell be fix and stain with appropriate antibody as describe previously .
+113						stain cell be analyze with either a fluorescence or confocal microscope ( ZEISS ) .
+114						microscopy
+115						time-lapse microscopy be carry out on a heated stage ( 37degreesc ) in a atmosphere of humidified air and 5 % co2 .
+116						cell be video record use a axiovert 135 microscope , Palmix tm-6cn video camera , and sony-u-matic v0-5800 PS video recorder .
+117						individual image be capture use Bio-Rad Laboratories COMOS software and manipulate with Adobe Photoshop ( r ) .
+118						confocal microscopy be carry out use a LSM ZEISS microscope .
+119						result
+120						Two-Hybrid screen with cdc42h
+121						use cdc42hsl61s189 as bait , we isolate 358 his+ lacz+ positive from a library screen of 107 clone .
+122						seven clone be randomly pick , name cbp1-7 for cdc42h bind protein , and analyze further .
+123						purify dna from each of the seven clone complement the bait cdc42hsl61s189 vector , but not the empty vector to give his+ lacz+ .
+124						dna sequencing reveal the identity of five of the clone .
+125						cbp2 be betapak , cbp6 be alphaPAK , cbp3 be a variant isoform of ACK , and cbp1 and 5 be human isoform of the already identify hamster 58-kd substrate of the insulin receptor ( irsp53 and 58 ) .
+126						recent work suggest that irs-58 be a major component of central nervous system synaps and , most interestingly , a binding partner for the dentatorubral-pallidolusian atrophy ( drplum ) protein , atrophin-1 .
+127						cbp4 and 7 be novel sequence .
+128						here we have analyze irs-58 further .
+129						dna and protein sequence of irs-58
+130						the irs-58 clone be isolate as a 2.1-kb bgl2 fragment from the pact-gal4ad plasmid .
+131						sequence analysis show that the irs-58 cdna be full length .
+132						IRS-58 possess a 3 ' noncoding region of 0.4 kb and a polya tail ( datum not show ) .
+133						database comparison of the dna sequence of irs-58 with irsp53 and 58 reveal that the former sequence have a additional exon of 78 bp that alter the amino acid sequence of the cooh-terminal end of the protein .
+134						the hamster irs-53 sequence have two main area of divergence with the human sequence .
+135						these be located at amino acid residue 220-320 and at the extreme cooh-terminal end 460-534 .
+136						the sequence divergence between amino acid residue 510 and 534 be probably due to alternate splicing of the message .
+137						outside these area of divergence the human and hamster be > 99 % similar .
+138	taxonomy:9606	human	S1,E4	S1	 irs-58 appear to be the hamster 58-kd substrate of the insulin receptor 	human irs-58 appear to be the hamster 58-kd substrate of the insulin receptor .
+139						in addition , another three full-length human isoform have be identify from independent yeast two-hybrid screen use the cytoplasmic domain of the brain specific angiogenesis inhibitor 1 ( bai1 ; ) and atrophin-1 .
+140						all of these clone appear to be product of alternate splicing as they exhibit sequence heterogeneity at the same cooh-terminal position , but otherwise exhibit 100 % sequence identity .
+141	taxonomy:9606	human	S2,E5	S2	 p58 have be isolate in another two-hybrid screen use the cytoplasmic domain of the fa ligand as bait ( genbank/embl/ddbj accession number u70669 ) .	a partial human clone of p58 have be isolate in another two-hybrid screen use the cytoplasmic domain of the fa ligand as bait ( genbank/embl/ddbj accession number u70669 ) .
+142						the significance of these protein protein interaction be unclear .
+143						blast search with irs-58 show the presence of three putative domain , a polyproline rich sequence ( a potential sh3 binding site ) , a ppxy motif ( a ww domain bind site ) , and a sh3 domain ( amino acid residue 400-460 ; and ) .
+144						the polyproline stretch ( amino acid residue 267-285 ) also align with channel protein ( datum not show ) .
+145						IRS-58 do not have clear homology with cdc42h binding site of ACK , pak , WASP , myotonic dystrophy kinase related cdc42 binding kinase ( mrck ) , iqgap , or cip4 , suggest the presence of a novel binding site .
+146						northern analysis , use a cdna probe of irs-58 encode amino acid residue 1-137 of irs-58 , be use to examine its expression pattern in human tissue .
+147						two signal be detect at 2.4 and 3.5 kb ( c ) .
+148						the smaller message be ubiquitously express , but present at higher level in placenta , liver , and kidney .
+149						the 3.5-kb message be brain enriched and possibly brain specific ( c ) .
+150			E6	C4,C5	cdc42h interaction with irs-58	characteristic of cdc42h interaction with irs-58
+151			E7	C4,C5	rho family ( cdc42h , rac1 , and rhoa ) binding specificity of irs-58	to determine the rho family ( cdc42h , rac1 , and rhoa ) binding specificity of irs-58 , purify gst fusion protein be dot blot onto nitrocellulose and probe with cdc42hsq61l , rac1q61l , and rhoag14v label with [ gamma-32p ] gtp .
+152						pak and p190 gap domain be use as positive control .
+153			E8	C4,C5	 irs-58 be a cdc42h specific binding protein	this analysis show that irs-58 be a cdc42h specific binding protein , as it do not bind rac1 or rhoa ( a ) .
+154			E9	C4,C5	cdc42h need to be in a gtp bind form to interact with irs-58 	cdc42h need to be in a gtp bind form to interact with irs-58 , as we could not detect bind to cdc42hs-gdp ( b ) .
+155			E10	C4,C5	the binding strength ( cpm and mug protein ) of cdc42h to irs-58 and pak be similar ( datum not show ) .	the binding strength ( cpm and mug protein ) of cdc42h to irs-58 and pak be similar ( datum not show ) .
+156			E11	C4,C5	 irs-58 bind the cdc42h c40 mutation	unlike pak and WASP , irs-58 bind the cdc42h c40 mutation , but do not bind a37 ( c ) .
+157			E12	C4,C5	interaction between cdc42h and irs-58 .	however , the c40 mutation do reduce the strength of interaction between cdc42h and irs-58 .
+158						localization of the cdc42h binding site of irs-58
+159						to localize the cdc42h bind site , cooh-terminal deletion be make use unique restriction site present in the full-length pgex-irs-58 construct .
+160						the protein encode by these construct be use in binding experiment with cdc42hsq61l [ gamma-32p ] gtp as probe .
+161						cdc42h binding be lose between deletion three and four , suggest that amino acid residue 142-358 be essential for this activity .
+162						use pcr clone a 40-amino acid residue fragment be generate that could bind cdc42h ( amino acid residue 266-305 ; and ) .
+163						however , cdc42h bind to this fragment be significantly weaker than to amino acid residue 202-305 ( ~ 10-20-fold ) .
+164						cdc42h do not bind to amino acid residue 304-534 show that there be no cooh-terminal cdc42h bind site .
+165						the sequence isoleucine , serine , andy amino acid residue , proline at the beginning of this 40-amino acid residue fragment have similarity to the cdc42 and rac interactive binding ( crib ) motif .
+166						( the crib motif , a sequence of 16 amino acid residue , a smaller version of a g protein binding domain first identify in the protein pak and ack , have be suggest as a consensus for cdc42h and rac1 binding . )
+167						to determine whether the conserve I , p , and and or s be require for binding , mutation be make in these residue ( n267 , p268 , and n267 and a270 ) .
+168						binding assay show that these amino acid residue be require , as cdc42h binding be lose in these mutant protein ( c ) .
+169						introduction of the n267 mutation into a full-length irs-58 construct also result in a loss of cdc42 binding ( d ) .
+170						these experiment localize the cdc42h bind site to a position overlap with the polyproline rich sequence , which may be a sh3 domain bind site .
+171						a summary of these binding experiment be present in E.
+172						overexpression of irs-58 in swiss 3t3 cell
+173						swiss 3t3 cell represent a model mammalian cell type which have be use to investigate the reorganization of both f-actin structure and the associated fc .
+174						in swiss 3t3 cell , factor such as bradykinin , lysophosphatidic acid , and pma have be show to induce the formation of peripheral actin microspike , stress fiber , and membrane ruffle via cdc42h , rhoa , and rac1 , respectively .
+175						each of these f-actin structure be associate with a morphologically unique fc .
+176						to investigate whether irs-58 affect f-actin , it be overexpress as a ha tag protein by dna microinjection of swiss 3t3 cell .
+177						HA staining of microinjected cell be punctate and reveal that irs-58 localized to peripheral extension where process formation ( membrane extension and retraction ) be induce .
+178						the punctate ha staining of irs-58 may suggest its localization to a organelle or a large protein aggregate ( a ) .
+179						similar observation of irs-58 localization to protein aggregate be make by and .
+180						overexpression of irs-58 cause a reorganization of the f-actin cytoskeleton .
+181						stress fiber be completely disassemble under these condition and the f-actin take on a punctate appearance .
+182						in some cell f-actin cluster formation could be see .
+183						show the heterogeneity in morphology see in expression of different level of irs-58 from low ( a and b ) to high ( e and f ) .
+184						to determine whether irs-58 colocalize with f-actin , we use colocalization software ( lsm v4 ; ZEISS ) with image obtain through a confocal microscope .
+185						swiss 3t3 cell with low level of irs-58 expression possess filopodium , small f-actin cluster , and thin stress fiber ( a ) .
+186						in these type of cell irs-58 expression be polarize within the cytoplasm and thin stress fiber be see only where expression of irs-58 be very low ( a ) .
+187						IRS-58 colocalize with the filopodium ( see insert , a ) , punctate f-actin , and f-actin cluster ( a ) .
+188						IRS-58 be also localized in the cytoplasm as protein aggregate and complex where there be no phalloidin staining ( b , see green in panel a and b ) .
+189						the organization of the f-actin cluster be examine further by obtain a z-series use a confocal microscope ( b , panel a-h , bottom to top ) .
+190						colocalization of irs-58 with f-actin occur in microvillus like structure that form a ring around the nucleus .
+191						f-actin be find over the nucleus , whereas irs-58 be exclude from this region of the cell ( b , panel c and d ) .
+192						the colocalization of irs-58 with f-actin be see most clearly on the roof of the ring ( b , panel g and h ) , a point in the z-series where the intense f-actin ring be absent .
+193						this confocal analysis suggest that irs-58 may be involve in microvillus formation .
+194						next we investigate the effect of deletion of cooh-terminal region of irs-58 ( irs-58delta510-534 and irs-58delta143-534 ) and a cdc42h binding defective irs-58i267n .
+195						overexpression of the irs-58delta510-534 protein that lack the area of heterogeneity between the human isoform give a more pronounced reorganization of the f-actin cytoskeleton , with most cell possess numerous well define f-actin cluster .
+196						stress fiber be present in some cell transfect with this mutant ( irs-58delta510-534 ) .
+197						the reorganization of the f-actin cytoskeleton cause by irs-58 require amino acid residue 143-534 since expression of irs-58delta143-534 do not cause loss of stress fiber or formation of actin cluster .
+198						also , irs-58delta143-534 mutant do not induce the formation of peripheral plasma membrane structure ; however , cell appear to be more contract .
+199						it be possible that the contracted morphology see in cell overexpress irs-58delta143-534 be cause by a thicken of stress fiber .
+200						similar morphology be see when rhoa protein be microinject into cell .
+201						overexpression of the mutant IRS 58i267n , which be unable to bind cdc42h , fail to induce filopodium formation or f-actin cluster in most swiss 3t3 cell ( datum not show ) .
+202						however , in some cell express higher level of irs-58i267n f-actin become disorganized and small f-actin cluster be see .
+203						strikingly , irs-58 i267n do not colocalize with these f-actin cluster or other f-actin structure present within the cell ( ; also see b ) .
+204						to examine whether the cell process form in irs-58-expressing cell be retraction fiber or filopodium , we carry out a phase-contrast time-lapse analysis of microinjected cell .
+205						IRS-58 induce dramatic change in cell morphology that include both filopodium formation and area of retraction ( datum not show ) .
+206						unlike cdc42h overexpression , which lead to rac1 activation , we do not observe any membrane ruffle after the change in f-actin structure describe above .
+207						overexpression of irs-58 in nie-115 cell
+208						since irs-58 mrna be enrich in brain we next determine whether irs-58 overexpression have morphological effect on n1e-115 neuroblastoma , a model for neuronal cell .
+209						we previous work have establish role of rho family gtpase in these neuroblastoma cell : cdc42h and rac1 be require for neurite outgrowth , whereas rhoa cause neurite collapse .
+210						N1E-115 cell be transfect with cdna encode irs-58 , leave for 18-24 h in the presence of serum , and then monitor by phase-contrast time-lapse microscopy .
+211						IRS-58 induce neurite outgrowth in these cell .
+212						a show a example of a cell form a neurite where the length of the neurite approximately double over the time course of the experiment .
+213						in the last panel of the time-lapse sequence three new neurite can be see to be form ( a ) .
+214						IRS-58-induced neurite be morphologically hyperactive , as neurite induce by serum starvation show little morphological change over a 5-10-min time course ( datum not show ) .
+215						IRS-58 induce filopodium formation in growth cone and along neurite .
+216						b show a example of a neurite with many filopodium along its length .
+217						the neurite form by irs-58 be thick and highly branch with robust filopodium evident around growth cone and along the neurite ( a , panel c ) .
+218						in some cell , f-actin cluster be also evident in the cell body ( datum not show ) .
+219						there be a loss of polarity in the neurite induce by irs-58 ( a , panel 6 and 7 ) .
+220						( serum starvation of n1e-115 cell lead to neurite outgrowth where cell have a average of two neurite per cell and branch neurite be rarely present .
+221						overexpression of either cdc42h or irs-58 in n1e-115 cell lead to a average of four neurite per cell and branch neurite be common .
+222						we define loss and lack of polarity as a increase in the number of neurite per cell from two to four couple with the presence of branch neurite . )
+223						cdc42h and rac1 activity be require for irs-58-driven neurite outgrowth , as dominant negative version of these gtpase be inhibitory .
+224						IRS-58 cotransfection with rac1t17n result in smaller cell with large spike and filopodium ( a , panel f ) .
+225						cell that be transfect with irs-58 and cdc42hst17n be flatten and have large fan shape lamellae ( a , panel g ) .
+226						similar phenotype be observe when rac1t17n and cdc42hst17n be transfect in the absence of irs-58 ( datum not show ) .
+227						we also examine the effect of overexpression of three irs-58 cooh-terminal deletion ( irs-58delta510-534 , irs-58delta390-534 , and irs-58delta143-534 ) on neurite outgrowth .
+228						as in swiss 3t3 cell , irs-58delta510-534 have a more dramatic effect on cell morphology than wild-type in n1e-115 cell ( a , panel d ) .
+229						interestingly , irs-58delta390-534 , which lack the sh3 domain and the ww binding domain , induce neurite extension ; however , neurite and growth cone complexity be lose ( a , panel e ) .
+230						IRS-58Delta143-534 fail to induce morphological change , suggest that the amino acid 143-390 be essential for neurite extension ( datum not show ) .
+231						a quantification of the effect of irs-58 transfection on neuroblastoma cell be show in .
+232						finally , the effect of overexpression of the cdc42h binding defective mutation , irs-58i267n , on n1e-115 cell be compare with wild-type irs-58 ( b ) .
+233						IRS-58 induce neurite outgrowth , as describe above , and localized throughout the neurite and with f-actin in filopodium .
+234						in contrast , irs-58i267n do not induce neurite outgrowth , although in some case cell be see to elongate ( b , panel a , cell on right ) .
+235						IRS-58I267N be distribute throughout the cytoplasm in small aggregate , but be never find at the cell periphery and do not colocalize with f-actin structure ( b ) .
+236						use monoclonal antibody specific to irs-58 , we have find endogenous protein to colocalize with f-actin in filopodium in neuroblastoma cell .
+237	uaz:UA-CLine-6607	n1e-115 cell	C6			a summary of the irs-58 and mutant phenotype obtain by cell transfection in n1e-115 cell be present in .
+238						discussion
+239			E13	C6	cdc42h interaction with irs-58	cdc42h interaction with irs-58
+240						the cdc42h binding region of irs-58 be relate to the crib motif but also distinct from it .
+241						close to the isoleucine , serine , any amino acid residue , and proline portion of the cdc42h interact site of irs-58 be a polyproline rich sequence that may represent a protein protein interaction site .
+242						interestingly , similar polyproline sequence be find adjacent to the cdc42h binding site of ACK , pak , and WASP .
+243						"point mutation of cdc42h in the "" effector site , "" c40 and a37 , have be report to exclude a role for crib motif protein , such as pak , in morphology pathway ."
+244						however , several study have show that pak can induce morphological change in mammalian cell , as do both WASP and n-wasp .
+245						in addition , n-wasp can induce filopodium formation in swiss 3t3 cell .
+246						how can these datum be reconcile ?
+247						one possibility be that the reduction in protein protein interaction cause by the c40 mutation of cdc42h in vitro be not sufficient to destroy interaction in vivo .
+248						another possibility be that pak ( or n-wasp ) do not need to interact directly with cdc42h in morphological pathway but do so via a bridge protein and second messenger .
+249						further , if protein complex need to be form to drive morphological change it be difficult to predict how the reduction in interaction between two component of the complex will affect the cellular process .
+250						the effect of cdc42hsc40 and a37 mutation on cdc42h interaction with irs-58 be different from that of crib motif protein .
+251			E14	C6	cdc42hsc40 still interact with irs-58	cdc42hsc40 still interact with irs-58 whereas cdc42hsa37 do not .
+252						these datum support the idea that point mutation in amino acid position 40 and 37 allow cdc42h interaction with partner to be distinguish .
+253						IRS-58 and cytoskeletal reorganization
+254						to investigate whether irs-58 be involve in the cdc42h morphological pathway , it be overexpress in swiss 3t3 cell as a ha tag protein .
+255						serum starve swiss 3t3 cell possess f-actin stress fiber and associate cytoplasmic fc .
+256						IRS-58 overexpression cause a reorganization of the cytoskeleton with loss of stress fiber and formation of f-actin cluster .
+257						IRS-58-induced filopodium formation be see most clearly at low level of expression where cluster be usually small , and thin stress fiber be sometimes present .
+258						these change be reminiscent of the effect of cdc42h overexpression or bradykinin stimulation .
+259						however , irs-58 do not induce the formation of membrane ruffle , which be see with cdc42h overexpression in a variety of cell type .
+260						it be possible that irs-58-induced reorganization may obscure rac1 mediate change .
+261						cdc42h , WASP , and n-chimaerin , but not rac1 or rhoa , can induce these f-actin cluster in mammalian cell ( ; ; datum not show ) .
+262						the physiological function of f-actin cluster be unclear , but they may represent a intermediate stage for reorganization of f-actin microfilament .
+263						confocal imaging of f-actin cluster reveal that they colocalize with irs-58 in structure that be protrude from the surface of the cell , suggest a role for irs-58 in microvillus formation .
+264						the fact that bradykinin induce peripheral actin microspike as well as f-actin cluster formation support the idea that these latter structure have a physiological role .
+265						IRS-58 and neurite outgrowth in n1e-115 cell
+266						since irs-58 mrna be highly express in brain , we also investigate the effect of its overexpression in n1e-115 neuroblastoma cell .
+267						endogenous irs-58 protein colocalize with f-actin in filopodium in neuroblastoma cell .
+268						serum withdrawal or transient transfection of cdc42h in these cell lead to maximal neurite outgrowth after 18-24 h .
+269						IRS-58 be also able to induce neurite outgrowth in similar experiment .
+270						phase-contrast analysis of irs-58-overexpressing n1e-115 cell clearly show that it induce the formation of robust filopodium .
+271						the morphology of n1e-115 cell overexpress irs-58 be different from that see on serum withdrawal or cdc42h overexpression .
+272						IRS-58 neurite be much thicker and highly branch , and filopodium be evident all along the neurite surface .
+273						some cell have neurite with multiple branch , each associate with large and spiky growth cone .
+274						thus , irs-58-induced neurite be complex and lack polarity ( see above ) .
+275						the cdc42h binding defective irs-58i267n fail to induce neurite outgrowth , and this finding parallel study in yeast cell where a cdc42p binding defective ste20 be unable to induce pseudohyphal growth .
+276						IRS-58-induced neurite outgrowth be inhibit by transfection of dominant negative t17n cdna , suggest that cdc42h and rac1 activity be require for this phenotype .
+277						interestingly , deletion of the sh3 domain and ww binding domain of irs-58 eliminate the neurite and growth cone complexity , but neurite extension in n1e-115 cell be still see .
+278						therefore , it be possible that protein that bind either to the sh3 domain , such as atrophin-1 or ba1 , and and or the ww binding domain may be responsible for the morphological complexity observe .
+279						function of the cdc42hs-irs-58 interaction
+280						in both swiss 3t3 cell and n1e-115 cell irs-58i267n , the cdc42h binding defective mutant , do not induce significant cytoskeletal reorganization or neurite outgrowth , or colocalize with f-actin .
+281						these result suggest that the function of the cdc4hs-irs-58 interaction be to localize a irs-58 protein complex to f-actin and thereby facilitate morphological change and neurite outgrowth .
+282						Atrophin-1 and bai1 bind to the sh3 domain of irs-58 and may represent two of the protein present in the complex .
+283						the insulin related growth factor , igf1 and igf2 , play important role in neuronal development and survival .
+284						ongoing study with irs-58 , atrophin-1 , bai1 , and other irs-58 protein partner may help we to understand the mechanism by which cdc42h facilitate cytoskeletal reorganization and neuritogenesis downstream of the insulin receptor .

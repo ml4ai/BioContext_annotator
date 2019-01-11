@@ -1,0 +1,217 @@
+0 7-7-Human-taxonomy:9606 8-8-Macrophages-uaz:UA-CT-16
+1 
+1 
+2 6-6-macrophages-uaz:UA-CT-16 14-14-serum-tissuelist:TS-0923
+3 2-2-serum-tissuelist:TS-0923
+4 1-1-serum-tissuelist:TS-0923
+5 6-7-cell_surface-go:GO:0009986 20-21-cell_surface-go:GO:0009986
+6 4-4-serum-tissuelist:TS-0923 7-7-macrophage-tissuelist:TS-0587
+7 16-16-circulation-uaz:UA-ORG-92
+8 
+8 32-32-thymus-tissuelist:TS-1043
+9 17-17-nematode-taxonomy:6239 19-20-Caenorhabditis_elegans-taxonomy:6239
+10 14-15-C._elegans-taxonomy:6239
+11 
+11 28-28-lysosomes-go:GO:0005764
+12 
+13 
+14 
+15 
+15 1-1-human-taxonomy:9606 2-3-peripheral_blood-tissuelist:TS-0771 5-5-macrophages-uaz:UA-CT-16 26-26-macrophages-uaz:UA-CT-16
+16 5-5-human-taxonomy:9606 6-6-monocyte-tissuelist:TS-0638 8-8-macrophages-uaz:UA-CT-16 16-16-serum-tissuelist:TS-0923
+17 4-4-serum-tissuelist:TS-0923 22-22-human-taxonomy:9606 23-23-macrophages-uaz:UA-CT-16
+18 
+18 
+19 
+19 
+20 
+20 
+21 4-4-thymocyte-tissuelist:TS-1042 54-54-serum-tissuelist:TS-0923
+22 2-2-human-taxonomy:9606 3-3-neutrophils-uaz:UA-ORG-624 14-14-serum-tissuelist:TS-0923 33-33-neutrophils-uaz:UA-ORG-624
+23 2-3-B_cell-uaz:UA-CLine-100005 6-6-BL-41-uaz:UA-CLine-194 10-10-human-taxonomy:9606 13-14-T__cells-uaz:UA-CLine-100050 32-32-serum-tissuelist:TS-0923 35-35-human-taxonomy:9606 36-36-neutrophils-uaz:UA-ORG-624
+24 
+24 2-2-human-taxonomy:9606 3-3-macrophages-uaz:UA-CT-16 22-22-human-taxonomy:9606 23-23-serum-tissuelist:TS-0923
+25 0-0-Human-taxonomy:9606 1-1-macrophages-uaz:UA-CT-16 5-6-peripheral_blood-tissuelist:TS-0771 7-7-monocytes-uaz:UA-CT-24
+26 5-5-macrophages-uaz:UA-CT-16
+27 11-11-macrophages-uaz:UA-CT-16
+28 
+29 
+30 5-5-macrophages-uaz:UA-CT-16
+31 16-16-macrophages-uaz:UA-CT-16
+32 
+32 
+33 
+33 0-0-Macrophages-uaz:UA-CT-16 22-22-neutrophils-uaz:UA-ORG-624
+34 
+35 
+36 
+37 
+37 
+38 
+38 22-22-mouse-taxonomy:10090
+39 
+40 0-0-Mouse-taxonomy:10090
+41 
+41 
+42 
+42 3-3-Serum-tissuelist:TS-0923 10-10-Human-taxonomy:9606 11-11-Macrophages-uaz:UA-CT-16
+43 
+43 5-5-serum-tissuelist:TS-0923 21-21-macrophages-uaz:UA-CT-16 39-39-human-taxonomy:9606 40-40-serum-tissuelist:TS-0923 50-50-serum-tissuelist:TS-0923
+44 
+45 
+46 3-4-B,-uaz:UA-CLine-100007 6-6-serum-tissuelist:TS-0923 29-29-serum-tissuelist:TS-0923
+47 6-6-serum-tissuelist:TS-0923 17-17-macrophages-uaz:UA-CT-16
+48 6-6-macrophage-tissuelist:TS-0587 12-12-serum-tissuelist:TS-0923
+49 
+50 14-14-serum-tissuelist:TS-0923 16-16-macrophages-uaz:UA-CT-16 21-21-neutrophils-uaz:UA-ORG-624 23-24-T_cells-uaz:UA-CLine-100050
+51 4-4-serum-tissuelist:TS-0923 29-29-serum-tissuelist:TS-0923
+52 
+53 
+53 6-6-serum-tissuelist:TS-0923 24-24-lymphocytes-uaz:UA-CT-22 32-32-serum-tissuelist:TS-0923 36-36-serum-tissuelist:TS-0923 52-52-serum-tissuelist:TS-0923
+54 4-4-serum-tissuelist:TS-0923 25-25-lymphocytes-uaz:UA-CT-22 30-30-serum-tissuelist:TS-0923 40-40-serum-tissuelist:TS-0923
+55 4-4-serum-tissuelist:TS-0923
+56 
+56 11-11-Human-taxonomy:9606 12-12-Macrophages-uaz:UA-CT-16
+57 
+57 9-9-serum-tissuelist:TS-0923
+58 29-29-serum-tissuelist:TS-0923
+59 2-2-neutrophils-uaz:UA-ORG-624 5-5-lymphocytes-uaz:UA-CT-22 15-15-serum-tissuelist:TS-0923
+60 3-3-serum-tissuelist:TS-0923 7-8-B,-uaz:UA-CLine-100007
+61 20-21-B,-uaz:UA-CLine-100007
+62 
+63 15-15-serum-tissuelist:TS-0923 30-30-serum-tissuelist:TS-0923
+64 7-7-serum-tissuelist:TS-0923
+65 8-8-Jurkat-uaz:UA-CLine-2244 9-10-T_cells-uaz:UA-CLine-100050 13-13-BL-41-uaz:UA-CLine-194 14-15-B_cells-uaz:UA-CLine-100005
+66 
+66 
+67 
+67 28-28-neutrophils-uaz:UA-ORG-624 30-30-lymphocytes-uaz:UA-CT-22
+68 
+69 2-2-lymphocytes-uaz:UA-CT-22 7-7-neutrophils-uaz:UA-ORG-624 17-17-lymphocytes-uaz:UA-CT-22 22-22-neutrophils-uaz:UA-ORG-624
+70 9-9-neutrophils-uaz:UA-ORG-624
+71 
+72 36-37-cell_membrane-uniprot:SL-0039
+73 27-27-serum-tissuelist:TS-0923
+74 
+75 
+76 
+77 
+77 
+78 
+78 0-0-Human-taxonomy:9606 1-1-monocytes-uaz:UA-CT-24 3-3-macrophages-uaz:UA-CT-16
+79 
+80 
+81 
+82 13-13-neutrophils-uaz:UA-ORG-624
+83 21-21-serum-tissuelist:TS-0923 36-36-serum-tissuelist:TS-0923
+84 
+85 12-12-human-taxonomy:9606 13-13-monocyte-tissuelist:TS-0638 15-15-macrophages-uaz:UA-CT-16
+86 
+87 
+87 20-25-Chinese_hamster_ovary_(CHO)-uaz:UA-CLine-100021
+88 
+89 6-6-CHO-uaz:UA-CLine-100019 17-17-serum-tissuelist:TS-0923 33-33-human-taxonomy:9606 34-34-macrophages-uaz:UA-CT-16 39-39-serum-tissuelist:TS-0923
+90 
+90 
+91 
+91 32-33-cell_surface-go:GO:0009986 53-53-macrophage-tissuelist:TS-0587 73-73-serum-tissuelist:TS-0923
+92 42-42-macrophages-uaz:UA-CT-16
+93 31-31-Jurkat-uaz:UA-CLine-2244 33-33-lymphocytes-uaz:UA-CT-22 38-39-lung_adenocarcinoma-tissuelist:TS-0569
+94 
+95 6-6-serum-tissuelist:TS-0923 18-18-membranes-go:GO:0016020
+96 22-22-macrophage-tissuelist:TS-0587 26-26-THP-1-uaz:UA-CLine-2919
+97 
+97 8-9-cell_surface-go:GO:0009986 10-10-membrane-go:GO:0016020
+98 
+99 41-42-cell_membrane-uniprot:SL-0039
+100 7-8-cell_surface-go:GO:0009986
+101 
+102 
+103 
+104 
+104 
+105 9-9-liver-tissuelist:TS-0564
+106 16-16-macrophages-uaz:UA-CT-16
+107 31-31-serum-tissuelist:TS-0923 46-47-cell_surface-go:GO:0009986 48-48-membrane-go:GO:0016020
+108 
+108 23-24-cell_surface-go:GO:0009986
+109 4-4-serum-tissuelist:TS-0923
+110 
+111 7-7-macrophage-tissuelist:TS-0587 45-45-macrophages-uaz:UA-CT-16 50-50-serum-tissuelist:TS-0923
+112 1-1-human-taxonomy:9606 2-3-peripheral_blood-tissuelist:TS-0771 5-5-macrophages-uaz:UA-CT-16
+113 20-20-serum-tissuelist:TS-0923
+114 
+115 
+115 30-30-serum-tissuelist:TS-0923 39-39-neutrophils-uaz:UA-ORG-624 44-44-serum-tissuelist:TS-0923 53-53-serum-tissuelist:TS-0923
+116 20-20-neutrophil-tissuelist:TS-0688 38-38-serum-tissuelist:TS-0923
+117 9-9-macrophages-uaz:UA-CT-16
+118 6-6-serum-tissuelist:TS-0923 17-17-serum-tissuelist:TS-0923
+119 24-24-serum-tissuelist:TS-0923 36-36-serum-tissuelist:TS-0923
+120 
+120 
+121 10-10-human-taxonomy:9606 11-11-macrophages-uaz:UA-CT-16
+122 35-35-membrane-go:GO:0016020
+123 16-17-C._elegans-taxonomy:6239
+124 
+125 
+126 
+126 
+127 6-6-macrophage-tissuelist:TS-0587
+128 20-20-human-taxonomy:9606 21-21-monocytes-uaz:UA-CT-24
+129 15-15-macrophages-uaz:UA-CT-16
+130 
+130 5-5-lymphocytes-uaz:UA-CT-22 21-21-circulation-uaz:UA-ORG-92
+131 
+132 13-13-macrophages-uaz:UA-CT-16
+133 22-22-mice-taxonomy:10090 42-42-mice-taxonomy:10090
+134 23-23-humans-taxonomy:9606
+135 24-24-patient-taxonomy:9606
+136 19-19-mice-taxonomy:10090
+137 
+138 
+138 
+139 
+139 
+140 
+140 1-1-serum-tissuelist:TS-0923
+141 9-9-human-taxonomy:9606 10-10-macrophages-uaz:UA-CT-16 21-21-human-taxonomy:9606 22-22-serum-tissuelist:TS-0923 38-38-serum-tissuelist:TS-0923 51-51-serum-tissuelist:TS-0923
+142 
+143 
+144 6-6-human-taxonomy:9606 7-7-macrophages-uaz:UA-CT-16 22-22-human-taxonomy:9606 24-24-neutrophils-uaz:UA-ORG-624 49-49-human-taxonomy:9606 50-50-serum-tissuelist:TS-0923
+145 
+146 
+147 
+147 
+148 
+148 
+149 6-6-neutrophils-uaz:UA-ORG-624 12-12-human-taxonomy:9606 13-13-serum-tissuelist:TS-0923 27-28-B,-uaz:UA-CLine-100007
+150 31-32-B,-uaz:UA-CLine-100007
+151 
+152 
+153 
+153 
+154 
+154 4-4-serum-tissuelist:TS-0923
+155 0-0-Lymphocytes-uaz:UA-CT-22 5-5-neutrophils-uaz:UA-ORG-624 28-28-serum-tissuelist:TS-0923
+156 0-0-Lymphocytes-uaz:UA-CT-22
+157 6-6-lymphocytes-uaz:UA-CT-22 51-51-serum-tissuelist:TS-0923
+158 3-3-neutrophils-uaz:UA-ORG-624 15-15-serum-tissuelist:TS-0923
+159 
+160 
+161 
+161 
+162 
+162 18-18-serum-tissuelist:TS-0923
+163 14-14-human-taxonomy:9606 15-15-macrophages-uaz:UA-CT-16 21-21-mouse-taxonomy:10090
+164 
+165 3-3-Macrophages-uaz:UA-CT-16 24-24-human-taxonomy:9606 25-25-serum-tissuelist:TS-0923
+166 21-21-serum-tissuelist:TS-0923
+167 49-49-63D3-uaz:UA-CLine-4251 66-66-serum-tissuelist:TS-0923
+168 
+168 
+169 
+169 
+170 0-0-CHO-uaz:UA-CLine-100019 3-3-CHO-uaz:UA-CLine-100019 8-8-human-taxonomy:9606 55-55-serum-tissuelist:TS-0923
+171 
+172 9-9-serum-tissuelist:TS-0923
+173 

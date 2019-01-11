@@ -1,0 +1,315 @@
+1						TITLE PADDING
+2						Summary
+3	tissuelist:TS-20004	lymphocytic leukemias	C1			Phosphoinositide 3-kinase delta is upregulated in lymphocytic leukemias .
+4			E2	C1		Because the p85-regulatory subunit binds to any class IA subunit , it was assumed there is a single universal p85 mediated regulatory mechanism ; however , we find isozyme specific inhibition by p85alpha .
+5			E3	C1		Using deuterium exchange mass spectrometry ( DXMS ) , we mapped regulatory interactions of p110delta with p85alpha .
+6			E4,E5	C1		Both nSH2 and cSH2 domains of p85alpha contribute to full inhibition of p110delta , the nSH2 by contacting the helical domain and the cSH2 via the C terminus of p110delta .
+7			E6	C1		The cSH2 inhibits p110beta and p110delta , but not p110alpha , implying that p110alpha is uniquely poised for oncogenic mutations .
+8						Binding RTK phosphopeptides disengages the SH2 domains , resulting in exposure of the catalytic subunit .
+9						We find that phosphopeptides greatly increase the affinity of the heterodimer for PIP2 containing membranes measured by FRET .
+10						DXMS identified regions decreasing exposure at membranes and also regions gaining exposure , indicating loosening of interactions within the heterodimer at membranes .
+11						Highlights
+12			E7,E8,E9,E10,E11	C1		> Both nSH2 and cSH2 of p85alpha inhibit p110delta , and pY peptides or mutations activate > DXMS mapped dynamic changes in free p110delta and p110delta and p85 with and without pY peptides > pY peptide increases p110delta and p85 affinity for lipids ; interactions were mapped by DXMS > cSH2 point mutation in p85alpha activates p110delta and p110beta , but not p110alpha
+13						Introduction
+14			E12	C1		Phosphoinositide 3-kinases ( PI3Ks ) are a family of enzymes that catalyze the phosphorylation of the D3-hydroxyl of inositol phospholipids .
+15						The lipid products of the reaction act as second messengers and lead to downstream recruitment of phosphoinositide binding proteins , which orchestrate many important functions including cell proliferation and survival .
+16	tissuelist:TS-0547	chronic lymphocytic leukemia	E13,C2	C2		PI3Kdelta is upregulated in some leukemias , and a specific inhibitor of it ( CAL-101 ) has entered clinical trials for chronic lymphocytic leukemia .
+17						This isoform is abundant in leukocytes and has important roles in immunity , inflammation and allergy .
+18			E14,E15,E16,E17,E18,E19,E20	C2,S1		Like other class IA PI3Ks , it is an obligate heterodimer of a p110 catalytic subunit ( p110delta ) anda p85-type regulatory subunit ( p85alpha , p55alpha , p50alpha , p85beta , or p55gamma ) and produces PtdIns ( 3,4,5 ) P3 lipids invivo .
+19	taxonomy:9606	human	S1			The p110alpha catalytic subunit is one of the most frequently mutated oncogenes in human tumors , and PI3K inhibition is a major pharmacological target for drug discovery .
+20						The cancer associated p110alpha mutations upregulate the enzyme activity by different mechanisms .
+21						Because any one of the regulatory subunits can interact tightly with any of the class IA catalytic subunits , it is generally assumed that all p110 subunits are inhibited in the same way .
+22						The importance of understanding isoform specific regulation of PI3Ks by p85 led us to examine this assumption .
+23						All of the p110 subunits consist of an adaptor binding domain ( ABD ) , a Ras binding domain ( RBD ) , a C2 domain , a helical domain , and a kinase domain split into an N-lobe and a C-lobe .
+24						The p85 subunits consist of an N-terminal SH3 domain , a breakpoint cluster region ( BCR ) homology domain flanked by two proline rich regions , and two SH2 domains , nSH2 and cSH2 , separated by a coiled-coil region termed the inter-SH2 domain ( iSH2 ) ( see available online ) .
+25			E21	C2		The ABD domain has been shown to be necessary and sufficient to bind the regulatory subunit , through interactions with the iSH2 domain .
+26			E22,E23,E24	C2		The regulatory subunits stabilize the catalytic subunit , inhibit its basal activity , and activate PI3K in the presence of phosphorylated tyrosine ( pY ) sequences in activated receptor tyrosine kinases ( RTKs ) and adaptor proteins .
+27			E25	C2		The N-terminal SH2 domain ( nSH2 ) in combination with the iSH2 domain is the minimal construct of p85alpha required to inhibit the activity of p110alpha .
+28						This inhibition can be relieved by RTK pY peptides .
+29						Constructs of the p110alpha isoform with oncogenic mutations in the helical domain display increased activity compared to the wild-type enzyme and have no further increase in activity on RTK pY peptide binding .
+30						However , regulation of the p110delta isoform by p85 and RTK pY peptides has not been examined .
+31						Understanding the dynamics between the catalytic and regulatory subunits is central to understanding PI3K activity .
+32						The structures of both the isolated nSH2 and cSH2 domains of p85alpha with and without RTK pY peptides are known , as well as the structure of the niSH2 fragment bound to the full-length p110alpha .
+33						The nSH2 domain binds the helical domain through the surface required for pY peptide binding , and consequently the presence of a pY peptide breaks the inhibitory contacts between the catalytic and regulatory subunits .
+34						Many of the cancer linked mutations identified are located at two separate interfaces between the p110 catalytic and p85alpha subunits , one between the iSH2 domain of p85 and the C2 domain of p110alpha , and one between the nSH2 domain of p85 and the helical domain of p110alpha .
+35						However , no structural information exists for possible interactions between the nSH2 and cSH2 domains with p110delta .
+36						The recently published structures of the free p110delta catalytic subunit contributed to developing isotype specific inhibitors , but they shed no light on how this isoform is regulated by p85 .
+37			E26	C3		Toward this end , we used deuterium exchange mass spectrometry ( DXMS ) to explore the interactions between the p110delta and p85alpha .
+38						Due to recent advances in instrumentation and analysis , DXMS has become a burgeoning and powerful method for examining protein folding , protein protein contacts , protein-ligand binding , and conformational changes .
+39						This technique has also been used to study membrane associated enzymes interacting with phospholipid vesicles .
+40						Using DXMS , we have localized p110delta regions interacting with the iSH2 , nSH2 and cSH2 domains .
+41			E27,E28	C3		Our lipid kinase assays suggest that full inactivation of p110delta requires a p85 construct encompassing both SH2 domains ( nicSH2 ) .
+42			E29	C3		Binding of RTK pY peptides to the SH2 domains exposed p110delta regions protected by the nSH2 and cSH2 domains to deuterium exchange , leading to full activation of all constructs .
+43			E30	C3		DXMS results enabled us to create a p85 point mutant that exposes the proposed cSH2 binding site on p110delta , circumventing downregulation by the cSH2 invitro and increasing downstream signaling in cells .
+44			E31	C3		Importantly , this same mutation also activates p110beta , but not p110alpha .
+45			E32	C3		Combining this cSH2 mutation with an oncogenic mutation in the nSH2 , which exposed the helical domain , results in a p85 that fully activated p110delta .
+46						Using FRET measurements , we find that p110delta and p85alpha complex binds very poorly to lipid vesicles mimicking plasma membrane composition , but pY peptides greatly increased affinity of the complex for lipids , especially when the vesicles contained PIP2 substrate .
+47						DXMS also enabled us to identify for the first time specific regions in both the catalytic and regulatory subunits that interact with lipid membranes .
+48						Interestingly , some regions of the ABD domain and iSH2 become more exposed in the presence of membrane , indicating that loosening of interactions within the complex accompanies membrane binding .
+49						Results
+50						The cSH2 of p85alpha Plays an Important Regulatory Role for p110delta
+51						The regulation of p110alpha by p85 has been thoroughly studied , and it has been assumed that the same mechanism of regulation would govern all class IA enzymes , including p110delta .
+52			E33	C3		To examine this assumption , we first performed lipid kinase assays to test which of the domains of p85alpha contribute to inhibition of the basal activity of p110delta .
+53						For the assays we used vesicles containing 5 % PIP2 and a defined mixture of lipids mimicking natural membranes ( 20 % PS and 45 % PE and 15 % PC and 10 % cholesterol and 5 % sphingomyelin ) similar in composition to previous studies examining plasma membrane interactions .
+54						We used several truncated variants of the p85alpha regulatory subunit : iSH2 ( residues 434-600 ) , which has only the iSH2 domain ; niSH2 ( residues 322-600 ) , which has both the nSH2 and iSH2 domains ; and nicSH2 ( residues 322-724 ) , which has the nSH2 , iSH2 , and cSH2 domains ( A ; A ) .
+55						The regulatory subunits were coexpressed and copurified with the full length p110delta catalytic subunit .
+56						To express the catalytic subunit free froma regulatory subunit we used the DeltaABD-p110delta construct ( DeltaABD-p110delta , residues 106-1044 ) , because the full-length p110delta in the absence of a regulatory subunit is insoluble .
+57						DeltaABD-p110delta had a ~ 2.5-fold higher activity compared to p110delta+ iSH2 ( B ) .
+58			E34	C3		Because both the ABD domain and iSH2 domain are in contact with the kinase domain , either could be inhibiting PI3K activity in the p110delta+ iSH2 complex .
+59						The p110delta+ niSH2 complex was inhibited only ~ 5-fold compared to p110delta+ iSH2 ( C ) .
+60						However , the p110delta+ nicSH2 complex was inhibited ~ 15-fold compared to p110delta+ iSH2 , making it significantly less active than the p110delta+ niSH2 complex .
+61			E35	C3		The inhibition of p110delta by the cSH2 domain , in the context of the nicSH2 construct , stands in sharp contrast with previous studies on p110alpha , which showed that the minimal construct necessary for full inhibition was the niSH2 , and that the cSH2 does not inhibit the basal activity of p110alpha , even though it was shown to be necessary for full activation by a pY peptide ( from IRS-1 ) in the context of full length p85 .
+62						We also tested if the presence of PDGFR bis phosphorylated pY peptide ( residues 735-767 , with pY740 and pY751 , referred to afterwards as PDGFR pY ) can relieve inhibition imposed by both the nSH2 and cSH2 domains .
+63			E36,E37	C3		Indeed , we found that the presence of PDGFR pY does fully relieve inhibition from both the nSH2 and cSH2 , which brings the enzyme activity for all iSH2 containing complexes to a similar activated level , close to the activity of the p110delta+ iSH2 ( C ) .
+64						The highest activation occurred with the nicSH2 , which was activated ~ 13-fold by the PDGFR pY .
+65						The fold of activation is critically dependent on the nature of the lipid substrate .
+66						However , the activation we see is in line with studies on purified full length p110delta and p85alpha complex on PIP2 containing lipid vesicles showing a 20-40-fold activation on addition of a pY peptide .
+67			E38,E39	C3		We carried out DXMS experiments to detect changes in protein dynamics that might explain inhibition by both the nSH2 and cSH2 domains of the regulatory subunit , and activation by PDGFR pY binding .
+68						Digestion of p110delta and p85alpha Constructs and Global Deuterium Exchange of p110delta and p85alpha
+69						The optimized peptide digestion map of the p110delta ( B ) was composed of 116 individual peptic peptides , covering ~ 83 % of the sequence of the catalytic subunit , whereas the map of the p85alpha nicSH2 regulatory subunit consisted of 53 peptides , covering ~ 85 % of the sequence of the regulatory subunit .
+70						Four different enzyme complexes were studied by deuterium exchange : p110delta+ p85alpha nicSH2 in the presence and absence of PDGFR pY , p110delta+ p85alpha iSH2 , and p110delta alone ( DeltaABD-p110delta ) .
+71						No experiments were performed on the DeltaABD-p110delta in the presence of p85alpha constructs due to previous work showing no detectable binding of p85 by p110 without the ABD domain .
+72						All heterodimers had an equal ratio of p110 and p85 .
+73						The global exchange profile of DeltaABD-p110delta is shown modeled onto the recently solved crystal structure of the p110delta catalytic subunit .
+74						The global exchange profile of the p85alpha nicSH2 was modeled onto the structures of the isolated nSH2 ( residues 323-432 ) and isolated cSH2 ( residues 613-720 ) domains in complexes with PDGFR-pY , and onto the isolated iSH2 ( residues 431-600 ) .
+75						Differences in Exchange of p85alpha in the Presence of PDGFR pY
+76						Differences in exchange rates for the p85alpha nicSH2 ( bound to p110delta ) in the presence and absence of a PDGFR pY were mapped onto the crystal structures of the nSH2 , iSH2 , and cSH2 of p85alpha .
+77						It is important to note that many of the deuterium exchange differences caused by p85alpha constructs and PDGFR pY binding mapped on the crystal structures are on the order of 1.0 Da within peptides that can incorporate > 10 deuterons .
+78						Without sufficient overlapping peptides it is impossible to precisely locate the position of these changes .
+79						Although peptides with changes are colored in all figures , it is possible that only one to two amides in these regions are affected .
+80						The nSH2 and cSH2 domains showed nearly global decreases in exchange in the presence of PDGFR pY .
+81						This agrees with previous DXMS work that shows global decreases in exchange for isolated SH2 domains bound to pY peptides .
+82						We were most interested in looking for peptides that have increases in exchange in the presence of PDGFR pY , as these might indicate interfacial regions between p110delta and p85alpha .
+83						Two p85alpha peptides , 444-456 in the beginning of the iSH2 and 681-687 in the cSH2 , showed increases in exchange in the presence of PDGFR pY .
+84						Peptide 444-456 also showed an increase in exchange in the p110delta+ iSH2 complex in comparison with the p110delta+ nicSH2 .
+85						An increase in exchange was also seen with peptides spanning the C-terminal end of the iSH2 ( 546-581 ) in the absence of the nSH2 and cSH2 domains , suggesting that the coiled-coil becomes more protected from exchange in the presence of these two SH2 domains ( B ) .
+86						Peptide 681-687 in the cSH2 also showed an increase in exchange ( 1.0 Da ) in the presence of PDGFR pY .
+87						We hypothesized that this region in the cSH2 might form a contact surface for p110delta , and that this interaction is broken in the presence of PDGFR pY .
+88						No region on the nSH2 had an increase in exchange in the presence of PDGFR pY .
+89						We would like to emphasize that no change in exchange would be expected if the PDGFR pY protects the same regions as are protected by p110delta in the absence of PDGFR pY .
+90						Previous crystallographic work on p110alpha would predict that this is exactly the case for the nSH2 .
+91						We find that the cSH2 showed an increase in exchange on PDGFR pY binding ( region 681-687 ) , suggesting that the PDGFR pY binding surface of the cSH2 and the inhibitory contact surface with p110 do not completely coincide , in contrast to the nSH2 , where they do .
+92						Differences in Exchange of p110delta in the Presence of p85alpha and PDGFR pY
+93			E40	C3		To gain an insight into regions on p110delta that are in contact with the p85 subunit , we determined differences in exchange rates for p110delta in the presence of p85alpha constructs .
+94			E41	C3		Distinct regions in p110delta showed differences in exchange between the free catalytic subunit ( DeltaABD-p110delta ) and p110delta bound to the nicSH2 of p85alpha ( A ; ) .
+95						By comparing the exchange differences between the p110delta+ iSH2 complex and the p110delta+ nicSH2 complex we were able to localize changes caused by binding to the iSH2 domain , and changes that were caused by the nSH2 and cSH2 domains .
+96						Differences in Exchange Caused by the iSH2
+97						Four regions of p110delta showed decreases in exchange between the DeltaABD-p110delta and the p110delta+ iSH2 complex : 120-138 ( in the linker between the ABD and RBD ) , 327-337 and 453-468 ( C2 domain ) , and 698-713 ( in the N-lobe of the kinase domain ) ( A ; ) .
+98						The region 120-138 is located near the interface with the ABD domain , and the change in deuteration is most likely the consequence of the ABD deletion .
+99			E42	C3		Peptides 327-337 , 453-468 , and 698-713 of p110delta are all located at or near the crevice where the iSH2 domain binds in the p110alpha and iSH2 structure .
+100						There was also a slight decrease in exchange in peptide 920-935 spanning the substrate binding loop .
+101						Helical Domain Changes Caused by nicSH2 and PDGFR pY
+102						Several distinct peptides showed decreases in exchange in the presence of the p110delta+ nicSH2 complex compared to the p110delta+ iSH2 complex .
+103						One of these peptides , 524-529 , is located in the helical domain and showed a decrease in exchange ( > 1.0 Da ) ( A ) .
+104			E43	C3		This peptide contains E525 , equivalent to E545 in p110alpha , which has been shown biochemically and structurally to be important in binding the nSH2 .
+105						Experiments were also carried out with the p110delta+ nicSH2 complex in the presence of PDGFR pY ( B ) .
+106			E44	C3		The presence of PDGFR pY exposed this region to exchange to the same extent as the free catalytic domain , suggesting that PDGFR pY binding breaks the contacts between the nSH2 and p110delta .
+107			E45	C3		This is consistent with our lipid kinase assays showing that the presence of PDGFR pY activates the p110delta+ niSH2 complex to the same level as the p110delta+ iSH2 complex , and agrees with previous results for p110alpha .
+108						Kinase Domain Changes Caused by nicSH2 and PDGFR pY
+109						Peptides spanning the substrate binding loop ( 920-935 ) and the C-terminal end of the kinase domain ( 1010-1019 , 1020-1022 , and 1023-1033 ) also showed decreases in exchange in the presence of the p110delta+ nicSH2 complex compared to the p110delta+ iSH2 complex ( A ) .
+110						None of these peptides are near the nSH2 contact site with the catalytic domain of p110alpha , and we postulate that they may form a contact site for the cSH2 in p110delta .
+111						The largest decrease in exchange ( 2.0 Da ) was in the peptide from 1023-1033 , but only at early time points , with no changes in exchange after 100s of on-exchange .
+112						These changes were equally distributed through this region , because peptides 1023-1027 and 1028-1033 showed decreases ( > 0.7 Da ) in exchange .
+113						This region spans the end of helix kalpha11 and six residues following this helix , which are disordered in the structure of p110delta .
+114						"This area forms the "" elbow "" in p110gamma and class III Vps34 isoforms that connects the two C-terminal helices kalpha11 and kalpha12 ."
+115						It has been recently shown that deletion of the kalpha12 in Vps34 abolishes the lipid kinase activity , so we tested an analogous deletion for p110delta and p85alpha nicSH2 ( Delta1028-1044 in p110delta ) .
+116						This deletion completely abolishes p110delta lipid kinase activity ( C ) .
+117						Therefore , the DXMS experiments show that this region critical for catalysis has one of the largest decreases in exposure caused by nicSH2 .
+118						Peptide 920-935 that spans the distal half of the substrate binding loop ( residues 911-36 in p110delta ) showed a decrease in exchange ( > 1.5 Da ) .
+119						The presence of PDGFR pY exposed this peptide as well as the C-terminal peptides 1020-1022 and 1023-1033 in p110delta+ nicSH2 ( B ) to the same extent as in the p110delta+ iSH2 complex .
+120						The changes in deuterium exchange for these regions correlated very well with our activity results : addition of PDGFR pY to the p110delta+ nicSH2 complex resulted in activity and deuteration levels similar to that of the p110delta+ iSH2 complex .
+121						One peptide in the kinase domain , 939-958 , only showed decreases in exchange ( 0.5 Da ) when comparing p110delta+ nicSH2 to DeltaABD-p110delta .
+122						This region is located adjacent to the C-terminal helix and may form another contact surface for the cSH2 .
+123						PDGFR pY Increases p110delta and p85alpha Affinity for Membrane Binding
+124			E46	C3		To understand the PI3K activation by PDGFR pY binding we examined the affinity of p110delta for lipid membranes using protein-lipid FRET as applied previously to examine Vps34 lipid interactions .
+125						Two different types of lipid vesicles were examined , one with 5 % PIP2 present ( 20 % PS and 10 % Dansyl PS , 35 % PE and 15 % PC and 10 % cholesterol , 5 % sphingomyelin , 5 % PIP2 ) , and one with 0 % PIP2 , where PIP2 was replaced by PS .
+126						These experiments showed that the p110delta and p85alpha complex had very low lipid binding in the absence of PDGFR pY .
+127			E47	C3		However , in the presence of PDGFR pY , the p110delta and p85alpha complex bound PIP2 containing vesicles with much higher affinity .
+128			E48	C3		The DeltaABD-p110delta construct , which is devoid of any inhibitory contacts imposed by p85 ( as well as lacking ABD ) , bound to PIP2 containing membranes with high affinity , similarly to the PDGFR pY activated p110delta and p85alpha .
+129						The presence of PDGFR pY had no effect on lipid binding of the DeltaABD-p110delta .
+130						Binding to lipid vesicles containing 5 % PIP2 was more efficient compared to vesicles lacking PIP2 , for both the free catalytic subunit and the PDGFR pY activated p110delta and p85alpha construct .
+131			E49,E50	C3		The PDGFR pY activation of p110delta and p85alpha also caused a small increase in binding to lipid vesicles lacking PIP2 , showing that PIP2 substrate is not the only component involved in PI3K binding to membranes .
+132						Changes in Exchange Caused by Interaction with Lipid Vesicles
+133						PI3K must access its substrate at the lipid interface , and understanding changes in protein dynamics on binding the lipid interface is important for understanding the mechanism of regulation .
+134			E51	C3		Toward this end , we performed deuterium exchange experiments at three time points ( 3 , 30 , and 300 s ) with a PDGFR pY activated complex of p110delta+ nicSH2 in the presence and absence of 5 % PIP2 containing lipid vesicles .
+135						These experiments were carried out in the absence of Mg2+ and ATP to prevent enzyme activity .
+136						Several distinct regions in p110delta ( 698-715 , 850-856 , 908-919 , 920-935 , 939-958 , 982-989 , and 1024-1033 ) and p85alpha ( 414-420 ) had decreases in exchange in the presence of lipid substrate .
+137						Regions 698-715 spanning the loop between kalpha1 and kalpha2 in the kinase domain and 850-856 covering kalpha5 and the loop between kalpha4 and kalpha5 were both previously proposed to participate in membrane binding .
+138						Region 908-919 containing the beginning of the substrate binding loop ( encompassing the DFG motif ) also had a decrease in exchange in the presence of lipid vesicles .
+139						Region 982-989 is adjacent to the substrate binding loop in the structure .
+140						It contains part of kalpha9 and the loop connecting to kalpha10 .
+141			E52	C3		The p110alpha helix equivalent to p110delta helix kalpha10 is known to interact with the nSH2 domain .
+142						Region 1024-1033 at the C-terminal end of p110delta is equivalent to the C-terminal tail of class III PI3Ks that was shown to bind membranes .
+143						Interestingly , regions 920-935 , 939-958 , and 1024-1033 were all protected by the presence of the nicSH2 and also all show an interaction with lipid vesicles , suggesting that p85 greatly regulates the interaction of p110 with membranes .
+144						Surprisingly , we find some regions that have an increase in exchange in the presence of lipid vesicles .
+145						One is in p110delta , region 71-91 , which is in the ABD domain , and the other two are in the iSH2 domain of p85alpha ( regions 467-476 and 556-570 ) .
+146			E53	C3		This indicates that the presence of lipid vesicles may loosen the interaction between the iSH2 and the p110delta .
+147						Experiments were also performed on the full length p110delta and p85alpha complex in the presence of PDGFR pY and 10mM Mg2+ with and without 5mM nonhydrolysable ATP analog , AMPPNP to examine possible changes on nucleotide binding .
+148						No changes were seen in the catalytic subunit on AMPPNP and Mg2+ binding ( data not shown ) .
+149						This is not surprising because peptides spanning the ATP binding pocket ( 752-762 , 886-900 ) experience < 25 % exchange even at 3000 s.
+150						Engineering p85alpha Mutations that Activate p110delta
+151						DXMS identified the region from 681-687 in the cSH2 as part of the interface with p110delta .
+152			E54	C3		We hypothesized that the cSH2 may be responsible for the observed changes in exposure of the C-terminal end of the p110delta kinase domain when p110delta is bound to nicSH2 compared to free p110delta .
+153						To test this hypothesis , we mutated Tyr-685 in the p85alpha cSH2 to alanine .
+154						The p110delta+ nicSH2 Y685A mutant complex showed higher basal activity than the equivalent wild and type complex and the same basal activity as the p110delta+ niSH2 complex .
+155						In the presence of PDGFR pY , the mutant complex was activated to a similar level as the niSH2 and nicSH2 complexes ( C ) .
+156						To examine if this mutation was functionally important in the regulation of the full length p110delta and p85alpha complex , as well as to determine individual effects of the nSH2 and cSH2 , we purified full length complexes containing the K379E nSH2 mutation , the Y685A cSH2 mutation , and the double mutant K379E , Y685A .
+157						The engineered oncogenic K379E mutation in nSH2 has been previously shown to activate p110alpha both invitro and invivo by breaking the contact between the nSH2 and the helical domain .
+158						Enzyme activity assays performed with 5 % PIP2 liposomes showed that the K379E or Y685A p85 mutations activate the enzyme 10-fold and 5-fold , respectively ( A ) , and that the presence of both mutations fully activated the enzyme , and made it insensitive to further PDGFR pY activation .
+159						Deuterium exchange experiments were then carried out on the K379E , Y685A , and double mutant complexes .
+160						Both of these mutations maintained the ability to bind PDGFR pY as shown by similar decreases in exchange in peptide 414-420 of the nSH2 and 704-710 of the cSH2 in the presence of PDGFR pY .
+161						The presence of the nSH2 mutation ( K379E ) exposed the p110delta helical domain peptide 524-529 to a similar level as when in the presence of PDGFR pY , whereas the Y685A mutation exposed the elbow peptide 1023-1033 of the p110delta kinase domain ( C ) , as well as the substrate binding loop peptide 920-935 .
+162						This C-terminal elbow showed a 1.0 Da increase in exchange at 3s of on-exchange in the Y685A mutant complex compared with wild-type , and showed a further 1.0 Da increase in the presence of PDGFR pY ( C ) .
+163						The peptide 681-687 in p85alpha that showed an increase in exchange in the presence of PDGFR pY in wild-type p85alpha , showed a decrease in exchange for the Y685A construct due to rigidification of the entire cSH2 domain in the presence of PDGFR pY .
+164						This is further evidence that this p85 region represents a key contact site with the catalytic subunit , and that the presence of the Y685A mutation in the cSH2 does not disrupt PDGFR pY binding .
+165						The peptide 444-456 in the iSH2 domain of p85alpha showed a 1.0 Da increase in exchange at 1000s in the double mutant complex compared to wild-type and was further exposed by the addition of PDGFR pY .
+166						To test the possible effect of mutations in this region on enzyme activity we expressed the full length complex of p110delta and p85alpha with the previously determined p85alpha oncogenic mutation L449S and found that this mutation increased basal activity ~ 2-fold and showed activation by PDGFR pY that was similar to the wild-type ( B ) .
+167			E55,E56	C3		In addition , cellular assays looking at PI3K downstream signaling showed a 2-fold increase in Akt phosphorylation for cells transiently cotransfected with the p110delta+ p85alpha Y685A compared to the cells cotransfected with p110delta+ p85alpha ( A ) .
+168			E57,E58	C3		Ap110delta+ p85alpha N564D complex , carrying a somatic mutation in the iSH2 previously demonstrated to potently activate PI3K signaling , resulting in oncogenesis , showed a similar increase in Akt phosphorylation ( A ) .
+169			E59,E60,E61	C3		To determine if there were any p110 isoform specific differences in regulation by cSH2 , we purified full-length complexes of human p110alpha , p110beta , and p110delta with and without the Y685A mutation in p85alpha .
+170						Enzyme activity assays performed with 5 % PIP2 liposomes showed that both p110delta and p110beta were activated by the mutation , whereas p110alpha was not ( B ) .
+171						Discussion
+172						Understanding the regulation of different isoforms of the class IA PI3Ks is an important goal due to their prominent and isotype specific roles in human diseases including cancer , diabetes , inflammation , thrombosis , allergy , and cardiac disease .
+173			E62,E63	C3		In the absence of activators such as phosphorylated RTKs , the basal activity of p110delta is very low , kept tightly suppressed by p85 .
+174						Understanding the dynamic interactions between the catalytic and regulatory subunits is important in defining the mechanism of PI3K regulation .
+175			E64	C3		The crystal structure of p110alpha with the niSH2 construct of p85alpha shows contacts formed between the two subunits , but it does not explain how these contacts translate into inhibition of the enzyme .
+176						DXMS for p110delta and p85alpha has allowed us to interrogate how contacts between the regulatory and catalytic subunits cause dynamic changes throughout the enzyme .
+177			E65	C3		The presence of the iSH2 caused decreases in exchange all along the crevice of the p110delta where the iSH2 is predicted to bind ( based on the crystal structures of p110alpha and p110beta complexes ) .
+178						One of the regions in the C2 domain with decreased exchange in the presence of the iSH2 contains Asn334 , equivalent to Asn345 in p110alpha .
+179						This is consistent with the published data showing that the interaction between this residue and Asp560 and Asn564 in the iSH2 participates in the inhibition of p110alpha .
+180						The presence of the nicSH2 construct caused decreases in exchange at a region in the helical domain , showing that the interaction with the nSH2 previously demonstrated for p110alpha is conserved in p110delta .
+181						Decreases were also seen at the C-terminal elbow following helix kalpha11 , which we predict forms an interface with the cSH2 .
+182						We showed that the p110delta C-terminal region has a critical role in catalysis , because a deletion construct missing the last 17 residues ( from 1028 to 1044 ) had undetectable lipid kinase activity toward PIP2 containing liposomes .
+183			E66	C3		The C-terminal end of the substrate binding ( activation ) loop also showed decreases in exchange in the presence of various p85alpha constructs , and it is interesting that the more protected this region was , the lower the lipid kinase activity .
+184						This region would not be predicted to be in contact with the cSH2 , and is located directly underneath helix kalpha11 and may represent an allosteric change on rigidification of helix kalpha11 .
+185						The same regions in p110delta that had decreases in exchange with the nSH2 and cSH2 showed an increase in the presence of PDGFR pY , restoring the same level of exchange observed with only the iSH2 .
+186						These observations indicate that breaking these contacts disinhibits the enzyme .
+187			E67	C3		We find that p110delta and p85alpha disinhibition correlates with increased enzyme affinity for membrane vesicles : the p110delta and p85alpha complex binds membranes very poorly and the addition of PDGFR pY greatly increases the affinity of the p110delta and p85alpha for PIP2 containing membranes and to a lesser extent also to membranes lacking PIP2 .
+188						The binding of the PDGFR pY activated p110delta and p85alpha to membranes is similar to the binding of the free catalytic subunit , DeltaABD-p110delta that is devoid completely of p85 inhibitory contacts .
+189						This surprising result that the free catalytic subunit can bind lipid as effectively as the activated p110delta and p85alpha complex contrasts with the hypothesized role of the iSH2 domain in lipid binding .
+190						Regions exposed in the kinase domain on PDGFR pY binding had decreases in exchange in the presence of lipid substrate , revealing that PDGFR pY binding is critical in exposing regions of the protein that interact with the lipid membrane .
+191						We expected to see changes in the C2 domain due to lipid interaction , however , we see no significant changes , but no peptic peptides covering the CBR3 region of the C2 domain were identified and analyzed .
+192						In order to generate a regulatory subunit that would selectively disrupt the contact between the cSH2 and catalytic domains , we made a Y685A p85alpha mutant based on our finding that the peptide containing this residue becomes exposed on PDGFR pY binding .
+193						This mutation caused an increase in basal activity of p110delta , increased downstream signaling in cells and led to exposure of the C-terminal end of the C-lobe and substrate binding loop , while not affecting exchange at the helical domain nor the PDGFR pY binding site .
+194						This engineered mutation in p85alpha also activated recombinant p110beta but did not activate p110alpha , revealing isoform specific aspects of regulation .
+195			E68	C3		This mutation has been recently found to activate p110beta in a complex with p85beta as well , and the crystal structure of p110beta with the icSH2 construct of p85beta shows that this Tyr residue is located at the center of the interface between the catalytic and regulatory subunit .
+196						The presence of a previously identified engineered oncogenic nSH2 mutation ( K379E ) alone increased the lipid kinase activity and the presence of the double mutant ( K379E , Y685A ) in p85alpha fully activated the enzyme as well as exposing similar regions to exchange as in the PDGFR pY activated complex ( D ) .
+197						These p85 point mutations allowed us to isolate specific effects of the nSH2 and cSH2 domains on the dynamics of the p110delta subunit .
+198			E69,E70	C3		Based on our results , and using the previously solved structures of p110alpha with the niSH2 construct of p85alpha and p110beta with the icSH2 construct of p85beta we have constructed a model for the regulation of p110delta by the nicSH2 domains of p85alpha ( D ) .
+199						We propose that both the nSH2 and cSH2 play important roles in inhibiting the kinase activity of p110delta , in contrast to p110alpha , which is inhibited only by the nSH2 ( C ) .
+200						The nSH2 and cSH2 domains prevent binding of p110delta and p85alpha to membranes .
+201			E71	C3		Binding of PDGFR pY breaks inhibitory contacts formed by the nSH2 andcSH2 with p110delta and increases affinity for membrane vesicles .
+202						Several oncogenic mutations in p85alpha have been recently identified and analyzed .
+203						Two of them map to regions in the p85 where we see increases in exchange in the presence of PDGFR pY ( L449S in the iSH2 and A682V in the cSH2 ) .
+204						We have shown that the L449S mutation activates the basal enzyme activity .
+205						The presence of the A682V mutation , which is located in the proposed interface of the catalytic subunit with the cSH2 , may contribute to relieving the inhibitory cSH2 contact .
+206						Many of the iSH2 mutations are located in or closely adjacent to regions where we see an increase in exchange in the presence of lipid vesicles ( D464H , D560Y , N564K and D , and L570P ) .
+207						Because we show that interaction with lipid vesicles causes a loosening between the iSH2 and p110delta , these mutations may mimic this membrane mediated loosening and activate by disrupting the interaction between iSH2 and p110 , as previously proposed .
+208						This is the first study to examine the dynamic interactions ofheterodimeric complexes containing the full-length class IA catalytic subunit with its regulatory subunit , and show how the addition of PDGFR pY as well as lipid vesicles affects these interactions .
+209						Based on these , we have identified a novel isoform specific regulatory function for the cSH2 of p85alpha with p110delta .
+210						For the first time , we have shown that RTK pY peptide binding directly increases membrane binding of the class IA heterodimer .
+211						We mapped multiple regions of an activated PI3K that interact with membranes and provide experimental evidence for the dynamic interaction with lipids .
+212						The gain in exposure in some regions in the presence of membranes indicates that loosening of interactions between the p110delta and p85alpha complex accompanies catalysis on membranes .
+213						Our DXMS results provide a framework for designing further structural and biochemical approaches to understand regulation of the PI3K and PI3K like enzyme families .
+214						Experimental Procedures
+215						Protein Expression and Kinase Assays
+216	uaz:UA-CLine-1696	Sf9 cells	C3			All protein constructs were expressed in Sf9 cells as described for the DeltaABD-p110delta .
+217						Full details are described in the .
+218						Lipid Kinase Assays
+219						The lipid kinase activity was determined using a modified membrane capture assay measuring production of 32P labeled PIP3 .
+220						Lipid vesicles were used at a final concentration of 1mg and ml and were composed of 5 % brain PIP2 , 20 % brain PS , 45 % brain PE , 15 % brain PC , 10 % cholesterol , and 5 % sphingomyelin ( Avanti Polar Lipids ) .
+221						Vesicle preparation is described in .
+222						The lipid solution was mixed with each protein construct , with a final buffer containing 3mM MgCl2 , 1mM EGTA , 20mM Tris pH-7 .5 , 50mM NaCl , and 50mM KCl .
+223						Reactions were started by adding 100muM ATP ( final concentration ) containing 0.1 muCi per muL of [ gamma32P ] - ATP in a total volume of 15muL .
+224						This reaction was carried out for sixty minutes , and was stopped by mixing 3mul of the reaction mixture with 3mul of 20mM EDTA .
+225						Three microliters of this mixture was then spotted on a nitrocellulose membrane .
+226						The membrane was washed six times with a 1M NaCl and 1 % phosphoric acid solution .
+227						After all washes the membrane was dried for one hour , followed by a 5-20min exposure to a phosphor screen ( Molecular Dynamics ) .
+228						The spot intensity on the phosphor screen was imaged using a Typhoon phosphoimager ( GE Healthcare ) .
+229						The intensity was quantitated using ImageQuant ( GE Healthcare ) .
+230						Deuterium Exchange Measurements
+231						Stock solutions of protein ( 30 pmol and mul ) were prepared in 20mM Tris pH-7 .2 , 50mM ammonium sulfate , 1 % ethylene glycol , and 5mM DTT following the procedure in the .
+232						Measurements in the presence of PDGFR pY were carried out by a 5-fold dilution of a 1mM PDGFR pY ( mouse PDGFR residues 735-767 , peptide sequence ESDGG ( pY ) MDMSKDESID ( pY ) VPMLDMKGDIKYADIE ) stock in 10mM HEPES pH-7 .2 , 2 % DMSO giving a final concentration of 200muM PDGFR pY before addition of deuterium .
+233						Exchange reactions were initiated by the addition of 4mul of protein stock to 1mul of either PDGFR pY solution or blank and allowed to equilibrate for 10min followed by the addition of 25mul of a 98 % D2O solution containing 10mM HEPES pD-7 .2 , 50mM NaCl , and 2mM DTT , giving a final concentration of 82 % D2O . Deuterium exchange reactions were allowed to carry on for five time points , 3 , 10 , 100 , 1000 , and 3000s of on-exchange at 23degreesC , before addition of quench buffer .
+235						For 3s of on-exchange , an experiment was also performed at 0degreesC to examine exchange rates of extremely rapidly exchanging amide hydrogens .
+236						On-exchange was stopped by addition of 40mul of quench buffer containing 1.2 % formic acid and 1.66 M Guanidine-HCl , which lowered the pH to 2.6 .
+237						Samples were then immediately frozen in liquid nitrogen until mass analysis .
+238						Every time point and condition was a unique experiment , and every DXMS experiment was repeated in duplicate .
+239						For DXMS studies on the K379E , Y685A , and double mutants , on-exchange experiments were carried out on the full length complexes of p110delta and p85alpha at two time points ( 3 and 1000 s ) that between them covered all time points with differences in exchange on nicSH2 binding .
+240						For lipid binding experiments , lipid vesicles were prepared at 5mg and ml as described in and were diluted 5-fold with a 98 % D2O solution containing 10mM HEPES pD-7 .2 , 50mM NaCl , and 2mM DTT . Deuterium exchange reactions were started by mixing 5mul of a protein stock solution ( 15 pmol and mul ) with 25mul of deuterated lipid buffer ( 25mug phospholipid ) giving a final solution of 65 % D2O .
+242						Half as much protein was used in lipid binding experiments to maximize the ratio of lipid to protein in the sample .
+243						Higher concentrations of protein or lipid in the sample led to sample aggregation .
+244						For this reason there was no chance to preincubate the protein solution with lipid vesicles before addition of D2O due to aggregation of protein when combined with high levels of lipid vesicles .
+245						For AMPPNP binding experiments , protein was incubated with 10mM Mg2+ and+ /- 5mM AMPPNP for 15min and then 5mul of the protein and nucleotide solution was diluted with 25mul of deuterated buffer .
+246						All other steps remained the same .
+247						Full experimental procedures are described in the .
+248						Supplemental Information
+249						Document S1 .
+250						Seven Figures , One Table , and Supplemental Experimental Procedures
+251						Figure1
+252						Kinase Activity of p110delta in the Presence of p85alpha Constructs and PDGFR pY
+253						( A ) p110delta and p85alpha constructs tested for lipid kinase activity .
+254						( B ) Kinase activity of DeltaABD-p110delta compared with p110delta / iSH2 p85alpha .
+255						Assays measured 32P-PIP3 production in the presence of 0.5 nM enzyme , 100muM ATP , and 5 % PIP2 lipid vesicles at a concentration of 1mg and ml .
+256						The left panel illustrates the autoradiogram of the filter ( duplicate spots ) and the right shows the quantitation of the spots .
+257						Kinase assays were performed in duplicate and repeated twice .
+258						The error bars show the standard deviation ( SD ) .
+259						( C ) Invitro kinase assay results for various p110delta and p85alpha constructs areshown .
+260						Assays measured 32P-PIP3 production in the presence of 5nM enzyme , 100muM ATP , and 5 % PIP2 vesicles at a concentration of 1mg and ml , + / -10 muM PDGFR pY .
+261						Kinase assays were performed in duplicate and repeated twice .
+262						Figure2
+263						Changes in Deuteration Levels of the p85alpha nicSH2 Construct ( Bound to p110delta ) in the Presence of 40muM PDGFR pY
+264						Peptides spanning p85alpha ( A-M ) that showed > 0.5 Da changes in deuteration level in the presence and absence of PDGFR pY for the p110delta+ nicSH2 complex are mapped onto the structures ( 2VIY for the iSH2 , 2IUI for the nSH2 , and 1H9O for the cSH2 ) .
+265						The percent change mapped on the structure according to the legend is the highest deuterium exchange difference change seen at any time point in the analysis .
+266						The structures of PDGFR pY bound to the nSH2 and cSH2 are colored purple .
+267						Only peptides that showed > 10 % change for more than two time points are graphed and shown below the structures .
+268						Experiments were performed in duplicate , and graphs are shown+ /- SD .
+269						All other peptides with changes > 0.5 Da are shown in .
+270						The graphs are labeled ( * ) for any time point with a > 0.5 Da change for the p110delta+ nicSH2 complex+ /- PDGFR pY ( see also ) .
+271						Figure3
+272						Changes in Deuteration Levels of p110delta Catalytic Subunit in the Presence of Both p85alpha and PDGFR pY
+273						( A ) Peptides spanning p110delta ( labeled A-I ) that showed > 0.5 Da changes in deuteration level in the presence and absence of the p85alpha nicSH2 are mapped onto the DeltaABD-p110delta structure ( 2WXH ) according to the legend .
+274						Peptides that showed > 10 % change for more than two time points are graphed and shown below the figure .
+275						Experiments were performed in duplicate , and graphs are shown+ /- SD .
+276						All other peptides with changes > 0.5 Da are shown in .
+277						( B ) Peptides spanning the p110delta catalytic subunit in the p110delta+ nicSH2 complex that showed > 0.5 Da changes in deuteration level in the presence and absence of 40muM PDGFR pY are mapped onto the structure .
+278						The percent change mapped on the structure according to the legend is the highest deuterium exchange difference change seen at any time point in the analysis .
+279						The area from 1020-1022 is named a segment to denote that this data was generated by subtraction of the deuterium level of peptide 1001-1019 from peptide 1001-1022 .
+280						The graphs are labeled ( * ) for any time points with a > 0.5 Da change between the DeltaABD-p110delta and p110delta+ nicSH2 constructs and ( * ) for any time point with a > 0.5 Da change for the p110delta+ nicSH2+ /- PDGFR pY ( see also ) .
+281						Figure4
+282						Protein-Lipid FRET Measured from Intrinsic Tryptophanes to the DANSYL Probe of the DANSYL-PS-Containing Liposomes of the Free Catalytic Subunit and Full Length p110delta and p85alpha Complex in the Presence and Absence of PDGFR pY
+283						( A ) Lipid binding of the p110delta and p85alpha complex with 0 % and 5 % PIP2 lipid vesicles in the presence and absence of PDGFR pY .
+284						( B ) Lipid binding of the DeltaABD-p110delta construct with 0 % and 5 % PIP2 lipid vesicles in the presence and absence of PDGFR pY .
+285						Experiments were repeated in triplicate and graphs are shown+ /- SD .
+286						Figure5
+287						Changes in Deuteration Levels of p110delta and p85alpha in the Presence of 5 % PIP2 Vesicles at 1mg and ml
+288						A model for the iSH2 domain of p85alpha and ABD domain of the p110delta was generated by combining the DeltaABD-p110delta structure ( 2WXH ) with the structure of p110alpha in complex with niSH2 ( 3HIZ ) .
+289						The C-terminal helix of the kinase domain that is disordered in p110delta is modeled ( region H ) from the structure of p110gamma ( 1E7U ) .
+290						Peptides spanning p110delta and p85alpha ( labeled A-K ) that showed > 0.5 Da changes in deuteration level in the presence of vesicles are mapped onto the model .
+291						The percent change mapped on the structure according to the legend is the highest deuterium exchange difference change seen at any time point in the analysis .
+292						Peptides that showed a > 10 % change at any time point are graphed and shown below the figure .
+293						Experiments were performed in duplicate , and graphs are shown+ /- SD .
+294						All other peptides with changes > 0.5 Da are shown in .
+295						The graphs are labeled ( * ) for any time points with a > 0.5 Da change between p110delta+ nicSH2+ pY in the presence of lipids ( see also ) .
+296						Figure6
+297						Effect of the p85alpha K379E and Y685A Mutations on Lipid Kinase Activity and Deuterium Exchange in Vitro with a Model of p110delta and p85alpha Regulatory Interaction
+298						( A ) PI3K activity of p110delta , with full length p85alpha constructs containing nSH2 ( K379E ) and cSH2 ( Y685A ) mutations in the presence and absence of PDGFR pY .
+299						Assays measured 32P-PIP3 production in the presence of 10nM enzyme , 100muM ATP and 5 % PIP2 lipid vesicles ata concentration of 1mg and ml .
+300						PDGFR pY was 10muM .
+301						( B ) PI3K activity of p110delta , with full-length p85alpha containing the cancer linked L449S iSH2 mutation in the presence and absence of PDGFR pY .
+302						All lipid kinase activity assays were performed in triplicate and graphs are shown+ /- SD .
+303						( C ) The deuteration level at 1000s of on-exchange forahelical domain peptide ( 524-529 ) , and at 3s of on exchange for a C-terminal peptide ( 1023-1033 ) was plotted for eight conditions as indicated on the legend .
+304						Experiments were performed in duplicate , and graphs are shown+ /- SD .
+305						( D ) A structural model for the interaction of p110delta with the nSH2 , iSH2 , and cSH2 domains of p85alpha was generated using the crystal structure of the free p110delta catalytic subunit ( 2WXH ) , with the nSH2 from the p110alpha and p85alpha structure ( 3HHM ) , the iSH2 ( 2VIY ) , and the cSH2 from the recent p110beta and p85beta structure ( 2Y3A ) .
+306						Regions with changes on phosphopeptide binding are colored in red and labeled on the model ( see also ) .
+307						Figure7
+308						Effect of the p85alpha Y685A Mutation on Lipid Kinase Activity InVitro and PI3K Signaling in Cell Culture with a Model of p110delta and p85alpha Regulatory Interaction
+309						( A ) Y685A mutation in the cSH2 of p85alpha ( Y685A ) increases Akt phosphorylation ( Ser473 ) in HEK cells overexpressing p110delta+ p85alpha heterodimers .
+310						Bar graphs show mean+ /- SEM ( n = 3 ) of phosphorylated Akt ( pAkt ) to Akt ratios normalized to wild-type p110delta+ p85alpha ( WT ) .
+311						( B ) PI3K activity of p110delta , p110alpha , and p110beta in the presence of full length p85alpha ( WT and Y685A ) in the presence and absence of PDGFR pY .
+312						Assays measured 32P-PIP3 production in the presence of 10nM enzyme , 100muM ATP and 5 % PIP2 lipid vesicles at a concentration of 1mg and ml .
+313						PDGFR pY was 10muM .
+314						PI3K assays were performed in duplicate and repeated three times .
+315						Shown is a representative experiment with graphs shown+ /- SD .
+316						( C ) A model for the regulation of p110delta and p110alpha basal activity by the nicSH2 domains of p85alpha and activation by PDGFR pY .
+317						The presence of the nSH2 and cSH2 domains prevents lipid binding , and binding of PDGFR pY exposes lipid interacting regions and increases membrane affinity .

@@ -1,0 +1,456 @@
+0 3-4-hepatocellular_carcinoma-tissuelist:TS-0455
+1 
+1 0-0-Mice-taxonomy:10090 8-8-liver-tissuelist:TS-0564 15-15-human-taxonomy:9606
+2 
+2 0-1-Hepatocellular_carcinoma-tissuelist:TS-0455 3-3-HCC-tissuelist:TS-0455
+3 28-28-HCC-tissuelist:TS-0455
+4 4-4-retinoblastoma-tissuelist:TS-0871 16-16-HCC-tissuelist:TS-0455
+5 16-16-liver-tissuelist:TS-0564 19-19-mice-taxonomy:10090
+6 4-4-mice-taxonomy:10090 6-6-liver-tissuelist:TS-0564 17-17-human-taxonomy:9606 18-18-HCC-tissuelist:TS-0455
+7 2-2-mouse-taxonomy:10090 16-19-liver_stem/progenitor-uaz:UA-ORG-520 29-29-HCC-tissuelist:TS-0455 37-37-liver-tissuelist:TS-0564
+8 27-27-HCC-tissuelist:TS-0455
+9 12-12-HCC-tissuelist:TS-0455 22-22-HCC-tissuelist:TS-0455
+10 
+10 0-1-Hepatocellular_carcinoma-tissuelist:TS-0455 3-3-HCC-tissuelist:TS-0455
+11 27-27-HCC-tissuelist:TS-0455
+12 
+12 2-2-retinoblastoma-tissuelist:TS-0871
+13 12-12-HCC-tissuelist:TS-0455
+14 17-17-HCC-tissuelist:TS-0455
+15 5-5-E3-uaz:UA-CLine-2883 21-21-HCC-tissuelist:TS-0455
+16 9-9-liver-tissuelist:TS-0564 18-20-hepatitis_B_virus-taxonomy:10407
+17 10-11-hepatitis_C-taxonomy:11103
+18 29-29-HCC-tissuelist:TS-0455
+19 18-18-mouse-taxonomy:10090 19-19-liver-tissuelist:TS-0564 25-25-HCC-tissuelist:TS-0455
+20 
+20 14-14-human-taxonomy:9606 15-15-HCC-tissuelist:TS-0455 39-39-HCC-tissuelist:TS-0455
+21 10-10-HCC-tissuelist:TS-0455
+22 1-1-hepatocytes-tissuelist:TS-0454 8-8-liver-tissuelist:TS-0564 24-24-HCC-tissuelist:TS-0455
+23 12-13-bile_duct-tissuelist:TS-0075 16-17-portal_vein-tissuelist:TS-0814 21-22-hepatic_artery-uaz:UA-ORG-389 35-35-stem-tissuelist:TS-0971
+24 
+25 4-4-liver-tissuelist:TS-0564 15-15-HCC-tissuelist:TS-0455
+26 29-29-HCC-tissuelist:TS-0455
+27 
+27 14-14-HCC-tissuelist:TS-0455
+28 10-10-mice-taxonomy:10090 22-23-liver_cancer-tissuelist:TS-0559 30-30-human-taxonomy:9606 31-31-HCC-tissuelist:TS-0455
+29 19-19-stem-tissuelist:TS-0971 37-37-HCC-tissuelist:TS-0455
+30 
+30 
+31 
+31 9-9-liver-tissuelist:TS-0564 12-12-mice-taxonomy:10090 21-21-human-taxonomy:9606 22-22-HCC-tissuelist:TS-0455
+32 
+32 11-11-human-taxonomy:9606 12-12-HCC-tissuelist:TS-0455 24-24-liver-tissuelist:TS-0564 27-27-mice-taxonomy:10090 33-33-adenovirus-taxonomy:10535 63-63-mice-taxonomy:10090
+33 5-5-adenovirus-taxonomy:10535 12-12-hepatocytes-tissuelist:TS-0454 20-20-liver-tissuelist:TS-0564
+34 5-5-mice-taxonomy:10090 12-12-mice-taxonomy:10090 18-18-liver-tissuelist:TS-0564 42-42-mice-taxonomy:10090 52-52-liver-tissuelist:TS-0564
+35 
+36 15-15-liver-tissuelist:TS-0564
+37 
+38 3-3-liver-tissuelist:TS-0564 11-11-mice-taxonomy:10090
+39 
+39 
+40 
+40 9-9-mouse-taxonomy:10090 10-10-liver-tissuelist:TS-0564 13-13-HCC-tissuelist:TS-0455
+41 11-11-mouse-taxonomy:10090 19-19-liver-tissuelist:TS-0564
+42 6-6-mice-taxonomy:10090
+43 25-25-livers-uaz:UA-ORG-520
+44 6-6-liver-tissuelist:TS-0564
+45 
+46 19-19-livers-uaz:UA-ORG-520
+47 7-7-liver-tissuelist:TS-0564
+48 11-11-hepatocytes-tissuelist:TS-0454
+49 14-14-livers-uaz:UA-ORG-520
+50 6-7-bile_duct-tissuelist:TS-0075
+51 
+52 11-11-human-taxonomy:9606 14-14-mouse-taxonomy:10090
+53 4-4-human-taxonomy:9606
+54 5-5-human-taxonomy:9606 6-6-liver-tissuelist:TS-0564 15-15-mouse-taxonomy:10090 16-16-livers-uaz:UA-ORG-520
+55 
+56 
+57 
+58 
+58 12-12-HCC-tissuelist:TS-0455 26-26-hepatocytes-tissuelist:TS-0454
+59 18-18-hepatocyte-tissuelist:TS-0454
+60 7-7-human-taxonomy:9606
+61 10-10-human-taxonomy:9606 11-11-HCC-tissuelist:TS-0455 22-22-human-taxonomy:9606
+62 12-12-human-taxonomy:9606 16-16-HCC-tissuelist:TS-0455
+63 
+64 7-7-human-taxonomy:9606
+65 11-11-liver-tissuelist:TS-0564 14-14-mice-taxonomy:10090 20-20-human-taxonomy:9606 21-21-HCC-tissuelist:TS-0455
+66 
+66 3-3-stem-tissuelist:TS-0971 15-15-liver-tissuelist:TS-0564 18-18-mice-taxonomy:10090
+67 
+67 11-11-HCC-tissuelist:TS-0455 31-31-mouse-taxonomy:10090
+68 16-16-liver-tissuelist:TS-0564 20-20-mice-taxonomy:10090
+69 7-7-liver-tissuelist:TS-0564 17-17-liver-tissuelist:TS-0564 42-42-cytoplasm-go:GO:0005737 57-57-hepatocytes-tissuelist:TS-0454
+70 
+71 12-12-hepatocytes-tissuelist:TS-0454 31-31-veins-uaz:UA-ORG-1067
+72 2-2-liver-tissuelist:TS-0564 21-21-liver-tissuelist:TS-0564 25-25-mice-taxonomy:10090
+73 7-7-liver-tissuelist:TS-0564 11-11-mice-taxonomy:10090 33-33-hepatocytes-tissuelist:TS-0454
+74 
+75 21-21-mice-taxonomy:10090
+76 11-11-liver-tissuelist:TS-0564 14-14-mice-taxonomy:10090
+77 
+77 
+78 
+78 9-9-liver-tissuelist:TS-0564 19-19-stem-tissuelist:TS-0971
+79 13-13-liver-tissuelist:TS-0564 17-17-mouse-taxonomy:10090 32-32-liver-tissuelist:TS-0564
+80 
+81 1-1-mice-taxonomy:10090
+82 
+83 6-6-liver-tissuelist:TS-0564 19-19-hepatocytes-tissuelist:TS-0454 23-23-vein-tissuelist:TS-1108
+84 
+85 
+86 10-10-mice-taxonomy:10090
+87 
+88 9-9-liver-tissuelist:TS-0564
+89 
+90 6-6-livers-uaz:UA-ORG-520
+91 
+92 
+93 
+94 
+94 22-22-liver-tissuelist:TS-0564
+95 19-19-liver-tissuelist:TS-0564 22-22-mice-taxonomy:10090
+96 1-1-A6-uaz:UA-CLine-7370 9-9-liver-tissuelist:TS-0564 13-14-bile_duct-tissuelist:TS-0075 23-23-A6-uaz:UA-CLine-7370 32-32-mice-taxonomy:10090
+97 17-17-liver-tissuelist:TS-0564
+98 15-15-mouse-taxonomy:10090 16-16-stem-tissuelist:TS-0971 29-29-liver-tissuelist:TS-0564
+99 
+100 
+101 
+102 
+103 6-6-liver-tissuelist:TS-0564 9-9-mice-taxonomy:10090 19-22-liver_stem/progenitor-uaz:UA-ORG-520 45-45-liver-tissuelist:TS-0564
+104 
+104 11-11-liver-tissuelist:TS-0564 26-26-mice-taxonomy:10090
+105 
+106 45-45-mice-taxonomy:10090
+107 10-10-mice-taxonomy:10090 19-19-liver-tissuelist:TS-0564
+108 
+108 6-6-mice-taxonomy:10090
+109 29-29-livers-uaz:UA-ORG-520
+110 
+111 8-8-mice-taxonomy:10090 40-40-mice-taxonomy:10090 44-44-mice-taxonomy:10090
+112 
+113 
+114 20-20-stem-tissuelist:TS-0971
+115 
+116 13-13-stem-tissuelist:TS-0971
+117 
+117 
+118 
+118 0-0-HCC-tissuelist:TS-0455 13-13-mice-taxonomy:10090
+119 22-22-mice-taxonomy:10090
+120 
+121 17-17-livers-uaz:UA-ORG-520
+122 
+123 
+124 17-17-mice-taxonomy:10090
+125 
+126 15-15-mice-taxonomy:10090
+127 
+128 
+129 
+130 
+131 
+132 
+133 
+134 
+135 
+135 4-4-stem-tissuelist:TS-0971
+136 16-16-mice-taxonomy:10090
+137 29-29-livers-uaz:UA-ORG-520
+138 14-14-liver-tissuelist:TS-0564 17-17-mice-taxonomy:10090 22-22-liver-tissuelist:TS-0564 25-25-mice-taxonomy:10090 37-37-skin-tissuelist:TS-0934
+139 17-17-liver-tissuelist:TS-0564
+140 12-12-liver-tissuelist:TS-0564 15-15-mice-taxonomy:10090 36-36-mice-taxonomy:10090
+141 
+142 13-13-liver-tissuelist:TS-0564 16-16-mice-taxonomy:10090 25-25-stem-tissuelist:TS-0971 35-35-HCC-tissuelist:TS-0455
+143 
+143 9-9-HCC-tissuelist:TS-0455
+144 
+144 11-11-HCC-tissuelist:TS-0455 14-14-mice-taxonomy:10090 37-37-liver-tissuelist:TS-0564
+145 20-20-human-taxonomy:9606 21-21-HCC-tissuelist:TS-0455
+146 
+147 38-38-chromosome-go:GO:0005694
+148 6-6-HCC-tissuelist:TS-0455 11-11-mouse-taxonomy:10090 12-12-liver-tissuelist:TS-0564
+149 8-8-liver-tissuelist:TS-0564 13-13-livers-uaz:UA-ORG-520 45-47-embryonic_stem_cell-tissuelist:TS-0263
+150 
+151 29-29-HCC-tissuelist:TS-0455 40-40-liver-tissuelist:TS-0564 43-43-mice-taxonomy:10090 55-55-HCC-tissuelist:TS-0455 59-59-liver-tissuelist:TS-0564 61-61-mice-taxonomy:10090
+152 
+152 
+153 
+153 7-7-HCC-tissuelist:TS-0455
+154 10-10-mouse-taxonomy:10090 11-11-HCC-tissuelist:TS-0455
+155 
+156 
+157 2-2-scale-tissuelist:TS-0895
+158 10-10-livers-uaz:UA-ORG-520 17-17-HCC-tissuelist:TS-0455
+159 
+160 
+161 
+162 
+163 
+164 
+165 22-22-liver-tissuelist:TS-0564
+166 
+167 
+168 
+168 10-10-HCC-tissuelist:TS-0455
+169 
+169 18-18-livers-uaz:UA-ORG-520 49-49-human-taxonomy:9606 50-50-HCC-tissuelist:TS-0455
+170 
+171 16-16-liver-tissuelist:TS-0564 27-28-liver_cancer-tissuelist:TS-0559
+172 35-35-HCC-tissuelist:TS-0455 40-40-HCC-tissuelist:TS-0455 41-41-mouse-taxonomy:10090
+173 17-17-HCC-tissuelist:TS-0455
+174 
+174 42-42-HCC-tissuelist:TS-0455 47-47-liver-tissuelist:TS-0564
+175 
+176 10-10-mouse-taxonomy:10090 15-15-human-taxonomy:9606
+177 39-39-HCC-tissuelist:TS-0455
+178 15-15-mouse-taxonomy:10090 17-17-livers-uaz:UA-ORG-520 42-42-liver-tissuelist:TS-0564 58-58-liver-tissuelist:TS-0564
+179 8-8-mouse-taxonomy:10090 17-17-human-taxonomy:9606 18-18-HCC-tissuelist:TS-0455 21-21-Hep3B-uaz:UA-CLine-2495 23-23-SNU-449-uaz:UA-CLine-8041
+180 4-4-mouse-taxonomy:10090 5-5-HCC-tissuelist:TS-0455
+181 14-14-HCC-tissuelist:TS-0455 21-21-axis-uaz:UA-ORG-75
+182 
+182 
+183 
+183 5-5-HCC-tissuelist:TS-0455
+184 10-10-livers-uaz:UA-ORG-520 17-17-HCC-tissuelist:TS-0455
+185 23-23-human-taxonomy:9606
+186 
+187 38-38-HCC-tissuelist:TS-0455 45-45-mouse-taxonomy:10090 46-46-liver-tissuelist:TS-0564 54-54-human-taxonomy:9606 55-55-HCC-tissuelist:TS-0455 59-59-Hep3B-uaz:UA-CLine-2495
+188 
+189 
+190 
+191 7-7-mouse-taxonomy:10090 8-8-HCC-tissuelist:TS-0455
+192 
+193 
+194 
+195 
+196 
+196 6-6-HCC-tissuelist:TS-0455
+197 
+197 17-17-HCC-tissuelist:TS-0455 49-49-liver-tissuelist:TS-0564
+198 24-24-nucleus-go:GO:0005634 27-27-HCC-tissuelist:TS-0455
+199 
+199 
+200 
+200 8-8-HCC-tissuelist:TS-0455
+201 15-15-livers-uaz:UA-ORG-520
+202 
+203 6-6-liver-tissuelist:TS-0564 10-10-mice-taxonomy:10090
+204 
+205 21-21-mice-taxonomy:10090
+206 
+207 
+208 
+209 
+210 4-4-HCC-tissuelist:TS-0455 13-13-human-taxonomy:9606 15-15-SNU-449-uaz:UA-CLine-8041 17-17-HepG2-uaz:UA-CLine-6371
+211 
+212 
+213 
+214 
+215 4-4-HCC-tissuelist:TS-0455 12-12-C3a-uaz:UA-CLine-5114 14-14-HepG2-uaz:UA-CLine-6371 17-17-SNU-449-uaz:UA-CLine-8041
+216 
+217 
+218 
+219 
+220 12-12-human-taxonomy:9606 13-13-HCC-tissuelist:TS-0455 21-21-mouse-taxonomy:10090 23-23-human-taxonomy:9606
+221 
+222 13-13-human-taxonomy:9606
+223 22-22-HCC-tissuelist:TS-0455
+224 
+225 
+226 
+226 11-11-mice-taxonomy:10090 16-16-mice-taxonomy:10090
+227 12-12-liver-tissuelist:TS-0564 14-14-mice-taxonomy:10090 29-29-mice-taxonomy:10090
+228 7-7-mice-taxonomy:10090
+229 
+230 15-15-HCC-tissuelist:TS-0455 32-33-liver_tumor-tissuelist:TS-0563 40-40-mice-taxonomy:10090 48-48-human-taxonomy:9606 49-49-HCC-tissuelist:TS-0455 51-51-C3a-uaz:UA-CLine-5114 53-53-SNU-449-uaz:UA-CLine-8041 56-56-HepG2-uaz:UA-CLine-6371
+231 28-28-SNU-449-uaz:UA-CLine-8041 31-31-HepG2-uaz:UA-CLine-6371 55-55-C3a-uaz:UA-CLine-5114 57-57-HepG2-uaz:UA-CLine-6371 60-60-SNU-449-uaz:UA-CLine-8041
+232 18-18-HCC-tissuelist:TS-0455
+233 
+233 10-10-liver-tissuelist:TS-0564
+234 13-13-liver-tissuelist:TS-0564
+235 10-10-liver-tissuelist:TS-0564 14-14-hepatocytes-tissuelist:TS-0454 29-29-liver-tissuelist:TS-0564
+236 
+237 11-11-hepatocytes-tissuelist:TS-0454
+238 
+239 
+240 8-8-liver-tissuelist:TS-0564 22-22-mice-taxonomy:10090 29-29-retrovirus-taxonomy:31931 40-40-HCC-tissuelist:TS-0455
+241 13-13-liver-tissuelist:TS-0564
+242 
+242 22-22-HCC-tissuelist:TS-0455 25-25-HCC-tissuelist:TS-0455 42-42-patient-taxonomy:9606
+243 14-14-HCC-tissuelist:TS-0455
+244 9-9-human-taxonomy:9606
+245 7-7-human-taxonomy:9606
+246 
+247 30-30-fibroblasts-uaz:UA-CLine-100060
+248 6-6-HCC-tissuelist:TS-0455 21-21-HCC-tissuelist:TS-0455
+249 22-22-HCC-tissuelist:TS-0455
+250 
+251 7-7-HCC-tissuelist:TS-0455 18-18-HCC-tissuelist:TS-0455
+252 
+252 
+253 
+253 17-17-liver-tissuelist:TS-0564 20-20-mice-taxonomy:10090
+254 6-6-mice-taxonomy:10090 8-8-HCC-tissuelist:TS-0455 14-14-mouse-taxonomy:10090 19-19-human-taxonomy:9606
+255 15-15-HCC-tissuelist:TS-0455 35-35-human-taxonomy:9606 36-36-HCC-tissuelist:TS-0455
+256 
+256 14-14-liver-tissuelist:TS-0564
+257 20-20-HCC-tissuelist:TS-0455
+258 8-8-mice-taxonomy:10090 12-12-HCC-tissuelist:TS-0455 32-32-mice-taxonomy:10090
+259 16-16-mouse-taxonomy:10090 28-28-human-taxonomy:9606 29-29-HCC-tissuelist:TS-0455 44-44-HCC-tissuelist:TS-0455
+260 
+260 5-6-liver_cancer-tissuelist:TS-0559 10-10-HCC-tissuelist:TS-0455 13-13-hepatocytes-tissuelist:TS-0454 22-22-liver-tissuelist:TS-0564
+261 4-4-mice-taxonomy:10090 17-20-liver_stem/progenitor-uaz:UA-ORG-520
+262 14-14-hepatocytes-tissuelist:TS-0454
+263 26-26-HCC-tissuelist:TS-0455 31-31-stem-tissuelist:TS-0971 37-37-liver-tissuelist:TS-0564 39-39-mice-taxonomy:10090
+264 1-1-stem-tissuelist:TS-0971 29-30-liver_cancer-tissuelist:TS-0559 33-33-liver-tissuelist:TS-0564
+265 
+265 10-10-liver-tissuelist:TS-0564
+266 29-32-liver_stem/progenitor-uaz:UA-ORG-520
+267 27-27-mice-taxonomy:10090
+268 8-8-liver-tissuelist:TS-0564 24-24-liver-tissuelist:TS-0564
+269 17-17-mice-taxonomy:10090
+270 15-15-livers-uaz:UA-ORG-520 21-21-bile-tissuelist:TS-1172
+271 
+272 10-10-liver-tissuelist:TS-0564
+273 
+273 18-18-stem-tissuelist:TS-0971 25-25-mice-taxonomy:10090
+274 
+275 41-41-stem-tissuelist:TS-0971 48-48-liver-tissuelist:TS-0564
+276 
+276 6-6-liver-tissuelist:TS-0564 12-12-stem-tissuelist:TS-0971
+277 28-28-HCC-tissuelist:TS-0455
+278 18-18-stem-tissuelist:TS-0971
+279 23-23-hepatocyte-tissuelist:TS-0454 34-34-HCC-tissuelist:TS-0455
+280 6-6-mouse-taxonomy:10090 9-9-liver-tissuelist:TS-0564
+281 
+281 
+282 22-22-human-taxonomy:9606 24-24-mouse-taxonomy:10090 38-38-liver-tissuelist:TS-0564
+283 12-12-liver-tissuelist:TS-0564
+284 
+285 38-38-fibroblasts-uaz:UA-CLine-100060
+286 
+286 27-27-mice-taxonomy:10090
+287 2-2-liver-tissuelist:TS-0564 14-14-HCC-tissuelist:TS-0455 21-21-hepatocytes-tissuelist:TS-0454 23-23-mice-taxonomy:10090
+288 
+289 11-11-mouse-taxonomy:10090 13-13-human-taxonomy:9606 14-14-HCC-tissuelist:TS-0455 28-28-human-taxonomy:9606
+290 4-4-HCC-tissuelist:TS-0455
+291 
+292 15-15-HCC-tissuelist:TS-0455
+293 
+293 26-26-liver-tissuelist:TS-0564
+294 44-44-HCC-tissuelist:TS-0455
+295 35-35-human-taxonomy:9606
+296 
+296 
+297 
+297 0-0-Mice-taxonomy:10090
+298 
+298 3-3-mice-taxonomy:10090
+299 4-4-mice-taxonomy:10090 17-17-abdomen-tissuelist:TS-0001 23-23-adenovirus-taxonomy:10535 26-26-spleen-tissuelist:TS-0956
+300 4-4-mice-taxonomy:10090 23-23-corn-taxonomy:381124
+301 5-5-mice-taxonomy:10090 23-23-mice-taxonomy:10090
+302 4-4-mice-taxonomy:10090 18-18-mice-taxonomy:10090
+303 2-2-mice-taxonomy:10090 15-15-tm1-uaz:UA-CLine-3353 19-19-Cos-uaz:UA-CLine-100020
+304 9-9-mice-taxonomy:10090 15-15-mouse-taxonomy:10090
+305 27-27-mice-taxonomy:10090
+306 4-4-corn-taxonomy:381124 16-17-peritoneal_cavity-tissuelist:TS-0773
+307 4-4-mice-taxonomy:10090
+308 
+308 
+309 
+309 
+310 
+311 
+312 
+313 
+314 
+315 
+316 32-32-horse-taxonomy:9796 33-33-serum-tissuelist:TS-0923
+317 
+318 
+319 23-23-Hybridoma-tissuelist:TS-0463
+320 
+321 
+322 
+322 
+323 
+323 6-6-livers-uaz:UA-ORG-520
+324 11-13-red_blood_cells-uaz:UA-CT-4
+325 0-0-Liver-tissuelist:TS-0564
+326 
+327 
+328 24-24-hepatocytes-tissuelist:TS-0454
+329 
+330 12-12-mice-taxonomy:10090 21-21-serum-tissuelist:TS-0923
+331 0-0-HepG2-uaz:UA-CLine-6371 2-2-SNU-449-uaz:UA-CLine-8041 5-5-Hep3B-uaz:UA-CLine-2495 6-6-human-taxonomy:9606 17-17-serum-tissuelist:TS-0923
+332 3-3-liver-tissuelist:TS-0564 9-9-293T-uaz:UA-CLine-100002
+333 1-1-HCC-tissuelist:TS-0455
+334 52-52-SNU-449-uaz:UA-CLine-8041
+335 
+336 
+337 
+338 
+338 
+339 
+339 
+340 
+341 
+342 
+342 
+343 
+343 
+344 
+345 
+346 
+347 5-5-mice-taxonomy:10090
+348 
+349 
+350 
+350 9-9-mouse-taxonomy:10090
+351 
+352 6-6-human-taxonomy:9606 7-7-HCC-tissuelist:TS-0455 27-27-Mouse-taxonomy:10090
+353 
+354 
+355 
+356 
+357 
+358 
+359 
+359 8-8-human-taxonomy:9606 24-24-HCC-tissuelist:TS-0455
+360 1-1-HCC-tissuelist:TS-0455
+361 1-1-human-taxonomy:9606
+362 12-12-HCC-tissuelist:TS-0455 27-27-HCC-tissuelist:TS-0455
+363 10-10-human-taxonomy:9606
+364 
+365 
+365 
+366 
+366 
+367 
+368 
+369 
+369 
+370 
+370 
+371 
+372 
+372 
+373 
+373 
+374 13-13-liver-tissuelist:TS-0564 16-16-mice-taxonomy:10090
+375 
+376 
+377 
+378 13-13-liver-tissuelist:TS-0564 18-18-mice-taxonomy:10090
+379 
+380 17-17-liver-tissuelist:TS-0564
+381 
+382 33-33-HCC-tissuelist:TS-0455
+383 17-17-livers-uaz:UA-ORG-520
+384 24-24-livers-uaz:UA-ORG-520
+385 
+386 
+387 
+388 

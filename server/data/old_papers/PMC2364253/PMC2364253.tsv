@@ -1,0 +1,130 @@
+1						n-acetylgalactosaminyl transferase-3 be a potential new marker for non small cell lung cancer
+2			e1	c1,c2,c3	n-acetylgalactosaminyl transferase-3 ( galnac-t3 ) be a enzyme involve in the initial glycosylation of mucin-type o link protein .	n-acetylgalactosaminyl transferase-3 ( galnac-t3 ) be a enzyme involve in the initial glycosylation of mucin-type o link protein .
+3	tissuelist:TS-0568	lung	t1			in the present study , we use immunohistochemistry to examine galnac-t3 expression in 215 surgically resected non small cell lung cancer .
+4						we analyse the biological and clinical importance of galnac-t3 expression , especially with regard to its potential as a prognostic factor .
+5	tissuelist:TS-1240,uaz:UA-ORG-1095,uaz:UA-CT-200010	normal bronchial epithelial cell , bronchial gland cell , and alveolar pneumocyte	c1,c2,c3			we find that normal bronchial epithelial cell , bronchial gland cell , and alveolar pneumocyte show cytoplasmic immunostaining for galnac-t3 .
+6						low expression of galnac-t3 , observe in 93 of 215 tumour ( 43.4 % ) , be find more frequently in tumour from smoker than those from nonsmoker ( p = 0.001 ) , in squamous cell carcinoma than nonsquamous cell carcinoma ( p < 0.0001 ) , and in moderately and poorly differentiate tumour than well differentiate tumour ( p = 0.0002 ) .
+7						multivariate logistic regression analysis show that a association of low galnac-t3 expression with squamous cell carcinoma be the only one significant relationship of galnac-t3 expression with various factor ( p < 0.0001 ) .
+8						moreover , tumour lose galnac-t3 expression have a significantly higher ki-67 labelling index than tumour retain galnac-t3 expression ( p = 0.0003 ) .
+9						patient with low galnac-t3 expression survive a significantly shorter time than patient with high galnac-t3 expression in 103 pstage I non small cell lung cancer ( 5-year survival rate , 58 % and 78 % , respectively ; p = 0.02 by log-rank test ) as well as in 61 pstage I nonsquamous cell carcinoma ( 5-year survival rate , 63 % and 85 % , respectively ; p = 0.03 ) .
+10						low galnac-t3 expression be a unfavourable prognostic factor in pstage I non small cell lung cancer ( hazard ratio , 2.04 ; p = 0.03 ) , and in pstage I nonsquamous cell carcinoma ( hazard ratio , 2.70 ; p = 0.03 ) .
+11						these result suggest that galnac-t3 be a new marker of non small cell lung cancer with specificity for histology and prognosis .
+12						british Journal of Cancer ( 2002 ) 87 , 751-755 .
+13						doi :10.1038 / sj.bjc .6600536 www.bjcancer.com
+14						( c ) 2002 Cancer Research UK
+15						lung cancer be one of the lead cause of cancer death worldwide .
+16						although the management and treatment of non small cell lung cancer ( nsclc ) have improve , there be no evidence that therapeutic advance have result in a marked increase of survival rate .
+17						the overall 5-year survival rate remain at less than 15 % .
+18						it be not fully understand why patient with comparable stage of nsclc may have different clinical course and respond differently to similar treatment .
+19						a more sophisticated understanding of the pathogenesis and biology of these tumour could provide useful information for predict clinical outcome , individualise treatment , and identify molecular target of the treatment .
+20						oligosaccharide on glycoprotein be alter in tumorigenesis .
+21						these oligosaccharide often play a role in the regulation of the biological characteristic of tumour in term of invasion and metastatic potential .
+22						each oligosaccharide be synthesise by a specific glycosyltransferase .
+23						the initial glycosylation of mucin-type o link protein be catalyse by one of the udp-n-acetyl-alpha-d-galactosamine : polypeptide n-acetylgalactosaminyl transferase ( galnac-transferase family of enzyme ) .
+24						three distinct human galnac-transferase , galnac-t1 , galnac-t2 , and galnac-t3 , have be characterise .
+25						recently another 3 homologue enzyme , galnac-t4 , galnac-t5 , and galnac-t6 , have be identify .
+26						compare with the expression of galnac-t1 and galnac-t2 , the expression of galnac-t3 be highly tissue specific .
+27						GalNAc-T3 mrna have be detect in organ that contain secretory epithelial gland .
+28						it be hypothesise that the differential expression of galnac-t3 may affect the specialised function of glycoprotein produce by normal and malignant cell , and that it be also associate with biological property of normal and malignant cell .
+29						however , galnac-t3 expression have not be previously examine in human lung cancer , or in human bronchial epithelial cell and alveolar pneumocyte , from which lung cancer develop .
+30						in the present study , galnac-t3 expression be examine by immunohistochemistry in surgically resected nsclc .
+31						we analyse the biological and clinical importance of galnac-t3 expression , especially with regard to its potential as a prognostic factor .
+32						material and method
+33						tumour specimen and survival datum
+34						primary tumour specimen from 215 nsclc be consecutively obtain by surgery from the Hokkaido University Medical Hospital during 1976 and 1994 .
+35						the patient with nsclc consist of 142 man and 73 woman .
+36						the histologic classification of the tumour specimen be base on World Health Organization criterion .
+37						the tumour specimen include 87 squamous cell carcinoma , 110 adenocarcinoma , nine large cell carcinoma , and eight adenosquamous cell carcinoma .
+38						nonsquamous cell carcinoma include adenocarcinoma , large cell carcinoma and adenosquamous cell carcinoma .
+39						there be 119 stage i , 18 stage ii , 70 stage iium , one stage iiib , and seven stage iv tumour .
+40						the postsurgical pathologic tnm stage ( ptnm ) be determine accord to the guideline of the american Joint Committee on Cancer .
+41						of the 119 patient with pstage I tumour resected with curative intent , survival be analyse for the 103 patient who meet the follow criterion : ( 1 ) survive for more than 3 month after surgery ; ( 2 ) do not die of cause other than lung cancer within 5 year after surgery ; and ( 3 ) be follow for more than 3 year after surgery ( for patient who remain alive ) .
+42						sixteen patient do not meet the above criterion ( four die within 3 month after surgery , five die of cause other than lung cancer within 5 year , and seven have no survival record after surgery ) be exclude from the survival analysis .
+43						of the 103 patient for whom survival be analyse , 54 patient have die of cancer , include 27 with squamous cell carcinoma , 22 with adenocarcinoma , three with large cell carcinoma and two with adenosquamous cell carcinoma .
+44						the Karnofsky performance status be 90 % or greater in all these 103 patient .
+45						this study be approve by the Medical Ethical committee of Hokkaido University School of Medicine .
+46						because all patient be code , they could not be individually identify .
+47						construction of the plasmid and preparation of gst fusion protein
+48						the galnact3 cdna be clone into pgem-teasy ( Promega , Madison , WI , USA ) by rt-pcr use the primer 5 ' - atggctcacctaaagcgactag-3 ' and 5 ' - gaaagactccagtcaaaatttcc-3 ' , as describe previously .
+49						the ecori-eco47iius fragment ( amino acid residue 1-178 of the whole 324 amino acid ) be clone into ecori-smaus site in the pgex-6p , and gst fusion protein ( gst-galnact3n ) be purify accord to the manufacturer 's protocol ( Pharmacia , Uppsala , Sweden ) .
+50						western blot analysis of gst fusion protein
+51						both gst and gst-galnact3n be separate on a 12 % sds-page gel and transfer to polyvinylidene difluoride membrane ( Millipore , Bedford , MA , USA ) use semidry blotter .
+52						immunoblot analysis be perform with anti-gst antibody ( Santa Cruz Biotechnology , Santa Cruz , CA , USA ) and anti-galnact3 antibody , which be a rabbit polyclonal antibody against a synthesised peptide of human galnac-t3 and be use for immunohistochemistry .
+53						immunohistochemistry for galnac-t3 expression
+54						GalNAc-T3 expression be analyse by immunohistochemistry .
+55						the label streptavidin biotin method be use on 4-mum section of formalin fix , paraffin embedded tissue after deparaffinisation .
+56						briefly , deparaffinised tissue section be microwave twice in 10mm citrate buffer ( ph6 .0 ) for 5min to retrieve the antigenicity .
+57						the section be incubate with normal rabbit serum to block the non specific antibody binding site .
+58						the section be then incubate with a 1:5000 dilution of rabbit polyclonal antibody against a synthesised peptide of human galnac-t3 or with control rabbit non immunised serum at 4degreesc overnight .
+59						immunostaining be perform by the biotin-streptavidin immunoperoxidase method with 3,3 ' - diaminobenzidine as a chromogen ( sab-po kit ; Nichirei , Tokyo , Japan ) .
+60						section be counterstain with methyl green .
+61						GalNAc-T3 expression in normal bronchial epithelial cell , bronchial gland cell , and alveolar pneumocyte in the same section serve as a internal positive control .
+62						the galnac-t3 expression in tumour be classify as high or low , accord to the proportion of positively stain tumour cell .
+63						Tumours with staining in at least 50 % of cancer cell , be judge as have high galnac-t3 expression ( retain expression of galnac-t3 ) .
+64						Tumours with staining in less than 50 % of cancer cell , be judge as have low galnac-t3 expression ( losing expression of galnac-t3 ) , as we previously describe .
+65						for the ki-67 staining , the result that be previously report be use for the present study .
+66						statistical analysis
+67						the association between galnac-t3 expression and categorical variable be analyse by the chi2 test or Fisher 's exact test as appropriate .
+68						the association between galnac-t3 expression and age or the ki-67 labelling index ( LI ) be analyse by student 's t-test .
+69						to simultaneously examine the effect of more than one factor on galnac-t3 expression , multivariate logistic regression analysis be use .
+70						the survival curve be estimate use the kaplan-meier method , and difference in survival distribution be evaluate by the generalised Wilcoxon test .
+71						cox 's proportional hazard modelling of factor potentially related to survival be perform to identify factor with a significant influence on survival .
+72						p value less than 0.05 be consider statistically significant .
+73						all test be two side .
+74						result
+75						Figure 1
+76						western blotting of gst fusion protein .
+77						gst ( 100ng ) and gst-galnact3n ( 200ng ) protein be load on a 12 % sds-page gel and transfer to membrane .
+78						immunoblot analysis be perform with a anti-galnact3 antibody ( leave ) and anti-gst antibody ( right ) .
+79						IB , immunoblotting .
+80						figure 2
+81						immunoreactivity of a anti-galnac-t3 polyclonal antibody .
+82						immunostaining be perform with this antibody in a nsclc specimen after incubation of this antibody with excess of gst ( a ) or gst-galnact3n ( b ) .
+83						Scale bar = 20mum .
+84						to confirm the availability of a anti-galnac-t3 polyclonal antibody , western blot analysis of a gst fusion protein ( gst-galnact3n ) be perform .
+85						strong signal of the gst fusion protein be obtain in the immunoblotting with anti-galnac-t3 polyclonal antibody as well as in that with anti-gst antibody .
+86						the specificity of this anti-galnac-t3 polyclonal antibody be also test by immunohistochemistry .
+87						after incubation of this antibody with the excess of gst-galnact3n , the positive immunostaining be abolish .
+88						Figure 3
+89						immunohistochemical staining pattern for galnac-t3 .
+90						normal bronchial epithelial cell ( a ) and bronchial gland cell ( b ) show galnac-t3 expression .
+91						GalNAc-T3 expression be find diffusely in the cytoplasm of tumour cell or localised in the golgus apparatus in a adenocarcinoma ( c ) , but not see in a squamous cell carcinoma ( d ) .
+92						Scale bar = 20mum .
+93						typical immunostaining pattern for galnac-t3 with this antibody in nsclc be show in .
+94						in tumour cell , galnac-t3 expression be find diffusely in the cytoplasm , or localised in the golgus apparatus .
+95						normal bronchial epithelial cell , bronchial gland cell , and alveolar pneumocyte ( datum not show ) also express galnac-t3 .
+96						of the 215 nsclc , 122 ( 56.7 % ) have high galnac-t3 expression , and 93 ( 43.3 % ) have low galnac-t3 expression .
+97						the status of galnac-t3 expression be statistically analyse to investigate possible correlation with clinical and clinicopathological characteristic of nsclc .
+98						low expression of galnac-t3 be significantly more prevalent in tumour from man than in those from woman ( p = 0.0001 by the chi2 test ) and in tumour from smoker compare to nonsmoker ( p = 0.001 ) .
+99						low galnac-t3 expression be also more prevalent in squamous cell carcinoma than nonsquamous cell carcinoma ( p < 0.0001 ) .
+100						GalNAc-T3 expression be not associate with ptnm classification and pstage .
+101						multivariate logistic regression analysis show a significant association of low galnac-t3 expression with squamous cell ( p < 0.0001 ) .
+102						this relationship between galnac-t3 expression and histology be the only significant relationship between galnac-t3 expression and various factor within the context of the multivariate model .
+103						Tumours have low galnac-t3 expression show a significantly higher ki-67 li than tumour have high galnac-t3 expression ( p = 0.0003 ) .
+104						Tumours have low galnac-t3 expression also exhibit a high ki-67 li more frequently than tumour have high galnac-t3 expression ( p = 0.0003 ) .
+105						Figure 4
+106						Kaplan-Meier survival curve of patient with pstage i nsclc stratify by galnac-t3 expression .
+107						survival curve of patient with overall nsclc ( a ) and with nonsquamous cell carcinoma ( b ) be stratify by low and high galnac-t3 expression .
+108						nonsquamous cell carcinoma include adenocarcinoma , large cell carcinoma and adenosquamous cell carcinoma .
+109						we analyse the relationship between galnac-t3 expression and postsurgical survival in pstage I nsclc .
+110						when the 103 pstage I nsclc be evaluate together , patient with tumour have low galnac-t3 expression survive a significantly shorter time than patient with tumour have high expression ( 5-year survival rate , 58 % and 78 % , respectively , by the Kaplan-Meier method ; p = 0.02 by the generalised Wilcoxon test ) .
+111						when only patient with 43 squamous cell carcinoma be analyse , galnac-t3 expression do not show a significant effect on survival ( 5-year survival rate , 54 % for low galnac-t3 and 57 % for high galnac-t3 ; p = 0.8 ) .
+112						among 61 nonsquamous cell carcinoma patient , patient with tumour have low galnac-t3 expression survive a significantly shorter time than patient with tumour have high expression ( 5-year survival rate , 63 % and 85 % , respectively ; p = 0.03 ) .
+113						the importance of galnac-t3 as a prognostic factor be analyse by the cox 's proportional hazard model analysis in patient with pstage I nsclc .
+114						univariate analysis of potential prognostic factor reveal that low expression of galnac-t3 be the only statistically significant unfavourable prognostic factor in overall nsclc ( hazard ratio , 2.04 ; p = 0.03 ) and in nonsquamous cell carcinoma ( hazard ratio , 2.70 ; p = 0.03 ) .
+115						GalNAC-T3 expression be not a prognostic factor in squamous cell carcinoma ( hazard ratio , 0.91 ; p = 0.8 ) .
+116						discussion
+117						in the present study , galnac-t3 expression be frequently decrease in nsclc , although it be express in normal bronchial epithelial cell , bronchial gland cell and alveolar pneumocyte .
+118						furthermore , low galnac-t3 expression of nsclc be associate with a shorter survival period , and be a unfavourable prognostic factor .
+119						the finding that galnac-t3 expression be retain more frequently in nonsquamous cell carcinoma ( most of which be adenocarcinoma ) than in squamous cell carcinoma may reflect tissue specific expression of galnac-t3 in organ that contain secretory epithelial gland .
+120						moreover , in nonsquamous cell carcinoma , decrease expression of galnac-t3 be associate with unfavourable prognosis .
+121						consistent with these result , we have recently find that galnac-t3 be express in normal epithelial cell and gland cell of the colon , and that decrease expression of galnac-t3 be a unfavourable prognostic factor in adenocarcinoma of the colon .
+122						the mechanism underlie the relationship between decrease galnac-t3 expression and poor prognosis remain to be determine .
+123						bronchial and alveolar epithelium , from which nsclc develop , normally express galnac-t3 .
+124						decrease galnac-t3 expression may induce decrease level of glycosylation in certain type of glycoprotein , result in altered function of the glycoprotein .
+125						therefore , the biological importance of galnac-t3 expression depend on the function of target substrate glycoprotein .
+126						the importance of galnac-t3 expression for the development and progression of cancer as well as for maintain physiologic property of normal cell also remain to be determine , although certain cancer associate decrease or increase in glycosylation have be show to directly contribute to cellular transformation .
+127						collectively , decrease expression of galnac-t3 may directly contribute to altered biological property of nsclc .
+128						in fact , in this study , low expression of galnac-t3 in nsclc be associate with a higher li of ki-67 cell growth fraction , and result in shorter survival time .
+129						in conclusion , these result indicate that galnac-t3 be a new marker of nsclc with specificity for histology and survival .
+130						GalNAc-T3 expression may be useful to stratify patient with pstage I tumour into group at high and low risk of recurrence in nsclc , especially in nonsquamous cell carcinoma .
