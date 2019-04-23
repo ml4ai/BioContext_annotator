@@ -103,8 +103,8 @@ class TelnetParser:
         yield from self.command_motd()
 
         # Keep reading and processing client_input/raw_output
-        communication_tasks = [asyncio.async(self._read_client_input()),
-                               asyncio.async(self._read_server_output())]
+        communication_tasks = [asyncio.ensure_future(self._read_client_input()),
+                               asyncio.ensure_future(self._read_server_output())]
         try:
             yield from asyncio.wait(communication_tasks,
                                     return_when=FIRST_COMPLETED)
@@ -153,9 +153,9 @@ class TelnetParser:
         task = None
         try:
             while True:
-                task = asyncio.async(self.raw_output.get())
+                task = asyncio.ensure_future(self.raw_output.get())
                 msg = yield from task
-                task = asyncio.async(self.parse_server_output(msg))
+                task = asyncio.ensure_future(self.parse_server_output(msg))
                 yield from task
 
         except CancelledError:

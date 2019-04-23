@@ -73,7 +73,7 @@ class TelnetServer(ServerInterface):
 
     @asyncio.coroutine
     def _new_client_handler(self, reader, writer):
-        handler = asyncio.async(self._new_client_worker(reader, writer))
+        handler = asyncio.ensure_future(self._new_client_worker(reader, writer))
         self.handler_list.append(handler)
         yield from asyncio.wait([handler])
 
@@ -144,9 +144,9 @@ class TelnetClient(ClientInterface):
     def communicate_until_closed(self):
         logger.info("[{}] New telnet client.".format(self.remote_ip))
 
-        communication_tasks = [asyncio.async(self._receive_to_queue()),
-                               asyncio.async(self.parser.run_parser()),
-                               asyncio.async(self._send_from_queue()),
+        communication_tasks = [asyncio.ensure_future(self._receive_to_queue()),
+                               asyncio.ensure_future(self.parser.run_parser()),
+                               asyncio.ensure_future(self._send_from_queue()),
                                self.kill_switch]
         done, pending = yield from asyncio.wait(communication_tasks,
                                                 return_when=FIRST_COMPLETED)

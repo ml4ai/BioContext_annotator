@@ -217,8 +217,8 @@ class PostgresProvider(DataProvider):
                 .filter(Event.paper == paper_model)
 
             # If we are in annotation pass 1, we will not send Reach events.
-            if paper_model.annotation_pass == 1:
-                events = events.filter(Event.type != "reach")
+            # if paper_model.annotation_pass == 1:
+            #     events = events.filter(Event.type != "reach")
 
             events = events.order_by(Event.line_num) \
                          .order_by(Event.interval_start)[:]

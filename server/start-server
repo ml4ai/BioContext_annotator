@@ -7,9 +7,9 @@
 # Screen session name
 screen_name="context-devel"
 # Server settings
-postgres="context@127.0.0.1:5432/context_devel"
-ws_arg="-ws"
-ws_port="8090"
+postgres="context@127.0.0.1:5432/context"
+ws_arg="-w"
+ws_port="8085"
 
 # Test for console option, in which case we don't create a screen
 console=0
@@ -31,7 +31,7 @@ if [[ -z "$STY" && $console = 0 ]]; then
   fi
 
   echo "Starting server in detached screen with session name: $screen_name"
-  exec screen -dmS "$screen_name" /bin/bash "$0" -postgres "$postgres" -ws "$ws_port"
+  exec screen -dmS "$screen_name" /bin/bash "$0" -postgres "$postgres" "$ws_arg" "$ws_port"
 fi
 
 # LD_LIBRARY_PATH needs to be set before python is started.

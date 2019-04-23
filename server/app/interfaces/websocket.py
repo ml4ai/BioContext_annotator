@@ -94,7 +94,7 @@ class WebsocketServer(ServerInterface):
         `path` is passed as a second argument by the websockets module, but we
         don't use it here.
         """
-        handler = asyncio.async(self._new_client_worker(websocket))
+        handler = asyncio.ensure_future(self._new_client_worker(websocket))
         self.handler_list.append(handler)
         yield from asyncio.wait_for(handler, None)
 
@@ -149,8 +149,8 @@ class WebsocketClient(ClientInterface):
         # Bring up the communication coroutines and wait for them.
         # They all run infinite loops, so if any one of them completes, it
         # means the client is no longer active.
-        communication_tasks = [asyncio.async(self._receive_to_queue()),
-                               asyncio.async(self._send_from_queue())]
+        communication_tasks = [asyncio.ensure_future(self._receive_to_queue()),
+                               asyncio.ensure_future(self._send_from_queue())]
         done, pending = yield from asyncio.wait(communication_tasks,
                                                 return_when=FIRST_COMPLETED)
 

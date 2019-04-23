@@ -235,9 +235,7 @@ class Act:  # Hurr hurr
         for client in unwatched_clients:
             # Hello
             watched_clients.append(client)
-            watched_client_futures.append(
-                asyncio.async(self._watch_client(client))
-            )
+            watched_client_futures.append(asyncio.ensure_future(self._watch_client(client)))
 
         self.client_watch = [(watched_clients[x], watched_client_futures[x])
                              for x in range(len(watched_clients))]
