@@ -1,0 +1,7 @@
+0 2%3%Keratinocyte_Signaling%tissuelist:TS-0500
+1 20%21%keratinocytes_to%cl:CL:0000312
+2 2%4%human_keratinocytes_were%cellosaurus:CVCL_9T09
+3 10%11%keratinocyte_behavior%tissuelist:TS-0500
+4 0%1%Keratinocytes_responded%cl:CL:0000312
+5 3%4%keratinocytes_treated%cl:CL:0000312
+6 0%1%Keratinocytes_also%cl:CL:0000312

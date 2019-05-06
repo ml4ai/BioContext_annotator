@@ -1,0 +1,8 @@
+Regulation of Keratinocyte Signaling and Function via Changes in Epidermal Growth Factor Presentation .
+Motivated by the need for bioactive materials that can accelerate dermal wound healing , this work describes the response of keratinocytes to covalently immobilized epidermal growth factor ( EGF ) and how differences in the physical presentation of this growth factor impact cell function .
+Specifically , human keratinocytes were cultured with EGF delivered in soluble form , immobilized in a homogeneous pattern , or immobilized in a gradient pattern , followed by analysis of cellular signaling , proliferation , and migration .
+By changing the manner in which EGF was presented , keratinocyte behavior was dramatically altered .
+Keratinocytes responded to immobilized EGF patterns with high EGF receptor ( EGFR ) but low ERK 1/2 and Akt phosphorylation , accompanied by low proliferation , high migratory activity , and coordinated cell alignment .
+In contrast , keratinocytes treated with soluble EGF experienced lower EGFR but higher ERK 1/2 and Akt phosphorylation , and displayed a highly proliferative , rather than migratory , phenotype .
+Keratinocytes also responded to differences in immobilized EGF patterns , as migration was fastest upon immobilized gradients of EGF .
+Better understanding the interaction of cells with soluble vs. immobilized growth factors can help elucidate native healing events and achieve greater control over cell function , which may be useful in the development of wound repair treatments for many types of tissues .

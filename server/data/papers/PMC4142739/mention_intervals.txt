@@ -1,0 +1,85 @@
+0 6%7%Human_Skin%taxonomy:9606 7%9%Skin_Fibroblasts%cl:CL:0002620
+1 0%1%Fibroblasts_colonization%tissuelist:TS-0362 9%10%WH_)%cellosaurus:CVCL_0C39 14%15%skin_remodelling%tissuelist:TS-0934 27%28%fibroblasts_are%tissuelist:TS-0362
+2 13%14%fibroblasts%tissuelist:TS-0362
+5 23%24%fibroblasts_.%tissuelist:TS-0362
+7 25%26%fibroblasts%tissuelist:TS-0362
+8 12%13%skin_cells%tissuelist:TS-0934 16%17%WH%cellosaurus:CVCL_0C39
+9 6%7%nerve_fibers%tissuelist:TS-0672 9%10%skin_cells%tissuelist:TS-0934 32%33%WH_.%cellosaurus:CVCL_0C39
+12 5%6%skin_cells%tissuelist:TS-0934 12%13%nerves_into%uberon:UBERON:0001021 15%16%skin%tissuelist:TS-0934
+13 12%13%skin_by%tissuelist:TS-0934
+14 13%14%skin_inflammation%tissuelist:TS-0934
+15 9%10%skin_was%tissuelist:TS-0934
+16 13%14%skin_disorders%tissuelist:TS-0934
+17 10%11%skin_disorders%tissuelist:TS-0934 22%24%mast_cells_increase%cl:CL:0000097
+18 13%15%mast_cells_in%cl:CL:0000097 17%18%skin_pathogenesis%tissuelist:TS-0934 37%39%mast_cell_degranulation%tissuelist:TS-0603
+19 2%3%skin_vascular%tissuelist:TS-0934 14%16%mast_cells_has%cl:CL:0000097
+20 3%4%human_mast%taxonomy:9606 4%6%mast_cells_are%cl:CL:0000097
+21 1%3%mast_cells%cl:CL:0000097 15%16%lymphocytes%cl:CL:0000542 23%25%T-cell_lymphoma_tumor%tissuelist:TS-1000
+22 14%15%skin_dendritic%tissuelist:TS-0934 15%17%dendritic_cell_line%tissuelist:TS-0194
+23 1%3%dendritic_cells_expressed%cl:CL:0000451
+24 14%15%fibroblasts_.%tissuelist:TS-0362
+25 14%15%skin_of%tissuelist:TS-0934 18%19%human_foreskin%taxonomy:9606 19%21%foreskin_fibroblasts_.%cl:CL:1001608
+26 0%1%Fibroblasts_are%tissuelist:TS-0362 22%23%tissue_.%uberon:UBERON:0000479
+27 1%2%fibroblasts_play%tissuelist:TS-0362 7%9%extracellular_matrix_(%go:GO:0031012
+28 9%10%skin%tissuelist:TS-0934
+29 21%22%skin_from%tissuelist:TS-0934
+30 1%2%fibroblasts_from%tissuelist:TS-0362 4%5%foreskin_ensures%tissuelist:TS-0383 12%13%skin_area%tissuelist:TS-0934 22%23%nerves_with%uberon:UBERON:0001021
+31 19%21%foreskin_fibroblasts%cl:CL:1001608 41%42%skin_wound%tissuelist:TS-0934 56%57%skin_pathologies%tissuelist:TS-0934
+36 11%12%B6_)%cellosaurus:CVCL_L814
+38 3%4%BCA_)%uberon:UBERON:2005000
+39 6%7%membranes%go:GO:0016020
+47 3%4%BJ_Cell%atcc:CRL-2522
+48 1%2%BJ_cell%atcc:CRL-2522 19%20%Life_Sciences%uberon:UBERON:0000104 23%24%Center_for%cellosaurus:CVCL_E031
+49 6%7%skin_taken%tissuelist:TS-0934 11%12%human_foreskin%taxonomy:9606 12%14%foreskin_fibroblasts_.%cl:CL:1001608
+50 1%2%BJ_cell%atcc:CRL-2522
+51 0%1%BJ_cells%atcc:CRL-2522 24%25%calf_serum%taxonomy:9913 25%26%serum%tissuelist:TS-0923
+52 0%2%BJ_fibroblasts_have%cl:CL:1001608
+56 6%8%cm_2_flask%cellosaurus:CVCL_C716
+59 9%10%membrane%go:GO:0016020
+60 6%7%membrane_exposure%go:GO:0016020
+61 0%1%Membranes_were%go:GO:0016020
+73 7%8%min_.%cellosaurus:CVCL_E777
+80 20%21%BJ_cell%atcc:CRL-2522
+83 15%16%lamella_on%uberon:UBERON:0004529
+84 16%17%min%cellosaurus:CVCL_E777 34%35%min_.%cellosaurus:CVCL_E777
+85 10%11%min%cellosaurus:CVCL_E777
+86 34%35%min_at%cellosaurus:CVCL_E777
+87 11%12%min_with%cellosaurus:CVCL_E777
+92 9%10%test_followed%uberon:UBERON:0006611
+97 7%9%Skin_Fibroblasts_.%cl:CL:0002620
+98 0%1%BJ_cells%atcc:CRL-2522
+100 0%1%BJ_cells%atcc:CRL-2522
+102 0%1%Brain_homogenates%tissuelist:TS-0095 5%6%cortex_of%tissuelist:TS-0091 7%8%mice_were%taxonomy:10090
+104 3%4%BJ_cells%atcc:CRL-2522
+106 18%20%cell_membrane%uniprot:SL-0039 23%24%cytoplasm%go:GO:0005737 27%28%nucleus%go:GO:0005634 36%37%nucleus_(%go:GO:0005634
+108 5%6%Fibroblasts_by%tissuelist:TS-0362
+110 1%2%BJ_cells%atcc:CRL-2522
+111 106%107%fibroblasts_as%tissuelist:TS-0362 108%109%skin_immunomodulators%tissuelist:TS-0934
+113 5%6%Fibroblast_by%tissuelist:TS-0362
+114 13%14%BJ_cells%atcc:CRL-2522
+116 8%9%skin%tissuelist:TS-0934 12%14%skin_fibroblasts%cl:CL:0002620
+120 0%1%BJ_cells%atcc:CRL-2522
+127 17%18%BJ_cells%atcc:CRL-2522
+128 10%11%BJ_cells%atcc:CRL-2522
+132 0%1%BJ_cells%atcc:CRL-2522 13%15%cell_membrane%uniprot:SL-0039 16%17%cytoplasm%go:GO:0005737 19%20%nucleus_while%go:GO:0005634 27%28%nucleus_.%go:GO:0005634
+133 7%8%nucleus%go:GO:0005634
+134 7%8%BJ_cells%atcc:CRL-2522 31%32%skin_cells%tissuelist:TS-0934 36%37%keratinocytes_.%cl:CL:0000312
+135 22%24%cell_membrane%uniprot:SL-0039
+136 32%34%dendritic_cell_line%tissuelist:TS-0194
+137 19%20%rat_macrophages%taxonomy:10116 20%21%macrophages_for%cl:CL:0000235 30%31%HUVECs_for%uaz:CVCL_9S75
+140 7%8%BJ_cells%atcc:CRL-2522
+141 8%9%BJ_cells%atcc:CRL-2522 17%18%BJ_cells%atcc:CRL-2522
+143 9%11%immune_cell_recruitment%cl:CL:0000738
+144 3%4%neutrophil_activating%tissuelist:TS-0688 27%28%eosinophil_chemoattractant%tissuelist:TS-0279 32%33%basophils%cl:CL:0000767 35%36%lymphocytes%cl:CL:0000542 39%41%mast_cells_[%cl:CL:0000097
+145 1%2%fibroblasts_orchestrate%tissuelist:TS-0362 15%16%neutrophils_while%cl:CL:0000775 24%25%leukocyte_recruitment%tissuelist:TS-0549
+148 9%10%eosinophil_degranulation%tissuelist:TS-0279 19%20%basophils_[%cl:CL:0000767 35%36%lymphocytes%cl:CL:0000542 48%50%Th2_cells_[%cl:CL:0000546
+149 11%12%fibroblasts_could%tissuelist:TS-0362
+150 30%32%dendritic_cells_[%cl:CL:0000451
+151 11%12%fibroblasts_by%tissuelist:TS-0362
+152 9%10%BJ_cells%atcc:CRL-2522 17%18%keratinocytes%cl:CL:0000312
+155 23%24%BJ_cells%atcc:CRL-2522
+156 13%14%fibroblasts%tissuelist:TS-0362
+157 21%22%fibroblasts_to%tissuelist:TS-0362 36%37%skin_repair%tissuelist:TS-0934
+158 6%7%fibroblasts%tissuelist:TS-0362 8%9%keratinocytes_will%cl:CL:0000312
+160 16%17%skin_diseases%tissuelist:TS-0934
+161 11%12%fibroblasts_in%tissuelist:TS-0362

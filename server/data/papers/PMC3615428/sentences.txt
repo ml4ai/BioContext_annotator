@@ -1,0 +1,10 @@
+Glioma Stem Cell Maintenance : The Role of the Microenvironment .
+Glioblastomas are highly lethal cancers for which conventional therapies provide only palliation .
+The cellular heterogeneity of glioblastomas is manifest in genetic and epigenetic variation with both stochastic and hierarchical models informing cellular phenotypes .
+At the apex of the hierarchy is a self renewing , tumorigenic , cancer stem cell ( CSC ) .
+The significance of CSCs is underscored by their resistance to cytotoxic therapies , invasive potential , and promotion of angiogenesis .
+Thus , targeting CSCs may offer therapeutic benefit and sensitize tumors to conventional treatment , demanding elucidation of CSC regulation .
+Attention has been paid to intrinsic cellular systems in CSCs , but recognition of extrinsic factors is evolving .
+Glioma stem cells ( GSCs ) are enriched in functional niches--prominently the perivascular space and hypoxic regions .
+These niches provide instructive cues to maintain GSCs and induce cellular plasticity towards a stem like phenotype .
+GSC maintaining niches may therefore offer novel therapeutic targets but also signal additional complexity with perhaps different pools of GSCs governed by different molecular mechanisms that must be targeted for tumor control .

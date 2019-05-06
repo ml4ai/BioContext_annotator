@@ -1,0 +1,10 @@
+Dose dependent effect of EGF on migration and differentiation of adult subventricular zone astrocytes .
+Adult neural stem cells ( NSCs ) are located in the subventricular zone ( SVZ ) , a specialized brain niche located on the walls of the lateral ventricle .
+Under physiological conditions , NSCs generate a large number of young neurons and some oligodendrocytes , however the mechanisms controlling cell proliferation and migration are unclear .
+In vitro , epidermal growth factor ( EGF ) signaling has been shown to be an important mediator of cell proliferation and migration in the adult brain ; however , the primary SVZ progenitors that respond to EGF are not well known .
+In this study , we isolated SVZ type-B astrocytes and cultured them under different EGF concentrations .
+We found a dose dependent effect of EGF on proliferation rates and migration of SVZ type-B astrocytes .
+We found that GFAP+ type-B astrocytes gave rise to highly migratory and proliferating cells that expressed Olig2 and NG2 .
+After EGF withdrawal , a significant number of EGF stimulated cells differentiated into S100beta+ / O4+ oligodendrocytes .
+This study provides new insights about the production of oligodendrocytes derived from the astrocyte NSCs residing in the adult SVZ .
+To be able to manipulate the endogenous adult progenitors , it is crucial to identify and isolate the responding primary precursors and determine the extracellular signals that regulate their cell division , migration and fate .

@@ -1,0 +1,109 @@
+0 6%7%Human_Embryonic%taxonomy:9606 7%10%Embryonic_Stem_Cells_Correct%cl:CL:0002322 16%17%Mice%taxonomy:10090 19%20%Animal_Model%uberon:UBERON:0000468
+2 0%1%Human_pancreatic%taxonomy:9606 1%3%pancreatic_islet_transplantation%tissuelist:TS-0741
+4 16%17%human_embryonic%taxonomy:9606 17%20%embryonic_stem_cells_(%cl:CL:0002322
+5 9%10%IPCs_)%cl:CL:0000784 28%29%mice%taxonomy:10090 31%32%animal_model%uberon:UBERON:0000468
+7 3%4%IPCs_from%cl:CL:0000784 9%10%YT1%cellosaurus:CVCL_T024 11%12%YT2%cellosaurus:CVCL_T025
+8 11%14%epididymal_fat_pad_of%uberon:UBERON:0010412 18%19%mice_(%taxonomy:10090
+10 11%12%serum_human%tissuelist:TS-0923 12%13%human_C-peptide%taxonomy:9606 15%16%blood_glucose%tissuelist:TS-0079
+12 2%3%IPCs_were%cl:CL:0000784
+14 13%14%human_islets%taxonomy:9606
+15 3%4%IPCs_co-expressed%cl:CL:0000784 12%13%human_C-peptide%taxonomy:9606
+16 4%7%epididymal_fat_pad_of%uberon:UBERON:0010412 11%12%mice%taxonomy:10090 17%18%IPCs_corrected%cl:CL:0000784
+17 7%8%IPCs_developed%cl:CL:0000784
+18 9%10%IPCs_as%cl:CL:0000784
+20 7%8%human_terminally%taxonomy:9606 11%12%IPCs_derived%cl:CL:0000784 22%23%mice_for%taxonomy:10090
+22 13%14%human_insulin%taxonomy:9606 14%17%insulin_secreting_cells_that%cl:CL:0000169
+24 7%8%organ_donors%uberon:UBERON:0000062
+25 13%14%IPCs_from%cl:CL:0000784 15%17%stem_cells_with%cl:CL:0000034
+26 17%18%IPCs_XREF_BIBR%cl:CL:0000784
+28 19%21%stem_cell_based%cl:CL:0000034
+29 12%13%pancreas_in%tissuelist:TS-0736
+30 15%17%endocrine_cells_that%cl:CL:0000163
+31 13%14%IPCs_that%cl:CL:0000784
+32 18%19%IPCs%cl:CL:0000784 28%29%mice_to%taxonomy:10090 41%42%serum_human%tissuelist:TS-0923 42%43%human_C-peptide%taxonomy:9606 46%47%blood_glucose%tissuelist:TS-0079
+33 18%19%mice_against%taxonomy:10090
+37 3%4%YT1%cellosaurus:CVCL_T024 5%6%YT2_XREF_BIBR%cellosaurus:CVCL_T025
+38 19%20%serum_replacement%tissuelist:TS-0923 36%37%mouse_embryonic%taxonomy:10090 37%39%embryonic_fibroblast_feeders%tissuelist:TS-0239
+40 8%9%BD_Biosciences%cellosaurus:CVCL_F568
+41 11%12%serum_(%tissuelist:TS-0923
+48 11%12%min%cellosaurus:CVCL_E777 16%17%min_in%cellosaurus:CVCL_E777 34%35%serum_.%tissuelist:TS-0923
+49 23%24%donkey_anti-rabbit%taxonomy:9793 29%30%donkey_anti-guinea%taxonomy:9793 31%32%pig_IgG%taxonomy:9823 37%38%donkey_anti-rabbit%taxonomy:9793 51%52%min_at%cellosaurus:CVCL_E777
+50 7%8%rabbit_anti-PDX1%taxonomy:9986 19%21%guinea_pig_anti-insulin%taxonomy:10141 33%34%mouse_anti-C-peptide%taxonomy:10090
+53 4%5%mice_were%taxonomy:10090
+58 11%13%guinea_pig_IgG%taxonomy:10141 22%23%mouse_IgG%taxonomy:10090 34%35%donkey_anti-rabbit%taxonomy:9793 40%41%donkey_anti-guinea%taxonomy:9793 42%43%pig_IgG%taxonomy:9823 48%49%donkey_anti-rabbit%taxonomy:9793
+63 24%25%min%cellosaurus:CVCL_E777 49%50%extension_at%uberon:UBERON:2000106 59%60%extension_step%uberon:UBERON:2000106 65%66%min_.%cellosaurus:CVCL_E777
+65 25%26%kb_DNA%cellosaurus:CVCL_0372
+69 3%4%human_insulin%taxonomy:9606
+72 9%10%min%cellosaurus:CVCL_E777 30%31%min_at%cellosaurus:CVCL_E777
+74 8%9%BCA_Protein%uberon:UBERON:2005000 16%17%Fisher_Scientific%taxonomy:76720
+75 3%4%mice_.%taxonomy:10090
+76 4%5%mice_aged%taxonomy:10090
+77 1%2%mice_were%taxonomy:10090 10%11%animal_facility%uberon:UBERON:0000468
+81 22%23%mice_every%taxonomy:10090
+82 9%10%blood_glucose%tissuelist:TS-0079 15%17%tail_vein_blood%uberon:UBERON:0003481 17%18%blood_with%tissuelist:TS-0079
+83 2%3%blood_glucose%tissuelist:TS-0079 5%6%mice_was%taxonomy:10090
+84 10%11%mice_exhibited%taxonomy:10090 16%17%blood_glucose%tissuelist:TS-0079
+85 8%9%blood_glucose%tissuelist:TS-0079 16%17%mice_.%taxonomy:10090
+86 2%3%blood_glucose%tissuelist:TS-0079
+87 2%3%mice_were%taxonomy:10090
+88 4%5%mice_were%taxonomy:10090
+89 0%1%Mice_were%taxonomy:10090 7%8%blood_glucose%tissuelist:TS-0079
+93 4%5%mice_were%taxonomy:10090
+94 9%10%pads_of%uberon:UBERON:2001977 15%16%mice_as%taxonomy:10090
+95 4%5%mice_were%taxonomy:10090 10%11%IPCs%cl:CL:0000784 14%15%mice_were%taxonomy:10090
+96 0%1%Mice_were%taxonomy:10090
+97 1%2%mouse_received%taxonomy:10090
+100 3%4%pads_were%uberon:UBERON:2001977
+101 8%9%mice_were%taxonomy:10090 20%21%mice_were%taxonomy:10090
+102 3%4%serum_.%tissuelist:TS-0923
+103 5%6%serum_measurements%tissuelist:TS-0923 8%9%human_C-peptide%taxonomy:9606
+107 16%19%epididymal_fat_pad_of%uberon:UBERON:0010412 24%25%mice_.%taxonomy:10090
+109 0%1%Mice_were%taxonomy:10090 14%17%epididymal_fat_pad_in%uberon:UBERON:0010412 23%24%mouse_.%taxonomy:10090
+110 1%2%mice_were%taxonomy:10090 9%10%Animal_Health%uberon:UBERON:0000468
+111 11%14%epididymal_fat_pad%uberon:UBERON:0010412
+117 6%7%test_were%uberon:UBERON:0006611 16%17%mice_.%taxonomy:10090
+124 9%11%endodermal_cells_.%cl:CL:0000223
+125 8%10%endodermal_cells%cl:CL:0000223
+134 5%6%human_C-peptide%taxonomy:9606
+139 11%12%stage_1%uberon:UBERON:0000105
+141 4%5%stage_4%uberon:UBERON:0000105 29%30%min_at%cellosaurus:CVCL_E777
+143 8%9%pads_of%uberon:UBERON:2001977 11%12%mice_.%taxonomy:10090
+144 15%16%stage_4%uberon:UBERON:0000105 23%26%epididymal_fat_pad_in%uberon:UBERON:0010412 28%29%mice_(%taxonomy:10090
+145 5%6%blood_glucose%tissuelist:TS-0079
+146 6%7%blood_glucose%tissuelist:TS-0079
+147 1%2%blood_glucose%tissuelist:TS-0079
+148 7%8%human_serum%taxonomy:9606 8%9%serum_C-peptide%tissuelist:TS-0923
+149 2%3%mice_transplanted%taxonomy:10090 7%8%IPCs%cl:CL:0000784
+150 3%4%mice_were%taxonomy:10090
+151 5%6%mice_transplanted%taxonomy:10090 12%13%mice_were%taxonomy:10090
+152 4%5%IPCs_group%cl:CL:0000784 19%20%mice_survived%taxonomy:10090
+153 10%11%test_indicates%uberon:UBERON:0006611 25%26%mice_.%taxonomy:10090
+154 6%7%IPCs_group%cl:CL:0000784
+155 4%5%IPCs_group%cl:CL:0000784
+157 15%16%ESCs_.%cl:CL:0002322
+159 20%21%pads_of%uberon:UBERON:2001977 26%27%mice_.%taxonomy:10090
+160 21%24%epididymal_fat_pad_in%uberon:UBERON:0010412 26%27%mouse_.%taxonomy:10090
+167 12%14%endocrine_cells_is%cl:CL:0000163 23%25%endodermal_cells%cl:CL:0000223 26%28%primitive_gut_tube%uberon:UBERON:0007026 32%33%foregut_cells%uberon:UBERON:0001041 36%38%endodermal_cells%cl:CL:0000223 40%42%precursor_cells%cl:CL:0011115 45%48%insulin_secreting_cells_.%cl:CL:0000169
+168 17%18%human_islet%taxonomy:9606 33%35%fetal_pancreas_.%tissuelist:TS-0348
+172 16%18%endocrine_cells_.%cl:CL:0000163
+175 6%7%pads_of%uberon:UBERON:2001977 11%12%mice%taxonomy:10090
+176 8%10%pancreatic_islet_cells%tissuelist:TS-0741 15%16%mice%taxonomy:10090
+179 11%13%endodermal_cells_into%cl:CL:0000223 17%18%mice_gave%taxonomy:10090 23%26%insulin_secreting_cells%cl:CL:0000169
+182 6%7%blood_glucose%tissuelist:TS-0079 14%15%mice_that%taxonomy:10090
+183 9%10%mice_for%taxonomy:10090 28%30%pancreatic_islet_cells%tissuelist:TS-0741
+184 13%14%pancreas_cannot%tissuelist:TS-0736
+185 11%12%fibroblasts%tissuelist:TS-0362 13%15%epithelial_cells%cl:CL:0000066
+186 16%17%mice_XREF_BIBR%taxonomy:10090
+187 15%17%bone_marrow_derived%tissuelist:TS-0087 18%21%mesenchymal_stem_cells_XREF_BIBR%cl:CL:0000134 25%27%stem_cells_XREF_BIBR%cl:CL:0000034
+192 3%5%stem_cell_transplantation%cl:CL:0000034
+194 7%8%IPCs_in%cl:CL:0000784 11%13%stem_cell_derived%cl:CL:0000034
+195 0%1%ESCs_have%cl:CL:0002322
+198 19%20%mice_was%taxonomy:10090 47%48%ESCs%cl:CL:0002322
+199 0%2%Stem_cells_(%cl:CL:0000034
+200 15%16%mice_XREF_BIBR%taxonomy:10090
+201 1%3%stem_cells_have%cl:CL:0000034
+202 3%4%ESC_derived%cl:CL:0002322 10%13%mesenchymal_stem_cells_have%cl:CL:0000134 26%27%mice_XREF_BIBR%taxonomy:10090
+203 1%2%blood_stem%tissuelist:TS-0079 2%4%stem_cells_(%cl:CL:0000034
+205 18%19%ESCs_to%cl:CL:0002322 30%31%ESCs_can%cl:CL:0002322
+206 18%19%IPCs_comparable%cl:CL:0000784
+207 19%20%ESCs_can%cl:CL:0002322 28%30%stem_cell_transplantation%cl:CL:0000034

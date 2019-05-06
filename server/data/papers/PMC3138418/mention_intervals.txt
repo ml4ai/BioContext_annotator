@@ -1,0 +1,6 @@
+0 11%13%human_keratinocytes%cellosaurus:CVCL_9T09 14%15%fibroblasts_.%tissuelist:TS-0362
+1 7%8%skin_development%tissuelist:TS-0934 24%25%keratinocytes%cl:CL:0000312 26%27%fibroblasts_remain%tissuelist:TS-0362
+2 18%19%human_primary%taxonomy:9606 21%22%keratinocytes%cl:CL:0000312 24%25%fibroblasts_.%tissuelist:TS-0362
+4 18%19%keratinocytes%cl:CL:0000312 20%21%fibroblasts%tissuelist:TS-0362
+5 12%14%extracellular_matrix_remodelling%go:GO:0031012 26%27%keratinocytes%cl:CL:0000312 28%29%fibroblasts_is%tissuelist:TS-0362
+6 26%27%skin%tissuelist:TS-0934 38%39%skin_homeostasis%tissuelist:TS-0934

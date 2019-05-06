@@ -1,0 +1,105 @@
+0 13%14%Mouse_Mammary%taxonomy:10090 14%16%Mammary_Gland_.%tissuelist:TS-0595
+1 27%28%mouse_mammary%taxonomy:10090 28%30%mammary_gland_.%tissuelist:TS-0595
+2 2%3%mice%taxonomy:10090
+3 3%4%mice_in%taxonomy:10090 14%15%mice_)%taxonomy:10090 34%35%mice_in%taxonomy:10090 45%46%mice_)%taxonomy:10090 73%74%mice_:%taxonomy:10090 78%79%mice_with%taxonomy:10090 89%91%mammary_gland_development%tissuelist:TS-0595
+4 0%2%Mammary_gland_development%tissuelist:TS-0595 5%6%mice_treated%taxonomy:10090 17%18%mice_receiving%taxonomy:10090 45%46%mice_or%taxonomy:10090 48%49%mice_.%taxonomy:10090
+5 27%28%mice%taxonomy:10090 30%31%mice%taxonomy:10090 42%43%mice_.%taxonomy:10090
+6 18%19%mice_versus%taxonomy:10090 24%25%mice_;%taxonomy:10090 34%35%mice_included%taxonomy:10090
+7 16%17%mouse_mammary%taxonomy:10090 17%19%mammary_gland%tissuelist:TS-0595 34%35%organ_.%uberon:UBERON:0000062
+10 30%31%breast%tissuelist:TS-0595 32%33%uterus%tissuelist:TS-1102
+13 10%11%chromosomes_XREF_BIBR%go:GO:0005694
+16 13%14%organ_specific%uberon:UBERON:0000062
+17 3%4%breast%tissuelist:TS-0595
+18 8%9%breast%tissuelist:TS-0595 26%27%breast_cancers%tissuelist:TS-0595 31%32%breast_cancers%tissuelist:TS-0595
+19 10%11%breast%tissuelist:TS-0595
+20 32%34%breast_cancer%tissuelist:TS-0591 43%45%breast_cancer_prevention%tissuelist:TS-0591
+21 19%21%mammary_gland_XREF_BIBR%tissuelist:TS-0595
+22 6%8%mammary_gland_differentiation%tissuelist:TS-0595 11%12%mice%taxonomy:10090 21%22%buds_XREF_BIBR%uniprot:SL-0027
+24 5%6%human_breast%taxonomy:9606 6%8%breast_cancer_cell%tissuelist:TS-0591 11%12%SK-BR-3%cellosaurus:CVCL_0033 13%14%BT20_)%cellosaurus:CVCL_0178 37%39%breast_cancer_cells%tissuelist:TS-0591
+25 2%3%uterus%tissuelist:TS-1102
+27 11%13%breast_cancer_have%tissuelist:TS-0591 31%32%mice_have%taxonomy:10090
+28 19%20%duct_is%uberon:UBERON:0000025 23%24%mice%taxonomy:10090 35%36%mice_were%taxonomy:10090 42%43%mice_XREF_BIBR%taxonomy:10090
+29 3%4%mice_where%taxonomy:10090
+30 5%6%mice_have%taxonomy:10090
+31 8%9%mice%taxonomy:10090 12%13%mice_may%taxonomy:10090 32%34%mammary_gland_XREF_BIBR%tissuelist:TS-0595
+33 6%7%Mice_.%taxonomy:10090
+34 5%6%mice_were%taxonomy:10090
+35 13%14%BL6_mice%cellosaurus:CVCL_M564 14%15%mice_were%taxonomy:10090
+36 1%2%mice_were%taxonomy:10090
+38 14%15%Animal_Care%uberon:UBERON:0000468
+39 0%2%Mammary_Gland_Organ%tissuelist:TS-0595 2%3%Organ_Culture%uberon:UBERON:0000062
+40 22%23%mouse_mammary%taxonomy:10090 23%25%mammary_gland%tissuelist:TS-0595
+41 4%5%mice_(%taxonomy:10090
+42 6%7%silk_rafts%uberon:UBERON:0012245 10%11%organ_culture%uberon:UBERON:0000062
+43 8%10%mammary_gland_differentiation%tissuelist:TS-0595 13%14%mice_.%taxonomy:10090
+44 2%3%mice%taxonomy:10090 23%25%mammary_gland_responsiveness%tissuelist:TS-0595 29%30%organ_culture%uberon:UBERON:0000062
+45 5%6%mice_are%taxonomy:10090 39%41%fat_pad_.%uberon:UBERON:0001014
+46 3%4%mice_were%taxonomy:10090 42%43%buds_)%uniprot:SL-0027
+47 7%9%mammary_gland_morphology%tissuelist:TS-0595
+54 5%6%tissue_sections%uberon:UBERON:0000479
+55 6%7%tissue_sections%uberon:UBERON:0000479 15%16%min_.%cellosaurus:CVCL_E777
+57 0%1%Tissue_sections%uberon:UBERON:0000479
+58 8%9%St_Louis%cellosaurus:CVCL_7025
+61 6%7%mice_per%taxonomy:10090 27%28%Mouse_Whole%taxonomy:10090
+62 12%13%mice_;%taxonomy:10090 18%19%mice_were%taxonomy:10090
+63 8%9%gland_using%tissuelist:TS-1305 17%18%Life_Technologies%uberon:UBERON:0000104
+64 8%9%gland_were%tissuelist:TS-1305 22%23%mouse_in%taxonomy:10090
+65 31%32%min_.%cellosaurus:CVCL_E777
+82 0%2%Mammary_gland_development%tissuelist:TS-0595
+83 5%7%mammary_gland_development%tissuelist:TS-0595 11%12%mice_is%taxonomy:10090 17%19%mammary_gland_development%tissuelist:TS-0595 23%24%mice_or%taxonomy:10090 27%28%mice_XREF_BIBR%taxonomy:10090
+84 8%10%mammary_gland_development%tissuelist:TS-0595 13%14%mice%taxonomy:10090 16%17%mice%taxonomy:10090 19%20%mice%taxonomy:10090 23%24%mice_were%taxonomy:10090
+85 17%18%organ_culture%uberon:UBERON:0000062 26%27%alveoli_in%tissuelist:TS-0031 32%33%BL6_mice%cellosaurus:CVCL_M564 33%34%mice_(%taxonomy:10090 42%43%mice_(%taxonomy:10090
+86 24%25%bud_development%uniprot:SL-0027 32%33%mice_(%taxonomy:10090
+87 13%15%mammary_gland_growth%tissuelist:TS-0595 33%34%bud_development%uniprot:SL-0027
+88 7%9%mammary_gland_development%tissuelist:TS-0595
+89 11%14%mammary_epithelial_cells_XREF_BIBR%cl:CL:0002327 28%30%mammary_gland_development%tissuelist:TS-0595
+90 20%21%mice%taxonomy:10090 23%24%mice%taxonomy:10090 27%28%mice_.%taxonomy:10090
+91 6%7%mice_(%taxonomy:10090 13%14%mice_(%taxonomy:10090
+92 9%10%mice_were%taxonomy:10090 21%22%mice%taxonomy:10090 35%36%mice_treated%taxonomy:10090
+93 12%13%mice_receiving%taxonomy:10090
+94 16%18%mammary_gland_growth%tissuelist:TS-0595 24%25%mice%taxonomy:10090 27%28%mice_lacking%taxonomy:10090
+95 10%11%mice_.%taxonomy:10090
+97 16%18%mammary_gland%tissuelist:TS-0595 27%28%mice_received%taxonomy:10090
+98 17%18%mice_(%taxonomy:10090 39%40%mice_or%taxonomy:10090 42%43%mice_.%taxonomy:10090
+99 10%12%mammary_gland_development%tissuelist:TS-0595 26%27%mice_that%taxonomy:10090
+100 9%11%mammary_gland_development%tissuelist:TS-0595 16%17%mice_with%taxonomy:10090 22%23%mice%taxonomy:10090 25%26%mice_)%taxonomy:10090 42%44%mammary_gland_development%tissuelist:TS-0595
+101 18%19%mice%taxonomy:10090 21%22%mice%taxonomy:10090 25%26%mice_received%taxonomy:10090
+102 20%21%mice_did%taxonomy:10090
+103 15%16%mice%taxonomy:10090 25%26%mice_did%taxonomy:10090
+104 8%9%mice_resulted%taxonomy:10090 25%26%alveoli_.%tissuelist:TS-0031
+105 41%43%mammary_gland_.%tissuelist:TS-0595
+108 7%8%organ_culture%uberon:UBERON:0000062 13%14%mice_pretreated%taxonomy:10090 29%30%mice_pretreated%taxonomy:10090 49%50%mice_receiving%taxonomy:10090 63%64%gland_in%tissuelist:TS-1305 66%67%mice_treated%taxonomy:10090 77%78%gland_in%tissuelist:TS-1305 80%81%mice_treated%taxonomy:10090 102%103%mice_.%taxonomy:10090
+109 9%10%mice_than%taxonomy:10090 13%14%mice%taxonomy:10090 25%26%mice_that%taxonomy:10090
+110 12%13%mice_pretreated%taxonomy:10090
+111 23%24%extension_in%uberon:UBERON:2000106
+112 8%9%mice%taxonomy:10090 11%12%mice%taxonomy:10090 15%16%mice_.%taxonomy:10090
+113 14%15%mice%taxonomy:10090 17%18%mice%taxonomy:10090 21%22%mice_pretreated%taxonomy:10090
+114 20%21%mice_versus%taxonomy:10090 26%27%mice_(%taxonomy:10090
+115 13%14%mice_versus%taxonomy:10090 16%17%mice%taxonomy:10090 30%31%mice_versus%taxonomy:10090 33%34%mice_.%taxonomy:10090
+119 12%13%mice_.%taxonomy:10090
+121 14%15%mice%taxonomy:10090
+124 22%23%mice_can%taxonomy:10090
+125 18%20%mammary_gland%tissuelist:TS-0595 32%33%mice_.%taxonomy:10090
+126 7%8%mice_is%taxonomy:10090 15%16%mice%taxonomy:10090 30%32%mammary_gland_growth%tissuelist:TS-0595
+127 8%10%mammary_gland_development%tissuelist:TS-0595
+128 3%4%mice_with%taxonomy:10090 11%12%extension_of%uberon:UBERON:2000106 17%19%fat_pad_when%uberon:UBERON:0001014 25%26%organ_culture%uberon:UBERON:0000062 43%45%mammary_gland_development%tissuelist:TS-0595
+129 13%14%mice%taxonomy:10090
+130 29%30%mouse_mammary%taxonomy:10090
+131 22%23%mice%taxonomy:10090
+132 34%35%mice_with%taxonomy:10090
+133 20%23%mammary_epithelial_cells%cl:CL:0002327
+134 31%33%mammary_gland_development%tissuelist:TS-0595
+135 21%22%mice%taxonomy:10090 39%40%mice_.%taxonomy:10090
+136 26%27%mice_.%taxonomy:10090
+137 20%21%mice_(%taxonomy:10090
+138 19%20%mice_as%taxonomy:10090
+139 19%21%mammary_gland_development%tissuelist:TS-0595
+140 21%23%mammary_gland_development%tissuelist:TS-0595
+142 40%42%mammary_gland_development%tissuelist:TS-0595
+143 47%48%mice_(%taxonomy:10090
+144 11%12%mice_to%taxonomy:10090
+146 17%18%mice_after%taxonomy:10090
+147 10%11%mice_pretreated%taxonomy:10090
+155 11%12%mice_.%taxonomy:10090
+159 17%18%mice_.%taxonomy:10090
+160 8%9%mice%taxonomy:10090

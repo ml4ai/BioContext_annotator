@@ -1162,8 +1162,9 @@ class PostgresProvider(DataProvider):
                             maxsplit=2)
                         interval_start = intervals[0]
                         interval_end = intervals[1]
-
                         m = reach_matcher.match(intervals[2])
+                        #m = reach_matcher.match("mammary_epithelial_cells%cl:CL:0002327")
+                        #m = reach_matcher.match("breast_carcinoma%tissuelist:TS-0592")
                         # Let's be more aggressive about catching errors here
                         try:
                             assert m
@@ -1395,7 +1396,7 @@ class PostgresProvider(DataProvider):
                     errors.append((directory, repr(e)))
 
         if len(errors) > 0:
-            logger.debug("Errors encountered. Listing:")
+            logger.debug("Errors encountered while loading paper. Listing:")
             for error in errors:
                 logger.debug("{}: {}".format(error[0], error[1]))
 

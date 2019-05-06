@@ -1,0 +1,168 @@
+Differential Roles of ERalpha and ERbeta in Normal and Neoplastic Development in the Mouse Mammary Gland .
+The present experiments were performed to determine the roles of estrogen receptors alpha and beta ( ERalpha and ERbeta ) in normal and neoplastic development in the mouse mammary gland .
+In wild-type mice , in vivo administration of estradiol ( E ) + progesterone ( P ) stimulated mammary ductal growth and alveolar differentiation .
+Mammary glands from mice in which the ERbeta gene has been deleted ( betaERKO mice ) demonstrated normal ductal growth and differentiation in response to E + P. By contrast , mammary glands from mice in which the ERalpha gene has been deleted ( alphaERKO mice ) demonstrated only rudimentary ductal structures that did not differentiate in response to E + P. EGF demonstrates estrogen like activity in the mammary glands of alphaERKO mice : treatment of alphaERKO mice with EGF + P ( without E ) supported normal mammary gland development , induced expression of progesterone receptor ( PR ) , and increased levels of G-protein-coupled receptor ( GPR30 ) protein .
+Mammary gland development in betaERKO mice treated with EGF + P was comparable to that of wild-type mice receiving EGF + P ; EGF had no statistically significant effects on the induction of PR or expression of GPR30 in mammary glands harvested from either wild-type mice or betaERKO mice .
+In vitro exposure of mammary glands to 7,12-dimethylbenz [ a ] anthracene ( DMBA ) induced preneoplastic mammary alveolar lesions ( MAL ) in glands from wild-type mice and betaERKO mice , but failed to induce MAL in mammary glands from alphaERKO mice .
+Microarray analysis of DMBA treated mammary glands identified 28 functional pathways whose expression was significantly different in alphaERKO mice versus both betaERKO and wild-type mice ; key functions that were differentially expressed in alphaERKO mice included cell division , cell proliferation , and apoptosis .
+The data demonstrate distinct roles for ERalpha and ERbeta in normal and neoplastic development in the mouse mammary gland , and suggest that EGF can mimic the ERalpha mediated effects of E in this organ .
+Introduction .
+Estrogen action in target tissues is mediated by binding to specific nuclear receptors , estrogen receptors alpha and beta ( ERalpha and ERbeta ) XREF_BIBR .
+ERalpha and ERbeta are ligand regulated transcription factors , and each has several isoforms ; these receptors play key roles in the regulation of cell proliferation and differentiation in the breast , uterus , and other tissues XREF_BIBR .
+Following estrogen binding , ERs bind to estrogen response elements ( EREs ) in the promoter regions of estrogen responsive genes XREF_BIBR , resulting in a cascade of downstream responses .
+Although murine ERalpha and ERbeta demonstrate 97 % sequence homology at the DNA binding domain XREF_BIBR , the two receptors are clearly distinct .
+The genes for ERalpha and ERbeta are located on different chromosomes XREF_BIBR ; the two receptors demonstrate different distribution patterns in estrogen target tissues ; and the receptors appear to regulate transcription via different mechanisms .
+ERalpha and ERbeta also have different ligand binding affinities and respond independently to ligand binding XREF_BIBR .
+Most importantly , activation of ERalpha results in substantially different effects in estrogen target tissues than does activation of ERbeta ) .
+The contrasting effects of ERalpha activation and ERbeta activation appear to be both organ specific and context dependent XREF_BIBR .
+In the normal breast , ERbeta is more abundant than is ERalpha ; recent data suggest that high levels of ERbeta can down-regulate the expression of ERalpha XREF_BIBR .
+Activation of ERalpha supports cell proliferation in the breast and other tissues XREF_BIBR ; ERalpha content has been proposed as a marker to distinguish hormone dependent breast cancers from hormone independent breast cancers XREF_BIBR .
+By contrast , activation of ERbeta is antiproliferative in the breast and other tissues XREF_BIBR .
+Because ERalpha and ERbeta demonstrate both qualitative and quantitative differences in activity , understanding their distinct roles in normal and neoplastic mammary growth and development may provide insight into estrogen action in breast cancer , and may also identify useful molecular targets for breast cancer prevention and therapy .
+Previous studies have demonstrated cross-talk between the ER and EGFR pathways in both normal and neoplastic development in the mammary gland XREF_BIBR .
+Implantation of EGF pellets supports normal mammary gland differentiation in ovariectomized mice , as demonstrated by the development of terminal end buds XREF_BIBR .
+In addition , EGF upregulates the expression of G-protein-coupled receptor 30 .
+( GPR30 ) in two human breast cancer cell lines ( SK-BR-3 and BT20 ) that are negative for ERalpha ; GPR30 has been proposed to play a key role in the development of tamoxifen resistance in breast cancer cells XREF_BIBR .
+In the uterus , estrogen upregulates EGFR , and EGF mimics the growth stimulatory activity of E XREF_BIBR , XREF_BIBR .
+When considered as a whole , these data suggest that EGF mimicry of estrogen mediated function ( s ) may result from ( or be associated with ) EGF up-regulation of GPR30 XREF_BIBR .
+Although comparative studies of the roles of ERalpha and ERbeta in breast cancer have most commonly been performed using ER+ and ER- cell lines as experimental models , alphaERKO and betaERKO mice have been used to understand differential functions of ERalpha and ERbeta XREF_BIBR .
+Previous studies have indicated that in the absence of ERalpha mammary glands do not develop , only rudimentary primary duct is observed in mice , whereas mammary glands from young 3-4 week old female betaERKO mice were indistinguishable from the control wild-type mice XREF_BIBR , XREF_BIBR .
+However in betaERKO mice where ERalpha is intact there is no adverse effect on the development of mammary glands XREF_BIBR .
+Mammary carcinogenesis studies in ERKO mice have not been previously reported .
+Studies in mammary glands harvested from ERalpha knockout mice and ERbeta knockout mice may provide additional insights into the distinct roles of ERalpha and ERbeta in the development of normal and neoplastic mammary gland XREF_BIBR .
+Materials and Methods .
+Estrogen Receptor Knockout ( ERKO ) Mice .
+Colonies of alphaERKO and betaERKO mice were developed and maintained in our laboratories using breeding pairs provided through the courtesy of Dr. Dennis Lubahn ( University of Missouri , Columbia , MO ) .
+Both ERKO models were originally developed on a C57BL6/129SV background ; C57 and BL6 mice were used in the present studies as wild-type ( WT ) controls .
+All mice were genotyped prior to use in order to confirm their ER status .
+This study was carried out in accordance with the recommendations in the Guide for the Care and Use of laboratory animals of the National Institute of health .
+The experimental design and protocol were approved by the IIT Research Institute 's Institutional Animal Care and Use Committee ( IACUC ) .
+Mammary Gland Organ Culture ( MMOC ) .
+Procedures used to evaluate the effects of hormones , growth factors , and other agents on the in vitro differentiation of the mouse mammary gland and on the induction of preneoplastic lesions have been described in detail XREF_BIBR , XREF_BIBR .
+Briefly , 4-week-old female mice ( C57/BL , alphaERKO , or betaERKO ) that had been pretreated with 1 mug estrogen and 1 mg progesterone for 9 days were sacrificed by CO2 asphyxiation and thoracic pairs of mammary glands were excised aseptically .
+Mammary glands were then incubated on silk rafts in serum-free organ culture using chemically defined Waymouth medium .
+Effects of in vivo preconditioning with EGF on mammary gland differentiation in ERKO mice .
+In WT mice , in vivo pre-treatment with E ( 1 mug ) and P ( 1 mg ) is required to support mammary gland responsiveness to hormones in organ culture XREF_BIBR .
+Because mammary ducts from alphaERKO mice are rudimentary and do not respond to hormones , we evaluated the effects of EGF ( as a substitute for estrogen ) on the in vivo expansion of mammary ducts in the empty fat pad .
+WT and ERKO mice were treated with 25 ng EGF +1 mg P daily for 5 consecutive days ; mammary glands were collected and processed as whole mounts for evaluations of morphology ( structural expansion of mammary ducts and formation of end buds ) .
+The effects of EGF + P on mammary gland morphology were compared to the effects of E + P. Effects of Hormones on Induction of Preneoplastic Mammary Lesions ( Mammary Alveolar Lesions ; MAL ) by a Chemical Carcinogen .
+To study the effects of hormones on MAL development , freshly harvested mammary glands were incubated in Waymouth 's MB 752/1 medium supplemented with insulin ( I ; 5 mug/ml ) , prolactin ( PRL ; 5 mug/ml ) , aldosterone ( A ; 1 mug/ml ) , and hydrocortisone ( F ; 1 mug/ml ) for 10 days ( defined as the growth promotion phase ) .
+On Day 3 of the growth promotion phase , glands were exposed to the polycyclic aromatic hydrocarbon carcinogen , 7,12-dimethylbenz [ a ] anthracene ( DMBA ; 2 mug/ml ) for 24 h.
+After completion of the 10-day growth promotion phase , glands were grown for an additional 14 days in medium containing insulin only ( 5 mug/ml ; regression phase ) ; the regression phase permits microscopic visualization of preneoplastic mammary alveolar lesions ( MAL ) .
+At the end of the 24 day culture period , glands were fixed in formalin , stained with alum carmine , cleared in xylene , and evaluated microscopically XREF_BIBR .
+Glands were scored for the incidence and multiplicity of MAL .
+Immunohistochemistry .
+Formalin fixed , paraffin embedded tissue sections ( 4 mum ) were deparaffinized and rehydrated for immunohistochemistry .
+Antigen retrieval was performed by microwaving tissue sections in 10 mM citrate buffer for 6 min .
+After rinsing with PBS , nonspecific staining was blocked by incubating slides in blocking reagent ( Vector Laboratories , Burlingame , CA ) .
+Tissue sections were incubated with primary GPR30 antibodies ( Santa Cruz Biotechnology , Santa Cruz , CA ) , rinsed with PBS , and incubated with the appropriate biotinylated goat anti-rabbit and anti-mouse antibody ( Vectashield Elite , Vector ) .
+Immunoreactivity was visualized using diaminobenzidine ( Sigma-Aldrich , St Louis , MO ) as a chromogen .
+Sections were counterstained with hematoxylin , and were examined microscopically .
+Microarray analyses .
+Mammary glands were collected from five mice per group ( WT , alphaERKO , betaERKO ) and snap-frozen in liquid N2 for microarray evaluations using the Codelink Mouse Whole Genome Array ( Applied Microarrays , Tempe , AZ ) .
+Mammary glands containing DMBA induced MAL were harvested from WT and betaERKO mice ; because glands from alphaERKO mice were MAL-free , no samples could be harvested for molecular analysis .
+Purified total RNA was extracted individually from each gland using the Ambion RiboPure RNA isolation kit ( Life Technologies , Carlsbad , CA ) and was quantitated using the OD260/280 ratio for each sample .
+Equal mass amounts of total RNA from each gland were pooled to yield a sample representing RNA from mammary glands from every mouse in each group .
+Arrays were hybridized at 37degreesC for 18 h in a shaking incubator , washed , and stained with Cy5-Streptavidin dye conjugate ( Amersham Biosciences , Piscataway , NJ ) for 30 min .
+Rinsed and dried arrays were scanned with a G2565 .
+Microarray Scanner ( Agilent Technologies , Santa Clara , CA ) at 5 mum resolution .
+Scanned images from arrays were processed using CodeLink Expression Analysis software ( Applied Microarrays , Tempe AZ ) ; data was analyzed using GeneSpring GX v7.3 software ( Agilent Technologies , Santa Clara , CA ) .
+To compare individual expression values across arrays , raw intensity data from each probe were normalized to the median intensity of the array .
+Genes with values greater than background intensity in at least one group were evaluated using Principal Component Analysis ( PCA ) and hierarchical clustering to identify differences in global gene expression between groups .
+Genes were further filtered for > 2 fold differential expression in each comparison ( alphaERKO/WT , betaERKO/WT , and alphaERKO and betaERKO ) .
+Venn diagram analysis was used to identify overlaps of differentially expressed genes , and to identify MAL specific genes that were responsive to ERalpha or ERbeta .
+Signaling pathways enriched with differentially expressed genes were identified as those with overlap p values of < 0.001 on a hypergeometric distribution .
+Microarray data were also analyzed using Ingenuity Pathway Analysis software ( Ingenuity Systems , Redwood City , CA ) .
+Comparative gene expression ratios were calculated for alphaERKO/WT , betaERKO/WT , and alphaERKO and betaERKO in order to identify ERalpha- and ERbeta responsive genes and enriched canonical pathways .
+Nodal networks containing ER or including cellular growth and proliferation functions were separated for each ERalpha responsive and ERbeta responsive gene .
+qRT-PCR .
+Quantitative RT-PCR was performed as previously described XREF_BIBR , using the MyiQ real-time PCR detection system ( Bio-Rad , Hercules , CA ) and iQ SYBR Green PCR Supermix ( Bio-Rad , Hercules , CA ) ; assays were performed using manufacturer 's instructions .
+Progesterone receptor ( PR ) expression was analyzed by normalizing PR expression to the quantity of total RNA used for RT-PCR analysis .
+Primers used for PCR analysis of PR were 5 '-ATGAAGCATCTGGCTGTCACTA-3 ' ( forward ) and 5 '-AAATAGTTATGCTGCCCTTCCA-3 ' ( reverse ) .
+Results .
+Mammary gland development in response to estrogen + progresterone requires ERalpha but not ERbeta .
+Previous studies have demonstrated that mammary gland development in untreated alphaERKO mice is rudimentary in comparison to mammary gland development in either WT mice or untreated betaERKO mice XREF_BIBR .
+To determine the effects of mammotropic hormones on mammary gland development in these mice , WT mice , alphaERKO mice , and betaERKO mice were pretreated with E ( 1 mug ) plus P ( 1 mg ) for 9 days , and then cultured in vitro in the presence of growth promoting hormones .
+In vivo administration of E + P followed by the 10 days of in vitro incubation in organ culture induced mammary ductal expansion and formation of alveoli in both WT C57 and BL6 mice ( XREF_FIG , panel A ) and betaERKO mice ( XREF_FIG , panel C ) .
+By contrast , pretreatment with E + P followed by in vitro incubation with growth promoting hormones failed to induce ductal expansion or end bud development in the mammary glands of alphaERKO mice ( XREF_FIG , panel B ) .
+These results demonstrate that ERalpha is required to support the induction of normal mammary gland growth and development by E + P ; by contrast , induction of mammary ductal expansion and end bud development land in response to pretreatment with E + P can occur in the absence of ERbeta .
+EGF can replace E in supporting normal mammary gland development .
+In consideration of the reported crosstalk between ER and EGFR in mammary epithelial cells XREF_BIBR we hypothesized that EGF + P could replace E + P in stimulating mammary gland development in vivo .
+This hypothesis was addressed by comparing the effects of EGF + P on ductal expansion in mammary glands from WT mice , betaERKO mice , and alphaERKO mice .
+As shown in XREF_FIG , WT mice ( panel A ) and betaERKO mice ( Panel C ) responded to in vivo treatment with 25 ng EGF +1 mg P in a manner that was similar to their responses to E + P ( XREF_FIG ) .
+Although the effects of EGF + P in alphaERKO mice were less prominent than were seen in either WT or betaERKO mice , ductal expansion throughout the mammary fat pat was also seen in alphaERKO mice treated with EGF + P ( XREF_FIG , panel B ) .
+This finding is in contrast to the lack of ductal expansion alphaERKO mice receiving in vivo treatment with E + P ( XREF_FIG , panel B ) .
+These data suggest that EGF + P can substitute for E + P in inducing normal mammary gland growth and differentiation in both WT mice and in mice lacking ERalpha or ERbeta .
+EGF induces expression of progesterone receptor and GPR30 in alphaERKO mice .
+PR is an estradiol inducible target gene XREF_BIBR .
+To determine whether EGF can replace E in inducing in vivo expression of PR in the mammary gland , groups of WT , alphaERKO , and betaERKO mice received daily subcutaneous injections of EGF ( 25 ng/dose ) for five days .
+As seen in XREF_FIG , EGF induced a ~ 4.5-fold increase in mammary PR expression in alphaERKO mice ( p < 0.01 ) , but had no statistically significant effect on PR expression in mammary glands of either WT mice or betaERKO mice .
+These data demonstrate that EGF can replace estradiol in supporting mammary gland development and the induction of estrogen inducible genes ( such as PR ) in mice that lack ERalpha .
+By contrast , EGF had no significant effect on mammary gland development or PR induction in mice with intact ERalpha ( WT mice and betaERKO mice ) ; this difference is likely to be the result of the near maximal stimulation of mammary gland development by ERalpha mediated effects of E. GPR30 is involved in EGF transactivation , and has been shown to mediate cell proliferation and other responses to estrogen XREF_BIBR .
+To determine if EGF can substitute for E in inducing the expression of GPR30 , groups of WT mice , alphaERKO mice , and betaERKO mice received daily subcutaneous injections of EGF ( 25 ng/dose ) for 5 days .
+As shown in XREF_FIG , while mammary glands from WT showed some expression of GPR30 , both alphaERKO and betaERKO mice did not show any immunostaining ( brown ) for GPR30 .
+Despite a basal difference in GPR expression between the glands derived from WT and betaERKO mice , administration of EGF to either WT or betaERKO mice did not have any effect on the enhancement of GPR30 expression .
+By contrast , administration of EGF to alphaERKO mice resulted in enhanced immunostaining suggesting a substantial upregulation of GPR30 protein expression in mammary ducts and alveoli .
+These results are consistent with our results for the effects of EGF on PR expression ( XREF_FIG ) , and provide further evidence that , in the absence of functional ERalpha , EGF may substitute for estradiol mediated action in the mammary gland .
+Functional ERalpha is necessary for the development of mammary preneoplastic lesions .
+In view of the activity of EGF in supporting normal mammary growth and development , it was of interest to determine whether EGF can replace E in supporting the induction of mammary preneoplastic lesions ( MAL ) by the chemical carcinogen , DMBA .
+The gross appearance of MAL induced in organ culture by DMBA in WT mice pretreated with EGF + P was very similar to MAL induced by DMBA in WT mice pretreated with E + P. Furthermore , as seen in XREF_TABLE , the number of MAL induced in WT mice receiving E + P or EGF + P ( 13.3 +/-7.8 lesions per gland in WT mice treated with E + P versus 12.8 +/-6.8 lesions per gland in WT mice treated with EGF + P ) was similar , once again suggesting that EGF can substitute for estrogen pretreatment in these mice .
+Although fewer mammary preneoplastic lesions were seen in betaERKO mice than in WT mice , MAL were identified in DMBA treated glands collected from betaERKO mice that had been pretreated with EGF + P ( XREF_TABLE ) .
+By contrast , no MAL were identified in mammary glands from alphaERKO mice pretreated with EGF + P.
+These results indicate that a functional ERalpha is necessary for MAL formation , and suggest that although EGF can support normal mammary ductal extension in the absence of E , EGF cannot support MAL formation .
+Differential Gene Expression in Mammary Glands from WT mice , alphaERKO mice , and betaERKO mice .
+Patterns of gene expression in pooled RNA samples from cultured mammary glands from wild-type mice , alphaERKO mice , and betaERKO mice pretreated with EGF + P were compared by microarray analysis .
+Of 28,665 genes that were expressed above background levels , 8,141 genes were differentially expressed in mammary glands from alphaERKO mice versus mammary glands from betaERKO mice ( XREF_SUPPLEMENTARY ) .
+In addition , 7,190 genes were differentially expressed in mammary glands from alphaERKO mice versus WT mice , and 4,218 genes were differentially expressed in mammary glands derived from betaERKO mice versus WT mice .
+Hierarchical clustering was performed for 11,588 genes that were differentially expressed in at least one comparison ( XREF_SUPPLEMENTARY , Panel A ) and 3927 genes that were identified as ERalpha responsive ( XREF_SUPPLEMENTARY , Panel B ) .
+Principal Component Analysis ( PCA ) across samples was also performed using the 11,588 genes that were differentially expressed in at least one comparison ( XREF_SUPPLEMENTARY ) .
+Pathway analysis of the 11,588 differentially expressed genes demonstrated significant enrichment of 28 pathways ( hypergeometric p values of < 0.001 ) .
+Of these , differential expression of 9 pathways was specific to alphaERKO mice .
+These included MAP kinase signaling pathway as well as signaling molecules affecting apoptosis .
+On the other hand , differential expression of 4 pathways was specific to betaERKO mice , which included C-21 steroid metabolism ( XREF_TABLE ) .
+The signaling molecules regulating cell proliferation were differentially regulated in these ERalpha and ERbeta knockout conditions ( data not shown ) .
+Discussion .
+Although ERalpha and ERbeta functions have been extensively studied in various organs XREF_BIBR , XREF_BIBR , studies in ERalpha and ERbeta knockout mice can provide additional insight into the roles of these ligand regulated transcription factors in both normal and neoplastic mammary development .
+For example , the primary mammary ducts , which are essential for the complete lobuloalveolar development of the mammary gland and for the initiation of lactation , are grossly underdeveloped in alphaERKO mice .
+By contrast , mammary development in betaERKO mice is similar to that seen in wild-type mice , demonstrating the essential role of ERalpha ( but not ERbeta ) in normal mammary gland growth and differentiation .
+Similar differential role of ERalpha and ERbeta in mammary gland development has previously been reported XREF_BIBR , XREF_BIBR .
+Pretreatment of alphaERKO mice with EGF + P supports the normal extension of mammary ducts throughout the fat pad when mammary glands are maintained in organ culture ; this observation clearly demonstrates that EGF can substitute for estrogen mediated ERalpha functions in normal mammary gland development and differentiation .
+However , although pretreatment with EGF can support normal ductal expansion in alphaERKO mice , it does not support the development of preneoplastic mammary lesions induced by DMBA .
+These data suggest that , despite clear evidence of interactions and cross-talk between E dependent and EGF dependent signaling pathways in normal mammary development , neoplastic development in the mouse mammary glands requires a functional ERalpha .
+In addition to its effects in supporting normal mammary development and differentiation , EGF induced PR in the mammary glands of alphaERKO mice , supporting the results of previous studies in which findings where loss of ERalpha is often correlated with overexpression of EGFR XREF_BIBR , XREF_BIBR .
+Moreover , it has been reported that GPR30 , can mediate estrogen dependent signaling and EGFR transactivation by estradiol XREF_BIBR , This is consistent with our results showing that 5 day treatment of alphaERKO mice with EGF induced GPR30 in the mammary glands .
+However , present study suggests that there may be estrogen specific molecular switch that may be required for transformation of mammary epithelial cells , which cannot be turned on by EGF by itself in the absence of estrogen-ERalpha interactions .
+Collectively these studies show that EGF can replace estradiol in the absence of ERalpha and may provide a basis for studies on the ERalpha and EGFR cross talk in normal mammal mammary gland development .
+We analyzed microarray data generated from pooled RNA samples obtained from the mammary glands containing MAL derived from wild-type and betaERKO mice and compared these with the RNA samples obtained from mammary glands ( without MAL ) from alphaERKO mice .
+PCA analysis showed major difference in the genomic profile between the RNA from MAL negative glands of alphaERKO and MAL positive glands of WT or betaERKO mice .
+The PCA analysis also indicated that there is a close similarity between the glands containing MAL of betaERKO and WT mice ( XREF_SUPPLEMENTARY ) .
+This was further evident by selective differential expression by RNA isolated from the mammary glands of alphaERKO and betaERKO mice as shown in XREF_TABLE .
+In summary , the results described in this report provide direct evidence for the importance of ERalpha in normal mammary gland development and during neoplastic transformation .
+We showed that estrogen can be replaced by EGF for ER mediated function in the absence of ERalpha for the normal mammary gland development .
+However EGF in the absence of ERalpha was ineffective for the development of MAL .
+The results also indicated that like estrogen , in vivo treatment with EGF can also induce estrogen responsive gene , PR and EGF responsive GPR30 in the glands providing evidence for a cross talk between EGF and estrogen in normal mammary gland development .
+Finally the results from the microarray analyses indicated that the MAP Kinase signaling as well as estrogen dependent signaling resulting in reduced cyclin D and EGF dependent SRF , c-Jun and c-Fos expressions were responsible for the differences in cell proliferation between alphaERKO and WT or betaERKO mice ( data not shown ) .
+This is the first report to employ MMOC of the ERKO mice to delineate functional differences among alphaERKO , betaERKO and wild type genotypes .
+Supporting Information .
+Figure S1 Microarray analyses of RNA obtained from MAL containing glands from WT , alphaERKO and betaERKO mice after MMOC .
+Mammary glands were dissected from WT , alphaERKO or betaERKO mice pretreated with 1 mg Progesterone and 25 ng EGF for 5 days .
+The glands were incubated with sequential combinations of hormones and carcinogen for 24 days as described in the Methods .
+This treatment schedule induces MAL in these glands .
+The glands were snap-frozen individually and RNA was extracted and Microarray analyses were performed on pooled RNA samples as described in the Methods .
+A. Venn diagram of genes > 2-Fold in ERKO comparisons ( Total 11,588 genes ) .
+The diagram indicates the number of genes that 723 genes are differentially expressed in all three comparisons .
+There are various distributions of number of genes that overlap between each combination .
+( TIF ) Click here for additional data file .
+Figure S2 Differentially expressed genes in WT , alphaERKO and betaERKO mice .
+Genes ( 11588 genes ) that are different in at least one comparison among the three genotypes ( B ) and 3927 genes > 2-Fold in [ alphaKO vs. WT ] and [ alphaKO vs. betaKO ] not [ betaKO vs. WT ] ( C ) .
+Genes are displayed as normalized to the median intensity of each array .
+Red = High expression , Yellow = Medium expression , Blue = Low expression .
+Results show that there is a close similarity between the expression of genes between WT and betaERKO mice .
+However there are major differences between the alphaERKO mice and the two other genotypes .
+These results suggest that alphaER may be significantly more crucial for estradiol function as compared to ERbeta ( D ) .
+( TIF ) Click here for additional data file .
+Figure S3 Principal Component Analysis .
+Samples are displayed in respect to the two principal components present in 11,588 genes differentially expressed in at least one of three comparisons .
+Normalized expression differences between the alphaKO sample and the other two samples comprise the most differences in the data as PCA component 1 .
+Normalized expression differences between WT and the two KO samples comprise the remainder of the differences in the data as PCA component 2 .
+( TIF ) Click here for additional data file .

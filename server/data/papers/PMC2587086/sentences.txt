@@ -1,0 +1,11 @@
+PPARdelta INDUCES CELL PROLIFERATION BY A CYCLIN E1 DEPENDENT MECHANISM AND IS UPREGULATED IN THYROID TUMORS .
+Peroxisome proliferator activated receptors ( PPARs ) are lipid sensing nuclear receptors that have been implicated in multiple physiologic processes including cancer .
+Here , we determine that PPARdelta induces cell proliferation through a novel cyclin E1 dependent mechanism and is upregulated in many human thyroid tumors .
+The expression of PPARdelta was induced coordinately with proliferation in primary human thyroid cells by activation of serum , TSH/cAMP/pKa or EGF/MEK/ERK mitogenic signaling pathways .
+Engineered overexpression of PPARdelta increased thyroid cell number , the incorporation of BrdU and the phosphorylation of Rb 40-45 % in just 2 days , one usual cell population doubling .
+The synthetic PPARdelta agonist GW501516 augmented these PPARdelta proliferation effects in a dose dependent manner .
+Overexpression of PPARdelta increased cyclin E1 protein 9-fold , whereas knock down of PPARdelta by siRNA reduced both cyclin E1 protein and cell proliferation 2-fold .
+Induction of proliferation by PPARdelta wasabrogated by knockdown of cyclin E1 by siRNA in primary thyroid cells and by knockout of cyclin E1 in mouse embryo fibroblasts , confirming a cyclin E1 dependence for this PPARdelta pathway .
+In addition , the mean expression of native PPARdelta was increased 2- to 5-fold ( p < 0.0001 ) and correlated with that of the in situ proliferation marker Ki67 ( R = 0.8571 ; p = 0.02381 ) in six different classes of benign and malignant human thyroid tumors .
+Our experiments identify a PPARdelta mechanism that induces cell proliferation through cyclin E1 and is regulated by growth factor and lipid signals .
+The data argue for systematic investigation of PPARdelta antagonists as anti-neoplastic agents and implicate altered PPARdelta-cyclin E1 signaling in thyroid and other carcinomas .

@@ -1,0 +1,9 @@
+0 10%13%adult_subventricular_zone_astrocytes%uberon:UBERON:0004922 13%14%astrocytes_.%cl:CL:0000127
+1 1%4%neural_stem_cells_(%cl:CL:0000047 5%6%NSCs_)%cl:CL:0000047 11%13%subventricular_zone_(%uberon:UBERON:0004922 14%15%SVZ_)%uberon:UBERON:0004922 19%20%brain_niche%tissuelist:TS-0095 27%29%lateral_ventricle_.%tissuelist:TS-1230
+2 4%5%NSCs_generate%cl:CL:0000047 11%12%neurons%cl:CL:0000540 14%15%oligodendrocytes%cl:CL:0000128
+3 26%27%brain_;%tissuelist:TS-0095 32%33%SVZ_progenitors%uberon:UBERON:0004922
+4 6%7%SVZ_type-B%uberon:UBERON:0004922 8%9%astrocytes%cl:CL:0000127
+5 14%15%SVZ_type-B%uberon:UBERON:0004922 16%17%astrocytes_.%cl:CL:0000127
+6 5%6%astrocytes_gave%cl:CL:0000127
+7 16%17%oligodendrocytes_.%cl:CL:0000128
+8 9%10%oligodendrocytes_derived%cl:CL:0000128 13%14%astrocyte_NSCs%tissuelist:TS-0060 14%15%NSCs_residing%cl:CL:0000047 19%20%SVZ_.%uberon:UBERON:0004922

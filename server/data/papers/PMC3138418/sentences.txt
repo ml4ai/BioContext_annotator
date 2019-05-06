@@ -1,0 +1,7 @@
+BMP signalling induces cell-type specific changes in gene expression programs of human keratinocytes and fibroblasts .
+BMP signalling plays a crucial role in skin development and homeostasis , whereas molecular mechanisms underlying its involvement in regulating gene expression programs in keratinocytes and fibroblasts remain largely unknown .
+We demonstrate here that several BMP ligands , all BMP receptors and BMP associated Smad1/5/8 are expressed in human primary epidermal keratinocytes and dermal fibroblasts .
+Treatment of both cell types by BMP-4 resulted in the activation of the BMP-Smad , but not BMP-MAPK pathways .
+Global microarray analysis revealed that BMP-4 treatment induces distinct and cell-type specific changes in gene expression programmes in keratinocytes and fibroblasts , which are far more complex versus the effects of BMPs on cell proliferation and differentiation described previously .
+Furthermore , our data suggest that potential modulation of cell adhesion , extracellular matrix remodelling , motility , metabolism , signalling and transcription by BMP-4 in keratinocytes and fibroblasts is likely to be achieved by the distinct and cell type specific sets of molecules .
+Thus , these data provide an important basis for delineating mechanisms that underlie the distinct effects of the BMP pathway on different cell populations in the skin and will be helpful in further establishing molecular signalling networks regulating skin homeostasis in health and disease .

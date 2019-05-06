@@ -1,7 +1,0 @@
-Positive_activation	14
-Positive_activation	75
-Binding	90
-Positive_activation	116
-Negative_activation	131
-Positive_activation	131
-Positive_activation	136

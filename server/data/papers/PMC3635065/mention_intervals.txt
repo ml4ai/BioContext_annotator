@@ -1,0 +1,5 @@
+0 4%5%glioblastoma_initiating%tissuelist:TS-0417
+1 9%10%Glioblastoma_remains%tissuelist:TS-0417 21%24%central_nervous_system_.%tissuelist:TS-0150
+2 3%5%stem_cell%cl:CL:0000034 14%15%human_brain%taxonomy:9606 15%16%brain_in%tissuelist:TS-0095 22%23%stem_like%tissuelist:TS-0971 56%57%glioma_initiating%tissuelist:TS-0416
+3 9%12%neural_stem_cells_in%cl:CL:0000047 15%16%brain%tissuelist:TS-0095 36%37%glioblastoma_.%tissuelist:TS-0417
+4 25%26%glioblastoma_.%tissuelist:TS-0417

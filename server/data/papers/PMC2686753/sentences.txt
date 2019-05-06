@@ -1,0 +1,199 @@
+Global expression profiling reveals regulation of CTGF and CCN2 during lactogenic differentiation .
+Mammary epithelial cells go through a series of developmental changes during pregnancy and lactation including proliferation , differentiation , secretion and apoptosis .
+HC11 mouse mammary epithelial cells , which undergo lactogen induced differentiation in cell culture , were used to follow the changes in gene expression during this process .
+The expression profiles of over 20,000 genes were compared in HC11 cells undergoing lactogenic differentiation to non differentiated cells using DNA microarray analysis .
+Greater than two fold changes were detected in 998 genes in the differentiated cells versus growth controls .
+Several genes including CTGF and CCN2 exhibited greater than five-fold increase .
+Validation of the gene expression pattern for more than twenty genes was performed .
+The results indicate the involvement of numerous genes and pathways in the differentiation of mouse mammary epithelial cells in culture and they identify genetic pathways associated with specific transcriptional regulation .
+In addition , the expression of a subset of genes regulated by lactogenic differentiation in HC11 cells , including CTGF and CCN2 and osteopontin , was examined in mouse mammary glands revealing expression during pregnancy and lactation that declined during involution of the glands .
+To probe the mechanism by which epidermal growth factor ( EGF ) , a known inhibitor of lactogenic differentiation in HC11 cells , blocks lactogenesis , the HC11 cells stimulated with lactogenic hormone in the presence of EGF were profiled .
+This data revealed EGF regulation of a specific subset of genes including important cell cycle regulators .
+The studies confirm the value of expression profiling in defining gene transcription associated with differentiation of mammary epithelial cells .
+Electronic supplementary material .
+The online version of this article ( doi :10.1007/s12079-009-0047-5 ) contains supplementary material , which is available to authorized users .
+Introduction .
+The mammary gland undergoes periodic cycles of growth , differentiation and regression throughout adult life .
+Normal mammary gland development is dependent on signals from growth factors , mammotrophic hormones , and tissue stroma , and the dysregulation of these process can lead to mammary epithelial hyperplasia and tumorigenesis .
+The HC11 cell line was derived from the COMMA1D cells , which originated from the mammary gland tissue of a pregnant BALB/c mouse .
+HC11 cells are an excellent model system for studying differentiation states of mammary epithelial cells .
+These cells retain important characteristics of normal mammary epithelial cells including the synthesis of the milk protein beta-casein in vitro upon treatment with lactogenic hormones .
+HC11 cells also exhibit normal ductal morphogenesis when injected into the cleared fat pad of syngeneic mice .
+A crucial event in the mammary epithelial cells is the activation of the epidermal growth factor ( EGF ) receptor during the growth phase .
+In HC11 cells , activation of the EGF receptor promotes growth and is required for the establishment of competence to respond to the lactogenic hormones .
+Following EGF removal , HC11 cells differentiate in vitro in response to the synergistic actions of insulin , glucocorticoids , and prolactin ( DIP ) .
+However , the inclusion of EGF in the lactogenic hormone mix blocks differentiation .
+The regulatory mechanisms for signal transduction pathways controlling development of the mammary gland epithelium and the molecular switch from proliferation to differentiation have been studied in recent years .
+Prolactin stimulation results in the phosphorylation and nuclear translocation of Stat5 and Stat5 binds to the beta-casein promotor initiating its transcription .
+The activation of beta-casein transcription is enhanced by the glucocorticoid receptor .
+While these studies addressed the requirements for milk protein transcription other changes contributing to lactogenic differentiation are less well understood .
+HC11 mammary epithelial cell differentiation was examined using two-dimensional gels and proteomic techniques to decipher differences between the protein patterns of growing versus differentiating cells .
+This study identified approximately sixty proteins whose expression levels changed following four days of differentiation .
+These proteins include cytoskeletal components , molecular chaperones and regulators of protein folding and stability , calcium binding proteins , and components of RNA processing pathways .
+More recently a proteomic study of nuclear protein changes in HC11 cells undergoing differentiation revealed differential expression of several transcription factors that have the potential to regulate mammary differentiation or development as well as proteasome subunits , hnRNPs and HSPs .
+The profile of induced proteins provided insights into the mechanistic differentiation of HC11 mammary epithelial cells and the regulation of this process .
+Gene expression profiling using DNA microarrays allows the concurrent analysis of thousands of genes and has been applied to provide insight into the regulatory and functional pathways involved in mouse mammary gland development .
+These studies measure transcription in all cells in the mammary gland including stroma and immune cells .
+In the study reported here , oligonucleotide microarrays containing approximately 20,000 genes were used to examine the gene expression patterns during lactogenic differentiation of the HC11 mammary epithelial cell line .
+The study confirms that HC11 cells undergoing lactogenic differentiation in culture recapitulate the process in the mammary gland .
+In addition , the results identify potential signaling pathways not previously associated with mammary differentiation .
+Among the newly identified molecules contributing to lactogenic differention the rapid elevation of CTGF and CCN2 and osteopontin are highly significant as these proteins are known to play a role in tissue remodeling and the pathology of breast cancer .
+Materials and methods .
+Cell preparation HC11 mouse mammary epithelial cells were cultured in RPMI 1640 medium containing 10 % fetal calf serum , 5 mug/ml Insulin , 10 mM Hepes and 10 ng/ml epidermal growth factor ( EGF ) .
+For differentiation the cells were maintained in T75 flasks for 4 days after reaching confluence , then exposed to media without EGF for 24 h.
+The cells were then incubated in DIP differentiation media , serum containing RPMI with dexamethasone ( 10 -6 M ) , insulin ( 5 mug/ml ) and prolactin ( 5 mug/ml ) for 72 h and undifferentiated HC11 cells were maintained in growth media and these served as a control .
+In another set of experiments , control cells were incubated in DIP differentiation media for 72 h , while experimental cells were incubated in DIP differentiation media except that EGF was present .
+The cells were scraped from the flasks for RNA extraction .
+RNA preparation RNA was extracted using Trizol reagent ( Invitrogen ) and RNeasy maxi kit ( Qiagen ) .
+RNA samples were concentrated to greater than 1 mg/ml by centrifugation on a MicroCon 100 filter unit at 500 g.
+The concentration and 260/280 OD ratio of the RNA was determined by spectrophotometry and RNA was stored at -80 degreesC .
+Alternatively , the RNA was purified to recover mRNA using Oligtex mRNA kit .
+Labeling , hybridization and analysis Mouse ( Development ) Oligo Microarrays were purchased from Agilent Technologies .
+The content on this microarray was derived from the National Institute on Aging and National Institute of Health cDNA mouse clone set that includes genes from sequences of stem cells and very early-stage embryo cDNA libraries .
+It contains 20,371 60-mer oligonucleotides representing over 20,000 known mouse genes .
+Detailed process for labeling and hybridization were according to manufacturer 's manual .
+Briefly , fluorescent cRNA was synthesized using low RNA input fluorescent linear amplification kit from Agilent Technologies .
+500 ng of total RNA was used in each experiment .
+In the differentiation experiments , five slides were used ( repetitions N = 5 ) , DIP treated RNA was labeled with cyanine 5-CTP , and control RNA was labeled with cyanine 3-CTP .
+In differentiation blocking experiments , six slides were used ( N = 6 ) , EGF treated DIP RNA was labeled with cyanine 5-CTP , while DIP treated RNA was labeled with cyanine 3-CTP .
+Amplified cRNA was purified using Qiagen 's RNeasy mini spin columns .
+Hybridization was carried out using In situ Hybridization Kit Plus from Agilent Technologies , 750 ng of cyanine 3 and cyanine 5 labeled cRNA was used in each hybridization .
+Hybridization continued at 60degreesC for over 17 h. Post hybridization washes includes 6 X SSC , 0.005 % Triton X-102 ( 10 min ) , and 0.1 X SSC , 0.005 % Triton X-102 ( 5 min ) followed by drying with nitrogen gas and immediate scanning .
+Scanning was performed by GenePix 4000A scanner ( Axon instruments , Inc ., Foster city , CA ) with Axon GenePix image acquisition and analysis software .
+Analysis of gene expression was performed using BRB-Array Tools Version 3 which was developed by Biometrics Research Branch , NCI ( http://linus.nci.nih.gov/BRB-ArrayTools.html ) .
+In addition , a smaller study using oligonucleotides arrays representing 3800 genes ( Atlas Glass Mouse 3.8 Microarrays from Clontech ) ( N = 4 ) was performed .
+Fluorescent labeling of RNAs was performed by using an Atlas Glass fluorescent labeling kit ( Clontech Laboratories ) according to manufacturer 's protocol .
+Synthesized first-strand cDNAs from RNA of HC11 cells with and without differentiation were labeled with fluorescent dyes , Cy3 and Cy5 ( Amersham Pharmacia Biotech ) , respectively .
+The reciprocal labeling was used during the experiment , i.e. differentiation group was labeled with Cy3 two times , and Cy5 two times ; and the control group was labeled with Cy5 two times , and Cy3 two times .
+The quality of the labeling and the amount of each probe used were determined by absorbance measurement for Cy3 and Cy5 probes in a Beckman DU-600 scanner .
+Hybridization of the microarrays was carried out in a hybridization solution for 16 h at 50degreesC .
+The slides were washed 3 times .
+The microarray slides were scanned and analyzed by using a GenePix 4000B scanner in both Cy3 and Cy5 channels .
+The control value was obtained from four experiments and used to determine the differentiation induced gene up- or down-regulations .
+The average of the Cy3 and Cy5 signals from nine house keeping genes were used to obtain a ratio value for normalization of the individual signals .
+Much of the information obtained from the differentiation experiments analyzed on the smaller oligonucleotide based arrays , Clontech 3.8 K arrays , were contained within the larger 20280 gene set data .
+However , XREF_SUPPLEMENTARY contains the list of genes detected as differentially expressed during lactogenic differentiation of HC11 cells on 3.8 K arrays .
+Statistical Analysis of Microarray Normalization and analysis of the gene expression profiles were performed as follows : the spot was excluded if red and green intensity was below 30 .
+Each array was normalized ( centered ) using the median over entire array .
+Intensity ratios ( and inverse ratios ) greater than 64 were truncated .
+Genes were excluded under any of the following conditions : less than 20 % of expression data had at least a 1.5 -fold change in either direction from gene 's median value or if the percentage of data that was missing or filtered out exceeded 50 % .
+In DIP versus control experiments , there are 10813 genes that passed filtering criteria in total of 20280 genes .
+And the first 2479 genes are significant at the nominal 0.05 level of the paired T-test .
+In EGF plus DIP versus DIP experiments , there are 1386 genes passed filtering criteria in total of 20280 genes .
+And the first 1129 genes are significant at the nominal 0.05 level of the paired T-test .
+Generation of probes In order to generate DNA hybridization probes , the accession number of interested gene was used to obtain the mRNA sequence and primers were designed for RT-PCR to produce a DNA fragment several hundred basepairs in length .
+RT-PCR products were inserted into a pCR2.1 TA cloning vector ( Invitrogen ) and the identities of candidate clones were confirmed by DNA sequence .
+Double strand DNA plasmid inserts were isolated by restriction endonuclease digestion of the pCR2.1 plasmid and the released DNA fragment was gel purified for use as a hybridization probe .
+The fragments cloned and amplified include : PIP , position 77 to 477 in cDNA ( accession number NM_008843 ) ; KLF9 ( Bteb1 ) , position 932 to 1262 in cDNA ( accession number NM_010638 ) ; SGK position 92 to 592 in cDNA ( accession number NM_011361 ) ; AP3 position 92 to 592 in cDNA ( accession number NM_009681 ) ; Spi-C position 362 to 862 in cDNA ( accession number NM_011461 ) .
+The probes and primers for CTGF and CCN2 , beta-casein , and actin have been described .
+Northern blot and Realtime PCR For northern blot experiments , HC11 cells were treated identically to the methods in the microarray experiment , and then exposed to DIP differentiation media for 0 , 12 , 24 , 48 , 72 and 96 h , respectively .
+RNA was extracted for northern blot by using Trizol reagent .
+In some experiments , the same RNA preparations used in Agilent Microarrays were utilized .
+RNA from mouse mammary gland at distinct stages of pregnancy and lactation were prepared as described .
+Northern blotting was performed as described .
+Beta-actin probe was hybridized to the same membrane and scanned on Packard beta scanner for normalization purposes .
+Realtime PCR was performed using SYBR green PCR kits and a 7500 RealTime PCR instrument ( Applied Biosystems ) .
+Primers include : actin forward 5 ' TTACTGCTCTGGCTCCTAGCA , reverse 5 ' GACTCATCGTACTCCTGCTTGC ; CTGF and CCN2 primers amplified a 500 bp fragment in the mouse CTGF 3'UTR , forward 5'ACAGTTGTTCATTAGCGCAC and reverse : 5'CTATGGTGTTTGGAGTTTGA .
+Expression vector construction The open reading frame of identified genes was tagged with the myc epitope tag by PCR and inserted into pCR3.1 vector ( Invitrogen ) as described .
+The clones were verified by DNA sequencing prior to use in expression studies .
+Results .
+Lactogenic differentiation induced gene expression in HC11 cells To follow the global changes in gene transcription in HC11 mouse mammary epithelial cells undergoing lactogenic differentiation , we employed an oligonucleotide based microarray technique .
+The experiments were performed with RNA extracted from HC11 cells maintained in either growth media or HC11 cells exposed to lactogenic differentiation media containing dexamethasone , insulin and prolactin ( DIP ) .
+HC11 cells undergoing lactogenic differentiation have a unique phenotypic appearance as clusters of enlarged cells in dome like structures , referred to as mammospheres , appear in the culture .
+Total RNA was purified from the cells and fluorescent cRNA was synthesized .
+In the differentiation experiments ( N = 5 ) , RNA from DIP treated cells was labeled with cyanine 5-CTP , and RNA from the control cells was labeled with cyanine 3-CTP .
+Differences in gene expression were detected by hybridization of labeled RNA to slide based oligonucleotide microarrays .
+The NIA mouse development oligonucleotide microarrays containing 20280 genes ( produced by Agilent Technologies ) were employed for the study .
+Hybridization reactions were analyzed using an Axon microarray reader .
+Normalization and statistical analysis and the analysis of gene expression using BRB-Array Tools Version 3 was performed as described in the Materials and Methods Section .
+In the experiments comparing HC11 cells induced to differentiate with HC11 control cells ( DIP versus control ) , there were 10813 genes that passed filtering criteria from a total of 20280 genes on the NIA microarrays .
+The changes in expression of 998 genes met the 2-fold change criteria .
+Table XREF_TABLE shows the partial list of genes exhibiting increased expression during lactogenic differentiation of HC11 cells and XREF_SUPPLEMENTARY contains the information on the 998 genes that met the 2-fold change at the p value 0.05 .
+In the case studies carried out using the NIA 20280 gene arrays fewer genes exhibited a significant reduction in expression than an increase in expression during the 72 h differentiation period .
+Table XREF_TABLE contains a partial list from the 20 genes exhibiting a minimum two-fold decrease .
+Elevated expression of hormone regulated genes , genes associated with cell cycle control or cell survival and tissue reorganization during lactogenic differentiation of HC11 cells The genes induced during lactogenesis included transcriptional regulatory factors , proteins involved in growth control and survival , tissue re-organization and proteins important for milk production .
+Several previous studies performed on mouse mammary gland tissue reported alterations in the expression of genes that impact numerous pathways .
+The majority of the studies examined changes in gene expression using RNA that was derived from the multiple cell types making up the mammary glands .
+In the present study the expression changes are restricted to genes expressed in epithelial cells .
+Therefore , while our findings confirm many of the findings of previous studies , all the changes reported are restricted to epithelial cells .
+Hence , some of the differences between HC11 cells and mammary tissue may be attributed to the lack of stromal or immune cell components in our analysis .
+Some examples of the functional divisions represented among DIP regulated genes are included in Table XREF_TABLE .
+Many of the changes relate to milk protein production , but transcription factors and regulators , genes for growth control and tissue reorganization are well represented as are genes regulated by glucocorticoids and prolactin .
+Genes exhibiting significant changes in expression as a result of DIP stimulation of HC11 cells were selected for analysis by northern blot to confirm the results obtained by microarray .
+The use of northern blotting for this aspect of the study allowed confirmation of the size of the mRNA in addition to the amount of RNA .
+Northern blots of HC11 cell RNA from cells stimulated with DIP for 0 to 72 h were hybridized with specific probes as well as a probe for actin .
+Following hybridization the results were quantified using a beta-scanner and the fold changes in expression were obtained by normalization to beta-actin expression .
+The normalized data revealed a positive correlation between the fold changes obtained in the microarray and the northern blot .
+The expression of target genes was also analyzed by real-time PCR and the results support those obtained by northern blot .
+( data not shown ) .
+These data clearly demonstrated the significant increase in CTGF and CCN2 and SPP1 and osteopontin gene expression following lactogenic stimulation of HC11 cells.To ascertain if the genes detected in the array analysis were similarly regulated in the mouse mammary gland in vivo RNA from pregnant and lactating mouse mammary glands was analyzed .
+Northern blots containing RNA from non pregnant , pregnant , lactating and involuting mouse mammary gland tissue were hybridized to probes encoding genes differentially expressed in DIP stimulated HC11 cells .
+The results in Fig. XREF_FIG b indicate that a number of the genes exhibit modest increases in expression during pregnancy and lactation .
+A number of the genes tested in this way , excluding beta-casein , were also expressed in non pregnant mammary glands but little or no expression of the specifc RNAs was detected during postlactation involution of the mammary gland.CTGF/CCN2 can be induced by dexamethasone in chondrocytes and renal epithelia .
+Hence , further studies explored the steroid regulation of CTGF and CCN2 expression in HC11 cells .
+While treatment of HC11 cells with dexamethasone induced expression of CTGF , neither estrogen nor progesterone produced the same result and CTGF and CCN2 expression was not dependent on TGFbeta in these cells .
+The realtime PCR results in Fig. XREF_FIG demonstrate that the glucocorticoid receptor antagonist RU486 efficiently blocked CTGF and CCN2 expression in response to dexamethasone confirming the function of the steroid hormone in the HC11 cells .
+Our additional studies demonstrated that CTGF and CCN2 is required for HC11 lactogenic differentiation and that ectopic expression of CTGF and CCN2 enhances differentiation in HC11 cells as well as in primary mouse mammary epithelial cell cultures .
+Regulation of gene expression by EGF during lactogenic differentiation in HC11 cells EGF , or other potent mitogens , are required for the proliferation and development of `` competency '' of HC11 cells to differentiate .
+However , the inclusion of EGF , other mitogenic growth factors or expression of transforming oncogenes in HC11 cells blocks lactogenic differentiation .
+To examine the effect of EGF on the DIP induced expression pattern of the HC11 cells another microarray experiment was performed .
+For this study RNA was extracted from HC11 cells induced to differentiate with DIP and from HC11 cells stimulated with DIP containing 10 ng/ml EGF .
+Total RNA was purified and fluorescent cRNA was synthesized as described above .
+RNA from DIP plus EGF treated cells was labeled with cyanine 5-CTP , and RNA from DIP treated cells was labeled with cyanine 3-CTP .
+Hybridization was carried out and the results were analyzed as described above .
+The analysis of gene expression revealed that in EGF plus DIP versus DIP experiments 1129 genes are significant at the nominal 0.05 level of the paired T-test , and 128 genes met the 2-fold change criteria .
+Table XREF_TABLE shows the partial list of genes for which expression was regulated by EGF in the presence of DIP .
+The remainder of the data is contained in XREF_SUPPLEMENTARY .
+Many of the genes expressed at higher level in the EGF plus DIP stimulated cells are known targets of EGF signal transduction pathways or are associated with malignant growth , for example cyclin D1 and osteopontin .
+Confirmation of the array results for a number of genes was performed by northern blotting .
+RNA from undifferentiated HC11 cells or cells stimulated with either DIP or DIP plus EGF was hybridized to probes for several differentially expressed genes .
+The results are shown in Fig. XREF_FIG .
+The genes that are transcriptionally activated by DIP were generally unaffected by the inclusion of EGF in the differentiation media .
+However , it was clear that the expression of cyclin D1 decreased during differentiation but it increased with inclusion of EGF in the differentiation media .
+This finding reflects the increase in the level of cyclin D1 in the microarray analysis .
+Discussion .
+Several microarray studies have examined transcriptional control in mouse mammary epithelial cells undergoing lactogenic differentiation .
+In addition , proteomics analyses have been used to examine changes at the level of the protein expression in differentiating HC11 cells .
+Our study analyzed mammary epithelial cell lactogenic differentiation and developed a global expression profile of HC11 cells undergoing differentiation using oligonucleotide microarrays .
+In addition , the changes in gene expression that occur as a result of mitogenic stimulation of HC11 cells undergoing lactogenic differentiation were analyzed .
+To qualify the accuracy of the microarray data both northern blot and real-time PCR techniques were used , and results showed very good correspondence .
+While numerous genes were regulated during differentiation , the analysis of expression in different functional pathways revealed some changes not previously observed either by proteomic studies of HC11 cells or by the analysis of the lactational switch in the mouse mammary gland .
+A number of proteins that regulate aspects of the extracellular matrix were expressed in differentiating HC11 cells .
+Two members of the small integrin binding protein family , connective tissue growth factor ( CTGF and CCN2 ) and secreted phosphoprotein ( SPP1 and osteopontin ) were transcriptionally activated during lactational differentiation of HC11 cells suggesting that these proteins may play a role in extracellular matrix accumulation necessary for competence to undergo differentiation .
+CTGF and CCN2 , a CCN protein , is a cysteine rich protein that can modulate numerous cellular responses including proliferation , chemotaxis , adhesion , migration , and extracellular matrix production .
+CTGF and CCN2 promotes endothelial cell growth , migration , adhesion , and survival in vitro , and CTGF action in angiogenesis is mediated at least partly through interactions with integrins .
+Appropriate integrin signaling is required for lactogenic differentiation in vivo .
+The expression of integrins is regulated during lactogenesis in mouse mammary gland .
+Profibrotic activity of CTGF and CCN2 is related to high levels in many fibrotic lesions , and CTGF and CCN2 is induced by and acts as a co-factor for transforming growth factor beta in the induction of fibrogenesis .
+In our study , CTGF and CCN2 is highly up-regulated in differentiated HC11 cells , suggesting that it might play an important role in matrix signals required for differentiation .
+However , expression of CTGF and CCN2 in HC11 cells does not require TGFbeta , its expression is induced by dexamethasone .
+Moreover , ectopic expression of CTGF and CCN2 enhances HC11 lactogenic differentiation and depletion of CTGF inhibits differentiation .
+Secreted phosphoprotein1 ( SPP1 ) / osteopontin is a secreted glycoprotein that is rich in aspartate and sialic acid residues and contains functional domains for calcium binding , phosphorylation , glycosylation , and extra-cellular matrix adhesion .
+Osteopontin is associated with cartiledge and bone but has multiple molecular functions that mediate cell adhesion , chemotaxis , macrophage directed interleukin-10 suppression , stress dependent angiogenesis , prevention of apoptosis , and anchorage independent growth of tumor cells .
+A substantial body of data has recently linked osteopontin with the regulation of metastatic spread by tumor cells .
+A number of genes that are transcriptionally activated in HC11 cells undergoing lactogenic differentiation are also regulated during skeletogenesis .
+A recent study identified a number of proteins that are elevated in HC11 lactogenic differentiation as Runx2 regulated in developing skeleton including osteopontin , CTGF and CCN2 , and CCCL9 .
+Like CTGF expression , osteopontin levels are high in breast tumors that metastasize to the bone .
+If there is a connection between the expression of these small secreted proteins and the ability of metastatic breast tumors to target the bone environment remains to be conclusively determined , but they are readily transcriptionally activated in HC11 cells .
+The secreted osteopontin protein is also widely detected in plasma , urine and bile , and a recent study demonstrated that it is present in human milk .
+A variety of stimuli , including phorbol 12-myristate 13-acetate , 1,25-dihydroxyvitamin D , basic fibroblast growth factor , tumor necrosis factor-alpha , interleukin-1 , interferongamma and lipopolysaccharide , elevated osteopontin expression .
+However , whether osteopontin expression in HC11 cells is due to dexamethasone , prolactin , or insulin is not established , but osteopontin expression was enhanced by the addition of EGF to the lactogenic hormone mix .
+Other extracellular matrix proteins and proteins involved in tissue reorganization are induced during lactogenic differentiation of HC11 cells .
+The list includes structural proteins as well as proteases .
+In addition , an increase in expression of Rac1 and ROCK were observed , relevant because a role for Rac1 has been proposed in mammary epithelial cell differentiation .
+The regulation of key growth and cell cycle regulators plays an important role in the HC11 differentiation progression .
+Relative expression of cyclin D1 declines along with that of the p18INK4 .
+HC11 cells undergo growth arrest during differentiation in part regulated by the decrease in cyclin D1 .
+There is a concurrent increase in p21 CIP suggesting it is the potent cdk inhibitor contributing to control of growth arrest in HC11 cells in this system .
+While cyclin G2 increased following DIP stimulation it is likely that this is the result of glucocorticoid mediated event .
+Our analysis detected alterations in the regulation of IGFBP2 and IGFBP5 in HC11 cells undergoing lactogenic differentiation in agreement with a previously reported finding .
+Lactogenic differentiation induced multiple gene transcription events , while EGF blocked a number of these processes .
+For example , during lactogenic differentiation , the transcription element binding proteins ( KLF4 , KLF9 ) were induced , but were inhibited by EGF .
+KLF9 has been implicated as a transactivator of progesterone - and estrogen dependent transcription in endometrial epithelium , another hormonal responsive tissue .
+.
+This provided , in part , an explanation of the large scale gene expression changes during lactogenic differentiation that were blocked by EGF .
+Numerous ribosomal protein transcripts were induced in both differentiation and EGF blockage process , suggesting that these genes are not a target of the mitogen induced inhibition .
+In conclusion , our data provide further insight into the signal transduction pathways and gene interactions in the HC11 mouse mammary epithelial cell line during lactogenic differentiation .
+Electronic supplementary material .
+Below is the link to the electronic supplementary material .
+Supplemental file ( DOCX 11 kb )

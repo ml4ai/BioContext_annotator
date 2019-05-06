@@ -1,0 +1,7 @@
+0 19%20%Adipose_Derived%tissuelist:TS-0013 21%23%Stem_Cells_.%cl:CL:0000034
+2 0%2%Stem_cells_used%cl:CL:0000034 5%6%tissue_regeneration%uberon:UBERON:0000479
+3 23%25%stem_cells%cl:CL:0000034 37%39%stem_cells%cl:CL:0000034 41%42%adipose_derived%tissuelist:TS-0013 43%46%mesenchymal_stem_cells_(%cl:CL:0000134
+4 12%14%stem_cells_need%cl:CL:0000034
+5 28%29%spindle_shaped%go:GO:0005819
+7 17%19%stem_cells_during%cl:CL:0000034 20%22%stem_cell_expansion%cl:CL:0000034
+8 9%11%stem_cells_for%cl:CL:0000034
