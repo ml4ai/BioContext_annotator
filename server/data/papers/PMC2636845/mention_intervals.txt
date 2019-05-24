@@ -1,4 +1,0 @@
-0 8%10%Muscle_Cell_Self-Renewal%cl:CL:0000187
-4 1%2%mouse_primary%taxonomy:10090 3%4%myoblasts_cultured%cl:CL:0000056 38%39%myoblasts_after%cl:CL:0000056
-5 24%25%CHO_cells%tissuelist:TS-0725
-6 29%30%myotubes_.%cl:CL:0002372

@@ -1163,6 +1163,20 @@ class PostgresProvider(DataProvider):
                         interval_start = intervals[0]
                         interval_end = intervals[1]
                         m = reach_matcher.match(intervals[2])
+
+                        m = reach_matcher.match("astrocytes_.%cl:CL:0000127")
+                        m = reach_matcher.match("stem_cell%cl:CL:0000034")
+                        m = reach_matcher.match("Stem_Cell_Hypothesis%cl:CL:0000034")
+                        m = reach_matcher.match("Preadipocyte_Factor%cl:CL:0002334")
+                        m = reach_matcher.match("Keratinocyte_Signaling%tissuelist:TS-0500")
+                        m = reach_matcher.match("Human_Embryonic%taxonomy:9606")
+                        m = reach_matcher.match("THYROID_TUMORS%tissuelist:TS-1047")
+                        m = reach_matcher.match("adult_subventricular_zone_astrocytes%uberon:UBERON:0004922")
+                        m = reach_matcher.match("glioblastoma_initiating%tissuelist:TS-0417")
+                        m = reach_matcher.match("colorectal_cancer_.%tissuelist:TS-0160")
+                        m = reach_matcher.match("human_keratinocytes%cellosaurus:CVCL_9T09")
+                        m = reach_matcher.match("Adipose_Derived%tissuelist:TS-0013")
+
                         #m = reach_matcher.match("mammary_epithelial_cells%cl:CL:0002327")
                         #m = reach_matcher.match("breast_carcinoma%tissuelist:TS-0592")
                         # Let's be more aggressive about catching errors here

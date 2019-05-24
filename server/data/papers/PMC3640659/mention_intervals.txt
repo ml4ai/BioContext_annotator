@@ -1,6 +1,0 @@
-0 4%5%Preadipocyte_Factor%cl:CL:0002334 22%23%Bone_Mineral%tissuelist:TS-0088
-2 12%13%bone_mass%tissuelist:TS-0088 17%18%bone_mineral%tissuelist:TS-0088
-3 3%6%mesenchymal_stem_cell_differentiation%tissuelist:TS-0618 12%13%bone_formation%tissuelist:TS-0088
-4 0%1%Preadipocyte_factor%cl:CL:0002334 10%11%adipocyte%tissuelist:TS-0012 12%13%osteoblast_differentiation%tissuelist:TS-0720
-5 39%40%bone_turnover%tissuelist:TS-0088
-12 3%4%bone_formation%tissuelist:TS-0088

@@ -1,5 +1,0 @@
-The potential origin of glioblastoma initiating cells .
-Despite intensive clinical and laboratory research and effort , Glioblastoma remains the most common and invariably lethal primary cancer of the central nervous system .
-The identification of stem cell and lineage restricted progenitor cell populations within the adult human brain in conjunction with the discovery of stem like cells derived from gliomas which are themselves tumorigenic and have been shown to have properties of self-renewal and multipotency , has led to the hypothesis that this population of cells may represent glioma initiating cells .
-Extensive research characterizing the anatomic distribution and phenotype of neural stem cells in the adult brain , and the genetic underpinnings needed for malignant transformation may ultimately lead to the identification of the cellular origin for glioblastoma .
-Defining the cellular origin of this lethal disease may ultimately provide new therapeutic targets and modalities finally altering an otherwise bleak outcome for patients with glioblastoma .

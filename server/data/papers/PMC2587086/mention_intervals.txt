@@ -1,8 +1,0 @@
-0 14%15%THYROID_TUMORS%tissuelist:TS-1047
-1 0%1%Peroxisome_proliferator%go:GO:0005777
-2 21%22%human_thyroid%taxonomy:9606 22%23%thyroid_tumors%tissuelist:TS-1047
-3 11%12%human_thyroid%taxonomy:9606 12%13%thyroid_cells%tissuelist:TS-1047 17%18%serum%tissuelist:TS-0923
-4 5%6%thyroid_cell%tissuelist:TS-1047
-7 15%16%thyroid_cells%tissuelist:TS-1047 24%25%mouse_embryo%taxonomy:10090 25%26%embryo_fibroblasts%tissuelist:TS-0229 26%27%fibroblasts%tissuelist:TS-0362
-8 47%48%human_thyroid%taxonomy:9606 48%49%thyroid_tumors%tissuelist:TS-1047
-10 19%20%thyroid%tissuelist:TS-1047

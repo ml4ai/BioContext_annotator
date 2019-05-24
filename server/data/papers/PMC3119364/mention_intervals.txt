@@ -1,5 +1,0 @@
-0 8%10%connective_tissue_progenitor%uberon:UBERON:0002384
-1 4%5%marrow_cells%tissuelist:TS-0087 10%12%connective_tissue_defects%uberon:UBERON:0002384
-2 13%15%connective_tissue_progenitors%uberon:UBERON:0002384
-3 21%22%bone_development%tissuelist:TS-0088
-5 13%14%human_bone%taxonomy:9606 14%16%bone_marrow_aspirates%tissuelist:TS-0087

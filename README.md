@@ -1,23 +1,35 @@
 Big Mech Context Annotation Web App
 ===================================
+This README presents the step-by-step instructions for starting the web-app for BioContext Annotator. 
 
-To run the server, set up a Python 3.4 virtualenv in the `virtualenv` subfolder with the prerequisites in `requirements.txt`.
+There are 4 main steps: 
+    1. Setting up the working environment
+    2. Running Reach on the papers that you want to view through the app
+    3. Setting up PostgreSQL user account and database
+    4. Loading the dictionaries and data table for each paper and starting the server
+    
+#### Setting up the working environment
 
-The appropriate script (Linux/OS X: `start-server`, Windows: `start-server.bat`) can then be used to start the server.
+To run the app, set up a Python 3.6 virtualenv in the `venv` subfolder with the prerequisites in `requirements.txt`.
 
-By default, the server will start listening for Websocket connections on port 8085, and will attempt to connect to a PostgreSQL server on `127.0.0.1:5432` as the `context` user with no password.  The defaults may be changed in `app/config.py`.
 
-PostgreSQL Configuration
-------------------------
+#### Running Reach
+Please run Reach on the papers of your choosing, and ensure to copy the following three files into server/data/papers: mention_intervals.txt, event_intervals.txt and sentences.txt
+In addition to these three files, you will need a tsv file for the annotations, a sections.txt file and a titles.txt file. These additional files have to exist in the directory of each paper, even if the contents may be empty. 
+For your convenience, the required files have been kept in server/data/papers/PMC2910130. Please copy the files into other papers. 
+Therefore, for each paper, we must have the following files:
+    a) sentences.txt 
+    b) mention_intervals.txt
+    c) event_intervals.txt
+    d) annotated_event_intervals.tsv
+    e) sections.txt
+    f) titles.txt
 
-Start by creating an empty database with any owner. (The application will create a new login role with the appropriate permissions later.)
+#### Setting up PostgreSQL
+Start by creating a new owner and ensure that the owner has SUPERUSER privileges.
+Mac users, please refer to: https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb <br>
+Windows users: https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_PostgreSQL.htm <br>
+Linux users: https://www.techrepublic.com/blog/diy-it-guy/diy-a-postgresql-database-server-setup-anyone-can-handle/
 
-Ensure that the database configuration options in `app/config.py` are correct. In particular, be sure to set `db_vars["postgres_login"]` to the name of the login role you would like the application to create.
 
-Start the server in console-only mode, connecting to the newly created database as a superuser (e.g., `start-server -postgres postgres@127.0.0.1:5432/context --console`)
-
-When the console is up, run `self.provider._create_tables()`, then `exit()`.
-
-Optionally, run `self.provider._load_grounding_dictionaries()` to load the default free text -> grounding ID associations, and run `self.provider._load_all_papers()` to also load all the default paper data.
-
-**This branch tracks the development version of the server.** It listens for Websocket connections on port 8090, and uses the `context_devel` database.
+This branch tracks the development version of the server. It listens for Websocket connections on port 8090, and uses the `context_devel` database. These settings can be modified in app/config.py

@@ -1,6 +1,0 @@
-1 2%3%kidney_filtration%tissuelist:TS-0510 23%24%blood_pressure%tissuelist:TS-0079
-4 2%3%podocytes_are%cl:CL:0000653
-5 8%9%podocytes_to%cl:CL:0000653
-6 20%21%podocyte_loss%cl:CL:0000653
-7 15%17%target_cells%uniprot:SL-0487 24%25%RTK_family%cellosaurus:CVCL_4W74 32%33%human_genome%taxonomy:9606 38%39%podocytes_.%cl:CL:0000653
-9 4%5%RTK_mediated%cellosaurus:CVCL_4W74 10%11%podocytes_could%cl:CL:0000653
