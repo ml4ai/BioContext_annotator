@@ -48,6 +48,6 @@ This will connect to the database and open a python terminal. We have to create 
 <br> Step 3 should not yield any AssertionErrors. If it does, it means we need to add some missing grounding information to the server/app/providers/postgresql.py file. This can be done in line 1148 onwards. There are some related examples specified in the file.
 Once the papers have been loaded, the last step is to start the web server. If you run the code on Pycharm, a web server is started for you upon running the main script. If not, you may want to start an Apache server.
 To start the main script, open a new terminal in PyCharm and type the following, in the BioContext_annotator/server directory: python3 main.py -postgres "thumsi_context:thumsi_context@127.0.0.1:5432/thumsi_context_devel" -w "8090"
-Once you open the index.html on any browser, the python terminal should echo a similar message: <br>
+Once you open the index.html on any browser, you should get a success message that a connection to the server has been established, and the python terminal should echo a similar message: <br>
 [2019-05-24 11:44:21] [INFO] [::1] [SEND] {"id": 0, "command": "get_paper_list", "data": {"draw": 1, "recordsTotal": 14, "...
 <br> This line confirms that your set up is complete and you are now ready to use the annotator web tool.
