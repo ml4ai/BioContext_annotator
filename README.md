@@ -41,7 +41,7 @@ It is now time to create the datatables, load the grounding dictionary and start
 <br>First, cd into the server directory
 <br>Type the following into the terminal: ./start-server -postgres thumsi_context:thumsi_context@127.0.0.1:5432/thumsi_context_devel --console
 The format is user:password@host:port/dbname. <br>
-This will connect to the database and open a python terminal. We have to create the data tables, load the grounding dictionary, and load the papers. For this, copy the following three commands to the python console in order:
+This will connect to the database and open a python terminal. We now have to create the data tables, load the grounding dictionary, and load the papers. For this, copy the following three commands to the python console in order:
 <br> 1. self.provider._create_tables()
 <br> 2. self.provider._load_grounding_dictionaries()
 <br> 3. self.provider._load_all_papers()
